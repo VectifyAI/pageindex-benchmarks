@@ -1,0 +1,240 @@
+{
+ "model": "minimax-m3.1-flash-medium",
+ "route": "minimax/minimax-m3.1-flash",
+ "provider": "Minimax",
+ "reasoning_setting": "medium",
+ "checked": "2026-10-23 15:48:38 +0800",
+ "openrouter_reasoning": {
+  "mandatory": true,
+  "supported_efforts": [
+   "max",
+   "xhigh",
+   "high",
+   "medium",
+   "low"
+  ],
+  "default_effort": "max"
+ },
+ "declared_default": "max",
+ "pricing": {
+  "prompt": "0.00000015",
+  "completion": "0.0000006",
+  "input_cache_read": "0.000000015"
+ },
+ "endpoint_tag": "minimax",
+ "endpoint_pricing": {
+  "prompt": "0.00000015",
+  "completion": "0.0000006",
+  "input_cache_read": "0.000000015",
+  "discount": 0
+ },
+ "billed_over_standard": [
+  1.0,
+  1.0
+ ],
+ "reasoning_tokens_median": {
+  "None": 1517,
+  "max": 1671,
+  "xhigh": 1651,
+  "high": 808,
+  "medium": 1399,
+  "low": 774
+ },
+ "calls": [
+  {
+   "setting": null,
+   "gen_id": "gen-1792741675-q9Oplj56PTIaw9WgJNaj",
+   "provider": "Minimax",
+   "cost": 0.001015275,
+   "standard_price_cost": 0.001015275,
+   "reasoning_tokens": 1673
+  },
+  {
+   "setting": null,
+   "gen_id": "gen-1792741676-eCTguwdWxqK9OgYD8D7y",
+   "provider": "Minimax",
+   "cost": 0.00073701,
+   "standard_price_cost": 0.00073701,
+   "reasoning_tokens": 1209
+  },
+  {
+   "setting": null,
+   "gen_id": "gen-1792741676-FNVqfEB5OcElDqqv7ZTJ",
+   "provider": "Minimax",
+   "cost": 0.00092316,
+   "standard_price_cost": 0.0009231599999999999,
+   "reasoning_tokens": 1517
+  },
+  {
+   "setting": null,
+   "gen_id": "gen-1792741676-0PLTWhs3ss0840YtHJZM",
+   "provider": "Minimax",
+   "cost": 0.000551475,
+   "standard_price_cost": 0.0005514750000000001,
+   "reasoning_tokens": 900
+  },
+  {
+   "setting": "max",
+   "gen_id": "gen-1792741676-6fHAhcySUUgwhsAIvSsZ",
+   "provider": "Minimax",
+   "cost": 0.001014075,
+   "standard_price_cost": 0.001014075,
+   "reasoning_tokens": 1671
+  },
+  {
+   "setting": "max",
+   "gen_id": "gen-1792741676-AoTz6j3REj0QldHs8kP2",
+   "provider": "Minimax",
+   "cost": 0.000841275,
+   "standard_price_cost": 0.0008412749999999999,
+   "reasoning_tokens": 1383
+  },
+  {
+   "setting": "max",
+   "gen_id": "gen-1792741676-tYAsSh5HK5QPplcw1CBy",
+   "provider": "Minimax",
+   "cost": 0.00152136,
+   "standard_price_cost": 0.00152136,
+   "reasoning_tokens": 2514
+  },
+  {
+   "setting": "max",
+   "gen_id": "gen-1792741676-OsmRX98uNbL0RKe3qPvu",
+   "provider": "Minimax",
+   "cost": 0.000465675,
+   "standard_price_cost": 0.000465675,
+   "reasoning_tokens": 757
+  },
+  {
+   "setting": "xhigh",
+   "gen_id": "gen-1792741682-CvJeIVG3ViYaD0FHMoox",
+   "provider": "Minimax",
+   "cost": 0.002431845,
+   "standard_price_cost": 0.002431845,
+   "reasoning_tokens": 4029
+  },
+  {
+   "setting": "xhigh",
+   "gen_id": "gen-1792741685-rxcCeUiyLsbtxPQ8AIby",
+   "provider": "Minimax",
+   "cost": 0.000332445,
+   "standard_price_cost": 0.000332445,
+   "reasoning_tokens": 530
+  },
+  {
+   "setting": "xhigh",
+   "gen_id": "gen-1792741687-T5H5ST9A3ECcMd3ckPlp",
+   "provider": "Minimax",
+   "cost": 0.00100329,
+   "standard_price_cost": 0.00100329,
+   "reasoning_tokens": 1651
+  },
+  {
+   "setting": "xhigh",
+   "gen_id": "gen-1792741687-TBHay9cYLRRiwvHpRDvR",
+   "provider": "Minimax",
+   "cost": 0.000271845,
+   "standard_price_cost": 0.000271845,
+   "reasoning_tokens": 429
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1792741687-eLCQ43xm34iQ1SbdIONk",
+   "provider": "Minimax",
+   "cost": 0.00049911,
+   "standard_price_cost": 0.00049911,
+   "reasoning_tokens": 808
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1792741689-Y8XFcLxCJ6a2nkmoTAbW",
+   "provider": "Minimax",
+   "cost": 0.00049491,
+   "standard_price_cost": 0.00049491,
+   "reasoning_tokens": 801
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1792741691-yBLQh73jFnF7pYQy8i87",
+   "provider": "Minimax",
+   "cost": 0.00050631,
+   "standard_price_cost": 0.0005063099999999999,
+   "reasoning_tokens": 820
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1792741691-PBtFvjhoW821B45Vl0k6",
+   "provider": "Minimax",
+   "cost": 0.00028911,
+   "standard_price_cost": 0.00028911,
+   "reasoning_tokens": 458
+  },
+  {
+   "setting": "medium",
+   "gen_id": "gen-1792741692-DNdxaT1BuEmqtA3pbWRl",
+   "provider": "Minimax",
+   "cost": 0.000534675,
+   "standard_price_cost": 0.000534675,
+   "reasoning_tokens": 872
+  },
+  {
+   "setting": "medium",
+   "gen_id": "gen-1792741694-6neRHnKBtbT9FIdsKywX",
+   "provider": "Minimax",
+   "cost": 0.00085236,
+   "standard_price_cost": 0.0008523599999999999,
+   "reasoning_tokens": 1399
+  },
+  {
+   "setting": "medium",
+   "gen_id": "gen-1792741694-UPQz6Is3rb39QW2CvotF",
+   "provider": "Minimax",
+   "cost": 0.00035616,
+   "standard_price_cost": 0.00035616,
+   "reasoning_tokens": 572
+  },
+  {
+   "setting": "medium",
+   "gen_id": "gen-1792741696-RBxjlIe9n1OUVTi99PLi",
+   "provider": "Minimax",
+   "cost": 0.000953355,
+   "standard_price_cost": 0.000953355,
+   "reasoning_tokens": 1568
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1792741697-bQ8zibRpz9jU1NYbv1M4",
+   "provider": "Minimax",
+   "cost": 0.00075591,
+   "standard_price_cost": 0.0007559099999999999,
+   "reasoning_tokens": 1236
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1792741698-w2vhOMUEqKV82cGv99ol",
+   "provider": "Minimax",
+   "cost": 0.00033771,
+   "standard_price_cost": 0.00033770999999999996,
+   "reasoning_tokens": 539
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1792741699-VsFK1X7vmm6OqRRRYciK",
+   "provider": "Minimax",
+   "cost": 0.00047871,
+   "standard_price_cost": 0.00047871,
+   "reasoning_tokens": 774
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1792741699-q5H9tffpVfbXqrgdT8Th",
+   "provider": "Minimax",
+   "cost": 0.00044922,
+   "standard_price_cost": 0.00044922,
+   "reasoning_tokens": 728
+  }
+ ],
+ "cost": 0.017616,
+ "passed": true,
+ "failures": []
+}

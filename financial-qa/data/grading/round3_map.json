@@ -1,0 +1,1002 @@
+{
+ "fh-01": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "minimax-m3.1-flash-high r1",
+  "C": "minimax-m3.1-flash-max r1",
+  "D": "gpt-6.1-sol-low r1",
+  "E": "minimax-m3.1-flash-xhigh r1",
+  "G": "anchor deepseek-v4.1-flash-high r1",
+  "H": "minimax-m3.1-flash-low r1",
+  "I": "minimax-m3.1-flash-medium r1"
+ },
+ "fh-02": {
+  "A": "gpt-6.1-sol-low r1",
+  "C": "minimax-m3.1-flash-xhigh r1",
+  "D": "minimax-m3.1-flash-low r1",
+  "E": "anchor claude-haiku-5.5-medium r1",
+  "F": "anchor deepseek-v4.1-flash-high r1",
+  "G": "minimax-m3.1-flash-medium r1",
+  "H": "minimax-m3.1-flash-high r1",
+  "I": "minimax-m3.1-flash-max r1"
+ },
+ "fh-03": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "minimax-m3.1-flash-max r1",
+  "C": "minimax-m3.1-flash-xhigh r1",
+  "D": "minimax-m3.1-flash-high r1",
+  "E": "gpt-6.1-sol-low r1",
+  "F": "minimax-m3.1-flash-medium r1",
+  "G": "minimax-m3.1-flash-low r1",
+  "I": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-04": {
+  "B": "minimax-m3.1-flash-high r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "minimax-m3.1-flash-max r1",
+  "E": "gpt-6.1-sol-low r1",
+  "F": "anchor claude-haiku-5.5-medium r1",
+  "G": "minimax-m3.1-flash-medium r1",
+  "H": "minimax-m3.1-flash-low r1",
+  "I": "minimax-m3.1-flash-xhigh r1"
+ },
+ "fh-05": {
+  "A": "minimax-m3.1-flash-high r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "minimax-m3.1-flash-xhigh r1",
+  "E": "anchor deepseek-v4.1-flash-high r1",
+  "F": "gpt-6.1-sol-low r1",
+  "G": "minimax-m3.1-flash-medium r1",
+  "H": "minimax-m3.1-flash-low r1",
+  "I": "minimax-m3.1-flash-max r1"
+ },
+ "fh-06": {
+  "A": "gpt-6.1-sol-low r1",
+  "B": "minimax-m3.1-flash-max r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "minimax-m3.1-flash-xhigh r1",
+  "E": "minimax-m3.1-flash-low r1",
+  "F": "minimax-m3.1-flash-medium r1",
+  "G": "anchor claude-haiku-5.5-medium r1",
+  "I": "minimax-m3.1-flash-high r1"
+ },
+ "fh-07": {
+  "A": "minimax-m3.1-flash-xhigh r1",
+  "B": "minimax-m3.1-flash-max r1",
+  "C": "gpt-6.1-sol-low r1",
+  "D": "anchor deepseek-v4.1-flash-high r1",
+  "E": "anchor claude-haiku-5.5-medium r1",
+  "F": "minimax-m3.1-flash-high r1",
+  "H": "minimax-m3.1-flash-low r1",
+  "I": "minimax-m3.1-flash-medium r1"
+ },
+ "fh-08": {
+  "A": "minimax-m3.1-flash-xhigh r1",
+  "B": "minimax-m3.1-flash-low r1",
+  "D": "anchor deepseek-v4.1-flash-high r1",
+  "E": "minimax-m3.1-flash-high r1",
+  "F": "minimax-m3.1-flash-max r1",
+  "G": "minimax-m3.1-flash-medium r1",
+  "H": "anchor claude-haiku-5.5-medium r1",
+  "I": "gpt-6.1-sol-low r1"
+ },
+ "fh-09": {
+  "A": "minimax-m3.1-flash-low r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "minimax-m3.1-flash-xhigh r1",
+  "E": "minimax-m3.1-flash-medium r1",
+  "F": "anchor claude-haiku-5.5-medium r1",
+  "G": "gpt-6.1-sol-low r1",
+  "H": "minimax-m3.1-flash-max r1",
+  "I": "minimax-m3.1-flash-high r1"
+ },
+ "fh-10": {
+  "A": "minimax-m3.1-flash-xhigh r1",
+  "C": "minimax-m3.1-flash-low r1",
+  "D": "minimax-m3.1-flash-high r1",
+  "E": "gpt-6.1-sol-low r1",
+  "F": "anchor claude-haiku-5.5-medium r1",
+  "G": "anchor deepseek-v4.1-flash-high r1",
+  "H": "minimax-m3.1-flash-max r1",
+  "I": "minimax-m3.1-flash-medium r1"
+ },
+ "fh-11": {
+  "B": "gpt-6.1-sol-low r1",
+  "C": "minimax-m3.1-flash-medium r1",
+  "D": "minimax-m3.1-flash-high r1",
+  "E": "minimax-m3.1-flash-xhigh r1",
+  "F": "anchor deepseek-v4.1-flash-high r1",
+  "G": "anchor claude-haiku-5.5-medium r1",
+  "H": "minimax-m3.1-flash-low r1",
+  "I": "minimax-m3.1-flash-max r1"
+ },
+ "fh-12": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "minimax-m3.1-flash-high r1",
+  "C": "gpt-6.1-sol-low r1",
+  "D": "minimax-m3.1-flash-xhigh r1",
+  "E": "minimax-m3.1-flash-max r1",
+  "F": "minimax-m3.1-flash-low r1",
+  "G": "anchor deepseek-v4.1-flash-high r1",
+  "H": "minimax-m3.1-flash-medium r1"
+ },
+ "fh-13": {
+  "B": "minimax-m3.1-flash-xhigh r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "gpt-6.1-sol-low r1",
+  "E": "minimax-m3.1-flash-high r1",
+  "F": "minimax-m3.1-flash-low r1",
+  "G": "minimax-m3.1-flash-max r1",
+  "H": "minimax-m3.1-flash-medium r1",
+  "I": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-14": {
+  "A": "minimax-m3.1-flash-medium r1",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "gpt-6.1-sol-low r1",
+  "D": "minimax-m3.1-flash-low r1",
+  "E": "anchor deepseek-v4.1-flash-high r1",
+  "F": "minimax-m3.1-flash-xhigh r1",
+  "G": "minimax-m3.1-flash-high r1",
+  "I": "minimax-m3.1-flash-max r1"
+ },
+ "fh-15": {
+  "A": "minimax-m3.1-flash-low r1",
+  "B": "minimax-m3.1-flash-high r1",
+  "C": "minimax-m3.1-flash-medium r1",
+  "D": "anchor claude-haiku-5.5-medium r1",
+  "E": "gpt-6.1-sol-low r1",
+  "F": "minimax-m3.1-flash-max r1",
+  "H": "anchor deepseek-v4.1-flash-high r1",
+  "I": "minimax-m3.1-flash-xhigh r1"
+ },
+ "fh-16": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "minimax-m3.1-flash-max r1",
+  "D": "minimax-m3.1-flash-xhigh r1",
+  "E": "minimax-m3.1-flash-low r1",
+  "F": "gpt-6.1-sol-low r1",
+  "G": "minimax-m3.1-flash-medium r1",
+  "H": "minimax-m3.1-flash-high r1",
+  "I": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-17": {
+  "A": "minimax-m3.1-flash-low r1",
+  "C": "minimax-m3.1-flash-high r1",
+  "D": "minimax-m3.1-flash-medium r1",
+  "E": "minimax-m3.1-flash-xhigh r1",
+  "F": "gpt-6.1-sol-low r1",
+  "G": "anchor claude-haiku-5.5-medium r1",
+  "H": "minimax-m3.1-flash-max r1",
+  "I": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-18": {
+  "A": "minimax-m3.1-flash-xhigh r1",
+  "B": "gpt-6.1-sol-low r1",
+  "C": "minimax-m3.1-flash-high r1",
+  "D": "minimax-m3.1-flash-low r1",
+  "E": "minimax-m3.1-flash-max r1",
+  "F": "minimax-m3.1-flash-medium r1",
+  "G": "anchor claude-haiku-5.5-medium r1",
+  "H": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-19": {
+  "A": "gpt-6.1-sol-low r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "minimax-m3.1-flash-low r1",
+  "D": "minimax-m3.1-flash-max r1",
+  "E": "minimax-m3.1-flash-medium r1",
+  "F": "minimax-m3.1-flash-xhigh r1",
+  "G": "anchor claude-haiku-5.5-medium r1",
+  "I": "minimax-m3.1-flash-high r1"
+ },
+ "fh-20": {
+  "B": "minimax-m3.1-flash-medium r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "minimax-m3.1-flash-xhigh r1",
+  "E": "minimax-m3.1-flash-low r1",
+  "F": "minimax-m3.1-flash-max r1",
+  "G": "minimax-m3.1-flash-high r1",
+  "H": "anchor claude-haiku-5.5-medium r1",
+  "I": "gpt-6.1-sol-low r1"
+ },
+ "fh-21": {
+  "A": "minimax-m3.1-flash-medium r1",
+  "B": "minimax-m3.1-flash-low r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "minimax-m3.1-flash-max r1",
+  "E": "minimax-m3.1-flash-high r1",
+  "G": "minimax-m3.1-flash-xhigh r1",
+  "H": "gpt-6.1-sol-low r1",
+  "I": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-22": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "minimax-m3.1-flash-xhigh r1",
+  "D": "minimax-m3.1-flash-high r1",
+  "E": "minimax-m3.1-flash-medium r1",
+  "F": "gpt-6.1-sol-low r1",
+  "G": "minimax-m3.1-flash-low r1",
+  "H": "minimax-m3.1-flash-max r1"
+ },
+ "fh-23": {
+  "A": "minimax-m3.1-flash-xhigh r1",
+  "B": "minimax-m3.1-flash-low r1",
+  "C": "minimax-m3.1-flash-max r1",
+  "D": "minimax-m3.1-flash-high r1",
+  "F": "minimax-m3.1-flash-medium r1",
+  "G": "anchor deepseek-v4.1-flash-high r1",
+  "H": "gpt-6.1-sol-low r1",
+  "I": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-24": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "minimax-m3.1-flash-max r1",
+  "C": "minimax-m3.1-flash-high r1",
+  "D": "minimax-m3.1-flash-medium r1",
+  "E": "anchor claude-haiku-5.5-medium r1",
+  "F": "gpt-6.1-sol-low r1",
+  "G": "minimax-m3.1-flash-xhigh r1",
+  "I": "minimax-m3.1-flash-low r1"
+ },
+ "fh-25": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "minimax-m3.1-flash-medium r1",
+  "C": "minimax-m3.1-flash-high r1",
+  "D": "gpt-6.1-sol-low r1",
+  "F": "minimax-m3.1-flash-max r1",
+  "G": "minimax-m3.1-flash-low r1",
+  "H": "anchor claude-haiku-5.5-medium r1",
+  "I": "minimax-m3.1-flash-xhigh r1"
+ },
+ "fh-26": {
+  "A": "minimax-m3.1-flash-max r1",
+  "B": "minimax-m3.1-flash-xhigh r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "minimax-m3.1-flash-low r1",
+  "E": "minimax-m3.1-flash-medium r1",
+  "F": "anchor claude-haiku-5.5-medium r1",
+  "G": "gpt-6.1-sol-low r1",
+  "I": "minimax-m3.1-flash-high r1"
+ },
+ "fh-27": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "minimax-m3.1-flash-low r1",
+  "C": "minimax-m3.1-flash-medium r1",
+  "D": "minimax-m3.1-flash-xhigh r1",
+  "E": "minimax-m3.1-flash-high r1",
+  "F": "minimax-m3.1-flash-max r1",
+  "H": "anchor deepseek-v4.1-flash-high r1",
+  "I": "gpt-6.1-sol-low r1"
+ },
+ "fh-28": {
+  "A": "minimax-m3.1-flash-low r1",
+  "C": "minimax-m3.1-flash-medium r1",
+  "D": "anchor claude-haiku-5.5-medium r1",
+  "E": "anchor deepseek-v4.1-flash-high r1",
+  "F": "gpt-6.1-sol-low r1",
+  "G": "minimax-m3.1-flash-max r1",
+  "H": "minimax-m3.1-flash-high r1",
+  "I": "minimax-m3.1-flash-xhigh r1"
+ },
+ "fh-29": {
+  "A": "minimax-m3.1-flash-low r1",
+  "B": "gpt-6.1-sol-low r1",
+  "C": "minimax-m3.1-flash-max r1",
+  "D": "minimax-m3.1-flash-medium r1",
+  "E": "anchor deepseek-v4.1-flash-high r1",
+  "G": "minimax-m3.1-flash-high r1",
+  "H": "anchor claude-haiku-5.5-medium r1",
+  "I": "minimax-m3.1-flash-xhigh r1"
+ },
+ "fh-30": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "D": "minimax-m3.1-flash-low r1",
+  "E": "minimax-m3.1-flash-medium r1",
+  "F": "minimax-m3.1-flash-high r1",
+  "G": "minimax-m3.1-flash-xhigh r1",
+  "H": "gpt-6.1-sol-low r1",
+  "I": "minimax-m3.1-flash-max r1"
+ },
+ "fh-31": {
+  "A": "minimax-m3.1-flash-low r1",
+  "B": "minimax-m3.1-flash-max r1",
+  "D": "gpt-6.1-sol-low r1",
+  "E": "anchor claude-haiku-5.5-medium r1",
+  "F": "minimax-m3.1-flash-xhigh r1",
+  "G": "anchor deepseek-v4.1-flash-high r1",
+  "H": "minimax-m3.1-flash-medium r1",
+  "I": "minimax-m3.1-flash-high r1"
+ },
+ "fh-32": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "minimax-m3.1-flash-low r1",
+  "C": "gpt-6.1-sol-low r1",
+  "E": "minimax-m3.1-flash-high r1",
+  "F": "minimax-m3.1-flash-max r1",
+  "G": "minimax-m3.1-flash-medium r1",
+  "H": "minimax-m3.1-flash-xhigh r1",
+  "I": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-33": {
+  "A": "minimax-m3.1-flash-xhigh r1",
+  "B": "minimax-m3.1-flash-high r1",
+  "C": "minimax-m3.1-flash-medium r1",
+  "D": "minimax-m3.1-flash-max r1",
+  "F": "anchor deepseek-v4.1-flash-high r1",
+  "G": "gpt-6.1-sol-low r1",
+  "H": "minimax-m3.1-flash-low r1",
+  "I": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-34": {
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "minimax-m3.1-flash-high r1",
+  "D": "anchor deepseek-v4.1-flash-high r1",
+  "E": "gpt-6.1-sol-low r1",
+  "F": "minimax-m3.1-flash-low r1",
+  "G": "minimax-m3.1-flash-medium r1",
+  "H": "minimax-m3.1-flash-max r1",
+  "I": "minimax-m3.1-flash-xhigh r1"
+ },
+ "fh-35": {
+  "A": "minimax-m3.1-flash-max r1",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "minimax-m3.1-flash-xhigh r1",
+  "D": "minimax-m3.1-flash-low r1",
+  "E": "minimax-m3.1-flash-high r1",
+  "F": "gpt-6.1-sol-low r1",
+  "G": "minimax-m3.1-flash-medium r1",
+  "I": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-36": {
+  "A": "minimax-m3.1-flash-xhigh r1",
+  "B": "minimax-m3.1-flash-high r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "minimax-m3.1-flash-max r1",
+  "E": "minimax-m3.1-flash-low r1",
+  "F": "gpt-6.1-sol-low r1",
+  "H": "anchor claude-haiku-5.5-medium r1",
+  "I": "minimax-m3.1-flash-medium r1"
+ },
+ "fh-37": {
+  "A": "minimax-m3.1-flash-medium r1",
+  "C": "minimax-m3.1-flash-high r1",
+  "D": "minimax-m3.1-flash-max r1",
+  "E": "gpt-6.1-sol-low r1",
+  "F": "anchor claude-haiku-5.5-medium r1",
+  "G": "minimax-m3.1-flash-xhigh r1",
+  "H": "anchor deepseek-v4.1-flash-high r1",
+  "I": "minimax-m3.1-flash-low r1"
+ },
+ "fh-38": {
+  "A": "minimax-m3.1-flash-xhigh r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "D": "minimax-m3.1-flash-low r1",
+  "E": "anchor claude-haiku-5.5-medium r1",
+  "F": "minimax-m3.1-flash-max r1",
+  "G": "minimax-m3.1-flash-medium r1",
+  "H": "gpt-6.1-sol-low r1",
+  "I": "minimax-m3.1-flash-high r1"
+ },
+ "fh-39": {
+  "A": "minimax-m3.1-flash-medium r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "gpt-6.1-sol-low r1",
+  "E": "minimax-m3.1-flash-high r1",
+  "F": "minimax-m3.1-flash-xhigh r1",
+  "G": "minimax-m3.1-flash-max r1",
+  "H": "anchor claude-haiku-5.5-medium r1",
+  "I": "minimax-m3.1-flash-low r1"
+ },
+ "fh-40": {
+  "A": "minimax-m3.1-flash-high r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "minimax-m3.1-flash-xhigh r1",
+  "D": "minimax-m3.1-flash-low r1",
+  "E": "minimax-m3.1-flash-max r1",
+  "F": "minimax-m3.1-flash-medium r1",
+  "H": "anchor claude-haiku-5.5-medium r1",
+  "I": "gpt-6.1-sol-low r1"
+ },
+ "fh-41": {
+  "A": "minimax-m3.1-flash-high r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "minimax-m3.1-flash-xhigh r1",
+  "D": "minimax-m3.1-flash-medium r1",
+  "E": "minimax-m3.1-flash-max r1",
+  "F": "minimax-m3.1-flash-low r1",
+  "H": "anchor claude-haiku-5.5-medium r1",
+  "I": "gpt-6.1-sol-low r1"
+ },
+ "fh-42": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "minimax-m3.1-flash-xhigh r1",
+  "C": "gpt-6.1-sol-low r1",
+  "E": "minimax-m3.1-flash-max r1",
+  "F": "minimax-m3.1-flash-low r1",
+  "G": "minimax-m3.1-flash-medium r1",
+  "H": "anchor claude-haiku-5.5-medium r1",
+  "I": "minimax-m3.1-flash-high r1"
+ },
+ "fh-43": {
+  "A": "minimax-m3.1-flash-xhigh r1",
+  "B": "gpt-6.1-sol-low r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "E": "minimax-m3.1-flash-high r1",
+  "F": "minimax-m3.1-flash-max r1",
+  "G": "minimax-m3.1-flash-medium r1",
+  "H": "anchor deepseek-v4.1-flash-high r1",
+  "I": "minimax-m3.1-flash-low r1"
+ },
+ "fh-44": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "minimax-m3.1-flash-max r1",
+  "D": "minimax-m3.1-flash-low r1",
+  "E": "gpt-6.1-sol-low r1",
+  "F": "minimax-m3.1-flash-high r1",
+  "G": "minimax-m3.1-flash-medium r1",
+  "H": "anchor claude-haiku-5.5-medium r1",
+  "I": "minimax-m3.1-flash-xhigh r1"
+ },
+ "fh-45": {
+  "A": "gpt-6.1-sol-low r1",
+  "B": "minimax-m3.1-flash-max r1",
+  "C": "minimax-m3.1-flash-xhigh r1",
+  "D": "minimax-m3.1-flash-high r1",
+  "E": "minimax-m3.1-flash-medium r1",
+  "F": "anchor deepseek-v4.1-flash-high r1",
+  "G": "minimax-m3.1-flash-low r1",
+  "I": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-46": {
+  "A": "minimax-m3.1-flash-xhigh r1",
+  "B": "gpt-6.1-sol-low r1",
+  "C": "minimax-m3.1-flash-low r1",
+  "D": "minimax-m3.1-flash-medium r1",
+  "E": "minimax-m3.1-flash-max r1",
+  "G": "minimax-m3.1-flash-high r1",
+  "H": "anchor deepseek-v4.1-flash-high r1",
+  "I": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-47": {
+  "A": "minimax-m3.1-flash-max r1",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "minimax-m3.1-flash-high r1",
+  "D": "minimax-m3.1-flash-low r1",
+  "E": "gpt-6.1-sol-low r1",
+  "F": "minimax-m3.1-flash-xhigh r1",
+  "H": "anchor deepseek-v4.1-flash-high r1",
+  "I": "minimax-m3.1-flash-medium r1"
+ },
+ "fh-48": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "minimax-m3.1-flash-high r1",
+  "C": "minimax-m3.1-flash-max r1",
+  "D": "gpt-6.1-sol-low r1",
+  "E": "anchor deepseek-v4.1-flash-high r1",
+  "F": "minimax-m3.1-flash-medium r1",
+  "H": "minimax-m3.1-flash-low r1",
+  "I": "minimax-m3.1-flash-xhigh r1"
+ },
+ "fh-49": {
+  "A": "minimax-m3.1-flash-high r1",
+  "B": "minimax-m3.1-flash-low r1",
+  "C": "minimax-m3.1-flash-xhigh r1",
+  "D": "anchor claude-haiku-5.5-medium r1",
+  "E": "minimax-m3.1-flash-max r1",
+  "F": "anchor deepseek-v4.1-flash-high r1",
+  "H": "minimax-m3.1-flash-medium r1",
+  "I": "gpt-6.1-sol-low r1"
+ },
+ "fh-50": {
+  "A": "minimax-m3.1-flash-medium r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "minimax-m3.1-flash-high r1",
+  "D": "minimax-m3.1-flash-max r1",
+  "E": "anchor claude-haiku-5.5-medium r1",
+  "F": "minimax-m3.1-flash-low r1",
+  "H": "minimax-m3.1-flash-xhigh r1",
+  "I": "gpt-6.1-sol-low r1"
+ },
+ "fh-51": {
+  "A": "minimax-m3.1-flash-medium r1",
+  "B": "gpt-6.1-sol-low r1",
+  "C": "minimax-m3.1-flash-max r1",
+  "D": "minimax-m3.1-flash-low r1",
+  "E": "anchor deepseek-v4.1-flash-high r1",
+  "F": "anchor claude-haiku-5.5-medium r1",
+  "H": "minimax-m3.1-flash-high r1",
+  "I": "minimax-m3.1-flash-xhigh r1"
+ },
+ "fh-52": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "minimax-m3.1-flash-medium r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "minimax-m3.1-flash-max r1",
+  "E": "minimax-m3.1-flash-high r1",
+  "G": "gpt-6.1-sol-low r1",
+  "H": "minimax-m3.1-flash-xhigh r1",
+  "I": "minimax-m3.1-flash-low r1"
+ },
+ "fh-53": {
+  "A": "gpt-6.1-sol-low r1",
+  "B": "minimax-m3.1-flash-low r1",
+  "D": "minimax-m3.1-flash-max r1",
+  "E": "anchor claude-haiku-5.5-medium r1",
+  "F": "minimax-m3.1-flash-high r1",
+  "G": "minimax-m3.1-flash-xhigh r1",
+  "H": "anchor deepseek-v4.1-flash-high r1",
+  "I": "minimax-m3.1-flash-medium r1"
+ },
+ "fh-54": {
+  "A": "gpt-6.1-sol-low r1",
+  "B": "minimax-m3.1-flash-high r1",
+  "C": "minimax-m3.1-flash-max r1",
+  "E": "anchor claude-haiku-5.5-medium r1",
+  "F": "minimax-m3.1-flash-low r1",
+  "G": "minimax-m3.1-flash-xhigh r1",
+  "H": "anchor deepseek-v4.1-flash-high r1",
+  "I": "minimax-m3.1-flash-medium r1"
+ },
+ "fh-55": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "minimax-m3.1-flash-low r1",
+  "D": "minimax-m3.1-flash-high r1",
+  "E": "minimax-m3.1-flash-medium r1",
+  "F": "minimax-m3.1-flash-max r1",
+  "H": "minimax-m3.1-flash-xhigh r1",
+  "I": "gpt-6.1-sol-low r1"
+ },
+ "fh-56": {
+  "A": "gpt-6.1-sol-low r1",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "minimax-m3.1-flash-xhigh r1",
+  "D": "minimax-m3.1-flash-max r1",
+  "F": "anchor deepseek-v4.1-flash-high r1",
+  "G": "minimax-m3.1-flash-medium r1",
+  "H": "minimax-m3.1-flash-high r1",
+  "I": "minimax-m3.1-flash-low r1"
+ },
+ "fh-57": {
+  "A": "minimax-m3.1-flash-xhigh r1",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "minimax-m3.1-flash-low r1",
+  "E": "minimax-m3.1-flash-max r1",
+  "G": "minimax-m3.1-flash-high r1",
+  "H": "minimax-m3.1-flash-medium r1",
+  "I": "gpt-6.1-sol-low r1"
+ },
+ "fh-58": {
+  "A": "minimax-m3.1-flash-high r1",
+  "B": "minimax-m3.1-flash-xhigh r1",
+  "C": "minimax-m3.1-flash-low r1",
+  "D": "gpt-6.1-sol-low r1",
+  "E": "minimax-m3.1-flash-medium r1",
+  "G": "minimax-m3.1-flash-max r1",
+  "H": "anchor deepseek-v4.1-flash-high r1",
+  "I": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-59": {
+  "A": "minimax-m3.1-flash-max r1",
+  "B": "gpt-6.1-sol-low r1",
+  "C": "minimax-m3.1-flash-low r1",
+  "D": "anchor deepseek-v4.1-flash-high r1",
+  "E": "minimax-m3.1-flash-high r1",
+  "F": "minimax-m3.1-flash-medium r1",
+  "H": "anchor claude-haiku-5.5-medium r1",
+  "I": "minimax-m3.1-flash-xhigh r1"
+ },
+ "fh-60": {
+  "A": "minimax-m3.1-flash-high r1",
+  "B": "gpt-6.1-sol-low r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "minimax-m3.1-flash-max r1",
+  "E": "minimax-m3.1-flash-low r1",
+  "F": "minimax-m3.1-flash-medium r1",
+  "G": "anchor claude-haiku-5.5-medium r1",
+  "H": "minimax-m3.1-flash-xhigh r1"
+ },
+ "fh-61": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "minimax-m3.1-flash-medium r1",
+  "C": "gpt-6.1-sol-low r1",
+  "D": "minimax-m3.1-flash-xhigh r1",
+  "E": "minimax-m3.1-flash-high r1",
+  "F": "anchor deepseek-v4.1-flash-high r1",
+  "H": "minimax-m3.1-flash-low r1",
+  "I": "minimax-m3.1-flash-max r1"
+ },
+ "fh-62": {
+  "A": "minimax-m3.1-flash-low r1",
+  "B": "minimax-m3.1-flash-max r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "anchor claude-haiku-5.5-medium r1",
+  "F": "minimax-m3.1-flash-medium r1",
+  "G": "minimax-m3.1-flash-xhigh r1",
+  "H": "gpt-6.1-sol-low r1",
+  "I": "minimax-m3.1-flash-high r1"
+ },
+ "fh-63": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "minimax-m3.1-flash-high r1",
+  "C": "minimax-m3.1-flash-low r1",
+  "D": "anchor deepseek-v4.1-flash-high r1",
+  "F": "minimax-m3.1-flash-max r1",
+  "G": "gpt-6.1-sol-low r1",
+  "H": "minimax-m3.1-flash-xhigh r1",
+  "I": "minimax-m3.1-flash-medium r1"
+ },
+ "fh-64": {
+  "A": "gpt-6.1-sol-low r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "minimax-m3.1-flash-medium r1",
+  "E": "minimax-m3.1-flash-max r1",
+  "F": "minimax-m3.1-flash-high r1",
+  "G": "minimax-m3.1-flash-low r1",
+  "H": "minimax-m3.1-flash-xhigh r1",
+  "I": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-65": {
+  "A": "minimax-m3.1-flash-medium r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "minimax-m3.1-flash-max r1",
+  "E": "minimax-m3.1-flash-low r1",
+  "F": "minimax-m3.1-flash-xhigh r1",
+  "G": "anchor deepseek-v4.1-flash-high r1",
+  "H": "minimax-m3.1-flash-high r1",
+  "I": "gpt-6.1-sol-low r1"
+ },
+ "fh-66": {
+  "A": "minimax-m3.1-flash-max r1",
+  "B": "minimax-m3.1-flash-medium r1",
+  "D": "anchor deepseek-v4.1-flash-high r1",
+  "E": "minimax-m3.1-flash-xhigh r1",
+  "F": "anchor claude-haiku-5.5-medium r1",
+  "G": "gpt-6.1-sol-low r1",
+  "H": "minimax-m3.1-flash-high r1",
+  "I": "minimax-m3.1-flash-low r1"
+ },
+ "fh-67": {
+  "A": "minimax-m3.1-flash-max r1",
+  "B": "minimax-m3.1-flash-high r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "minimax-m3.1-flash-xhigh r1",
+  "F": "minimax-m3.1-flash-low r1",
+  "G": "minimax-m3.1-flash-medium r1",
+  "H": "anchor claude-haiku-5.5-medium r1",
+  "I": "gpt-6.1-sol-low r1"
+ },
+ "fh-68": {
+  "A": "minimax-m3.1-flash-high r1",
+  "B": "minimax-m3.1-flash-max r1",
+  "C": "minimax-m3.1-flash-medium r1",
+  "E": "minimax-m3.1-flash-low r1",
+  "F": "anchor deepseek-v4.1-flash-high r1",
+  "G": "minimax-m3.1-flash-xhigh r1",
+  "H": "gpt-6.1-sol-low r1",
+  "I": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-69": {
+  "A": "minimax-m3.1-flash-max r1",
+  "B": "minimax-m3.1-flash-high r1",
+  "D": "minimax-m3.1-flash-medium r1",
+  "E": "minimax-m3.1-flash-xhigh r1",
+  "F": "anchor claude-haiku-5.5-medium r1",
+  "G": "gpt-6.1-sol-low r1",
+  "H": "minimax-m3.1-flash-low r1",
+  "I": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-70": {
+  "A": "minimax-m3.1-flash-low r1",
+  "B": "gpt-6.1-sol-low r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "E": "minimax-m3.1-flash-high r1",
+  "F": "minimax-m3.1-flash-xhigh r1",
+  "G": "anchor claude-haiku-5.5-medium r1",
+  "H": "minimax-m3.1-flash-medium r1",
+  "I": "minimax-m3.1-flash-max r1"
+ },
+ "fh-71": {
+  "A": "minimax-m3.1-flash-xhigh r1",
+  "B": "minimax-m3.1-flash-medium r1",
+  "C": "minimax-m3.1-flash-high r1",
+  "D": "anchor claude-haiku-5.5-medium r1",
+  "E": "anchor deepseek-v4.1-flash-high r1",
+  "F": "minimax-m3.1-flash-max r1",
+  "G": "gpt-6.1-sol-low r1",
+  "H": "minimax-m3.1-flash-low r1"
+ },
+ "fh-72": {
+  "A": "minimax-m3.1-flash-medium r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "D": "minimax-m3.1-flash-max r1",
+  "E": "anchor claude-haiku-5.5-medium r1",
+  "F": "minimax-m3.1-flash-xhigh r1",
+  "G": "minimax-m3.1-flash-low r1",
+  "H": "minimax-m3.1-flash-high r1",
+  "I": "gpt-6.1-sol-low r1"
+ },
+ "fh-73": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "minimax-m3.1-flash-max r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "minimax-m3.1-flash-medium r1",
+  "E": "gpt-6.1-sol-low r1",
+  "F": "minimax-m3.1-flash-xhigh r1",
+  "G": "minimax-m3.1-flash-low r1",
+  "H": "minimax-m3.1-flash-high r1"
+ },
+ "fh-74": {
+  "A": "gpt-6.1-sol-low r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "minimax-m3.1-flash-low r1",
+  "D": "minimax-m3.1-flash-max r1",
+  "E": "anchor claude-haiku-5.5-medium r1",
+  "F": "minimax-m3.1-flash-high r1",
+  "H": "minimax-m3.1-flash-xhigh r1",
+  "I": "minimax-m3.1-flash-medium r1"
+ },
+ "fh-75": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "minimax-m3.1-flash-medium r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "minimax-m3.1-flash-max r1",
+  "E": "minimax-m3.1-flash-high r1",
+  "F": "gpt-6.1-sol-low r1",
+  "H": "minimax-m3.1-flash-low r1",
+  "I": "minimax-m3.1-flash-xhigh r1"
+ },
+ "fh-76": {
+  "A": "gpt-6.1-sol-low r1",
+  "B": "minimax-m3.1-flash-xhigh r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "minimax-m3.1-flash-max r1",
+  "F": "anchor claude-haiku-5.5-medium r1",
+  "G": "minimax-m3.1-flash-low r1",
+  "H": "minimax-m3.1-flash-high r1",
+  "I": "minimax-m3.1-flash-medium r1"
+ },
+ "fh-77": {
+  "A": "gpt-6.1-sol-low r1",
+  "B": "minimax-m3.1-flash-max r1",
+  "C": "minimax-m3.1-flash-xhigh r1",
+  "D": "anchor claude-haiku-5.5-medium r1",
+  "E": "anchor deepseek-v4.1-flash-high r1",
+  "F": "minimax-m3.1-flash-low r1",
+  "H": "minimax-m3.1-flash-medium r1",
+  "I": "minimax-m3.1-flash-high r1"
+ },
+ "fh-78": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "minimax-m3.1-flash-xhigh r1",
+  "C": "minimax-m3.1-flash-high r1",
+  "D": "minimax-m3.1-flash-low r1",
+  "E": "minimax-m3.1-flash-max r1",
+  "F": "minimax-m3.1-flash-medium r1",
+  "H": "gpt-6.1-sol-low r1",
+  "I": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-79": {
+  "A": "minimax-m3.1-flash-xhigh r1",
+  "B": "gpt-6.1-sol-low r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "minimax-m3.1-flash-medium r1",
+  "E": "anchor deepseek-v4.1-flash-high r1",
+  "G": "minimax-m3.1-flash-high r1",
+  "H": "minimax-m3.1-flash-low r1",
+  "I": "minimax-m3.1-flash-max r1"
+ },
+ "fh-80": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "C": "gpt-6.1-sol-low r1",
+  "D": "minimax-m3.1-flash-max r1",
+  "E": "minimax-m3.1-flash-high r1",
+  "F": "minimax-m3.1-flash-xhigh r1",
+  "G": "minimax-m3.1-flash-medium r1",
+  "H": "anchor claude-haiku-5.5-medium r1",
+  "I": "minimax-m3.1-flash-low r1"
+ },
+ "fh-81": {
+  "B": "minimax-m3.1-flash-max r1",
+  "C": "gpt-6.1-sol-low r1",
+  "D": "minimax-m3.1-flash-medium r1",
+  "E": "anchor claude-haiku-5.5-medium r1",
+  "F": "anchor deepseek-v4.1-flash-high r1",
+  "G": "minimax-m3.1-flash-low r1",
+  "H": "minimax-m3.1-flash-xhigh r1",
+  "I": "minimax-m3.1-flash-high r1"
+ },
+ "fh-82": {
+  "A": "minimax-m3.1-flash-xhigh r1",
+  "C": "minimax-m3.1-flash-high r1",
+  "D": "gpt-6.1-sol-low r1",
+  "E": "minimax-m3.1-flash-medium r1",
+  "F": "minimax-m3.1-flash-max r1",
+  "G": "minimax-m3.1-flash-low r1",
+  "H": "anchor deepseek-v4.1-flash-high r1",
+  "I": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-83": {
+  "A": "gpt-6.1-sol-low r1",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "minimax-m3.1-flash-xhigh r1",
+  "D": "minimax-m3.1-flash-low r1",
+  "E": "anchor deepseek-v4.1-flash-high r1",
+  "F": "minimax-m3.1-flash-high r1",
+  "G": "minimax-m3.1-flash-max r1",
+  "H": "minimax-m3.1-flash-medium r1"
+ },
+ "fh-84": {
+  "A": "gpt-6.1-sol-low r1",
+  "B": "minimax-m3.1-flash-high r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "minimax-m3.1-flash-low r1",
+  "E": "minimax-m3.1-flash-medium r1",
+  "F": "minimax-m3.1-flash-xhigh r1",
+  "H": "anchor deepseek-v4.1-flash-high r1",
+  "I": "minimax-m3.1-flash-max r1"
+ },
+ "fh-85": {
+  "A": "minimax-m3.1-flash-low r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "minimax-m3.1-flash-xhigh r1",
+  "D": "anchor claude-haiku-5.5-medium r1",
+  "E": "minimax-m3.1-flash-medium r1",
+  "F": "minimax-m3.1-flash-max r1",
+  "G": "minimax-m3.1-flash-high r1",
+  "H": "gpt-6.1-sol-low r1"
+ },
+ "fh-86": {
+  "A": "gpt-6.1-sol-low r1",
+  "C": "minimax-m3.1-flash-xhigh r1",
+  "D": "anchor claude-haiku-5.5-medium r1",
+  "E": "anchor deepseek-v4.1-flash-high r1",
+  "F": "minimax-m3.1-flash-low r1",
+  "G": "minimax-m3.1-flash-high r1",
+  "H": "minimax-m3.1-flash-max r1",
+  "I": "minimax-m3.1-flash-medium r1"
+ },
+ "fh-87": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "minimax-m3.1-flash-max r1",
+  "D": "minimax-m3.1-flash-xhigh r1",
+  "E": "minimax-m3.1-flash-high r1",
+  "F": "gpt-6.1-sol-low r1",
+  "G": "minimax-m3.1-flash-low r1",
+  "H": "minimax-m3.1-flash-medium r1"
+ },
+ "fh-88": {
+  "A": "minimax-m3.1-flash-max r1",
+  "B": "gpt-6.1-sol-low r1",
+  "D": "anchor claude-haiku-5.5-medium r1",
+  "E": "minimax-m3.1-flash-medium r1",
+  "F": "minimax-m3.1-flash-high r1",
+  "G": "minimax-m3.1-flash-xhigh r1",
+  "H": "anchor deepseek-v4.1-flash-high r1",
+  "I": "minimax-m3.1-flash-low r1"
+ },
+ "fh-89": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "minimax-m3.1-flash-max r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "E": "minimax-m3.1-flash-xhigh r1",
+  "F": "minimax-m3.1-flash-high r1",
+  "G": "gpt-6.1-sol-low r1",
+  "H": "minimax-m3.1-flash-medium r1",
+  "I": "minimax-m3.1-flash-low r1"
+ },
+ "fh-90": {
+  "B": "minimax-m3.1-flash-low r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "minimax-m3.1-flash-max r1",
+  "E": "anchor claude-haiku-5.5-medium r1",
+  "F": "minimax-m3.1-flash-medium r1",
+  "G": "gpt-6.1-sol-low r1",
+  "H": "minimax-m3.1-flash-xhigh r1",
+  "I": "minimax-m3.1-flash-high r1"
+ },
+ "fh-91": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "minimax-m3.1-flash-xhigh r1",
+  "C": "minimax-m3.1-flash-max r1",
+  "D": "minimax-m3.1-flash-high r1",
+  "E": "anchor claude-haiku-5.5-medium r1",
+  "F": "minimax-m3.1-flash-low r1",
+  "H": "gpt-6.1-sol-low r1",
+  "I": "minimax-m3.1-flash-medium r1"
+ },
+ "fh-92": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "minimax-m3.1-flash-high r1",
+  "C": "minimax-m3.1-flash-xhigh r1",
+  "D": "minimax-m3.1-flash-medium r1",
+  "E": "anchor deepseek-v4.1-flash-high r1",
+  "F": "gpt-6.1-sol-low r1",
+  "G": "minimax-m3.1-flash-low r1",
+  "I": "minimax-m3.1-flash-max r1"
+ },
+ "fh-93": {
+  "A": "minimax-m3.1-flash-low r1",
+  "B": "minimax-m3.1-flash-max r1",
+  "C": "gpt-6.1-sol-low r1",
+  "E": "minimax-m3.1-flash-xhigh r1",
+  "F": "anchor deepseek-v4.1-flash-high r1",
+  "G": "anchor claude-haiku-5.5-medium r1",
+  "H": "minimax-m3.1-flash-high r1",
+  "I": "minimax-m3.1-flash-medium r1"
+ },
+ "fh-94": {
+  "A": "minimax-m3.1-flash-low r1",
+  "B": "minimax-m3.1-flash-medium r1",
+  "C": "minimax-m3.1-flash-max r1",
+  "E": "anchor deepseek-v4.1-flash-high r1",
+  "F": "minimax-m3.1-flash-high r1",
+  "G": "gpt-6.1-sol-low r1",
+  "H": "anchor claude-haiku-5.5-medium r1",
+  "I": "minimax-m3.1-flash-xhigh r1"
+ },
+ "fh-95": {
+  "A": "gpt-6.1-sol-low r1",
+  "B": "minimax-m3.1-flash-max r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "minimax-m3.1-flash-low r1",
+  "E": "anchor claude-haiku-5.5-medium r1",
+  "G": "minimax-m3.1-flash-high r1",
+  "H": "minimax-m3.1-flash-xhigh r1",
+  "I": "minimax-m3.1-flash-medium r1"
+ },
+ "fh-96": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "minimax-m3.1-flash-medium r1",
+  "C": "minimax-m3.1-flash-high r1",
+  "D": "minimax-m3.1-flash-xhigh r1",
+  "E": "anchor deepseek-v4.1-flash-high r1",
+  "F": "gpt-6.1-sol-low r1",
+  "G": "minimax-m3.1-flash-low r1",
+  "H": "minimax-m3.1-flash-max r1"
+ },
+ "fh-97": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "minimax-m3.1-flash-max r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "E": "minimax-m3.1-flash-medium r1",
+  "F": "minimax-m3.1-flash-xhigh r1",
+  "G": "minimax-m3.1-flash-low r1",
+  "H": "minimax-m3.1-flash-high r1",
+  "I": "gpt-6.1-sol-low r1"
+ },
+ "fh-98": {
+  "A": "minimax-m3.1-flash-max r1",
+  "B": "gpt-6.1-sol-low r1",
+  "D": "minimax-m3.1-flash-high r1",
+  "E": "minimax-m3.1-flash-xhigh r1",
+  "F": "anchor deepseek-v4.1-flash-high r1",
+  "G": "minimax-m3.1-flash-low r1",
+  "H": "anchor claude-haiku-5.5-medium r1",
+  "I": "minimax-m3.1-flash-medium r1"
+ },
+ "fh-99": {
+  "A": "minimax-m3.1-flash-medium r1",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "minimax-m3.1-flash-max r1",
+  "D": "minimax-m3.1-flash-xhigh r1",
+  "F": "anchor deepseek-v4.1-flash-high r1",
+  "G": "minimax-m3.1-flash-low r1",
+  "H": "minimax-m3.1-flash-high r1",
+  "I": "gpt-6.1-sol-low r1"
+ },
+ "fh-100": {
+  "A": "gpt-6.1-sol-low r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "minimax-m3.1-flash-max r1",
+  "D": "minimax-m3.1-flash-high r1",
+  "E": "minimax-m3.1-flash-medium r1",
+  "G": "minimax-m3.1-flash-xhigh r1",
+  "H": "minimax-m3.1-flash-low r1",
+  "I": "anchor claude-haiku-5.5-medium r1"
+ }
+}

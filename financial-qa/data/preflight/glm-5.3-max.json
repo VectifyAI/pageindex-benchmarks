@@ -1,0 +1,173 @@
+{
+ "model": "glm-5.3-max",
+ "route": "z-ai/glm-5.3",
+ "provider": "Z.AI",
+ "reasoning_setting": null,
+ "checked": "2026-10-22 14:15:17 +0800",
+ "openrouter_reasoning": {
+  "mandatory": true,
+  "default_enabled": true,
+  "supported_efforts": [
+   "max",
+   "high",
+   "low"
+  ],
+  "default_effort": "max"
+ },
+ "declared_default": "max",
+ "pricing": {
+  "prompt": "0.000000079",
+  "completion": "0.0000014",
+  "input_cache_read": "0.000000078"
+ },
+ "endpoint_tag": "z-ai/fp8",
+ "endpoint_pricing": {
+  "prompt": "0.0000014",
+  "completion": "0.0000044",
+  "input_cache_read": "0.00000026",
+  "discount": 0
+ },
+ "billed_over_standard": [
+  1.0,
+  1.0
+ ],
+ "reasoning_tokens_median": {
+  "None": 3549,
+  "max": 3446,
+  "high": 832,
+  "low": 450
+ },
+ "calls": [
+  {
+   "setting": null,
+   "gen_id": "gen-1792649616-lwhFnZD7JMuGB6lYtsrs",
+   "provider": "Z.AI",
+   "cost": 0.01604,
+   "standard_price_cost": 0.016040000000000002,
+   "reasoning_tokens": 3549
+  },
+  {
+   "setting": null,
+   "gen_id": "gen-1792649616-yDUk3GF9KBWkZOeFQa8F",
+   "provider": "Z.AI",
+   "cost": 0.034344,
+   "standard_price_cost": 0.034344,
+   "reasoning_tokens": 7588
+  },
+  {
+   "setting": null,
+   "gen_id": "gen-1792649616-eq7z8P9nU9w4qGCfHI79",
+   "provider": "Z.AI",
+   "cost": 0.0160136,
+   "standard_price_cost": 0.0160136,
+   "reasoning_tokens": 3480
+  },
+  {
+   "setting": null,
+   "gen_id": "gen-1792649616-XEuS5XhPiuVlGBwAHEfF",
+   "provider": "Z.AI",
+   "cost": 0.0106456,
+   "standard_price_cost": 0.0106456,
+   "reasoning_tokens": 2395
+  },
+  {
+   "setting": "max",
+   "gen_id": "gen-1792649616-T77TtzHKJUi9ebdjJti2",
+   "provider": "Z.AI",
+   "cost": 0.0125332,
+   "standard_price_cost": 0.012533200000000001,
+   "reasoning_tokens": 2824
+  },
+  {
+   "setting": "max",
+   "gen_id": "gen-1792649616-1lCrer8Q3wHiyLJWGg6A",
+   "provider": "Z.AI",
+   "cost": 0.0206996,
+   "standard_price_cost": 0.020699600000000002,
+   "reasoning_tokens": 4682
+  },
+  {
+   "setting": "max",
+   "gen_id": "gen-1792649616-ZeEqY9qr3NiZ7ChEsVuX",
+   "provider": "Z.AI",
+   "cost": 0.01527,
+   "standard_price_cost": 0.01527,
+   "reasoning_tokens": 3446
+  },
+  {
+   "setting": "max",
+   "gen_id": "gen-1792649616-hnPGW3zFFytOrY3BCPak",
+   "provider": "Z.AI",
+   "cost": 0.0156308,
+   "standard_price_cost": 0.0156308,
+   "reasoning_tokens": 3417
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1792649648-Jd0YB70ZgbKGicSIDpCv",
+   "provider": "Z.AI",
+   "cost": 0.00372,
+   "standard_price_cost": 0.00372,
+   "reasoning_tokens": 648
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1792649651-uleP7pIBPXflH8uqxsxF",
+   "provider": "Z.AI",
+   "cost": 0.0037684,
+   "standard_price_cost": 0.0037684000000000003,
+   "reasoning_tokens": 832
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1792649653-TBJ9egfqf3zH1xqW8VrS",
+   "provider": "Z.AI",
+   "cost": 0.0045032,
+   "standard_price_cost": 0.004503200000000001,
+   "reasoning_tokens": 999
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1792649656-mNSQzCesh0pPRDChZR5Y",
+   "provider": "Z.AI",
+   "cost": 0.00207,
+   "standard_price_cost": 0.0020700000000000002,
+   "reasoning_tokens": 447
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1792649661-4tHLj6dsXYmVJ7XfA2SS",
+   "provider": "Z.AI",
+   "cost": 0.0018808,
+   "standard_price_cost": 0.0018808000000000002,
+   "reasoning_tokens": 404
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1792649661-g3t51Tvwk2VEgv68aSe8",
+   "provider": "Z.AI",
+   "cost": 0.0020788,
+   "standard_price_cost": 0.0020788,
+   "reasoning_tokens": 450
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1792649662-FrjXNz6tShXwUWzjg0qn",
+   "provider": "Z.AI",
+   "cost": 0.0042084,
+   "standard_price_cost": 0.0042084,
+   "reasoning_tokens": 934
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1792649662-UI1gkLVDfLv629jo3EKe",
+   "provider": "Z.AI",
+   "cost": 0.0019996,
+   "standard_price_cost": 0.0019996,
+   "reasoning_tokens": 430
+  }
+ ],
+ "cost": 0.165406,
+ "passed": true,
+ "failures": []
+}

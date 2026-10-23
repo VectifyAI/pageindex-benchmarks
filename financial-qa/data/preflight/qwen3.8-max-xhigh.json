@@ -1,0 +1,242 @@
+{
+ "model": "qwen3.8-max-xhigh",
+ "route": "qwen/qwen3.8-max-0902",
+ "provider": "Alibaba",
+ "reasoning_setting": null,
+ "checked": "2026-10-22 14:16:28 +0800",
+ "openrouter_reasoning": {
+  "mandatory": true,
+  "default_enabled": true,
+  "supported_efforts": [
+   "xhigh",
+   "high",
+   "medium",
+   "low",
+   "minimal"
+  ],
+  "default_effort": "xhigh"
+ },
+ "declared_default": "xhigh",
+ "pricing": {
+  "prompt": "0.000002",
+  "completion": "0.000006",
+  "input_cache_read": "0.00000025"
+ },
+ "endpoint_tag": "alibaba",
+ "endpoint_pricing": {
+  "prompt": "0.000002",
+  "completion": "0.000006",
+  "input_cache_read": "0.00000025",
+  "input_cache_write": "0.0000025",
+  "discount": 0
+ },
+ "billed_over_standard": [
+  1.0,
+  1.0
+ ],
+ "reasoning_tokens_median": {
+  "None": 2660,
+  "xhigh": 3001,
+  "high": 2761,
+  "medium": 3748,
+  "low": 1678,
+  "minimal": 1603
+ },
+ "calls": [
+  {
+   "setting": null,
+   "gen_id": "gen-1792649616-D1vz2WNWGisSyF7lQCO1",
+   "provider": "Alibaba",
+   "cost": 0.014356,
+   "standard_price_cost": 0.014356,
+   "reasoning_tokens": 2350
+  },
+  {
+   "setting": null,
+   "gen_id": "gen-1792649616-rCfPCt4KDa1EoHxt1UaU",
+   "provider": "Alibaba",
+   "cost": 0.022834,
+   "standard_price_cost": 0.022834000000000004,
+   "reasoning_tokens": 3763
+  },
+  {
+   "setting": null,
+   "gen_id": "gen-1792649616-AruiUC92I43RL2hEcMKe",
+   "provider": "Alibaba",
+   "cost": 0.016216,
+   "standard_price_cost": 0.016216,
+   "reasoning_tokens": 2660
+  },
+  {
+   "setting": null,
+   "gen_id": "gen-1792649616-JDLeAvQL45E0Su6seDvm",
+   "provider": "Alibaba",
+   "cost": 0.010648,
+   "standard_price_cost": 0.010648,
+   "reasoning_tokens": 1732
+  },
+  {
+   "setting": "xhigh",
+   "gen_id": "gen-1792649616-BmR21DOmm0Bva8OKtfE5",
+   "provider": "Alibaba",
+   "cost": 0.018262,
+   "standard_price_cost": 0.018262,
+   "reasoning_tokens": 3001
+  },
+  {
+   "setting": "xhigh",
+   "gen_id": "gen-1792649616-XKU0JKwok1bOTHYRZbvW",
+   "provider": "Alibaba",
+   "cost": 0.01285,
+   "standard_price_cost": 0.01285,
+   "reasoning_tokens": 2099
+  },
+  {
+   "setting": "xhigh",
+   "gen_id": "gen-1792649616-zFk89zqJZmHVYJJ2MvMw",
+   "provider": "Alibaba",
+   "cost": 0.014776,
+   "standard_price_cost": 0.014776000000000001,
+   "reasoning_tokens": 2420
+  },
+  {
+   "setting": "xhigh",
+   "gen_id": "gen-1792649616-vYXvMcZxvvf1r54Y5uXb",
+   "provider": "Alibaba",
+   "cost": 0.029608,
+   "standard_price_cost": 0.029608000000000002,
+   "reasoning_tokens": 4892
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1792649655-NDmquIjRFKC7uXQFcLS7",
+   "provider": "Alibaba",
+   "cost": 0.014962,
+   "standard_price_cost": 0.014962,
+   "reasoning_tokens": 2451
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1792649662-QjB1sdQAit5Ww78Xh4wh",
+   "provider": "Alibaba",
+   "cost": 0.014686,
+   "standard_price_cost": 0.014686,
+   "reasoning_tokens": 2405
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1792649664-iZWVaUYjtSmBgm2dA0UI",
+   "provider": "Alibaba",
+   "cost": 0.016822,
+   "standard_price_cost": 0.016822,
+   "reasoning_tokens": 2761
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1792649670-bdKGsQz2cAk9inho7cK9",
+   "provider": "Alibaba",
+   "cost": 0.017356,
+   "standard_price_cost": 0.017356000000000003,
+   "reasoning_tokens": 2850
+  },
+  {
+   "setting": "medium",
+   "gen_id": "gen-1792649676-9kIgScLNELRt8LYUwdAg",
+   "provider": "Alibaba",
+   "cost": 0.014136,
+   "standard_price_cost": 0.014136000000000001,
+   "reasoning_tokens": 2326
+  },
+  {
+   "setting": "medium",
+   "gen_id": "gen-1792649685-R1RgjFCIaAQQhlQRfgGR",
+   "provider": "Alibaba",
+   "cost": 0.022668,
+   "standard_price_cost": 0.022667999999999997,
+   "reasoning_tokens": 3748
+  },
+  {
+   "setting": "medium",
+   "gen_id": "gen-1792649701-q6OS6rNaQoTEbtMBvi2R",
+   "provider": "Alibaba",
+   "cost": 0.01044,
+   "standard_price_cost": 0.01044,
+   "reasoning_tokens": 1710
+  },
+  {
+   "setting": "medium",
+   "gen_id": "gen-1792649709-59yP2bIlWm4OLabV0HVT",
+   "provider": "Alibaba",
+   "cost": 0.024966,
+   "standard_price_cost": 0.024966,
+   "reasoning_tokens": 4131
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1792649716-QLARWMxe6hws1kkHqjzR",
+   "provider": "Alibaba",
+   "cost": 0.009976,
+   "standard_price_cost": 0.009976,
+   "reasoning_tokens": 1624
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1792649719-TxMBTr2aPaqqJrDST2C2",
+   "provider": "Alibaba",
+   "cost": 0.010714,
+   "standard_price_cost": 0.010714,
+   "reasoning_tokens": 1747
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1792649721-rzn1MJAekkxFef1Bqv9a",
+   "provider": "Alibaba",
+   "cost": 0.0103,
+   "standard_price_cost": 0.0103,
+   "reasoning_tokens": 1678
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1792649728-gcqrDLxYdEJJ9Wuk34kS",
+   "provider": "Alibaba",
+   "cost": 0.009334,
+   "standard_price_cost": 0.009334,
+   "reasoning_tokens": 1517
+  },
+  {
+   "setting": "minimal",
+   "gen_id": "gen-1792649731-9DnybgfzWqaxtgLglg2Q",
+   "provider": "Alibaba",
+   "cost": 0.009214,
+   "standard_price_cost": 0.009214,
+   "reasoning_tokens": 1497
+  },
+  {
+   "setting": "minimal",
+   "gen_id": "gen-1792649734-wjgVSp76eBfnMkcf03Mt",
+   "provider": "Alibaba",
+   "cost": 0.00985,
+   "standard_price_cost": 0.00985,
+   "reasoning_tokens": 1603
+  },
+  {
+   "setting": "minimal",
+   "gen_id": "gen-1792649745-1zz5uKu3leuAR2PkW0wI",
+   "provider": "Alibaba",
+   "cost": 0.009514,
+   "standard_price_cost": 0.009514,
+   "reasoning_tokens": 1547
+  },
+  {
+   "setting": "minimal",
+   "gen_id": "gen-1792649751-4y93aShIfFJ3n4XSNutu",
+   "provider": "Alibaba",
+   "cost": 0.012334,
+   "standard_price_cost": 0.012334,
+   "reasoning_tokens": 2017
+  }
+ ],
+ "cost": 0.356822,
+ "passed": true,
+ "failures": []
+}

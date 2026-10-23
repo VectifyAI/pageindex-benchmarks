@@ -1,0 +1,206 @@
+{
+ "model": "muse-spark-open-xhigh",
+ "route": "meta/muse-spark-open",
+ "provider": "Together",
+ "reasoning_setting": null,
+ "checked": "2026-10-22 19:44:53 +0800",
+ "openrouter_reasoning": {
+  "mandatory": true,
+  "supported_efforts": [
+   "xhigh",
+   "high",
+   "medium",
+   "low"
+  ],
+  "default_effort": "medium"
+ },
+ "declared_default": "medium",
+ "pricing": {
+  "prompt": "0.00000125",
+  "completion": "0.00000425",
+  "input_cache_read": "0.00000015"
+ },
+ "endpoint_tag": "together",
+ "endpoint_pricing": {
+  "prompt": "0.00000125",
+  "completion": "0.00000425",
+  "input_cache_read": "0.00000015",
+  "discount": 0
+ },
+ "billed_over_standard": [
+  1.0,
+  1.0
+ ],
+ "reasoning_tokens_median": {
+  "None": 4041,
+  "xhigh": 2878,
+  "high": 3548,
+  "medium": 3018,
+  "low": 1174
+ },
+ "calls": [
+  {
+   "setting": null,
+   "gen_id": "gen-1792669457-t5DfUIMv3J2FTsKMqufh",
+   "provider": "Together",
+   "cost": 0.013058,
+   "standard_price_cost": 0.013058,
+   "reasoning_tokens": 3047
+  },
+  {
+   "setting": null,
+   "gen_id": "gen-1792669457-hL9RJ7ef7W9feJrpSQ4f",
+   "provider": "Together",
+   "cost": 0.0173353,
+   "standard_price_cost": 0.0173353,
+   "reasoning_tokens": 4041
+  },
+  {
+   "setting": null,
+   "gen_id": "gen-1792669457-lFjD6g80IBAwQKIBldYE",
+   "provider": "Together",
+   "cost": 0.00904175,
+   "standard_price_cost": 0.009041750000000001,
+   "reasoning_tokens": 2102
+  },
+  {
+   "setting": null,
+   "gen_id": "gen-1792669457-dH9wOHbsc801bT4r9dcA",
+   "provider": "Together",
+   "cost": 0.017495,
+   "standard_price_cost": 0.017495,
+   "reasoning_tokens": 4091
+  },
+  {
+   "setting": "xhigh",
+   "gen_id": "gen-1792669457-BbwrXr02qDD7RIevuejx",
+   "provider": "Together",
+   "cost": 0.00910975,
+   "standard_price_cost": 0.009109750000000002,
+   "reasoning_tokens": 2118
+  },
+  {
+   "setting": "xhigh",
+   "gen_id": "gen-1792669457-KUGRt76WouX94NghGQAE",
+   "provider": "Together",
+   "cost": 0.0086125,
+   "standard_price_cost": 0.0086125,
+   "reasoning_tokens": 2001
+  },
+  {
+   "setting": "xhigh",
+   "gen_id": "gen-1792669457-ISYsHGATPQ9EeQDUDMT7",
+   "provider": "Together",
+   "cost": 0.01415875,
+   "standard_price_cost": 0.014158750000000001,
+   "reasoning_tokens": 3306
+  },
+  {
+   "setting": "xhigh",
+   "gen_id": "gen-1792669457-PgPIkNCz6n1OQylspJWR",
+   "provider": "Together",
+   "cost": 0.01233975,
+   "standard_price_cost": 0.01233975,
+   "reasoning_tokens": 2878
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1792669466-X8Kk6estV3HRsFZr0Tj2",
+   "provider": "Together",
+   "cost": 0.01534565,
+   "standard_price_cost": 0.01534565,
+   "reasoning_tokens": 3548
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1792669467-ilT8n04GicZ9fQaOc8qN",
+   "provider": "Together",
+   "cost": 0.01554,
+   "standard_price_cost": 0.01554,
+   "reasoning_tokens": 3631
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1792669468-TJhHczD1XRc2G210cLf7",
+   "provider": "Together",
+   "cost": 0.009318,
+   "standard_price_cost": 0.009318,
+   "reasoning_tokens": 2167
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1792669471-dy8CXAd4PJkyqH2RyqNg",
+   "provider": "Together",
+   "cost": 0.01354675,
+   "standard_price_cost": 0.013546750000000001,
+   "reasoning_tokens": 3162
+  },
+  {
+   "setting": "medium",
+   "gen_id": "gen-1792669471-RwHJJuRdZqeY7PI2GRCF",
+   "provider": "Together",
+   "cost": 0.0168168,
+   "standard_price_cost": 0.0168168,
+   "reasoning_tokens": 3919
+  },
+  {
+   "setting": "medium",
+   "gen_id": "gen-1792669472-XPcUGqTjqDmztFFybm64",
+   "provider": "Together",
+   "cost": 0.00546325,
+   "standard_price_cost": 0.00546325,
+   "reasoning_tokens": 1260
+  },
+  {
+   "setting": "medium",
+   "gen_id": "gen-1792669477-8Ydszx6J9dya73ir8FM2",
+   "provider": "Together",
+   "cost": 0.01293475,
+   "standard_price_cost": 0.01293475,
+   "reasoning_tokens": 3018
+  },
+  {
+   "setting": "medium",
+   "gen_id": "gen-1792669477-XqjuqP8I1d3W12yAjiK1",
+   "provider": "Together",
+   "cost": 0.01060575,
+   "standard_price_cost": 0.01060575,
+   "reasoning_tokens": 2470
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1792669478-OPPe1CGc3Ilh9QPhqvQR",
+   "provider": "Together",
+   "cost": 0.0034754,
+   "standard_price_cost": 0.0034754,
+   "reasoning_tokens": 755
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1792669479-25FQ6ilxrczWpYcWmTbY",
+   "provider": "Together",
+   "cost": 0.0050935,
+   "standard_price_cost": 0.0050935,
+   "reasoning_tokens": 1174
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1792669482-0AYfUZjCiQENOaeRimhA",
+   "provider": "Together",
+   "cost": 0.00449425,
+   "standard_price_cost": 0.00449425,
+   "reasoning_tokens": 1032
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1792669484-W8ocdEPy7jJBMA71Hmid",
+   "provider": "Together",
+   "cost": 0.00953475,
+   "standard_price_cost": 0.009534750000000002,
+   "reasoning_tokens": 2218
+  }
+ ],
+ "cost": 0.22332,
+ "passed": true,
+ "failures": []
+}

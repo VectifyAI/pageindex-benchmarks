@@ -1,0 +1,300 @@
+{
+ "model": "claude-haiku-5.5-max",
+ "route": "anthropic/claude-haiku-5.5",
+ "provider": "Anthropic",
+ "reasoning_setting": "max",
+ "checked": "2026-10-23 11:26:24 +0800",
+ "openrouter_reasoning": {
+  "mandatory": false,
+  "supported_efforts": [
+   "max",
+   "xhigh",
+   "high",
+   "medium",
+   "low",
+   "none"
+  ],
+  "default_effort": "medium"
+ },
+ "declared_default": "medium",
+ "pricing": {
+  "prompt": "0.0000001",
+  "completion": "0.0000005",
+  "web_search": "0.01",
+  "input_cache_read": "0.00000001",
+  "input_cache_write": "0.000000125",
+  "input_cache_write_1h": "0.0000002",
+  "overrides": [
+   {
+    "min_prompt_tokens": 100000,
+    "prompt": "0.0000005",
+    "completion": "0.0000025",
+    "input_cache_read": "0.00000005",
+    "input_cache_write": "0.000000625",
+    "input_cache_write_1h": "0.000001"
+   }
+  ]
+ },
+ "endpoint_tag": "anthropic",
+ "endpoint_pricing": {
+  "prompt": "0.0000001",
+  "completion": "0.0000005",
+  "web_search": "0.01",
+  "input_cache_read": "0.00000001",
+  "input_cache_write": "0.000000125",
+  "input_cache_write_1h": "0.0000002",
+  "discount": 0,
+  "overrides": [
+   {
+    "min_prompt_tokens": 100000,
+    "prompt": "0.0000005",
+    "completion": "0.0000025",
+    "input_cache_read": "0.00000005",
+    "input_cache_write": "0.000000625",
+    "input_cache_write_1h": "0.000001"
+   }
+  ]
+ },
+ "billed_over_standard": [
+  1.0,
+  1.0
+ ],
+ "reasoning_tokens_median": {
+  "None": 1247,
+  "max": 4484,
+  "xhigh": 1661,
+  "high": 1444,
+  "medium": 1348,
+  "low": 1211,
+  "none": 0
+ },
+ "calls": [
+  {
+   "setting": null,
+   "gen_id": "gen-1792725953-DZK3AeRETaYid3j0jiFC",
+   "provider": "Anthropic",
+   "cost": 0.0006326,
+   "standard_price_cost": 0.0006326,
+   "reasoning_tokens": 1247
+  },
+  {
+   "setting": null,
+   "gen_id": "gen-1792725953-v4xN9d82gh39BpvElkQE",
+   "provider": "Anthropic",
+   "cost": 0.0006156,
+   "standard_price_cost": 0.0006155999999999999,
+   "reasoning_tokens": 1213
+  },
+  {
+   "setting": null,
+   "gen_id": "gen-1792725953-wFN2GBiYx6R0y1qkhtuF",
+   "provider": "Anthropic",
+   "cost": 0.0005936,
+   "standard_price_cost": 0.0005935999999999999,
+   "reasoning_tokens": 1169
+  },
+  {
+   "setting": null,
+   "gen_id": "gen-1792725953-9Ys3rHqBM2j8RTkyM1lT",
+   "provider": "Anthropic",
+   "cost": 0.0006441,
+   "standard_price_cost": 0.0006441,
+   "reasoning_tokens": 1270
+  },
+  {
+   "setting": "max",
+   "gen_id": "gen-1792725953-kqaY7sNu2eBGan0niH5x",
+   "provider": "Anthropic",
+   "cost": 0.0019211,
+   "standard_price_cost": 0.0019210999999999998,
+   "reasoning_tokens": 3824
+  },
+  {
+   "setting": "max",
+   "gen_id": "gen-1792725953-pHxYqDqJotvngvXKMEnP",
+   "provider": "Anthropic",
+   "cost": 0.0015871,
+   "standard_price_cost": 0.0015871,
+   "reasoning_tokens": 3154
+  },
+  {
+   "setting": "max",
+   "gen_id": "gen-1792725953-qH6JMSlQOxlQ6LmOUw22",
+   "provider": "Anthropic",
+   "cost": 0.0025636,
+   "standard_price_cost": 0.0025635999999999996,
+   "reasoning_tokens": 5107
+  },
+  {
+   "setting": "max",
+   "gen_id": "gen-1792725953-ZkEyKquhCiY3nRHfmHVU",
+   "provider": "Anthropic",
+   "cost": 0.0022521,
+   "standard_price_cost": 0.0022521,
+   "reasoning_tokens": 4484
+  },
+  {
+   "setting": "xhigh",
+   "gen_id": "gen-1792725958-sJxlmSHqRWRQoZtZEkMz",
+   "provider": "Anthropic",
+   "cost": 0.0011836,
+   "standard_price_cost": 0.0011836,
+   "reasoning_tokens": 2349
+  },
+  {
+   "setting": "xhigh",
+   "gen_id": "gen-1792725959-q1Au42y1LAkXNEiip5tP",
+   "provider": "Anthropic",
+   "cost": 0.0007641,
+   "standard_price_cost": 0.0007641,
+   "reasoning_tokens": 1510
+  },
+  {
+   "setting": "xhigh",
+   "gen_id": "gen-1792725959-TGPma0Gi1eLKYJWDMDBZ",
+   "provider": "Anthropic",
+   "cost": 0.0008396,
+   "standard_price_cost": 0.0008395999999999999,
+   "reasoning_tokens": 1661
+  },
+  {
+   "setting": "xhigh",
+   "gen_id": "gen-1792725959-gkW6ea7jG0aZ0D4y7N8s",
+   "provider": "Anthropic",
+   "cost": 0.0008046,
+   "standard_price_cost": 0.0008045999999999999,
+   "reasoning_tokens": 1591
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1792725967-rGFg2kl3OM71PjZwF8Z2",
+   "provider": "Anthropic",
+   "cost": 0.0007311,
+   "standard_price_cost": 0.0007310999999999999,
+   "reasoning_tokens": 1444
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1792725967-zxi3zZhV4z1Scfb9y94w",
+   "provider": "Anthropic",
+   "cost": 0.0006801,
+   "standard_price_cost": 0.0006800999999999999,
+   "reasoning_tokens": 1342
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1792725968-aeHDDvwd5XWRQeJPDnX1",
+   "provider": "Anthropic",
+   "cost": 0.0006756,
+   "standard_price_cost": 0.0006755999999999999,
+   "reasoning_tokens": 1333
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1792725968-aTMbGZDDHpA7nu4WcTZq",
+   "provider": "Anthropic",
+   "cost": 0.0007741,
+   "standard_price_cost": 0.0007740999999999999,
+   "reasoning_tokens": 1530
+  },
+  {
+   "setting": "medium",
+   "gen_id": "gen-1792725968-S6EYXgDnlyuiYC6XprGU",
+   "provider": "Anthropic",
+   "cost": 0.0007461,
+   "standard_price_cost": 0.0007461,
+   "reasoning_tokens": 1474
+  },
+  {
+   "setting": "medium",
+   "gen_id": "gen-1792725971-73uqMX0i3vyEfeeq2Flo",
+   "provider": "Anthropic",
+   "cost": 0.0006831,
+   "standard_price_cost": 0.0006831,
+   "reasoning_tokens": 1348
+  },
+  {
+   "setting": "medium",
+   "gen_id": "gen-1792725971-HBYjmbQKfnkrrdZ3Mxo5",
+   "provider": "Anthropic",
+   "cost": 0.0005686,
+   "standard_price_cost": 0.0005685999999999999,
+   "reasoning_tokens": 1119
+  },
+  {
+   "setting": "medium",
+   "gen_id": "gen-1792725973-uahV4PwUALJMGmrNZVqY",
+   "provider": "Anthropic",
+   "cost": 0.0006576,
+   "standard_price_cost": 0.0006575999999999999,
+   "reasoning_tokens": 1297
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1792725974-UlJUy7fp1rVD3BOwafBh",
+   "provider": "Anthropic",
+   "cost": 0.0006181,
+   "standard_price_cost": 0.0006180999999999999,
+   "reasoning_tokens": 1218
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1792725974-71z2MU3iA3kT9zAEkwSJ",
+   "provider": "Anthropic",
+   "cost": 0.0005116,
+   "standard_price_cost": 0.0005116,
+   "reasoning_tokens": 0
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1792725975-QLzOjH6A2j6y6HBhCWKr",
+   "provider": "Anthropic",
+   "cost": 0.0006146,
+   "standard_price_cost": 0.0006146,
+   "reasoning_tokens": 1211
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1792725976-UTKzd61KJQAVAqr8yhlW",
+   "provider": "Anthropic",
+   "cost": 0.0005786,
+   "standard_price_cost": 0.0005786,
+   "reasoning_tokens": 1139
+  },
+  {
+   "setting": "none",
+   "gen_id": "gen-1792725976-VEs7vYiu5P64PS5BGoig",
+   "provider": "Anthropic",
+   "cost": 0.0006039,
+   "standard_price_cost": 0.0006039,
+   "reasoning_tokens": 0
+  },
+  {
+   "setting": "none",
+   "gen_id": "gen-1792725978-cj7jHfR6uujMvCxlaHNf",
+   "provider": "Anthropic",
+   "cost": 0.0005674,
+   "standard_price_cost": 0.0005673999999999999,
+   "reasoning_tokens": 0
+  },
+  {
+   "setting": "none",
+   "gen_id": "gen-1792725978-9GgfQAenZSks9aEFxWE0",
+   "provider": "Anthropic",
+   "cost": 0.0006079,
+   "standard_price_cost": 0.0006079,
+   "reasoning_tokens": 0
+  },
+  {
+   "setting": "none",
+   "gen_id": "gen-1792725979-r9YUrvvVCwtWUT8kdlYp",
+   "provider": "Anthropic",
+   "cost": 0.0006044,
+   "standard_price_cost": 0.0006044,
+   "reasoning_tokens": 0
+  }
+ ],
+ "cost": 0.024625,
+ "passed": true,
+ "failures": []
+}

@@ -1,0 +1,109 @@
+config,model,reasoning,run,correct,SET,WHY,XCO,asked_again,usd,billed_usd
+claude-opus-5.5-max,Claude Opus 5.5,max,1,98,52,26,20,5,126.836562,143.678860
+claude-opus-5.5-max,Claude Opus 5.5,max,2,99,52,27,20,5,129.817424,143.888825
+claude-opus-5.5-max,Claude Opus 5.5,max,3,99,52,27,20,6,128.810699,148.542588
+claude-opus-5.5-medium,Claude Opus 5.5,medium,1,91,47,24,20,0,64.704605,64.704605
+claude-opus-5.5-medium,Claude Opus 5.5,medium,2,90,48,23,19,0,67.644646,67.644646
+claude-opus-5.5-medium,Claude Opus 5.5,medium,3,89,46,24,19,0,65.013649,65.013649
+claude-sonnet-5.5-max,Claude Sonnet 5.5,max,1,99,52,27,20,1,65.736441,68.921876
+claude-sonnet-5.5-max,Claude Sonnet 5.5,max,2,98,51,27,20,2,65.882016,70.313150
+claude-sonnet-5.5-max,Claude Sonnet 5.5,max,3,97,51,26,20,2,65.658040,70.553139
+claude-sonnet-5.5-high,Claude Sonnet 5.5,high,1,82,46,18,18,0,31.151574,31.151574
+claude-sonnet-5.5-high,Claude Sonnet 5.5,high,2,80,43,19,18,0,30.880787,30.880787
+claude-sonnet-5.5-high,Claude Sonnet 5.5,high,3,83,45,20,18,0,30.650705,30.650705
+claude-haiku-5.5-max,Claude Haiku 5.5,max,1,88,47,21,20,0,14.915180,14.915180
+claude-haiku-5.5-max,Claude Haiku 5.5,max,2,87,46,21,20,0,15.491572,15.491572
+claude-haiku-5.5-max,Claude Haiku 5.5,max,3,90,48,23,19,0,15.199994,15.199994
+claude-haiku-5.5-medium,Claude Haiku 5.5,medium,1,69,34,17,18,0,6.585594,6.585594
+claude-haiku-5.5-medium,Claude Haiku 5.5,medium,2,67,31,16,20,0,6.386936,6.386936
+claude-haiku-5.5-medium,Claude Haiku 5.5,medium,3,69,33,17,19,0,6.418690,6.418690
+gpt-6.1-sol-max,GPT-6.1 Sol,max,1,96,51,25,20,0,34.871276,34.871276
+gpt-6.1-sol-max,GPT-6.1 Sol,max,2,96,51,25,20,0,34.837507,34.837507
+gpt-6.1-sol-max,GPT-6.1 Sol,max,3,95,51,24,20,0,33.384510,33.384510
+gpt-6.1-sol-medium,GPT-6.1 Sol,medium,1,94,50,24,20,0,20.038010,20.548039
+gpt-6.1-sol-medium,GPT-6.1 Sol,medium,2,93,49,24,20,0,20.853033,23.223205
+gpt-6.1-sol-medium,GPT-6.1 Sol,medium,3,93,49,24,20,0,19.366611,22.208610
+gpt-6.1-sol-low,GPT-6.1 Sol,low,1,92,49,23,20,0,18.201535,18.201535
+gpt-6.1-sol-low,GPT-6.1 Sol,low,2,92,47,25,20,0,18.406101,18.406101
+gpt-6.1-sol-low,GPT-6.1 Sol,low,3,92,49,23,20,0,18.162363,18.162363
+gpt-6-luna-max,GPT-6 Luna,max,1,77,38,21,18,0,2.265159,2.265159
+gpt-6-luna-max,GPT-6 Luna,max,2,78,37,23,18,0,2.310300,2.310300
+gpt-6-luna-max,GPT-6 Luna,max,3,79,39,22,18,0,2.222905,2.222905
+gpt-6-luna-medium,GPT-6 Luna,medium,1,69,37,17,15,0,1.504439,1.504439
+gpt-6-luna-medium,GPT-6 Luna,medium,2,72,37,19,16,0,1.527083,1.527083
+gpt-6-luna-medium,GPT-6 Luna,medium,3,74,39,18,17,1,1.349653,1.578412
+gemini-4-argon-high,Gemini 4 Argon,high,1,98,52,26,20,1,29.132826,30.063654
+gemini-4-argon-high,Gemini 4 Argon,high,2,98,52,26,20,0,29.100881,29.100881
+gemini-4-argon-high,Gemini 4 Argon,high,3,98,52,26,20,0,29.561884,29.561884
+gemini-4-argon-medium,Gemini 4 Argon,medium,1,97,52,25,20,0,23.522770,25.209546
+gemini-4-argon-medium,Gemini 4 Argon,medium,2,97,52,25,20,0,24.292748,26.862448
+gemini-4-argon-medium,Gemini 4 Argon,medium,3,98,52,26,20,0,24.563311,25.134452
+gemini-3.8-flash-high,Gemini 3.8 Flash,high,1,96,51,26,19,34,26.461354,34.240096
+gemini-3.8-flash-high,Gemini 3.8 Flash,high,2,94,49,26,19,35,24.623373,33.073531
+gemini-3.8-flash-high,Gemini 3.8 Flash,high,3,94,48,26,20,32,25.676930,33.458433
+gemini-3.8-flash-medium,Gemini 3.8 Flash,medium,1,89,48,24,17,16,12.666189,17.455767
+gemini-3.8-flash-medium,Gemini 3.8 Flash,medium,2,80,43,24,13,15,10.650174,15.717960
+gemini-3.8-flash-medium,Gemini 3.8 Flash,medium,3,64,40,22,2,7,7.167489,10.951349
+muse-wonder-max,Muse Wonder,max,1,92,47,25,20,0,101.550324,101.550324
+muse-wonder-max,Muse Wonder,max,2,94,49,25,20,0,104.934227,105.042852
+muse-wonder-max,Muse Wonder,max,3,91,48,24,19,1,106.665427,109.300815
+muse-wonder-adaptive,Muse Wonder,adaptive,1,93,48,26,19,0,54.422954,54.422954
+muse-wonder-adaptive,Muse Wonder,adaptive,2,91,47,25,19,0,54.114374,54.114374
+muse-wonder-adaptive,Muse Wonder,adaptive,3,93,48,25,20,0,52.698750,52.698750
+muse-spark-open-xhigh,Muse Spark Open,xhigh,1,80,42,22,16,0,24.814559,24.814559
+muse-spark-open-xhigh,Muse Spark Open,xhigh,2,81,44,22,15,0,23.203551,23.203551
+muse-spark-open-xhigh,Muse Spark Open,xhigh,3,85,45,22,18,0,20.553446,20.553446
+grok-4.7-xhigh,Grok 4.7,xhigh,1,74,41,17,16,0,40.689116,40.689116
+grok-4.7-xhigh,Grok 4.7,xhigh,2,69,40,17,12,0,40.432582,40.432582
+grok-4.7-xhigh,Grok 4.7,xhigh,3,72,39,20,13,0,41.801096,43.381748
+grok-4.7-high,Grok 4.7,high,1,64,35,17,12,0,32.980594,32.980594
+grok-4.7-high,Grok 4.7,high,2,65,35,17,13,0,33.234972,33.234972
+grok-4.7-high,Grok 4.7,high,3,68,36,19,13,0,33.780320,33.780320
+deepseek-v4.1-flash-max,DeepSeek V4.1 Flash,max,1,89,44,25,20,0,3.516446,3.516446
+deepseek-v4.1-flash-max,DeepSeek V4.1 Flash,max,2,88,45,24,19,1,3.407512,3.465177
+deepseek-v4.1-flash-max,DeepSeek V4.1 Flash,max,3,86,44,23,19,0,3.361019,3.361019
+deepseek-v4.1-flash-high,DeepSeek V4.1 Flash,high,1,79,39,23,17,0,2.430353,2.430353
+deepseek-v4.1-flash-high,DeepSeek V4.1 Flash,high,2,79,39,22,18,0,2.444069,2.444069
+deepseek-v4.1-flash-high,DeepSeek V4.1 Flash,high,3,81,42,21,18,0,2.537508,2.537508
+qwen3.8-max-xhigh,Qwen3.8 Max,xhigh,1,88,44,24,20,0,30.779254,31.817380
+qwen3.8-max-xhigh,Qwen3.8 Max,xhigh,2,90,46,24,20,3,31.255206,36.247742
+qwen3.8-max-xhigh,Qwen3.8 Max,xhigh,3,89,46,24,19,2,31.078578,33.653314
+qwen3.8-27b-xhigh,Qwen3.8 27B,xhigh,1,76,42,16,18,0,7.650513,7.887356
+qwen3.8-27b-xhigh,Qwen3.8 27B,xhigh,2,76,40,17,19,0,7.835013,7.929364
+qwen3.8-27b-xhigh,Qwen3.8 27B,xhigh,3,69,35,15,19,0,7.557904,7.642818
+glm-5.3-max,GLM-5.3,max,1,85,43,24,18,0,18.217921,18.670567
+glm-5.3-max,GLM-5.3,max,2,80,43,20,17,0,17.221142,17.441336
+glm-5.3-max,GLM-5.3,max,3,80,42,23,15,0,17.285792,17.443414
+glm-5.3-flash-max,GLM-5.3-Flash,max,1,80,42,20,18,0,1.904224,1.904224
+glm-5.3-flash-max,GLM-5.3-Flash,max,2,79,41,20,18,0,1.811227,1.811227
+glm-5.3-flash-max,GLM-5.3-Flash,max,3,76,38,22,16,1,1.866318,1.977869
+kimi-k3-max,Kimi K3,max,1,80,43,20,17,0,32.046206,34.198861
+kimi-k3-max,Kimi K3,max,2,76,39,21,16,0,29.167314,32.889759
+kimi-k3-max,Kimi K3,max,3,75,37,19,19,0,29.615133,29.615133
+minimax-m3.1-flash-max,MiniMax M3.1 Flash,max,1,90,48,24,18,6,3.143764,3.648845
+minimax-m3.1-flash-max,MiniMax M3.1 Flash,max,2,91,49,22,20,4,3.245301,3.606321
+minimax-m3.1-flash-max,MiniMax M3.1 Flash,max,3,94,51,23,20,4,3.246932,3.658857
+minimax-m3.1-flash-max,MiniMax M3.1 Flash,max,4,95,50,25,20,4,3.301370,3.730538
+minimax-m3.1-flash-max,MiniMax M3.1 Flash,max,5,92,48,25,19,6,3.278679,3.810186
+minimax-m3.1-flash-max,MiniMax M3.1 Flash,max,6,89,49,22,18,7,3.231612,3.857336
+minimax-m3.1-flash-xhigh,MiniMax M3.1 Flash,xhigh,1,94,48,26,20,4,3.136808,3.557094
+minimax-m3.1-flash-xhigh,MiniMax M3.1 Flash,xhigh,2,93,51,22,20,5,3.363089,3.898238
+minimax-m3.1-flash-xhigh,MiniMax M3.1 Flash,xhigh,3,93,49,24,20,10,3.127251,3.924419
+minimax-m3.1-flash-xhigh,MiniMax M3.1 Flash,xhigh,4,93,48,25,20,1,3.168443,3.279732
+minimax-m3.1-flash-xhigh,MiniMax M3.1 Flash,xhigh,5,91,46,25,20,6,3.139156,3.620440
+minimax-m3.1-flash-xhigh,MiniMax M3.1 Flash,xhigh,6,92,51,22,19,5,3.166874,3.700634
+minimax-m3.1-flash-high,MiniMax M3.1 Flash,high,1,91,48,23,20,6,3.246961,3.727898
+minimax-m3.1-flash-high,MiniMax M3.1 Flash,high,2,88,46,22,20,7,2.960075,3.550078
+minimax-m3.1-flash-high,MiniMax M3.1 Flash,high,3,93,49,24,20,12,3.080601,4.023448
+minimax-m3.1-flash-medium,MiniMax M3.1 Flash,medium,1,85,45,22,18,7,2.539327,3.182851
+minimax-m3.1-flash-medium,MiniMax M3.1 Flash,medium,2,84,42,23,19,6,2.656151,3.167445
+minimax-m3.1-flash-medium,MiniMax M3.1 Flash,medium,3,88,46,23,19,6,2.660294,3.191372
+minimax-m3.1-flash-low,MiniMax M3.1 Flash,low,1,81,41,22,18,4,2.047934,2.419159
+minimax-m3.1-flash-low,MiniMax M3.1 Flash,low,2,79,43,18,18,5,2.132120,2.516690
+minimax-m3.1-flash-low,MiniMax M3.1 Flash,low,3,87,45,23,19,6,2.193352,2.708578
+mimo-v2.6-pro,MiMo-V2.6-Pro,,1,86,42,24,20,0,3.849661,3.849661
+mimo-v2.6-pro,MiMo-V2.6-Pro,,2,84,43,22,19,0,3.773395,3.776378
+mimo-v2.6-pro,MiMo-V2.6-Pro,,3,87,44,24,19,0,3.803466,3.803466
+mimo-v2.6-flash,MiMo-V2.6-Flash,,1,82,41,24,17,0,1.538821,1.539593
+mimo-v2.6-flash,MiMo-V2.6-Flash,,2,84,41,25,18,0,1.435681,1.507286
+mimo-v2.6-flash,MiMo-V2.6-Flash,,3,85,42,24,19,0,1.435294,1.435294

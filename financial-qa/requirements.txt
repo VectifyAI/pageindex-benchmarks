@@ -1,0 +1,5 @@
+# run.py and index.py; grade.py, results.py and corpus/fetch.py need only the standard library
+pageindex==0.4.4
+litellm==1.106.0
+openai-agents==0.20.0
+openai==2.54.0

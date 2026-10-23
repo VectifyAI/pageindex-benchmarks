@@ -1,0 +1,67 @@
+{
+ "model": "mimo-v2.6-pro",
+ "route": "xiaomi/mimo-v2.6-pro",
+ "provider": "Xiaomi",
+ "reasoning_setting": null,
+ "checked": "2026-10-22 14:14:58 +0800",
+ "openrouter_reasoning": {
+  "mandatory": false
+ },
+ "declared_default": null,
+ "pricing": {
+  "prompt": "0.000000435",
+  "completion": "0.00000087",
+  "input_cache_read": "0.0000000036"
+ },
+ "endpoint_tag": "xiaomi/fp8",
+ "endpoint_pricing": {
+  "prompt": "0.000000435",
+  "completion": "0.00000087",
+  "input_cache_read": "0.0000000036",
+  "discount": 0
+ },
+ "billed_over_standard": [
+  1.0,
+  1.0
+ ],
+ "reasoning_tokens_median": {
+  "None": 3497
+ },
+ "calls": [
+  {
+   "setting": null,
+   "gen_id": "gen-1792649616-F0ZjGj19KpQl0Gg3ymUo",
+   "provider": "Xiaomi",
+   "cost": 0.00450921,
+   "standard_price_cost": 0.0045092100000000005,
+   "reasoning_tokens": 4235
+  },
+  {
+   "setting": null,
+   "gen_id": "gen-1792649616-MSmu9fH2THDeenj3qJDd",
+   "provider": "Xiaomi",
+   "cost": 0.00342258,
+   "standard_price_cost": 0.00342258,
+   "reasoning_tokens": 3121
+  },
+  {
+   "setting": null,
+   "gen_id": "gen-1792649616-YgREnadjZMrn8mY91pqm",
+   "provider": "Xiaomi",
+   "cost": 0.00307284,
+   "standard_price_cost": 0.0030728400000000003,
+   "reasoning_tokens": 3497
+  },
+  {
+   "setting": null,
+   "gen_id": "gen-1792649616-r86thzH7j4P0RO6NKtSP",
+   "provider": "Xiaomi",
+   "cost": 0.00260304,
+   "standard_price_cost": 0.0026030400000000005,
+   "reasoning_tokens": 2954
+  }
+ ],
+ "cost": 0.013608,
+ "passed": true,
+ "failures": []
+}

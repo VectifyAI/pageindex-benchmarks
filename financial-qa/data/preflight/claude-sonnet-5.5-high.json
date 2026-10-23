@@ -1,0 +1,246 @@
+{
+ "model": "claude-sonnet-5.5-high",
+ "route": "anthropic/claude-sonnet-5.5",
+ "provider": "Anthropic",
+ "reasoning_setting": null,
+ "checked": "2026-10-22 14:14:03 +0800",
+ "openrouter_reasoning": {
+  "mandatory": true,
+  "supported_efforts": [
+   "max",
+   "xhigh",
+   "high",
+   "medium",
+   "low"
+  ],
+  "default_effort": "high"
+ },
+ "declared_default": "high",
+ "pricing": {
+  "prompt": "0.000002",
+  "completion": "0.00001",
+  "web_search": "0.01",
+  "input_cache_read": "0.0000001",
+  "input_cache_write": "0.0000025",
+  "input_cache_write_1h": "0.000004"
+ },
+ "endpoint_tag": "anthropic",
+ "endpoint_pricing": {
+  "prompt": "0.000002",
+  "completion": "0.00001",
+  "web_search": "0.01",
+  "input_cache_read": "0.0000001",
+  "input_cache_write": "0.0000025",
+  "input_cache_write_1h": "0.000004",
+  "discount": 0
+ },
+ "billed_over_standard": [
+  1.0,
+  1.0
+ ],
+ "reasoning_tokens_median": {
+  "None": 660,
+  "max": 2088,
+  "xhigh": 774,
+  "high": 650,
+  "medium": 0,
+  "low": 0
+ },
+ "calls": [
+  {
+   "setting": null,
+   "gen_id": "gen-1792649616-dmkupBFeoQiuNRYmB8qV",
+   "provider": "Anthropic",
+   "cost": 0.006342,
+   "standard_price_cost": 0.006342,
+   "reasoning_tokens": 614
+  },
+  {
+   "setting": null,
+   "gen_id": "gen-1792649616-dRxfuJVXtujcLrGXMxZR",
+   "provider": "Anthropic",
+   "cost": 0.007722,
+   "standard_price_cost": 0.0077220000000000006,
+   "reasoning_tokens": 752
+  },
+  {
+   "setting": null,
+   "gen_id": "gen-1792649616-GE9uf1UVuc9ChUKPn5bv",
+   "provider": "Anthropic",
+   "cost": 0.006782,
+   "standard_price_cost": 0.006782000000000001,
+   "reasoning_tokens": 660
+  },
+  {
+   "setting": null,
+   "gen_id": "gen-1792649616-PVTN2uiyukz6W5ZYS7iK",
+   "provider": "Anthropic",
+   "cost": 0.006272,
+   "standard_price_cost": 0.006272000000000001,
+   "reasoning_tokens": 607
+  },
+  {
+   "setting": "max",
+   "gen_id": "gen-1792649616-GOdP9xiUxvBuU9IiAAgB",
+   "provider": "Anthropic",
+   "cost": 0.018962,
+   "standard_price_cost": 0.018962,
+   "reasoning_tokens": 1876
+  },
+  {
+   "setting": "max",
+   "gen_id": "gen-1792649616-eYw8N2ESuov58SPyGDxX",
+   "provider": "Anthropic",
+   "cost": 0.021082,
+   "standard_price_cost": 0.021082,
+   "reasoning_tokens": 2088
+  },
+  {
+   "setting": "max",
+   "gen_id": "gen-1792649616-XivYpwL4efEgWztlML13",
+   "provider": "Anthropic",
+   "cost": 0.022052,
+   "standard_price_cost": 0.022052000000000002,
+   "reasoning_tokens": 2185
+  },
+  {
+   "setting": "max",
+   "gen_id": "gen-1792649616-yfW8Phc8NXwWV44DUgTb",
+   "provider": "Anthropic",
+   "cost": 0.020672,
+   "standard_price_cost": 0.020672,
+   "reasoning_tokens": 2047
+  },
+  {
+   "setting": "xhigh",
+   "gen_id": "gen-1792649622-qWJnSUPXW53PmCx1yEnN",
+   "provider": "Anthropic",
+   "cost": 0.008522,
+   "standard_price_cost": 0.008522,
+   "reasoning_tokens": 832
+  },
+  {
+   "setting": "xhigh",
+   "gen_id": "gen-1792649623-XYwYgwCFUtjtfxX8fMuP",
+   "provider": "Anthropic",
+   "cost": 0.007742,
+   "standard_price_cost": 0.007742000000000001,
+   "reasoning_tokens": 754
+  },
+  {
+   "setting": "xhigh",
+   "gen_id": "gen-1792649623-QBqh7ICieCVz5JLnjSO1",
+   "provider": "Anthropic",
+   "cost": 0.007942,
+   "standard_price_cost": 0.007942000000000001,
+   "reasoning_tokens": 774
+  },
+  {
+   "setting": "xhigh",
+   "gen_id": "gen-1792649624-zLXeMl6RUQSXeSYWNChQ",
+   "provider": "Anthropic",
+   "cost": 0.007352,
+   "standard_price_cost": 0.007352000000000001,
+   "reasoning_tokens": 715
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1792649629-jwRxaGps1JHVz96aUkpl",
+   "provider": "Anthropic",
+   "cost": 0.007762,
+   "standard_price_cost": 0.007762000000000001,
+   "reasoning_tokens": 756
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1792649630-csm2Q7v4FBWsvtmMbHBG",
+   "provider": "Anthropic",
+   "cost": 0.006462,
+   "standard_price_cost": 0.006462000000000001,
+   "reasoning_tokens": 626
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1792649631-laLi1KDDGXbTUxVdel3j",
+   "provider": "Anthropic",
+   "cost": 0.006682,
+   "standard_price_cost": 0.0066820000000000004,
+   "reasoning_tokens": 650
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1792649631-b0KPAm3QT9IRLKQFQJlo",
+   "provider": "Anthropic",
+   "cost": 0.006692,
+   "standard_price_cost": 0.006692000000000001,
+   "reasoning_tokens": 649
+  },
+  {
+   "setting": "medium",
+   "gen_id": "gen-1792649631-w6WPEM29SY7uIEU1y0q0",
+   "provider": "Anthropic",
+   "cost": 0.008162,
+   "standard_price_cost": 0.008162,
+   "reasoning_tokens": 0
+  },
+  {
+   "setting": "medium",
+   "gen_id": "gen-1792649631-4rCNhIYp7jAcME9d0itx",
+   "provider": "Anthropic",
+   "cost": 0.008352,
+   "standard_price_cost": 0.008352,
+   "reasoning_tokens": 0
+  },
+  {
+   "setting": "medium",
+   "gen_id": "gen-1792649632-EikqJ4T7bv4Oe65sGXh2",
+   "provider": "Anthropic",
+   "cost": 0.007522,
+   "standard_price_cost": 0.007522000000000001,
+   "reasoning_tokens": 0
+  },
+  {
+   "setting": "medium",
+   "gen_id": "gen-1792649633-Bomm3urxaCbzUtczsxZs",
+   "provider": "Anthropic",
+   "cost": 0.007622,
+   "standard_price_cost": 0.007622000000000001,
+   "reasoning_tokens": 0
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1792649637-YtVt7NgLUGltrXR4wYx3",
+   "provider": "Anthropic",
+   "cost": 0.009662,
+   "standard_price_cost": 0.009662,
+   "reasoning_tokens": 0
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1792649637-BfmeOkQYqzWtMrTAicIB",
+   "provider": "Anthropic",
+   "cost": 0.007832,
+   "standard_price_cost": 0.007832,
+   "reasoning_tokens": 0
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1792649637-96WwQ0blsrl0L761VM41",
+   "provider": "Anthropic",
+   "cost": 0.007802,
+   "standard_price_cost": 0.007802000000000001,
+   "reasoning_tokens": 0
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1792649637-LTqbYzffXc8X3Ei8mkbD",
+   "provider": "Anthropic",
+   "cost": 0.008392,
+   "standard_price_cost": 0.008392,
+   "reasoning_tokens": 0
+  }
+ ],
+ "cost": 0.234388,
+ "passed": true,
+ "failures": []
+}

@@ -1,0 +1,207 @@
+{
+ "model": "kimi-k3-max",
+ "route": "moonshotai/kimi-k3",
+ "provider": "Moonshot AI",
+ "reasoning_setting": null,
+ "checked": "2026-10-22 14:16:37 +0800",
+ "openrouter_reasoning": {
+  "mandatory": false,
+  "default_enabled": true,
+  "supported_efforts": [
+   "max",
+   "high",
+   "low",
+   "none"
+  ],
+  "default_effort": "max"
+ },
+ "declared_default": "max",
+ "pricing": {
+  "prompt": "0.000000239",
+  "completion": "0.000011936",
+  "input_cache_read": "0.00000021"
+ },
+ "endpoint_tag": "moonshotai/mxfp4",
+ "endpoint_pricing": {
+  "prompt": "0.000003",
+  "completion": "0.000015",
+  "input_cache_read": "0.0000003",
+  "discount": 0
+ },
+ "billed_over_standard": [
+  1.0,
+  1.0
+ ],
+ "reasoning_tokens_median": {
+  "None": 3502,
+  "max": 2584,
+  "high": 3093,
+  "low": 245,
+  "none": 0
+ },
+ "calls": [
+  {
+   "setting": null,
+   "gen_id": "gen-1792649617-Bo24AcMj7DjLF874RkfS",
+   "provider": "Moonshot AI",
+   "cost": 0.008733,
+   "standard_price_cost": 0.008733,
+   "reasoning_tokens": 540
+  },
+  {
+   "setting": null,
+   "gen_id": "gen-1792649617-kmTbd4PIemdvTqXVHaDY",
+   "provider": "Moonshot AI",
+   "cost": 0.014703,
+   "standard_price_cost": 0.014702999999999999,
+   "reasoning_tokens": 938
+  },
+  {
+   "setting": null,
+   "gen_id": "gen-1792649617-AKUjVAJ0pmHDQLFq2O05",
+   "provider": "Moonshot AI",
+   "cost": 0.053163,
+   "standard_price_cost": 0.053163,
+   "reasoning_tokens": 3502
+  },
+  {
+   "setting": null,
+   "gen_id": "gen-1792649617-Y2vjq0WCWnhpSU3jm99L",
+   "provider": "Moonshot AI",
+   "cost": 0.073218,
+   "standard_price_cost": 0.073218,
+   "reasoning_tokens": 4839
+  },
+  {
+   "setting": "max",
+   "gen_id": "gen-1792649617-XuMjyL7UdLL3WqgqPM62",
+   "provider": "Moonshot AI",
+   "cost": 0.015198,
+   "standard_price_cost": 0.015198,
+   "reasoning_tokens": 971
+  },
+  {
+   "setting": "max",
+   "gen_id": "gen-1792649617-Gv94MxtUnoWDhROeEEVm",
+   "provider": "Moonshot AI",
+   "cost": 0.006018,
+   "standard_price_cost": 0.006018,
+   "reasoning_tokens": 359
+  },
+  {
+   "setting": "max",
+   "gen_id": "gen-1792649617-vQ8Ll5FjetzoXZYht2iK",
+   "provider": "Moonshot AI",
+   "cost": 0.093378,
+   "standard_price_cost": 0.093378,
+   "reasoning_tokens": 6183
+  },
+  {
+   "setting": "max",
+   "gen_id": "gen-1792649617-TDU7mFYO0WxNs6zLQggQ",
+   "provider": "Moonshot AI",
+   "cost": 0.039393,
+   "standard_price_cost": 0.039393,
+   "reasoning_tokens": 2584
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1792649631-gx1TKgWRFcGZ1gTq1AOJ",
+   "provider": "Moonshot AI",
+   "cost": 0.024126,
+   "standard_price_cost": 0.024126,
+   "reasoning_tokens": 1566
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1792649637-tncgIIJQEzdyYiaUSkxq",
+   "provider": "Moonshot AI",
+   "cost": 0.047031,
+   "standard_price_cost": 0.047031,
+   "reasoning_tokens": 3093
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1792649647-kfgB8AH5SUyYg3Mdbhri",
+   "provider": "Moonshot AI",
+   "cost": 0.067581,
+   "standard_price_cost": 0.067581,
+   "reasoning_tokens": 4463
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1792649648-RBsjccIk8azTY1i9CYQ4",
+   "provider": "Moonshot AI",
+   "cost": 0.027111,
+   "standard_price_cost": 0.027111,
+   "reasoning_tokens": 1765
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1792649681-PzmsKLZdJpfVBhBfQHw7",
+   "provider": "Moonshot AI",
+   "cost": 0.004311,
+   "standard_price_cost": 0.004311,
+   "reasoning_tokens": 245
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1792649692-ocN49iVtMyBX0XaKTRBr",
+   "provider": "Moonshot AI",
+   "cost": 0.003246,
+   "standard_price_cost": 0.003246,
+   "reasoning_tokens": 174
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1792649692-JmGm8cfYWz61anwZzxPC",
+   "provider": "Moonshot AI",
+   "cost": 0.003666,
+   "standard_price_cost": 0.003666,
+   "reasoning_tokens": 202
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1792649701-DtJDQasnqFtRMzewRHCs",
+   "provider": "Moonshot AI",
+   "cost": 0.012126,
+   "standard_price_cost": 0.012126000000000001,
+   "reasoning_tokens": 766
+  },
+  {
+   "setting": "none",
+   "gen_id": "gen-1792649702-WX6mtw6Qka6B0YtU0Fv0",
+   "provider": "Moonshot AI",
+   "cost": 0.000357,
+   "standard_price_cost": 0.000357,
+   "reasoning_tokens": 0
+  },
+  {
+   "setting": "none",
+   "gen_id": "gen-1792649705-HiPV8ZTQckJ6Lzthu6nO",
+   "provider": "Moonshot AI",
+   "cost": 0.000357,
+   "standard_price_cost": 0.000357,
+   "reasoning_tokens": 0
+  },
+  {
+   "setting": "none",
+   "gen_id": "gen-1792649708-ZxNV3wSaQzbia2n9oQ2E",
+   "provider": "Moonshot AI",
+   "cost": 0.000357,
+   "standard_price_cost": 0.000357,
+   "reasoning_tokens": 0
+  },
+  {
+   "setting": "none",
+   "gen_id": "gen-1792649708-lt7RVRsGUNXrCBLhWKvq",
+   "provider": "Moonshot AI",
+   "cost": 0.000357,
+   "standard_price_cost": 0.000357,
+   "reasoning_tokens": 0
+  }
+ ],
+ "cost": 0.49443,
+ "passed": true,
+ "failures": []
+}

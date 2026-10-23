@@ -1,0 +1,173 @@
+{
+ "model": "glm-5.3-flash-max",
+ "route": "z-ai/glm-5.3-flash",
+ "provider": "Z.AI",
+ "reasoning_setting": null,
+ "checked": "2026-10-22 14:14:25 +0800",
+ "openrouter_reasoning": {
+  "mandatory": true,
+  "default_enabled": true,
+  "supported_efforts": [
+   "max",
+   "high",
+   "low"
+  ],
+  "default_effort": "max"
+ },
+ "declared_default": "max",
+ "pricing": {
+  "prompt": "0.0000000107",
+  "completion": "0.0000001707",
+  "input_cache_read": "0.0000000107"
+ },
+ "endpoint_tag": "z-ai/fp8",
+ "endpoint_pricing": {
+  "prompt": "0.00000015",
+  "completion": "0.0000005",
+  "input_cache_read": "0.00000003",
+  "discount": 0
+ },
+ "billed_over_standard": [
+  1.0,
+  1.0
+ ],
+ "reasoning_tokens_median": {
+  "None": 1327,
+  "max": 2951,
+  "high": 443,
+  "low": 325
+ },
+ "calls": [
+  {
+   "setting": null,
+   "gen_id": "gen-1792649616-2qgoQRSGqjmZ3aSfAsPr",
+   "provider": "Z.AI",
+   "cost": 0.0006742,
+   "standard_price_cost": 0.0006742,
+   "reasoning_tokens": 1327
+  },
+  {
+   "setting": null,
+   "gen_id": "gen-1792649616-p2jvZpGqvUCd6fECQg8t",
+   "provider": "Z.AI",
+   "cost": 0.0005252,
+   "standard_price_cost": 0.0005252,
+   "reasoning_tokens": 1029
+  },
+  {
+   "setting": null,
+   "gen_id": "gen-1792649616-q9oHFQms2waU9tC260Cc",
+   "provider": "Z.AI",
+   "cost": 0.0006552,
+   "standard_price_cost": 0.0006552,
+   "reasoning_tokens": 1290
+  },
+  {
+   "setting": null,
+   "gen_id": "gen-1792649616-ChbaldoDc7r1s8rdwcFK",
+   "provider": "Z.AI",
+   "cost": 0.0011862,
+   "standard_price_cost": 0.0011861999999999999,
+   "reasoning_tokens": 2351
+  },
+  {
+   "setting": "max",
+   "gen_id": "gen-1792649616-EWYZw6Bp6eQ7rXmhUUbq",
+   "provider": "Z.AI",
+   "cost": 0.0014862,
+   "standard_price_cost": 0.0014861999999999998,
+   "reasoning_tokens": 2951
+  },
+  {
+   "setting": "max",
+   "gen_id": "gen-1792649616-qnNXO2kL7pTWMxuRaDEW",
+   "provider": "Z.AI",
+   "cost": 0.0015157,
+   "standard_price_cost": 0.0015156999999999998,
+   "reasoning_tokens": 3010
+  },
+  {
+   "setting": "max",
+   "gen_id": "gen-1792649616-OVMhL5rJpuUjhMF80m6m",
+   "provider": "Z.AI",
+   "cost": 0.0005687,
+   "standard_price_cost": 0.0005687,
+   "reasoning_tokens": 1116
+  },
+  {
+   "setting": "max",
+   "gen_id": "gen-1792649616-ubDnC2BANdu8nbRgzSvW",
+   "provider": "Z.AI",
+   "cost": 0.0006442,
+   "standard_price_cost": 0.0006442,
+   "reasoning_tokens": 1267
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1792649628-O4ns7t7kwmA9QvV6GCcD",
+   "provider": "Z.AI",
+   "cost": 0.0002072,
+   "standard_price_cost": 0.0002072,
+   "reasoning_tokens": 391
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1792649632-9pWdYhaY4mQ1HPB1RhVn",
+   "provider": "Z.AI",
+   "cost": 0.0004087,
+   "standard_price_cost": 0.00040869999999999996,
+   "reasoning_tokens": 794
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1792649633-aOsm8ZrmT0u9UkZXbFU9",
+   "provider": "Z.AI",
+   "cost": 0.0002332,
+   "standard_price_cost": 0.00023319999999999998,
+   "reasoning_tokens": 443
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1792649633-btFrN6enx6k7jXb38R5E",
+   "provider": "Z.AI",
+   "cost": 0.0001777,
+   "standard_price_cost": 0.00017769999999999998,
+   "reasoning_tokens": 334
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1792649636-s8loRzl7swXmdtOKqzkS",
+   "provider": "Z.AI",
+   "cost": 0.0001727,
+   "standard_price_cost": 0.0001727,
+   "reasoning_tokens": 325
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1792649638-HBarl86gvFIk2Ke7Jx6H",
+   "provider": "Z.AI",
+   "cost": 0.0001857,
+   "standard_price_cost": 0.0001857,
+   "reasoning_tokens": 348
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1792649638-TA0FSU5YPH2PCGQmro9E",
+   "provider": "Z.AI",
+   "cost": 9.42e-05,
+   "standard_price_cost": 9.419999999999999e-05,
+   "reasoning_tokens": 168
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1792649639-mMrj1Sed0LzB5r859UFT",
+   "provider": "Z.AI",
+   "cost": 0.0001592,
+   "standard_price_cost": 0.0001592,
+   "reasoning_tokens": 296
+  }
+ ],
+ "cost": 0.008894,
+ "passed": true,
+ "failures": []
+}

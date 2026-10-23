@@ -1,0 +1,288 @@
+{
+ "model": "deepseek-v4.1-flash-high",
+ "route": "deepseek/deepseek-v4.1-flash-1017",
+ "provider": "Together",
+ "reasoning_setting": null,
+ "checked": "2026-10-22 14:13:50 +0800",
+ "openrouter_reasoning": {
+  "mandatory": false,
+  "default_enabled": true,
+  "supported_efforts": [
+   "max",
+   "high",
+   "low",
+   "none"
+  ],
+  "default_effort": "high"
+ },
+ "declared_default": "high",
+ "pricing": {
+  "prompt": "0.0000003",
+  "completion": "0.0000012",
+  "input_cache_read": "0.000000006",
+  "overrides": [
+   {
+    "utc_days": [
+     "saturday",
+     "sunday"
+    ],
+    "prompt": "0.00000015",
+    "completion": "0.0000006",
+    "input_cache_read": "0.000000003"
+   },
+   {
+    "utc_days": [
+     "monday",
+     "tuesday",
+     "wednesday",
+     "thursday",
+     "friday"
+    ],
+    "utc_start": 0,
+    "utc_end": 100,
+    "prompt": "0.00000015",
+    "completion": "0.0000006",
+    "input_cache_read": "0.000000003"
+   },
+   {
+    "utc_days": [
+     "monday",
+     "tuesday",
+     "wednesday",
+     "thursday",
+     "friday"
+    ],
+    "utc_start": 100,
+    "utc_end": 400,
+    "prompt": "0.0000003",
+    "completion": "0.0000012",
+    "input_cache_read": "0.000000006"
+   },
+   {
+    "utc_days": [
+     "monday",
+     "tuesday",
+     "wednesday",
+     "thursday",
+     "friday"
+    ],
+    "utc_start": 400,
+    "utc_end": 600,
+    "prompt": "0.00000015",
+    "completion": "0.0000006",
+    "input_cache_read": "0.000000003"
+   },
+   {
+    "utc_days": [
+     "monday",
+     "tuesday",
+     "wednesday",
+     "thursday",
+     "friday"
+    ],
+    "utc_start": 600,
+    "utc_end": 1000,
+    "prompt": "0.0000003",
+    "completion": "0.0000012",
+    "input_cache_read": "0.000000006"
+   },
+   {
+    "utc_days": [
+     "monday",
+     "tuesday",
+     "wednesday",
+     "thursday",
+     "friday"
+    ],
+    "utc_start": 1000,
+    "utc_end": 0,
+    "prompt": "0.00000015",
+    "completion": "0.0000006",
+    "input_cache_read": "0.000000003"
+   }
+  ]
+ },
+ "endpoint_tag": "together",
+ "endpoint_pricing": {
+  "prompt": "0.0000003",
+  "completion": "0.0000012",
+  "input_cache_read": "0.000000006",
+  "discount": 0
+ },
+ "billed_over_standard": [
+  1.0,
+  1.0
+ ],
+ "reasoning_tokens_median": {
+  "None": 1862,
+  "max": 2341,
+  "high": 1953,
+  "low": 1702,
+  "none": 0
+ },
+ "calls": [
+  {
+   "setting": null,
+   "gen_id": "gen-1792649617-pQ3qIdrgoqG6ePh7XGhg",
+   "provider": "Together",
+   "cost": 0.001554,
+   "standard_price_cost": 0.0015539999999999998,
+   "reasoning_tokens": 1273
+  },
+  {
+   "setting": null,
+   "gen_id": "gen-1792649617-6QB18fVY8hz2DgNu12As",
+   "provider": "Together",
+   "cost": 0.0020772,
+   "standard_price_cost": 0.0020772,
+   "reasoning_tokens": 1709
+  },
+  {
+   "setting": null,
+   "gen_id": "gen-1792649617-BfJwWViqPgv9dSZ4SVPo",
+   "provider": "Together",
+   "cost": 0.0031404,
+   "standard_price_cost": 0.0031404,
+   "reasoning_tokens": 2595
+  },
+  {
+   "setting": null,
+   "gen_id": "gen-1792649617-UM6qFb7F1pNn8F4XmrnQ",
+   "provider": "Together",
+   "cost": 0.0022608,
+   "standard_price_cost": 0.0022608,
+   "reasoning_tokens": 1862
+  },
+  {
+   "setting": "max",
+   "gen_id": "gen-1792649617-HjaHKMCDxZBOURhnQxlS",
+   "provider": "Together",
+   "cost": 0.0028356,
+   "standard_price_cost": 0.0028355999999999998,
+   "reasoning_tokens": 2341
+  },
+  {
+   "setting": "max",
+   "gen_id": "gen-1792649617-5aW18d4lDUj3Xoh6WmrP",
+   "provider": "Together",
+   "cost": 0.0024216,
+   "standard_price_cost": 0.0024216,
+   "reasoning_tokens": 1996
+  },
+  {
+   "setting": "max",
+   "gen_id": "gen-1792649617-A4ztVNlZJhDrx29xQ20Q",
+   "provider": "Together",
+   "cost": 0.0026136,
+   "standard_price_cost": 0.0026135999999999998,
+   "reasoning_tokens": 2156
+  },
+  {
+   "setting": "max",
+   "gen_id": "gen-1792649617-lmEy9NnV0aysUAtsmgoW",
+   "provider": "Together",
+   "cost": 0.0029496,
+   "standard_price_cost": 0.0029495999999999997,
+   "reasoning_tokens": 2436
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1792649621-E75JOblKFBazNebLX5Ig",
+   "provider": "Together",
+   "cost": 0.00237,
+   "standard_price_cost": 0.0023699999999999997,
+   "reasoning_tokens": 1953
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1792649622-7g3JQzfMVm6heiLlcqdl",
+   "provider": "Together",
+   "cost": 0.0024924,
+   "standard_price_cost": 0.0024923999999999997,
+   "reasoning_tokens": 2055
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1792649622-dOoXFSdTJttf4rhEF3Td",
+   "provider": "Together",
+   "cost": 0.0021948,
+   "standard_price_cost": 0.0021948,
+   "reasoning_tokens": 1807
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1792649623-260yLqeBfaqm3wBwTujh",
+   "provider": "Together",
+   "cost": 0.0012672,
+   "standard_price_cost": 0.0012671999999999998,
+   "reasoning_tokens": 1034
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1792649623-G2SDocv3h5kgjulDBkpo",
+   "provider": "Together",
+   "cost": 0.0020688,
+   "standard_price_cost": 0.0020688,
+   "reasoning_tokens": 1702
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1792649623-9FJhdWiSTpQFAxPsKmia",
+   "provider": "Together",
+   "cost": 0.0014616,
+   "standard_price_cost": 0.0014615999999999997,
+   "reasoning_tokens": 1196
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1792649624-bdhy0cLcFh0oToJe0UrD",
+   "provider": "Together",
+   "cost": 0.0025044,
+   "standard_price_cost": 0.0025044,
+   "reasoning_tokens": 2065
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1792649625-scx2wEm41RohW0y6fhJp",
+   "provider": "Together",
+   "cost": 0.0017436,
+   "standard_price_cost": 0.0017435999999999999,
+   "reasoning_tokens": 1431
+  },
+  {
+   "setting": "none",
+   "gen_id": "gen-1792649626-ZQvaULvm2ZtNFBHpB077",
+   "provider": "Together",
+   "cost": 1.74e-05,
+   "standard_price_cost": 1.74e-05,
+   "reasoning_tokens": 0
+  },
+  {
+   "setting": "none",
+   "gen_id": "gen-1792649627-r2NwU46FI4F91szZkT6I",
+   "provider": "Together",
+   "cost": 1.74e-05,
+   "standard_price_cost": 1.74e-05,
+   "reasoning_tokens": 0
+  },
+  {
+   "setting": "none",
+   "gen_id": "gen-1792649627-NH654eYqW8FhhD7JhAx7",
+   "provider": "Together",
+   "cost": 1.74e-05,
+   "standard_price_cost": 1.74e-05,
+   "reasoning_tokens": 0
+  },
+  {
+   "setting": "none",
+   "gen_id": "gen-1792649627-xBAAAmI58npjO0DDMu1r",
+   "provider": "Together",
+   "cost": 1.74e-05,
+   "standard_price_cost": 1.74e-05,
+   "reasoning_tokens": 0
+  }
+ ],
+ "cost": 0.036025,
+ "passed": true,
+ "failures": []
+}

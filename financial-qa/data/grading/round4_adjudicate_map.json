@@ -1,0 +1,9 @@
+{
+ "fh-14": {
+  "A": "minimax-m3.1-flash-high r2",
+  "B": "minimax-m3.1-flash-max r3"
+ },
+ "fh-22": {
+  "A": "minimax-m3.1-flash-low r3"
+ }
+}

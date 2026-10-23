@@ -1,0 +1,117 @@
+{
+ "fh-05": {
+  "A": "claude-opus-5.5-medium r2"
+ },
+ "fh-06": {
+  "A": "claude-haiku-5.5-medium r1"
+ },
+ "fh-12": {
+  "A": "claude-haiku-5.5-medium r1"
+ },
+ "fh-19": {
+  "A": "claude-opus-5.5-medium r3"
+ },
+ "fh-23": {
+  "A": "mimo-v2.6-pro r1",
+  "B": "deepseek-v4.1-flash-high r1"
+ },
+ "fh-28": {
+  "A": "gemini-3.8-flash-medium r2"
+ },
+ "fh-30": {
+  "A": "gemini-4-argon-medium r2",
+  "B": "qwen3.8-max-xhigh r3",
+  "C": "mimo-v2.6-pro r1",
+  "D": "deepseek-v4.1-flash-high r3",
+  "E": "kimi-k3-max r2",
+  "F": "glm-5.3-max r1",
+  "G": "kimi-k3-max r1",
+  "I": "gemini-4-argon-medium r1",
+  "J": "deepseek-v4.1-flash-high r1",
+  "K": "qwen3.8-max-xhigh r2",
+  "L": "qwen3.8-27b-xhigh r1",
+  "M": "qwen3.8-27b-xhigh r3"
+ },
+ "fh-31": {
+  "A": "claude-sonnet-5.5-high r2"
+ },
+ "fh-32": {
+  "A": "mimo-v2.6-flash r2",
+  "B": "glm-5.3-flash-max r2",
+  "C": "grok-4.7-high r1",
+  "D": "grok-4.7-high r2",
+  "E": "qwen3.8-max-xhigh r1",
+  "F": "claude-sonnet-5.5-high r1",
+  "G": "qwen3.8-27b-xhigh r2",
+  "H": "muse-wonder-adaptive r2",
+  "I": "claude-opus-5.5-medium r1",
+  "J": "claude-sonnet-5.5-high r2",
+  "K": "muse-spark-open-xhigh r3",
+  "L": "gpt-6.1-sol-medium r1",
+  "M": "muse-wonder-adaptive r3",
+  "N": "claude-opus-5.5-medium r2",
+  "O": "claude-sonnet-5.5-high r3",
+  "P": "claude-opus-5.5-medium r3",
+  "Q": "muse-spark-open-xhigh r2",
+  "R": "gemini-3.8-flash-medium r2",
+  "S": "muse-wonder-adaptive r1"
+ },
+ "fh-46": {
+  "A": "glm-5.3-flash-max r2"
+ },
+ "fh-49": {
+  "A": "claude-haiku-5.5-medium r2"
+ },
+ "fh-57": {
+  "A": "gpt-6-luna-medium r1",
+  "B": "gemini-3.8-flash-medium r2",
+  "C": "gpt-6-luna-medium r2"
+ },
+ "fh-58": {
+  "A": "gemini-4-argon-medium r1",
+  "D": "gemini-4-argon-medium r2"
+ },
+ "fh-60": {
+  "A": "claude-haiku-5.5-medium r3"
+ },
+ "fh-62": {
+  "A": "qwen3.8-max-xhigh r2",
+  "B": "gemini-4-argon-medium r3",
+  "C": "kimi-k3-max r1"
+ },
+ "fh-64": {
+  "A": "gpt-6-luna-medium r2"
+ },
+ "fh-65": {
+  "A": "grok-4.7-high r3"
+ },
+ "fh-66": {
+  "A": "deepseek-v4.1-flash-high r3"
+ },
+ "fh-78": {
+  "A": "grok-4.7-high r3"
+ },
+ "fh-80": {
+  "A": "mimo-v2.6-flash r3",
+  "B": "claude-haiku-5.5-medium r1",
+  "C": "grok-4.7-high r2",
+  "D": "deepseek-v4.1-flash-high r2"
+ },
+ "fh-81": {
+  "B": "gpt-6-luna-medium r2"
+ },
+ "fh-85": {
+  "B": "mimo-v2.6-flash r1",
+  "C": "gemini-3.8-flash-medium r3"
+ },
+ "fh-93": {
+  "A": "kimi-k3-max r3",
+  "B": "mimo-v2.6-flash r2"
+ },
+ "fh-94": {
+  "A": "kimi-k3-max r3"
+ },
+ "fh-96": {
+  "A": "claude-haiku-5.5-medium r3"
+ }
+}

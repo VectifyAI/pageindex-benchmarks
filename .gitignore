@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+.env
+.DS_Store
+*/sheets/
+*/logs/
+*/corpus/pdfs/
+*/library-w70/.lock

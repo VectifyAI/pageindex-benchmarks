@@ -1,0 +1,184 @@
+{
+ "model": "gemini-4-argon-high",
+ "route": "google/gemini-4-argon",
+ "provider": "Google AI Studio",
+ "reasoning_setting": "high",
+ "checked": "2026-10-23 11:26:27 +0800",
+ "openrouter_reasoning": {
+  "mandatory": true,
+  "supported_efforts": [
+   "high",
+   "medium",
+   "low"
+  ],
+  "default_effort": "medium"
+ },
+ "declared_default": "medium",
+ "pricing": {
+  "prompt": "0.000002",
+  "completion": "0.00001",
+  "image": "0.000002",
+  "audio": "0.000002",
+  "input_audio_cache": "0.0000001",
+  "web_search": "0.014",
+  "internal_reasoning": "0.00001",
+  "input_cache_read": "0.0000001",
+  "input_cache_write": "0.0000001875"
+ },
+ "endpoint_tag": "google-ai-studio",
+ "endpoint_pricing": {
+  "prompt": "0.000002",
+  "completion": "0.00001",
+  "image": "0.000002",
+  "audio": "0.000002",
+  "input_audio_cache": "0.0000001",
+  "web_search": "0.014",
+  "internal_reasoning": "0.00001",
+  "input_cache_read": "0.0000001",
+  "input_cache_write": "0.0000001875",
+  "discount": 0.5
+ },
+ "billed_over_standard": [
+  1.0,
+  1.0
+ ],
+ "reasoning_tokens_median": {
+  "None": 1055,
+  "high": 2233,
+  "medium": 805,
+  "low": 0
+ },
+ "calls": [
+  {
+   "setting": null,
+   "gen_id": "gen-1792725953-1wZOGpLBcxVtShqMO57F",
+   "provider": "Google AI Studio",
+   "cost": 0.00981,
+   "standard_price_cost": 0.009810000000000001,
+   "reasoning_tokens": 958
+  },
+  {
+   "setting": null,
+   "gen_id": "gen-1792725953-OqkrWZoMbXtF7TIPo35y",
+   "provider": "Google AI Studio",
+   "cost": 0.01059,
+   "standard_price_cost": 0.01059,
+   "reasoning_tokens": 1036
+  },
+  {
+   "setting": null,
+   "gen_id": "gen-1792725953-yS58MnqhsDeoTOKs56xk",
+   "provider": "Google AI Studio",
+   "cost": 0.01088,
+   "standard_price_cost": 0.01088,
+   "reasoning_tokens": 1065
+  },
+  {
+   "setting": null,
+   "gen_id": "gen-1792725953-MfX5ppCNiHxSTqhQ4V5g",
+   "provider": "Google AI Studio",
+   "cost": 0.01078,
+   "standard_price_cost": 0.010780000000000001,
+   "reasoning_tokens": 1055
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1792725953-r7wFeIKZSXIuwtMfCnIV",
+   "provider": "Google AI Studio",
+   "cost": 0.02256,
+   "standard_price_cost": 0.022560000000000004,
+   "reasoning_tokens": 2233
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1792725953-qFZOZ0dLJC1J5sXREDUH",
+   "provider": "Google AI Studio",
+   "cost": 0.02731,
+   "standard_price_cost": 0.02731,
+   "reasoning_tokens": 2708
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1792725953-LbJpGVyVP6N8zEFhrM8m",
+   "provider": "Google AI Studio",
+   "cost": 0.02245,
+   "standard_price_cost": 0.02245,
+   "reasoning_tokens": 2222
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1792725953-Go1oUxVgkV4iuu2ealt8",
+   "provider": "Google AI Studio",
+   "cost": 0.01923,
+   "standard_price_cost": 0.01923,
+   "reasoning_tokens": 1900
+  },
+  {
+   "setting": "medium",
+   "gen_id": "gen-1792725964-cL0vQYN15bswGc3T24Ai",
+   "provider": "Google AI Studio",
+   "cost": 0.00796,
+   "standard_price_cost": 0.00796,
+   "reasoning_tokens": 773
+  },
+  {
+   "setting": "medium",
+   "gen_id": "gen-1792725965-PtzMijrnX2y9OPnitZXv",
+   "provider": "Google AI Studio",
+   "cost": 0.01121,
+   "standard_price_cost": 0.011210000000000001,
+   "reasoning_tokens": 1098
+  },
+  {
+   "setting": "medium",
+   "gen_id": "gen-1792725965-VJZHHnbtPTey9Dxii0rY",
+   "provider": "Google AI Studio",
+   "cost": 0.00705,
+   "standard_price_cost": 0.007050000000000001,
+   "reasoning_tokens": 682
+  },
+  {
+   "setting": "medium",
+   "gen_id": "gen-1792725972-XpKSmjlVe49yUoWwJ6bu",
+   "provider": "Google AI Studio",
+   "cost": 0.00828,
+   "standard_price_cost": 0.008280000000000001,
+   "reasoning_tokens": 805
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1792725972-Sh6eEYWNWjTqgsIwumNM",
+   "provider": "Google AI Studio",
+   "cost": 0.00023,
+   "standard_price_cost": 0.00023,
+   "reasoning_tokens": 0
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1792725975-cJUUL48SxR3ecX9ae31V",
+   "provider": "Google AI Studio",
+   "cost": 0.00023,
+   "standard_price_cost": 0.00023,
+   "reasoning_tokens": 0
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1792725975-ciB1UpehGaPxkecCwvdX",
+   "provider": "Google AI Studio",
+   "cost": 0.00023,
+   "standard_price_cost": 0.00023,
+   "reasoning_tokens": 0
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1792725976-1h1War03yJYp2gMez9c8",
+   "provider": "Google AI Studio",
+   "cost": 0.00023,
+   "standard_price_cost": 0.00023,
+   "reasoning_tokens": 0
+  }
+ ],
+ "cost": 0.16903,
+ "passed": true,
+ "failures": []
+}

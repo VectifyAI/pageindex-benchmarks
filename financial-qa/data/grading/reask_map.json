@@ -1,0 +1,328 @@
+{
+ "fh-06": {
+  "A": "gemini-3.8-flash-high r1",
+  "B": "gemini-3.8-flash-high r2",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-09": {
+  "A": "gemini-3.8-flash-high r3",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "gemini-3.8-flash-high r2",
+  "D": "qwen3.8-max-xhigh r2",
+  "E": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-10": {
+  "B": "gemini-3.8-flash-high r1",
+  "C": "gemini-3.8-flash-high r3",
+  "D": "anchor claude-haiku-5.5-medium r1",
+  "E": "gemini-3.8-flash-high r2",
+  "F": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-100": {
+  "A": "gemini-3.8-flash-high r3",
+  "B": "gemini-3.8-flash-high r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "gemini-3.8-flash-medium r1",
+  "E": "gemini-3.8-flash-medium r2",
+  "G": "gemini-3.8-flash-high r2",
+  "H": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-11": {
+  "A": "gemini-3.8-flash-high r2",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "gemini-3.8-flash-high r1"
+ },
+ "fh-19": {
+  "A": "gemini-3.8-flash-high r2",
+  "B": "gemini-3.8-flash-high r3",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "gemini-3.8-flash-high r1",
+  "E": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-24": {
+  "A": "gemini-3.8-flash-high r2",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-30": {
+  "A": "gemini-3.8-flash-high r2",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "gemini-3.8-flash-high r3"
+ },
+ "fh-32": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gemini-3.8-flash-high r1",
+  "C": "gemini-3.8-flash-high r3",
+  "D": "anchor deepseek-v4.1-flash-high r1",
+  "E": "gemini-3.8-flash-high r2"
+ },
+ "fh-41": {
+  "A": "gemini-3.8-flash-high r1",
+  "B": "gemini-3.8-flash-medium r1",
+  "D": "muse-wonder-max r3",
+  "E": "claude-opus-5.5-max r3",
+  "F": "claude-sonnet-5.5-max r3",
+  "G": "gemini-3.8-flash-high r2",
+  "I": "gemini-3.8-flash-high r3",
+  "J": "anchor claude-haiku-5.5-medium r1",
+  "K": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-42": {
+  "A": "gemini-3.8-flash-high r2",
+  "B": "gemini-3.8-flash-high r3",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "anchor deepseek-v4.1-flash-high r1",
+  "E": "gemini-3.8-flash-medium r1",
+  "F": "gemini-3.8-flash-high r1",
+  "G": "gemini-3.8-flash-medium r2"
+ },
+ "fh-43": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "gemini-3.8-flash-high r1",
+  "C": "gemini-3.8-flash-medium r2",
+  "D": "claude-opus-5.5-max r1",
+  "E": "qwen3.8-max-xhigh r2",
+  "F": "gemini-3.8-flash-high r2",
+  "G": "gemini-3.8-flash-medium r3",
+  "H": "anchor claude-haiku-5.5-medium r1",
+  "J": "gemini-3.8-flash-high r3",
+  "K": "gemini-3.8-flash-medium r1"
+ },
+ "fh-44": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gemini-3.8-flash-high r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "gemini-3.8-flash-high r2",
+  "E": "gemini-3.8-flash-medium r1",
+  "F": "gemini-3.8-flash-high r3",
+  "G": "gemini-3.8-flash-medium r2"
+ },
+ "fh-45": {
+  "A": "claude-opus-5.5-max r3",
+  "B": "gemini-3.8-flash-medium r3",
+  "C": "gemini-3.8-flash-high r1",
+  "D": "claude-opus-5.5-max r2",
+  "E": "anchor claude-haiku-5.5-medium r1",
+  "F": "claude-opus-5.5-max r1",
+  "G": "gemini-3.8-flash-medium r2",
+  "H": "gemini-3.8-flash-high r2",
+  "I": "anchor deepseek-v4.1-flash-high r1",
+  "K": "gemini-3.8-flash-medium r1",
+  "M": "gemini-3.8-flash-high r3"
+ },
+ "fh-46": {
+  "A": "gemini-3.8-flash-high r3",
+  "B": "gemini-3.8-flash-high r1",
+  "C": "gemini-3.8-flash-high r2",
+  "D": "anchor deepseek-v4.1-flash-high r1",
+  "E": "gemini-3.8-flash-medium r3",
+  "F": "gemini-3.8-flash-medium r2",
+  "G": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-47": {
+  "A": "gemini-3.8-flash-medium r2",
+  "C": "glm-5.3-flash-max r3",
+  "D": "anchor claude-haiku-5.5-medium r1",
+  "E": "anchor deepseek-v4.1-flash-high r1",
+  "F": "gemini-3.8-flash-high r1",
+  "G": "claude-sonnet-5.5-max r2",
+  "H": "gemini-3.8-flash-medium r1",
+  "I": "gemini-3.8-flash-high r3",
+  "K": "gemini-3.8-flash-high r2"
+ },
+ "fh-48": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gemini-3.8-flash-high r3",
+  "C": "gemini-3.8-flash-high r1",
+  "D": "gemini-3.8-flash-high r2",
+  "E": "anchor deepseek-v4.1-flash-high r1",
+  "F": "gemini-3.8-flash-medium r2"
+ },
+ "fh-49": {
+  "A": "gemini-3.8-flash-high r2",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "gemini-3.8-flash-high r3",
+  "D": "gemini-3.8-flash-high r1",
+  "E": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-50": {
+  "A": "gemini-3.8-flash-medium r3",
+  "B": "gemini-3.8-flash-high r1",
+  "C": "gemini-3.8-flash-high r3",
+  "D": "anchor deepseek-v4.1-flash-high r1",
+  "E": "gemini-3.8-flash-medium r2",
+  "F": "gemini-3.8-flash-high r2",
+  "G": "claude-opus-5.5-max r2",
+  "H": "gemini-3.8-flash-medium r1",
+  "I": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-57": {
+  "A": "gemini-3.8-flash-high r1",
+  "B": "deepseek-v4.1-flash-max r2",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "gemini-3.8-flash-high r2",
+  "E": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-58": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "gemini-3.8-flash-high r1",
+  "C": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-59": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gemini-3.8-flash-high r2",
+  "C": "gemini-3.8-flash-high r3",
+  "D": "anchor deepseek-v4.1-flash-high r1",
+  "E": "gemini-3.8-flash-high r1"
+ },
+ "fh-60": {
+  "A": "gemini-3.8-flash-high r2",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "E": "gemini-3.8-flash-high r3",
+  "F": "gemini-3.8-flash-high r1",
+  "G": "claude-opus-5.5-max r2"
+ },
+ "fh-61": {
+  "A": "gemini-3.8-flash-high r1",
+  "B": "gemini-3.8-flash-high r3",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-62": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "gemini-3.8-flash-high r1",
+  "C": "gemini-3.8-flash-high r3",
+  "D": "anchor claude-haiku-5.5-medium r1",
+  "E": "gemini-3.8-flash-high r2"
+ },
+ "fh-65": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gemini-3.8-flash-high r3",
+  "C": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-69": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "gemini-3.8-flash-high r1"
+ },
+ "fh-73": {
+  "A": "gemini-3.8-flash-high r2",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "gemini-3.8-flash-high r1",
+  "D": "anchor claude-haiku-5.5-medium r1",
+  "E": "gemini-3.8-flash-high r3"
+ },
+ "fh-78": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "gemini-3.8-flash-high r2",
+  "D": "gemini-3.8-flash-high r1",
+  "E": "gemini-3.8-flash-high r3"
+ },
+ "fh-82": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "gemini-3.8-flash-high r2"
+ },
+ "fh-91": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "qwen3.8-max-xhigh r3",
+  "E": "gemini-3.8-flash-medium r1",
+  "F": "gemini-3.8-flash-high r2",
+  "G": "gemini-3.8-flash-high r1",
+  "H": "gemini-3.8-flash-high r3"
+ },
+ "fh-92": {
+  "A": "gemini-3.8-flash-medium r2",
+  "B": "gemini-3.8-flash-high r3",
+  "C": "gemini-3.8-flash-high r2",
+  "D": "gemini-3.8-flash-high r1",
+  "E": "anchor deepseek-v4.1-flash-high r1",
+  "F": "anchor claude-haiku-5.5-medium r1",
+  "G": "claude-opus-5.5-max r3"
+ },
+ "fh-93": {
+  "A": "gemini-3.8-flash-high r3",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "gemini-3.8-flash-high r1",
+  "D": "gemini-3.8-flash-medium r1",
+  "E": "anchor deepseek-v4.1-flash-high r1",
+  "F": "gemini-3.8-flash-high r2",
+  "G": "gemini-4-argon-high r1"
+ },
+ "fh-94": {
+  "A": "gemini-3.8-flash-medium r2",
+  "B": "gemini-3.8-flash-high r3",
+  "C": "gemini-3.8-flash-high r1",
+  "D": "claude-opus-5.5-max r3",
+  "F": "gemini-3.8-flash-medium r1",
+  "G": "gemini-3.8-flash-medium r3",
+  "H": "gemini-3.8-flash-high r2",
+  "I": "anchor deepseek-v4.1-flash-high r1",
+  "J": "anchor claude-haiku-5.5-medium r1",
+  "K": "claude-opus-5.5-max r1"
+ },
+ "fh-95": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gemini-3.8-flash-medium r1",
+  "C": "gemini-3.8-flash-high r1",
+  "D": "gemini-3.8-flash-high r2",
+  "E": "anchor deepseek-v4.1-flash-high r1",
+  "F": "gemini-3.8-flash-medium r3",
+  "G": "gemini-3.8-flash-high r3"
+ },
+ "fh-96": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "gemini-3.8-flash-high r1",
+  "C": "gemini-3.8-flash-medium r2",
+  "D": "gemini-3.8-flash-high r2",
+  "E": "gemini-3.8-flash-medium r1",
+  "F": "gemini-3.8-flash-high r3",
+  "G": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-97": {
+  "A": "gpt-6-luna-medium r3",
+  "B": "claude-sonnet-5.5-max r1",
+  "C": "claude-sonnet-5.5-max r2",
+  "D": "gemini-3.8-flash-high r2",
+  "E": "gemini-3.8-flash-high r3",
+  "F": "gemini-3.8-flash-medium r3",
+  "G": "anchor deepseek-v4.1-flash-high r1",
+  "H": "gemini-3.8-flash-high r1",
+  "I": "claude-sonnet-5.5-max r3",
+  "J": "claude-opus-5.5-max r2",
+  "M": "anchor claude-haiku-5.5-medium r1",
+  "N": "gemini-3.8-flash-medium r1",
+  "O": "claude-opus-5.5-max r3",
+  "P": "claude-opus-5.5-max r1",
+  "Q": "gemini-3.8-flash-medium r2"
+ },
+ "fh-98": {
+  "B": "gemini-3.8-flash-high r1",
+  "C": "qwen3.8-max-xhigh r3",
+  "D": "gemini-3.8-flash-medium r2",
+  "E": "qwen3.8-max-xhigh r2",
+  "F": "anchor deepseek-v4.1-flash-high r1",
+  "G": "gemini-3.8-flash-medium r1",
+  "H": "anchor claude-haiku-5.5-medium r1",
+  "I": "gemini-3.8-flash-high r2",
+  "J": "gemini-3.8-flash-high r3"
+ },
+ "fh-99": {
+  "A": "gemini-3.8-flash-high r3",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "gemini-3.8-flash-high r2",
+  "D": "anchor claude-haiku-5.5-medium r1",
+  "E": "claude-opus-5.5-max r2",
+  "F": "gemini-3.8-flash-medium r2",
+  "G": "gemini-3.8-flash-high r1",
+  "H": "claude-opus-5.5-max r1",
+  "I": "gemini-3.8-flash-medium r1",
+  "J": "claude-opus-5.5-max r3"
+ }
+}
