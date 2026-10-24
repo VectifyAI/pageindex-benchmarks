@@ -41,7 +41,7 @@ verified candidates.
 
 ## Configurations
 
-A configuration is a model at one reasoning level (`models.py`): 34 configurations of 19 models, 11 of them at two
+A configuration is a model at one reasoning level (`models.py`): 35 configurations of 20 models, 11 of them at two
 or more levels.
 
 - **Route**: OpenRouter, each model pinned to one provider with fallbacks off, at its standard tier (no flex, fast or
@@ -50,8 +50,8 @@ or more levels.
   price, and the reasoning setting (`data/preflight/`).
 - **Reasoning levels**: a level other than the default is sent as `reasoning.effort`. At the default level no
   reasoning setting is sent, and the level named is the vendor's default, confirmed by runs with that level set
-  explicitly. MiniMax M3.1 Flash runs at max, its default, with max sent. MiMo models have no levels; Muse Wonder's
-  default is a level the model picks for itself, labeled "adaptive".
+  explicitly. MiniMax M3.1 Flash and Kimi K3.1 Pro run at max, their default, with max sent. MiMo models have no
+  levels; Muse Wonder's default is a level the model picks for itself, labeled "adaptive".
 
 ## Runs
 
@@ -95,6 +95,7 @@ anchors that show it grades on the same scale.
 | round3 | GPT-6.1 Sol (low) and MiniMax M3.1 Flash at five levels, run 1 | 160 / 160 | 0 | 197 / 200 |
 | round4 | the same, runs 2–3 | 277 / 280 | 3 | 200 / 200 |
 | round5 | MiniMax M3.1 Flash (max) and (xhigh), runs 4–6 | 159 / 160 | 1 | 196 / 200 |
+| round6 | Kimi K3.1 Pro (max), 3 runs | 99 / 100 | 1 | 198 / 200 |
 
 ## Cost
 
@@ -104,7 +105,7 @@ anchors that show it grades on the same scale.
 - A run's cost is the sum over its questions of the attempt whose answer stands; attempts retried after an error or
   replaced by an answer asked again are not counted (`results/runs.csv` also gives each run's full bill,
   `billed_usd`). The cost per run in the results is the mean over runs.
-- Prices are those of the pinned providers on 2026-10-22 and 2026-10-23, when the runs were made.
+- Prices are those of the pinned providers from 2026-10-22 to 2026-10-24, when the runs were made.
 
 ## Statistics
 

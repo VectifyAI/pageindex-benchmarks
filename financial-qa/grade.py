@@ -20,8 +20,9 @@ from models import CONFIGS
 HERE = pathlib.Path(__file__).resolve().parent
 DATA, GRADES, SHEETS = HERE / "data", HERE / "data" / "grading", HERE / "sheets"
 # the rounds behind the results, in the order graded (METHOD.md, "Grading"): round1 18 models at one level each,
-# round2 ten of those at a second level, round3-5 GPT-6.1 Sol (low) and MiniMax M3.1 Flash at five levels
-ROUNDS = ("round1", "round2", "round3", "round4", "round5")
+# round2 ten of those at a second level, round3-5 GPT-6.1 Sol (low) and MiniMax M3.1 Flash at five levels, round6
+# Kimi K3.1 Pro
+ROUNDS = ("round1", "round2", "round3", "round4", "round5", "round6")
 # the answers of round1 and round2 that ran out of turns, asked again (run.py); their grades replace the earlier ones
 REASK = "reask"
 # two runs round1 graded, graded again blind in every later round to show it grades on the same scale

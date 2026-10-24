@@ -106,7 +106,7 @@ COLOR = {"OpenAI": "#1f1f1f", "Anthropic": "#c8795a", "Google": "#36a854", "Alib
          "SpaceXAI": "#726dd3"}
 VENDORS = ("OpenAI", "Anthropic", "Google", "Alibaba", "Z AI", "Xiaomi", "Kimi", "DeepSeek", "MiniMax", "Meta", "SpaceXAI")
 # label position per configuration: (dx, dy, text-anchor) from the marker, set by eye against the rendered chart
-PLACE = {"minimax-m3.1-flash-max": (11, 4, "start"), "gpt-6.1-sol-low": (-11, 4, "end"), "minimax-m3.1-flash-xhigh": (-11, 4, "end"),
+PLACE = {"kimi-k3.1-pro-max": (11, -5, "start"), "minimax-m3.1-flash-max": (11, 4, "start"), "gpt-6.1-sol-low": (-11, 4, "end"), "minimax-m3.1-flash-xhigh": (-11, 4, "end"),
          "minimax-m3.1-flash-medium": (8, 24, "start"), "mimo-v2.6-flash": (11, 9, "start"),
          "glm-5.3-flash-max": (-9, -9, "end"), "glm-5.3-max": (0, 22, "middle"),
          "muse-spark-open-xhigh": (0, -14, "middle"), "gpt-6.1-sol-medium": (-10, -10, "end"),

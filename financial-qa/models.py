@@ -1,4 +1,4 @@
-"""The 34 configurations benchmarked: a model on OpenRouter, the provider it is pinned to, and a reasoning level."""
+"""The 35 configurations benchmarked: a model on OpenRouter, the provider it is pinned to, and a reasoning level."""
 
 # key: (name, vendor, OpenRouter model, provider, level, effort). `effort` is the reasoning.effort sent; None sends
 # no reasoning setting, so the model runs at its default level, which is `level` (METHOD.md, "Reasoning levels").
@@ -33,6 +33,7 @@ CONFIGS = {
     "glm-5.3-max": ("GLM-5.3", "Z AI", "z-ai/glm-5.3", "Z.AI", "max", None),
     "glm-5.3-flash-max": ("GLM-5.3-Flash", "Z AI", "z-ai/glm-5.3-flash", "Z.AI", "max", None),
     "kimi-k3-max": ("Kimi K3", "Kimi", "moonshotai/kimi-k3", "Moonshot AI", "max", None),
+    "kimi-k3.1-pro-max": ("Kimi K3.1 Pro", "Kimi", "moonshotai/kimi-k3.1-pro", "Moonshot AI", "max", "max"),
     "minimax-m3.1-flash-max": ("MiniMax M3.1 Flash", "MiniMax", "minimax/minimax-m3.1-flash", "Minimax", "max", "max"),
     "minimax-m3.1-flash-xhigh": ("MiniMax M3.1 Flash", "MiniMax", "minimax/minimax-m3.1-flash", "Minimax", "xhigh", "xhigh"),
     "minimax-m3.1-flash-high": ("MiniMax M3.1 Flash", "MiniMax", "minimax/minimax-m3.1-flash", "Minimax", "high", "high"),

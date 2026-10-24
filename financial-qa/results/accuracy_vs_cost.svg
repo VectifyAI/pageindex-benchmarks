@@ -129,6 +129,8 @@
 <text x="843.5" y="539.1" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Claude Sonnet 5.5 (high)</text>
 <g><title>Qwen3.8 Max (xhigh): 89.0% (88/90/89), $31.04 per run</title><circle cx="833.5" cy="387.5" r="12" fill="transparent"/><circle cx="833.5" cy="387.5" r="6.5" fill="#ff7017" stroke="#ffffff" stroke-width="1"/></g>
 <text x="833.5" y="375.5" font-size="13" fill="#464646" text-anchor="middle" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Qwen3.8 Max (xhigh)</text>
+<g><title>Kimi K3.1 Pro (max): 96.3% (95/95/99), $32.09 per run</title><circle cx="840.8" cy="239.8" r="12" fill="transparent"/><circle cx="840.8" cy="239.8" r="6.5" fill="#0b81ff" stroke="#ffffff" stroke-width="1"/></g>
+<text x="851.8" y="234.8" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Kimi K3.1 Pro (max)</text>
 <g><title>GPT-6.1 Sol (max): 95.7% (96/96/95), $34.36 per run</title><circle cx="855.7" cy="253.2" r="12" fill="transparent"/><circle cx="855.7" cy="253.2" r="6.5" fill="#1f1f1f" stroke="#ffffff" stroke-width="1"/></g>
 <text x="866.7" y="257.2" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">GPT-6.1 Sol (max)</text>
 <g><title>Grok 4.7 (xhigh): 71.7% (74/69/72), $40.97 per run</title><circle cx="894.1" cy="736.4" r="12" fill="transparent"/><circle cx="894.1" cy="736.4" r="6.5" fill="#726dd3" stroke="#ffffff" stroke-width="1"/></g>

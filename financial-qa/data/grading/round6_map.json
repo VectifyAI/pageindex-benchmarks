@@ -1,0 +1,702 @@
+{
+ "fh-01": {
+  "A": "kimi-k3.1-pro-max r1",
+  "B": "kimi-k3.1-pro-max r2",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "kimi-k3.1-pro-max r3",
+  "E": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-02": {
+  "A": "kimi-k3.1-pro-max r1",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "kimi-k3.1-pro-max r3",
+  "E": "kimi-k3.1-pro-max r2"
+ },
+ "fh-03": {
+  "A": "kimi-k3.1-pro-max r2",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "kimi-k3.1-pro-max r1",
+  "E": "kimi-k3.1-pro-max r3"
+ },
+ "fh-04": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "kimi-k3.1-pro-max r2",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "kimi-k3.1-pro-max r1",
+  "E": "kimi-k3.1-pro-max r3"
+ },
+ "fh-05": {
+  "A": "kimi-k3.1-pro-max r2",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "kimi-k3.1-pro-max r1",
+  "D": "anchor deepseek-v4.1-flash-high r1",
+  "E": "kimi-k3.1-pro-max r3"
+ },
+ "fh-06": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "kimi-k3.1-pro-max r3",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "kimi-k3.1-pro-max r2",
+  "E": "kimi-k3.1-pro-max r1"
+ },
+ "fh-07": {
+  "A": "kimi-k3.1-pro-max r1",
+  "B": "kimi-k3.1-pro-max r2",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "anchor deepseek-v4.1-flash-high r1",
+  "E": "kimi-k3.1-pro-max r3"
+ },
+ "fh-08": {
+  "A": "kimi-k3.1-pro-max r1",
+  "B": "kimi-k3.1-pro-max r2",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "anchor deepseek-v4.1-flash-high r1",
+  "E": "kimi-k3.1-pro-max r3"
+ },
+ "fh-09": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "kimi-k3.1-pro-max r1",
+  "C": "kimi-k3.1-pro-max r3",
+  "D": "kimi-k3.1-pro-max r2",
+  "E": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-10": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "kimi-k3.1-pro-max r1",
+  "C": "kimi-k3.1-pro-max r3",
+  "D": "kimi-k3.1-pro-max r2",
+  "E": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-11": {
+  "A": "kimi-k3.1-pro-max r1",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "kimi-k3.1-pro-max r2",
+  "E": "kimi-k3.1-pro-max r3"
+ },
+ "fh-12": {
+  "A": "kimi-k3.1-pro-max r2",
+  "B": "kimi-k3.1-pro-max r3",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "kimi-k3.1-pro-max r1",
+  "E": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-13": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "kimi-k3.1-pro-max r1",
+  "C": "kimi-k3.1-pro-max r2",
+  "D": "kimi-k3.1-pro-max r3",
+  "E": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-14": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "kimi-k3.1-pro-max r2",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "kimi-k3.1-pro-max r1",
+  "E": "kimi-k3.1-pro-max r3"
+ },
+ "fh-15": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "kimi-k3.1-pro-max r1",
+  "C": "kimi-k3.1-pro-max r2",
+  "D": "kimi-k3.1-pro-max r3",
+  "E": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-16": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "kimi-k3.1-pro-max r2",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "kimi-k3.1-pro-max r1",
+  "E": "kimi-k3.1-pro-max r3"
+ },
+ "fh-17": {
+  "A": "kimi-k3.1-pro-max r2",
+  "B": "kimi-k3.1-pro-max r3",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "anchor deepseek-v4.1-flash-high r1",
+  "E": "kimi-k3.1-pro-max r1"
+ },
+ "fh-18": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "kimi-k3.1-pro-max r3",
+  "C": "kimi-k3.1-pro-max r2",
+  "D": "anchor claude-haiku-5.5-medium r1",
+  "E": "kimi-k3.1-pro-max r1"
+ },
+ "fh-19": {
+  "A": "kimi-k3.1-pro-max r3",
+  "B": "kimi-k3.1-pro-max r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "anchor claude-haiku-5.5-medium r1",
+  "E": "kimi-k3.1-pro-max r2"
+ },
+ "fh-20": {
+  "A": "kimi-k3.1-pro-max r1",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "kimi-k3.1-pro-max r3",
+  "D": "kimi-k3.1-pro-max r2",
+  "E": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-21": {
+  "A": "kimi-k3.1-pro-max r3",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "kimi-k3.1-pro-max r1",
+  "D": "kimi-k3.1-pro-max r2",
+  "E": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-22": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "kimi-k3.1-pro-max r2",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "kimi-k3.1-pro-max r3",
+  "E": "kimi-k3.1-pro-max r1"
+ },
+ "fh-23": {
+  "A": "kimi-k3.1-pro-max r3",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "kimi-k3.1-pro-max r2",
+  "E": "kimi-k3.1-pro-max r1"
+ },
+ "fh-24": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "kimi-k3.1-pro-max r3",
+  "C": "kimi-k3.1-pro-max r2",
+  "D": "kimi-k3.1-pro-max r1",
+  "E": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-25": {
+  "A": "kimi-k3.1-pro-max r1",
+  "B": "kimi-k3.1-pro-max r2",
+  "C": "kimi-k3.1-pro-max r3",
+  "D": "anchor deepseek-v4.1-flash-high r1",
+  "E": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-26": {
+  "A": "kimi-k3.1-pro-max r2",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "kimi-k3.1-pro-max r3",
+  "D": "kimi-k3.1-pro-max r1",
+  "E": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-27": {
+  "A": "kimi-k3.1-pro-max r2",
+  "B": "kimi-k3.1-pro-max r3",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "kimi-k3.1-pro-max r1",
+  "E": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-28": {
+  "A": "kimi-k3.1-pro-max r2",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "kimi-k3.1-pro-max r3",
+  "E": "kimi-k3.1-pro-max r1"
+ },
+ "fh-29": {
+  "A": "kimi-k3.1-pro-max r3",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "kimi-k3.1-pro-max r1",
+  "E": "kimi-k3.1-pro-max r2"
+ },
+ "fh-30": {
+  "A": "kimi-k3.1-pro-max r3",
+  "B": "kimi-k3.1-pro-max r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "anchor deepseek-v4.1-flash-high r1",
+  "E": "kimi-k3.1-pro-max r2"
+ },
+ "fh-31": {
+  "A": "kimi-k3.1-pro-max r1",
+  "B": "kimi-k3.1-pro-max r2",
+  "C": "kimi-k3.1-pro-max r3",
+  "D": "anchor deepseek-v4.1-flash-high r1",
+  "E": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-32": {
+  "A": "kimi-k3.1-pro-max r2",
+  "B": "kimi-k3.1-pro-max r3",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "kimi-k3.1-pro-max r1",
+  "E": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-33": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "kimi-k3.1-pro-max r2",
+  "C": "kimi-k3.1-pro-max r1",
+  "D": "anchor deepseek-v4.1-flash-high r1",
+  "E": "kimi-k3.1-pro-max r3"
+ },
+ "fh-34": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "kimi-k3.1-pro-max r3",
+  "C": "kimi-k3.1-pro-max r2",
+  "D": "kimi-k3.1-pro-max r1",
+  "E": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-35": {
+  "A": "kimi-k3.1-pro-max r2",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "kimi-k3.1-pro-max r1",
+  "E": "kimi-k3.1-pro-max r3"
+ },
+ "fh-36": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "kimi-k3.1-pro-max r2",
+  "C": "kimi-k3.1-pro-max r3",
+  "D": "kimi-k3.1-pro-max r1",
+  "E": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-37": {
+  "A": "kimi-k3.1-pro-max r2",
+  "B": "kimi-k3.1-pro-max r3",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "anchor deepseek-v4.1-flash-high r1",
+  "E": "kimi-k3.1-pro-max r1"
+ },
+ "fh-38": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "kimi-k3.1-pro-max r2",
+  "C": "kimi-k3.1-pro-max r3",
+  "D": "anchor deepseek-v4.1-flash-high r1",
+  "E": "kimi-k3.1-pro-max r1"
+ },
+ "fh-39": {
+  "A": "kimi-k3.1-pro-max r3",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "kimi-k3.1-pro-max r2",
+  "D": "kimi-k3.1-pro-max r1",
+  "E": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-40": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "kimi-k3.1-pro-max r3",
+  "C": "kimi-k3.1-pro-max r1",
+  "D": "anchor deepseek-v4.1-flash-high r1",
+  "E": "kimi-k3.1-pro-max r2"
+ },
+ "fh-41": {
+  "A": "kimi-k3.1-pro-max r3",
+  "B": "kimi-k3.1-pro-max r2",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "kimi-k3.1-pro-max r1",
+  "E": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-42": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "kimi-k3.1-pro-max r2",
+  "D": "kimi-k3.1-pro-max r3",
+  "E": "kimi-k3.1-pro-max r1"
+ },
+ "fh-43": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "kimi-k3.1-pro-max r1",
+  "C": "kimi-k3.1-pro-max r3",
+  "D": "kimi-k3.1-pro-max r2",
+  "E": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-44": {
+  "A": "kimi-k3.1-pro-max r2",
+  "B": "kimi-k3.1-pro-max r3",
+  "C": "kimi-k3.1-pro-max r1",
+  "D": "anchor claude-haiku-5.5-medium r1",
+  "E": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-45": {
+  "A": "kimi-k3.1-pro-max r3",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "kimi-k3.1-pro-max r2",
+  "E": "kimi-k3.1-pro-max r1"
+ },
+ "fh-46": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "kimi-k3.1-pro-max r3",
+  "D": "kimi-k3.1-pro-max r1",
+  "E": "kimi-k3.1-pro-max r2"
+ },
+ "fh-47": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "kimi-k3.1-pro-max r3",
+  "D": "kimi-k3.1-pro-max r2",
+  "E": "kimi-k3.1-pro-max r1"
+ },
+ "fh-48": {
+  "A": "kimi-k3.1-pro-max r3",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "kimi-k3.1-pro-max r1",
+  "D": "kimi-k3.1-pro-max r2",
+  "E": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-49": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "kimi-k3.1-pro-max r3",
+  "C": "kimi-k3.1-pro-max r2",
+  "D": "kimi-k3.1-pro-max r1",
+  "E": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-50": {
+  "A": "kimi-k3.1-pro-max r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "kimi-k3.1-pro-max r2",
+  "E": "kimi-k3.1-pro-max r3"
+ },
+ "fh-51": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "kimi-k3.1-pro-max r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "kimi-k3.1-pro-max r3",
+  "E": "kimi-k3.1-pro-max r2"
+ },
+ "fh-52": {
+  "A": "kimi-k3.1-pro-max r2",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "kimi-k3.1-pro-max r3",
+  "E": "kimi-k3.1-pro-max r1"
+ },
+ "fh-53": {
+  "A": "kimi-k3.1-pro-max r3",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "kimi-k3.1-pro-max r1",
+  "D": "kimi-k3.1-pro-max r2",
+  "E": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-54": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "kimi-k3.1-pro-max r3",
+  "C": "kimi-k3.1-pro-max r1",
+  "D": "anchor claude-haiku-5.5-medium r1",
+  "E": "kimi-k3.1-pro-max r2"
+ },
+ "fh-55": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "kimi-k3.1-pro-max r2",
+  "C": "kimi-k3.1-pro-max r1",
+  "D": "anchor deepseek-v4.1-flash-high r1",
+  "E": "kimi-k3.1-pro-max r3"
+ },
+ "fh-56": {
+  "A": "kimi-k3.1-pro-max r3",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "kimi-k3.1-pro-max r1",
+  "D": "anchor deepseek-v4.1-flash-high r1",
+  "E": "kimi-k3.1-pro-max r2"
+ },
+ "fh-57": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "kimi-k3.1-pro-max r1",
+  "D": "kimi-k3.1-pro-max r2",
+  "E": "kimi-k3.1-pro-max r3"
+ },
+ "fh-58": {
+  "A": "kimi-k3.1-pro-max r3",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "kimi-k3.1-pro-max r1",
+  "D": "kimi-k3.1-pro-max r2",
+  "E": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-59": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "kimi-k3.1-pro-max r2",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "kimi-k3.1-pro-max r1",
+  "E": "kimi-k3.1-pro-max r3"
+ },
+ "fh-60": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "kimi-k3.1-pro-max r3",
+  "D": "kimi-k3.1-pro-max r2",
+  "E": "kimi-k3.1-pro-max r1"
+ },
+ "fh-61": {
+  "A": "kimi-k3.1-pro-max r3",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "kimi-k3.1-pro-max r2",
+  "D": "anchor claude-haiku-5.5-medium r1",
+  "E": "kimi-k3.1-pro-max r1"
+ },
+ "fh-62": {
+  "A": "kimi-k3.1-pro-max r3",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "kimi-k3.1-pro-max r1",
+  "D": "anchor deepseek-v4.1-flash-high r1",
+  "E": "kimi-k3.1-pro-max r2"
+ },
+ "fh-63": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "kimi-k3.1-pro-max r2",
+  "C": "kimi-k3.1-pro-max r3",
+  "D": "kimi-k3.1-pro-max r1",
+  "E": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-64": {
+  "A": "kimi-k3.1-pro-max r3",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "kimi-k3.1-pro-max r2",
+  "E": "kimi-k3.1-pro-max r1"
+ },
+ "fh-65": {
+  "A": "kimi-k3.1-pro-max r1",
+  "B": "kimi-k3.1-pro-max r2",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "anchor claude-haiku-5.5-medium r1",
+  "E": "kimi-k3.1-pro-max r3"
+ },
+ "fh-66": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "kimi-k3.1-pro-max r2",
+  "D": "kimi-k3.1-pro-max r1",
+  "E": "kimi-k3.1-pro-max r3"
+ },
+ "fh-67": {
+  "A": "kimi-k3.1-pro-max r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "kimi-k3.1-pro-max r2",
+  "D": "anchor claude-haiku-5.5-medium r1",
+  "E": "kimi-k3.1-pro-max r3"
+ },
+ "fh-68": {
+  "A": "kimi-k3.1-pro-max r2",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "kimi-k3.1-pro-max r3",
+  "D": "kimi-k3.1-pro-max r1",
+  "E": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-69": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "kimi-k3.1-pro-max r1",
+  "C": "kimi-k3.1-pro-max r3",
+  "D": "kimi-k3.1-pro-max r2",
+  "E": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-70": {
+  "A": "kimi-k3.1-pro-max r1",
+  "B": "kimi-k3.1-pro-max r3",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "anchor deepseek-v4.1-flash-high r1",
+  "E": "kimi-k3.1-pro-max r2"
+ },
+ "fh-71": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "kimi-k3.1-pro-max r3",
+  "C": "kimi-k3.1-pro-max r1",
+  "D": "anchor claude-haiku-5.5-medium r1",
+  "E": "kimi-k3.1-pro-max r2"
+ },
+ "fh-72": {
+  "A": "kimi-k3.1-pro-max r3",
+  "B": "kimi-k3.1-pro-max r2",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "anchor claude-haiku-5.5-medium r1",
+  "E": "kimi-k3.1-pro-max r1"
+ },
+ "fh-73": {
+  "A": "kimi-k3.1-pro-max r1",
+  "B": "kimi-k3.1-pro-max r3",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "kimi-k3.1-pro-max r2",
+  "E": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-74": {
+  "A": "kimi-k3.1-pro-max r2",
+  "B": "kimi-k3.1-pro-max r3",
+  "C": "kimi-k3.1-pro-max r1",
+  "D": "anchor claude-haiku-5.5-medium r1",
+  "E": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-75": {
+  "A": "kimi-k3.1-pro-max r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "kimi-k3.1-pro-max r3",
+  "D": "anchor claude-haiku-5.5-medium r1",
+  "E": "kimi-k3.1-pro-max r2"
+ },
+ "fh-76": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "kimi-k3.1-pro-max r3",
+  "C": "kimi-k3.1-pro-max r1",
+  "D": "kimi-k3.1-pro-max r2",
+  "E": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-77": {
+  "A": "kimi-k3.1-pro-max r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "kimi-k3.1-pro-max r3",
+  "D": "kimi-k3.1-pro-max r2",
+  "E": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-78": {
+  "A": "kimi-k3.1-pro-max r1",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "kimi-k3.1-pro-max r3",
+  "D": "anchor deepseek-v4.1-flash-high r1",
+  "E": "kimi-k3.1-pro-max r2"
+ },
+ "fh-79": {
+  "A": "kimi-k3.1-pro-max r2",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "kimi-k3.1-pro-max r3",
+  "D": "anchor deepseek-v4.1-flash-high r1",
+  "E": "kimi-k3.1-pro-max r1"
+ },
+ "fh-80": {
+  "A": "kimi-k3.1-pro-max r3",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "kimi-k3.1-pro-max r2",
+  "D": "anchor claude-haiku-5.5-medium r1",
+  "E": "kimi-k3.1-pro-max r1"
+ },
+ "fh-81": {
+  "A": "kimi-k3.1-pro-max r2",
+  "B": "kimi-k3.1-pro-max r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "kimi-k3.1-pro-max r3",
+  "E": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-82": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "kimi-k3.1-pro-max r2",
+  "C": "kimi-k3.1-pro-max r3",
+  "D": "kimi-k3.1-pro-max r1",
+  "E": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-83": {
+  "A": "kimi-k3.1-pro-max r3",
+  "B": "kimi-k3.1-pro-max r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "kimi-k3.1-pro-max r2",
+  "E": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-84": {
+  "A": "kimi-k3.1-pro-max r3",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "kimi-k3.1-pro-max r1",
+  "E": "kimi-k3.1-pro-max r2"
+ },
+ "fh-85": {
+  "A": "kimi-k3.1-pro-max r3",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "kimi-k3.1-pro-max r1",
+  "E": "kimi-k3.1-pro-max r2"
+ },
+ "fh-86": {
+  "A": "kimi-k3.1-pro-max r1",
+  "B": "kimi-k3.1-pro-max r2",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "anchor claude-haiku-5.5-medium r1",
+  "E": "kimi-k3.1-pro-max r3"
+ },
+ "fh-87": {
+  "A": "kimi-k3.1-pro-max r2",
+  "B": "kimi-k3.1-pro-max r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "anchor claude-haiku-5.5-medium r1",
+  "E": "kimi-k3.1-pro-max r3"
+ },
+ "fh-88": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "kimi-k3.1-pro-max r3",
+  "C": "kimi-k3.1-pro-max r1",
+  "D": "anchor claude-haiku-5.5-medium r1",
+  "E": "kimi-k3.1-pro-max r2"
+ },
+ "fh-89": {
+  "A": "kimi-k3.1-pro-max r1",
+  "B": "kimi-k3.1-pro-max r2",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "kimi-k3.1-pro-max r3",
+  "E": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-90": {
+  "A": "kimi-k3.1-pro-max r2",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "kimi-k3.1-pro-max r3",
+  "E": "kimi-k3.1-pro-max r1"
+ },
+ "fh-91": {
+  "A": "kimi-k3.1-pro-max r1",
+  "B": "kimi-k3.1-pro-max r2",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "anchor claude-haiku-5.5-medium r1",
+  "E": "kimi-k3.1-pro-max r3"
+ },
+ "fh-92": {
+  "A": "kimi-k3.1-pro-max r3",
+  "B": "kimi-k3.1-pro-max r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "kimi-k3.1-pro-max r2",
+  "E": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-93": {
+  "A": "kimi-k3.1-pro-max r1",
+  "B": "kimi-k3.1-pro-max r2",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "kimi-k3.1-pro-max r3",
+  "E": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-94": {
+  "A": "kimi-k3.1-pro-max r3",
+  "B": "kimi-k3.1-pro-max r1",
+  "C": "kimi-k3.1-pro-max r2",
+  "D": "anchor deepseek-v4.1-flash-high r1",
+  "E": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-95": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "kimi-k3.1-pro-max r3",
+  "C": "kimi-k3.1-pro-max r2",
+  "D": "anchor claude-haiku-5.5-medium r1",
+  "E": "kimi-k3.1-pro-max r1"
+ },
+ "fh-96": {
+  "A": "kimi-k3.1-pro-max r2",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "kimi-k3.1-pro-max r3",
+  "D": "kimi-k3.1-pro-max r1",
+  "E": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-97": {
+  "A": "kimi-k3.1-pro-max r3",
+  "B": "kimi-k3.1-pro-max r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "kimi-k3.1-pro-max r2",
+  "E": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-98": {
+  "A": "kimi-k3.1-pro-max r2",
+  "B": "kimi-k3.1-pro-max r3",
+  "C": "kimi-k3.1-pro-max r1",
+  "D": "anchor deepseek-v4.1-flash-high r1",
+  "E": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-99": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "kimi-k3.1-pro-max r3",
+  "D": "kimi-k3.1-pro-max r2",
+  "E": "kimi-k3.1-pro-max r1"
+ },
+ "fh-100": {
+  "A": "kimi-k3.1-pro-max r2",
+  "B": "kimi-k3.1-pro-max r3",
+  "C": "kimi-k3.1-pro-max r1",
+  "D": "anchor deepseek-v4.1-flash-high r1",
+  "E": "anchor claude-haiku-5.5-medium r1"
+ }
+}
