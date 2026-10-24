@@ -1,11 +1,14 @@
-"""The results, computed from data/: the table, a CSV of every run, the accuracy-vs-cost chart, and comparisons.
+"""The results, computed from data/: the table, a CSV of every run, the accuracy-vs-cost and leaderboard charts,
+and comparisons.
 
-    python3 results.py                  # -> results/results.md, results/runs.csv, results/accuracy_vs_cost.svg
+    python3 results.py                  # -> results/results.md, results/runs.csv, results/accuracy_vs_cost.svg,
+                                        #    results/accuracy_leaderboard.svg
     python3 results.py compare A B      # per question, A's correct runs vs B's: better : worse, sign-test p
 
 The PNG is the SVG rendered by a headless browser, e.g.:
     google-chrome --headless --hide-scrollbars --window-size=1280,860 --force-device-scale-factor=2 \
         --screenshot=results/accuracy_vs_cost.png results/accuracy_vs_cost.svg
+and the leaderboard the same way at --window-size=1280,1168.
 """
 import base64
 import csv
@@ -188,6 +191,48 @@ def svg(res):
     return "\n".join(out + ["</svg>"]) + "\n"
 
 
+# leaderboard: one bar per configuration, accuracy from 0; the thin line on a bar spans its lowest to highest run
+ROW, BAR = 26, 16
+LB_Y0 = 172                                    # top of the first row
+LB_X0, LB_X1 = X0 + 250, X1 - 64               # bar area, 0 to 100%
+
+
+def bx(acc):
+    return LB_X0 + acc / 100 * (LB_X1 - LB_X0)
+
+
+def leaderboard(res):
+    ranked = sorted(res, key=lambda m: (-statistics.mean(res[m][0]), res[m][2]))
+    h = LB_Y0 + len(ranked) * ROW + 86
+    logo = base64.b64encode((HERE / "assets" / "pageindex-wordmark.svg").read_bytes()).decode("ascii")
+    out = [f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {h}" width="{W}" height="{h}" '
+           f'font-family="system-ui, -apple-system, \'Segoe UI\', sans-serif">',
+           f'<rect width="{W}" height="{h}" fill="{SURFACE}"/>',
+           text(X0, 64, "PageIndex Financial QA Benchmark", 40, INK, weight=650, font="font-family=\"'Iowan Old Style', Georgia, serif\""),
+           text(X0, 94, "Question Answering Accuracy on 40 10-K Documents Across 8 Companies", 16, FAINT),
+           f'<image x="{X1 - 170}" y="37" width="170" height="35" href="data:image/svg+xml;base64,{logo}"/>']
+    out += legend([(lambda lx, v=v: f'<rect x="{lx + 1}" y="127" width="14" height="12" rx="2" fill="{COLOR[v]}"/>', v)
+                   for v in VENDORS], 133)
+    bottom = LB_Y0 + len(ranked) * ROW
+    for a in range(0, 101, 10):
+        out += [f'<line x1="{bx(a):.1f}" y1="{LB_Y0 - 6}" x2="{bx(a):.1f}" y2="{bottom + 2}" stroke="{GRID}" stroke-width="1"/>',
+                text(bx(a), bottom + 22, f"{a}", 13, MUTED, "middle")]
+    out.append(text((LB_X0 + LB_X1) / 2, bottom + 54, "Accuracy (%, mean of runs; line: lowest to highest run)", 15, INK, "middle"))
+    for n, m in enumerate(ranked, 1):
+        runs, _, cost, _ = res[m]
+        acc, top = statistics.mean(runs), LB_Y0 + (n - 1) * ROW
+        mid = top + ROW / 2
+        out += [text(X0 + 22, mid + 5, f"{n}", 14, FAINT, "end"),
+                text(X0 + 36, mid + 5, label(m), 14, INK),
+                f'<g><title>{html.escape(label(m))}: {acc:.1f}% ({"/".join(f"{r:.0f}" for r in runs)}), ${cost:.2f} per run</title>'
+                f'<rect x="{LB_X0}" y="{mid - BAR / 2:.1f}" width="{bx(acc) - LB_X0:.1f}" height="{BAR}" rx="2" '
+                f'fill="{COLOR[CONFIGS[m][1]]}"/></g>',
+                *(f'<line x1="{bx(min(runs)):.1f}" y1="{mid:.1f}" x2="{bx(max(runs)):.1f}" y2="{mid:.1f}" '
+                  f'stroke="{c}" stroke-width="{w}" stroke-linecap="round"/>' for c, w in ((SURFACE, 4), (INK, 1.5))),
+                text(X1, mid + 5, f"{acc:.1f}", 14, INK, "end", weight=600)]
+    return "\n".join(out + ["</svg>"]) + "\n"
+
+
 def sign_test(better, worse):
     n, k = better + worse, min(better, worse)
     return min(1.0, 2 * sum(math.comb(n, i) for i in range(k + 1)) / 2 ** n) if n else 1.0
@@ -213,4 +258,5 @@ if __name__ == "__main__":
     (OUT / "results.md").write_text(table(res))
     runs_csv(OUT / "runs.csv", res)
     (OUT / "accuracy_vs_cost.svg").write_text(svg(res))
-    print(f"wrote {OUT.relative_to(HERE)}/results.md, runs.csv, accuracy_vs_cost.svg")
+    (OUT / "accuracy_leaderboard.svg").write_text(leaderboard(res))
+    print(f"wrote {OUT.relative_to(HERE)}/results.md, runs.csv, accuracy_vs_cost.svg, accuracy_leaderboard.svg")
