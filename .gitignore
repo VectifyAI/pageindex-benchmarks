@@ -4,5 +4,4 @@ __pycache__/
 .DS_Store
 */sheets/
 */logs/
-*/corpus/pdfs/
 */library-w70/.lock

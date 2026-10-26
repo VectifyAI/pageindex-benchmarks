@@ -1,10 +1,9 @@
-"""Download the corpus, 40 Form 10-K PDFs, into corpus/pdfs/ from the URLs in manifest.json (the PDF each company's
-investor-relations site serves, exhibits included), and check each against SHA256SUMS. Only needed to rebuild the
-library (index.py) or to read the evidence pages; the questions are answered from library-w70/.
+"""Check the corpus, the 40 Form 10-K PDFs in corpus/pdfs/, against SHA256SUMS; a missing PDF is downloaded from its
+URL in manifest.json (the PDF each company's investor-relations site serves, exhibits included).
 
     python3 corpus/fetch.py
 
-JPMorgan's site refuses scripted downloads: save its five PDFs by hand from the filing pages the script lists.
+JPMorgan's site refuses scripted downloads: save a missing JPMorgan PDF by hand from the filing page the script lists.
 """
 import hashlib
 import json

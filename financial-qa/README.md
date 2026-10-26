@@ -107,8 +107,9 @@ python3 run.py answer CONFIG 1      # one run of the 100 questions
 - Runs write to `data/`. Prices and model behavior change over time, so a new run of a configuration listed here
   need not match its results; give it a new run number (4, 5, ...) to keep the existing runs.
 - Grading new runs: [grading/README.md](grading/README.md).
-- The library is included. To rebuild it, move `library-w70/` aside, then `python3 corpus/fetch.py` (40 PDFs, five
-  saved by hand) and `python3 index.py`; a rebuilt library differs from this one, and runs record which they used.
+- The library and the 40 PDFs are included. To rebuild the library, move `library-w70/` aside, then
+  `python3 corpus/fetch.py` (checks the PDFs) and `python3 index.py`; a rebuilt library differs from this one, and
+  runs record which they used.
 
 ## Layout
 
@@ -121,7 +122,7 @@ financial-qa/
 ├── results.py                table, CSV, chart and comparisons from data/
 ├── index.py                  build the library from the filings
 ├── questions/questions.json  the 100 questions, reference answers, key points, evidence pages
-├── corpus/                   the 40 filings: manifest, checksums, download script
+├── corpus/                   the 40 filings (pdfs/), manifest, checksums, check script
 ├── library-w70/              the PageIndex library every configuration answers from
 ├── grading/                  the graders' rubric and setup
 ├── data/                     answers, calls, OpenRouter records, runs, preflight checks, grades (data/README.md)

@@ -14,8 +14,8 @@ next; the library, the questions, the agent and its settings stay the same.
 
 - **Corpus**: the five most recent annual reports on Form 10-K of eight companies (Apple, Berkshire Hathaway,
   Boeing, ExxonMobil, JPMorgan Chase, NVIDIA, Pfizer, Walmart), 40 PDFs with 7,318 pages, as each company's
-  investor-relations site serves them, exhibits included. `corpus/manifest.json` gives each file's source URL,
-  EDGAR accession number, page count and SHA-256; `corpus/fetch.py` downloads and checks them.
+  investor-relations site serves them, exhibits included (`corpus/pdfs/`). `corpus/manifest.json` gives each
+  file's source URL, EDGAR accession number, page count and SHA-256; `corpus/fetch.py` checks them.
 - **Library**: `library-w70/`, built once with PageIndex 0.4.4 (`index.py`): a tree per filing, indexed by GPT-6
   Luna, node summaries capped at 70 words, the SDK's other settings at their defaults. Every configuration answers
   from this same library, and every run records its SHA-256. Indexing cost is not part of any result.
