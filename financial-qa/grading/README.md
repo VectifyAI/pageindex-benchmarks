@@ -1,7 +1,7 @@
 # Graders
 
-Every grade in `data/grading/` comes from a Claude Opus 5.5 (`claude-opus-5-5`) agent run from Claude Code: one
-fresh agent per sheet, sharing no context with any other.
+Every grade in `data/grading/` comes from Claude Opus 5.5 (`claude-opus-5-5`): one fresh session per sheet, sharing
+no context with any other.
 
 ## What a grader sees
 
@@ -9,15 +9,8 @@ fresh agent per sheet, sharing no context with any other.
   `grade.py adjudicate`.
 - A sheet holds questions, reference answers, key points and answers labeled A, B, C, …: no configuration named,
   answers in seeded random order. The label-to-answer map stays in `data/grading/<round>_map.json`.
-- This prompt, with the paths filled in:
-
-  > You are one of several blind graders for a benchmark of answers about companies' annual reports. Read the
-  > grading instructions at `<brief>` and follow them exactly. The sheet to grade is `<sheet>`. Write your grades
-  > with the Write tool to `<grades>`: one JSON line per sheet line, in sheet order, keeping each "id" exactly as
-  > given (they end in ~1, ~2 or ~3) and grading every label. Do not open any other file and do not search the
-  > web. Reply with only the number of lines graded.
-
-  The note on `~1, ~2 or ~3` follows the round's sheets, and is left out where questions are not split.
+- The instruction to follow the brief exactly and return one JSON line per sheet line, in sheet order, keeping each
+  "id" exactly as given and grading every label, without opening any other file or searching the web.
 
 ## Checks
 
@@ -30,8 +23,9 @@ fresh agent per sheet, sharing no context with any other.
 ## To grade new runs
 
 1. `python3 grade.py sheets <round> <config,...>` writes the sheets to `sheets/` and the map to `data/grading/`.
-2. Give each sheet, the brief and the prompt above to a grader, which writes `data/grading/<round>_grades_<n>.jsonl`
-   for `sheets/<round>_<n>.jsonl` and `<round>_check_grades_<n>.jsonl` for `sheets/<round>_check_<n>.jsonl`.
+2. Give each sheet and the brief to a grader with the instruction above; its grades go to
+   `data/grading/<round>_grades_<n>.jsonl` for `sheets/<round>_<n>.jsonl` and to `<round>_check_grades_<n>.jsonl`
+   for `sheets/<round>_check_<n>.jsonl`.
 3. `python3 grade.py adjudicate <round>`, and grade its sheets the same way into `<round>_adjudicate_grades_<n>.jsonl`.
 4. `python3 grade.py report <round>` shows the round's accuracy per run, the check grader's agreement and the
    anchors; add the round to `ROUNDS` in `grade.py` to put it in the results.

@@ -1,4 +1,4 @@
-"""The 35 configurations benchmarked: a model on OpenRouter, the provider it is pinned to, and a reasoning level."""
+"""The 37 configurations benchmarked: a model on OpenRouter, the provider it is pinned to, and a reasoning level."""
 
 # key: (name, vendor, OpenRouter model, provider, level, effort). `effort` is the reasoning.effort sent; None sends
 # no reasoning setting, so the model runs at its default level, which is `level` (METHOD.md, "Reasoning levels").
@@ -13,6 +13,8 @@ CONFIGS = {
     "gpt-6.1-sol-max": ("GPT-6.1 Sol", "OpenAI", "openai/gpt-6.1-sol", "OpenAI", "max", "max"),
     "gpt-6.1-sol-medium": ("GPT-6.1 Sol", "OpenAI", "openai/gpt-6.1-sol", "OpenAI", "medium", None),
     "gpt-6.1-sol-low": ("GPT-6.1 Sol", "OpenAI", "openai/gpt-6.1-sol", "OpenAI", "low", "low"),
+    "gpt-6.1-terra-max": ("GPT-6.1 Terra", "OpenAI", "openai/gpt-6.1-terra", "OpenAI", "max", "max"),
+    "gpt-6.1-terra-medium": ("GPT-6.1 Terra", "OpenAI", "openai/gpt-6.1-terra", "OpenAI", "medium", "medium"),
     "gpt-6-luna-max": ("GPT-6 Luna", "OpenAI", "openai/gpt-6-luna", "OpenAI", "max", "max"),
     "gpt-6-luna-medium": ("GPT-6 Luna", "OpenAI", "openai/gpt-6-luna", "OpenAI", "medium", None),
     "gemini-4-argon-high": ("Gemini 4 Argon", "Google", "google/gemini-4-argon", "Google AI Studio", "high", "high"),

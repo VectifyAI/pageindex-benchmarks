@@ -1,0 +1,297 @@
+{
+ "model": "gpt-6.1-terra-max",
+ "route": "openai/gpt-6.1-terra",
+ "provider": "OpenAI",
+ "reasoning_setting": "max",
+ "checked": "2026-10-27 11:47:26 +0800",
+ "openrouter_reasoning": {
+  "mandatory": false,
+  "default_enabled": true,
+  "supported_efforts": [
+   "max",
+   "xhigh",
+   "high",
+   "medium",
+   "low",
+   "none"
+  ],
+  "default_effort": "medium"
+ },
+ "declared_default": "medium",
+ "pricing": {
+  "prompt": "0.000001",
+  "completion": "0.000005",
+  "web_search": "0.01",
+  "input_cache_read": "0.00000005",
+  "input_cache_write": "0.00000125",
+  "overrides": [
+   {
+    "min_prompt_tokens": 272000,
+    "prompt": "0.000002",
+    "completion": "0.0000075",
+    "input_cache_read": "0.0000001",
+    "input_cache_write": "0.0000025"
+   }
+  ]
+ },
+ "endpoint_tag": "openai",
+ "endpoint_pricing": {
+  "prompt": "0.000001",
+  "completion": "0.000005",
+  "web_search": "0.01",
+  "input_cache_read": "0.00000005",
+  "input_cache_write": "0.00000125",
+  "discount": 0,
+  "overrides": [
+   {
+    "min_prompt_tokens": 272000,
+    "prompt": "0.000002",
+    "completion": "0.0000075",
+    "input_cache_read": "0.0000001",
+    "input_cache_write": "0.0000025"
+   }
+  ]
+ },
+ "billed_over_standard": [
+  1.0,
+  1.0
+ ],
+ "reasoning_tokens_median": {
+  "None": 302,
+  "max": 688,
+  "xhigh": 339,
+  "high": 382,
+  "medium": 306,
+  "low": 298,
+  "none": 0
+ },
+ "calls": [
+  {
+   "setting": null,
+   "gen_id": "gen-1793072826-jOv4BOboVxhXATtOwfjN",
+   "provider": "OpenAI",
+   "cost": 0.001317,
+   "standard_price_cost": 0.001317,
+   "reasoning_tokens": 246
+  },
+  {
+   "setting": null,
+   "gen_id": "gen-1793072826-3i4IEfoVdGBwgbMXxESd",
+   "provider": "OpenAI",
+   "cost": 0.002412,
+   "standard_price_cost": 0.002412,
+   "reasoning_tokens": 465
+  },
+  {
+   "setting": null,
+   "gen_id": "gen-1793072826-LsZA4ItoaInYkcyBDDTe",
+   "provider": "OpenAI",
+   "cost": 0.001597,
+   "standard_price_cost": 0.0015970000000000001,
+   "reasoning_tokens": 302
+  },
+  {
+   "setting": null,
+   "gen_id": "gen-1793072826-GX2n2eA6jPP0eBl5xYt9",
+   "provider": "OpenAI",
+   "cost": 0.001252,
+   "standard_price_cost": 0.001252,
+   "reasoning_tokens": 233
+  },
+  {
+   "setting": "max",
+   "gen_id": "gen-1793072826-rKhflpXLwectE8VGiy1a",
+   "provider": "OpenAI",
+   "cost": 0.003497,
+   "standard_price_cost": 0.003497,
+   "reasoning_tokens": 682
+  },
+  {
+   "setting": "max",
+   "gen_id": "gen-1793072826-6v1miLnw8dNjvyWKeknM",
+   "provider": "OpenAI",
+   "cost": 0.003837,
+   "standard_price_cost": 0.003837,
+   "reasoning_tokens": 750
+  },
+  {
+   "setting": "max",
+   "gen_id": "gen-1793072826-hyoFscNB897U0CCLaLWS",
+   "provider": "OpenAI",
+   "cost": 0.003527,
+   "standard_price_cost": 0.003527,
+   "reasoning_tokens": 688
+  },
+  {
+   "setting": "max",
+   "gen_id": "gen-1793072826-UoGZcE2e9OiDNLFs94RD",
+   "provider": "OpenAI",
+   "cost": 0.003192,
+   "standard_price_cost": 0.0031920000000000004,
+   "reasoning_tokens": 621
+  },
+  {
+   "setting": "xhigh",
+   "gen_id": "gen-1793072830-xqp1I4NAwBNL7Yquz36v",
+   "provider": "OpenAI",
+   "cost": 0.002867,
+   "standard_price_cost": 0.002867,
+   "reasoning_tokens": 556
+  },
+  {
+   "setting": "xhigh",
+   "gen_id": "gen-1793072831-zixnMhDZaIXYCamAV8L3",
+   "provider": "OpenAI",
+   "cost": 0.001757,
+   "standard_price_cost": 0.001757,
+   "reasoning_tokens": 334
+  },
+  {
+   "setting": "xhigh",
+   "gen_id": "gen-1793072831-Y4HhN1nrrx72pvoHZBUv",
+   "provider": "OpenAI",
+   "cost": 0.001272,
+   "standard_price_cost": 0.0012720000000000001,
+   "reasoning_tokens": 237
+  },
+  {
+   "setting": "xhigh",
+   "gen_id": "gen-1793072832-T7aoSkz405SeSNbKv873",
+   "provider": "OpenAI",
+   "cost": 0.001782,
+   "standard_price_cost": 0.0017820000000000002,
+   "reasoning_tokens": 339
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1793072834-WITtE2ZNoEBw5C7xYZMb",
+   "provider": "OpenAI",
+   "cost": 0.001997,
+   "standard_price_cost": 0.001997,
+   "reasoning_tokens": 382
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1793072835-EeoZQ6U7zXh0o66VF3lY",
+   "provider": "OpenAI",
+   "cost": 0.001307,
+   "standard_price_cost": 0.001307,
+   "reasoning_tokens": 244
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1793072835-lvmowcv9jYJafRDQWJfo",
+   "provider": "OpenAI",
+   "cost": 0.002602,
+   "standard_price_cost": 0.002602,
+   "reasoning_tokens": 503
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1793072836-9656citN5nfm1EmZUYUs",
+   "provider": "OpenAI",
+   "cost": 0.001847,
+   "standard_price_cost": 0.0018470000000000001,
+   "reasoning_tokens": 352
+  },
+  {
+   "setting": "medium",
+   "gen_id": "gen-1793072836-iAPwLZx2aKn0yOiZx8Fw",
+   "provider": "OpenAI",
+   "cost": 0.001207,
+   "standard_price_cost": 0.001207,
+   "reasoning_tokens": 224
+  },
+  {
+   "setting": "medium",
+   "gen_id": "gen-1793072837-M0OGSRnV3E2xhdmM6lax",
+   "provider": "OpenAI",
+   "cost": 0.001617,
+   "standard_price_cost": 0.0016170000000000002,
+   "reasoning_tokens": 306
+  },
+  {
+   "setting": "medium",
+   "gen_id": "gen-1793072838-B9YIF03dyAVtVLmcd7F0",
+   "provider": "OpenAI",
+   "cost": 0.001877,
+   "standard_price_cost": 0.0018770000000000002,
+   "reasoning_tokens": 358
+  },
+  {
+   "setting": "medium",
+   "gen_id": "gen-1793072838-0ZVoLgv0FoSO3TAX9aWP",
+   "provider": "OpenAI",
+   "cost": 0.001317,
+   "standard_price_cost": 0.001317,
+   "reasoning_tokens": 246
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1793072840-nQPh6FlobdiBOUtDdPtH",
+   "provider": "OpenAI",
+   "cost": 0.001212,
+   "standard_price_cost": 0.001212,
+   "reasoning_tokens": 225
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1793072840-cB7kfrswOexr1PwzBPRL",
+   "provider": "OpenAI",
+   "cost": 0.001652,
+   "standard_price_cost": 0.001652,
+   "reasoning_tokens": 313
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1793072841-JeLBu54JmmmKcYjVjf4W",
+   "provider": "OpenAI",
+   "cost": 0.001112,
+   "standard_price_cost": 0.0011120000000000001,
+   "reasoning_tokens": 205
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1793072841-835Ipk7zS91mA2B8ltrb",
+   "provider": "OpenAI",
+   "cost": 0.001577,
+   "standard_price_cost": 0.001577,
+   "reasoning_tokens": 298
+  },
+  {
+   "setting": "none",
+   "gen_id": "gen-1793072841-lp6ABwOyXo8tm9DRQO8i",
+   "provider": "OpenAI",
+   "cost": 7.7e-05,
+   "standard_price_cost": 7.7e-05,
+   "reasoning_tokens": 0
+  },
+  {
+   "setting": "none",
+   "gen_id": "gen-1793072842-bKkzlesjvNZtEcO4tY3v",
+   "provider": "OpenAI",
+   "cost": 7.7e-05,
+   "standard_price_cost": 7.7e-05,
+   "reasoning_tokens": 0
+  },
+  {
+   "setting": "none",
+   "gen_id": "gen-1793072842-PtavzQNbqrqVfZcw42tJ",
+   "provider": "OpenAI",
+   "cost": 7.7e-05,
+   "standard_price_cost": 7.7e-05,
+   "reasoning_tokens": 0
+  },
+  {
+   "setting": "none",
+   "gen_id": "gen-1793072843-FSuQoKXbK97DExfKnc7t",
+   "provider": "OpenAI",
+   "cost": 7.7e-05,
+   "standard_price_cost": 7.7e-05,
+   "reasoning_tokens": 0
+  }
+ ],
+ "cost": 0.047941,
+ "passed": true,
+ "failures": []
+}

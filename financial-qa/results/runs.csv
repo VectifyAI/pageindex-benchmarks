@@ -26,6 +26,12 @@ gpt-6.1-sol-medium,GPT-6.1 Sol,medium,3,93,49,24,20,0,19.366611,22.208610
 gpt-6.1-sol-low,GPT-6.1 Sol,low,1,92,49,23,20,0,18.201535,18.201535
 gpt-6.1-sol-low,GPT-6.1 Sol,low,2,92,47,25,20,0,18.406101,18.406101
 gpt-6.1-sol-low,GPT-6.1 Sol,low,3,92,49,23,20,0,18.162363,18.162363
+gpt-6.1-terra-max,GPT-6.1 Terra,max,1,96,50,26,20,0,18.296135,18.296135
+gpt-6.1-terra-max,GPT-6.1 Terra,max,2,96,49,27,20,0,17.867664,17.867664
+gpt-6.1-terra-max,GPT-6.1 Terra,max,3,97,50,27,20,0,17.262643,17.262643
+gpt-6.1-terra-medium,GPT-6.1 Terra,medium,1,91,48,24,19,0,11.712094,11.712094
+gpt-6.1-terra-medium,GPT-6.1 Terra,medium,2,90,47,24,19,0,12.040173,12.040173
+gpt-6.1-terra-medium,GPT-6.1 Terra,medium,3,92,49,23,20,0,11.650023,11.650023
 gpt-6-luna-max,GPT-6 Luna,max,1,77,38,21,18,0,2.265159,2.265159
 gpt-6-luna-max,GPT-6 Luna,max,2,78,37,23,18,0,2.310300,2.310300
 gpt-6-luna-max,GPT-6 Luna,max,3,79,39,22,18,0,2.222905,2.222905

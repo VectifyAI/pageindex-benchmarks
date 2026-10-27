@@ -1,0 +1,6 @@
+{
+ "fh-32": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "gpt-6.1-terra-max r1"
+ }
+}

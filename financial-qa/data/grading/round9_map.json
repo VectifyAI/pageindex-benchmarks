@@ -1,0 +1,602 @@
+{
+ "fh-01": {
+  "A": "gpt-6.1-terra-max r2",
+  "B": "gpt-6.1-terra-max r3",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-02": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "gpt-6.1-terra-max r3",
+  "D": "gpt-6.1-terra-max r2"
+ },
+ "fh-03": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "gpt-6.1-terra-max r3",
+  "D": "gpt-6.1-terra-max r2"
+ },
+ "fh-04": {
+  "A": "gpt-6.1-terra-max r3",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "gpt-6.1-terra-max r2",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-05": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gpt-6.1-terra-max r3",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "gpt-6.1-terra-max r2"
+ },
+ "fh-06": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gpt-6.1-terra-max r2",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "gpt-6.1-terra-max r3"
+ },
+ "fh-07": {
+  "A": "gpt-6.1-terra-max r3",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "gpt-6.1-terra-max r2",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-08": {
+  "A": "gpt-6.1-terra-max r3",
+  "B": "gpt-6.1-terra-max r2",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-09": {
+  "A": "gpt-6.1-terra-max r3",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "gpt-6.1-terra-max r2",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-10": {
+  "A": "gpt-6.1-terra-max r2",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "gpt-6.1-terra-max r3"
+ },
+ "fh-11": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "gpt-6.1-terra-max r2",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "gpt-6.1-terra-max r3"
+ },
+ "fh-12": {
+  "A": "gpt-6.1-terra-max r2",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "gpt-6.1-terra-max r3"
+ },
+ "fh-13": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "gpt-6.1-terra-max r2",
+  "D": "gpt-6.1-terra-max r3"
+ },
+ "fh-14": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "gpt-6.1-terra-max r3",
+  "D": "gpt-6.1-terra-max r2"
+ },
+ "fh-15": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "gpt-6.1-terra-max r2",
+  "C": "gpt-6.1-terra-max r3",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-16": {
+  "A": "gpt-6.1-terra-max r2",
+  "B": "gpt-6.1-terra-max r3",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-17": {
+  "A": "gpt-6.1-terra-max r3",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "gpt-6.1-terra-max r2",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-18": {
+  "A": "gpt-6.1-terra-max r2",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "gpt-6.1-terra-max r3",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-19": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gpt-6.1-terra-max r3",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "gpt-6.1-terra-max r2"
+ },
+ "fh-20": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "gpt-6.1-terra-max r2",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "gpt-6.1-terra-max r3"
+ },
+ "fh-21": {
+  "A": "gpt-6.1-terra-max r2",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "gpt-6.1-terra-max r3"
+ },
+ "fh-22": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "gpt-6.1-terra-max r3",
+  "D": "gpt-6.1-terra-max r2"
+ },
+ "fh-23": {
+  "A": "gpt-6.1-terra-max r2",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "gpt-6.1-terra-max r3"
+ },
+ "fh-24": {
+  "A": "gpt-6.1-terra-max r3",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "gpt-6.1-terra-max r2"
+ },
+ "fh-25": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gpt-6.1-terra-max r2",
+  "C": "gpt-6.1-terra-max r3",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-26": {
+  "A": "gpt-6.1-terra-max r3",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "gpt-6.1-terra-max r2",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-27": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "gpt-6.1-terra-max r3",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "gpt-6.1-terra-max r2"
+ },
+ "fh-28": {
+  "A": "gpt-6.1-terra-max r3",
+  "B": "gpt-6.1-terra-max r2",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-29": {
+  "A": "gpt-6.1-terra-max r3",
+  "B": "gpt-6.1-terra-max r2",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-30": {
+  "A": "gpt-6.1-terra-max r2",
+  "B": "gpt-6.1-terra-max r3",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-31": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "gpt-6.1-terra-max r3",
+  "C": "gpt-6.1-terra-max r2",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-32": {
+  "A": "gpt-6.1-terra-max r2",
+  "B": "gpt-6.1-terra-max r3",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-33": {
+  "A": "gpt-6.1-terra-max r2",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "gpt-6.1-terra-max r3",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-34": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "gpt-6.1-terra-max r2",
+  "D": "gpt-6.1-terra-max r3"
+ },
+ "fh-35": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gpt-6.1-terra-max r2",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "gpt-6.1-terra-max r3"
+ },
+ "fh-36": {
+  "A": "gpt-6.1-terra-max r3",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "gpt-6.1-terra-max r2",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-37": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gpt-6.1-terra-max r2",
+  "C": "gpt-6.1-terra-max r3",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-38": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gpt-6.1-terra-max r2",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "gpt-6.1-terra-max r3"
+ },
+ "fh-39": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gpt-6.1-terra-max r3",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "gpt-6.1-terra-max r2"
+ },
+ "fh-40": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gpt-6.1-terra-max r3",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "gpt-6.1-terra-max r2"
+ },
+ "fh-41": {
+  "A": "gpt-6.1-terra-max r2",
+  "B": "gpt-6.1-terra-max r3",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-42": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "gpt-6.1-terra-max r2",
+  "C": "gpt-6.1-terra-max r3",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-43": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "gpt-6.1-terra-max r2",
+  "C": "gpt-6.1-terra-max r3",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-44": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "gpt-6.1-terra-max r2",
+  "D": "gpt-6.1-terra-max r3"
+ },
+ "fh-45": {
+  "A": "gpt-6.1-terra-max r2",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "gpt-6.1-terra-max r3",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-46": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "gpt-6.1-terra-max r3",
+  "D": "gpt-6.1-terra-max r2"
+ },
+ "fh-47": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gpt-6.1-terra-max r3",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "gpt-6.1-terra-max r2"
+ },
+ "fh-48": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gpt-6.1-terra-max r3",
+  "C": "gpt-6.1-terra-max r2",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-49": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "gpt-6.1-terra-max r3",
+  "C": "gpt-6.1-terra-max r2",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-50": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gpt-6.1-terra-max r3",
+  "C": "gpt-6.1-terra-max r2",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-51": {
+  "A": "gpt-6.1-terra-max r2",
+  "B": "gpt-6.1-terra-max r3",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-52": {
+  "A": "gpt-6.1-terra-max r3",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "gpt-6.1-terra-max r2"
+ },
+ "fh-53": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "gpt-6.1-terra-max r3",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "gpt-6.1-terra-max r2"
+ },
+ "fh-54": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "gpt-6.1-terra-max r2",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "gpt-6.1-terra-max r3"
+ },
+ "fh-55": {
+  "A": "gpt-6.1-terra-max r3",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "gpt-6.1-terra-max r2",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-56": {
+  "A": "gpt-6.1-terra-max r2",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "gpt-6.1-terra-max r3"
+ },
+ "fh-57": {
+  "A": "gpt-6.1-terra-max r3",
+  "B": "gpt-6.1-terra-max r2",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-58": {
+  "A": "gpt-6.1-terra-max r2",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "gpt-6.1-terra-max r3"
+ },
+ "fh-59": {
+  "A": "gpt-6.1-terra-max r2",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "gpt-6.1-terra-max r3"
+ },
+ "fh-60": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gpt-6.1-terra-max r3",
+  "C": "gpt-6.1-terra-max r2",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-61": {
+  "A": "gpt-6.1-terra-max r2",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "gpt-6.1-terra-max r3",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-62": {
+  "A": "gpt-6.1-terra-max r3",
+  "B": "gpt-6.1-terra-max r2",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-63": {
+  "A": "gpt-6.1-terra-max r2",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "gpt-6.1-terra-max r3",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-64": {
+  "A": "gpt-6.1-terra-max r2",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "gpt-6.1-terra-max r3",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-65": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "gpt-6.1-terra-max r3",
+  "D": "gpt-6.1-terra-max r2"
+ },
+ "fh-66": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "gpt-6.1-terra-max r3",
+  "D": "gpt-6.1-terra-max r2"
+ },
+ "fh-67": {
+  "A": "gpt-6.1-terra-max r3",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "gpt-6.1-terra-max r2",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-68": {
+  "A": "gpt-6.1-terra-max r3",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "gpt-6.1-terra-max r2",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-69": {
+  "A": "gpt-6.1-terra-max r2",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "gpt-6.1-terra-max r3",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-70": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gpt-6.1-terra-max r2",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "gpt-6.1-terra-max r3"
+ },
+ "fh-71": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gpt-6.1-terra-max r2",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "gpt-6.1-terra-max r3"
+ },
+ "fh-72": {
+  "A": "gpt-6.1-terra-max r3",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "gpt-6.1-terra-max r2"
+ },
+ "fh-73": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "gpt-6.1-terra-max r3",
+  "C": "gpt-6.1-terra-max r2",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-74": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "gpt-6.1-terra-max r2",
+  "D": "gpt-6.1-terra-max r3"
+ },
+ "fh-75": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "gpt-6.1-terra-max r3",
+  "D": "gpt-6.1-terra-max r2"
+ },
+ "fh-76": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "gpt-6.1-terra-max r2",
+  "C": "gpt-6.1-terra-max r3",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-77": {
+  "A": "gpt-6.1-terra-max r3",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "gpt-6.1-terra-max r2",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-78": {
+  "A": "gpt-6.1-terra-max r3",
+  "B": "gpt-6.1-terra-max r2",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-79": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gpt-6.1-terra-max r3",
+  "C": "gpt-6.1-terra-max r2",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-80": {
+  "A": "gpt-6.1-terra-max r3",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "gpt-6.1-terra-max r2"
+ },
+ "fh-81": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "gpt-6.1-terra-max r2",
+  "D": "gpt-6.1-terra-max r3"
+ },
+ "fh-82": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "gpt-6.1-terra-max r3",
+  "D": "gpt-6.1-terra-max r2"
+ },
+ "fh-83": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gpt-6.1-terra-max r2",
+  "C": "gpt-6.1-terra-max r3",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-84": {
+  "A": "gpt-6.1-terra-max r3",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "gpt-6.1-terra-max r2"
+ },
+ "fh-85": {
+  "A": "gpt-6.1-terra-max r2",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "gpt-6.1-terra-max r3"
+ },
+ "fh-86": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "gpt-6.1-terra-max r2",
+  "D": "gpt-6.1-terra-max r3"
+ },
+ "fh-87": {
+  "A": "gpt-6.1-terra-max r3",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "gpt-6.1-terra-max r2"
+ },
+ "fh-88": {
+  "A": "gpt-6.1-terra-max r2",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "gpt-6.1-terra-max r3"
+ },
+ "fh-89": {
+  "A": "gpt-6.1-terra-max r2",
+  "B": "gpt-6.1-terra-max r3",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-90": {
+  "A": "gpt-6.1-terra-max r3",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "gpt-6.1-terra-max r2"
+ },
+ "fh-91": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gpt-6.1-terra-max r2",
+  "C": "gpt-6.1-terra-max r3",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-92": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "gpt-6.1-terra-max r3",
+  "D": "gpt-6.1-terra-max r2"
+ },
+ "fh-93": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "gpt-6.1-terra-max r2",
+  "C": "gpt-6.1-terra-max r3",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-94": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "gpt-6.1-terra-max r2",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "gpt-6.1-terra-max r3"
+ },
+ "fh-95": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gpt-6.1-terra-max r2",
+  "C": "gpt-6.1-terra-max r3",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-96": {
+  "A": "gpt-6.1-terra-max r2",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "gpt-6.1-terra-max r3",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-97": {
+  "A": "gpt-6.1-terra-max r3",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "gpt-6.1-terra-max r2"
+ },
+ "fh-98": {
+  "A": "gpt-6.1-terra-max r3",
+  "B": "gpt-6.1-terra-max r2",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-99": {
+  "A": "gpt-6.1-terra-max r2",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "gpt-6.1-terra-max r3",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-100": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "gpt-6.1-terra-max r2",
+  "C": "gpt-6.1-terra-max r3",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ }
+}

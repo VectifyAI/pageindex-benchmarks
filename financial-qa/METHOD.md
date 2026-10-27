@@ -41,7 +41,7 @@ verified candidates.
 
 ## Configurations
 
-A configuration is a model at one reasoning level (`models.py`): 35 configurations of 20 models, 11 of them at two
+A configuration is a model at one reasoning level (`models.py`): 37 configurations of 21 models, 12 of them at two
 or more levels.
 
 - **Route**: OpenRouter, each model pinned to one provider with fallbacks off, at its standard tier (no flex, fast or
@@ -50,8 +50,9 @@ or more levels.
   price, and the reasoning setting (`data/preflight/`).
 - **Reasoning levels**: a level other than the default is sent as `reasoning.effort`. At the default level no
   reasoning setting is sent, and the level named is the vendor's default, confirmed by runs with that level set
-  explicitly. MiniMax M3.1 Flash and Kimi K3.1 Pro run at max, their default, with max sent. MiMo models have no
-  levels; Muse Wonder's default is a level the model picks for itself, labeled "adaptive".
+  explicitly. MiniMax M3.1 Flash and Kimi K3.1 Pro run at max, their default, with max sent, and GPT-6.1 Terra at
+  medium, its default, with medium sent. MiMo models have no levels; Muse Wonder's default is a level the model
+  picks for itself, labeled "adaptive".
 
 ## Runs
 
@@ -71,8 +72,8 @@ or more levels.
 
 ## Grading
 
-Graders are Claude Opus 5.5 agents, one fresh agent per sheet with no other context (`grading/README.md`), grading
-by the rubric in `grading/brief.md`:
+Graders are Claude Opus 5.5, one fresh session per sheet with no other context (`grading/README.md`), grading by
+the rubric in `grading/brief.md`:
 
 - An answer is correct when it covers every key point and makes no claim that contradicts the reference.
 - Missing any key point makes it wrong. Extra items are fine on questions that ask for everything of one kind
@@ -96,6 +97,9 @@ anchors that show it grades on the same scale.
 | round4 | the same, runs 2–3 | 277 / 280 | 3 | 200 / 200 |
 | round5 | MiniMax M3.1 Flash (max) and (xhigh), runs 4–6 | 159 / 160 | 1 | 196 / 200 |
 | round6 | Kimi K3.1 Pro (max), 3 runs | 99 / 100 | 1 | 198 / 200 |
+| round7 | GPT-6.1 Terra (medium), 3 runs | 99 / 100 | 1 | 196 / 200 |
+| round8 | GPT-6.1 Terra (max), run 1 | 60 / 60 | 2 | 199 / 200 |
+| round9 | the same, runs 2–3 | 80 / 80 | 0 | 199 / 200 |
 
 ## Cost
 
@@ -105,7 +109,7 @@ anchors that show it grades on the same scale.
 - A run's cost is the sum over its questions of the attempt whose answer stands; attempts retried after an error or
   replaced by an answer asked again are not counted (`results/runs.csv` also gives each run's full bill,
   `billed_usd`). The cost per run in the results is the mean over runs.
-- Prices are those of the pinned providers from 2026-10-22 to 2026-10-24, when the runs were made.
+- Prices are those of the pinned providers from 2026-10-22 to 2026-10-27, when the runs were made.
 
 ## Statistics
 
