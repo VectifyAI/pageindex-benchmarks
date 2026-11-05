@@ -47,7 +47,7 @@ where one was) and `candidate_id` (the question's id among the candidates it was
 
 ## grading
 
-Per round (`grade.py ROUNDS`, METHOD.md "Grading"):
+Per round (`grade.py ROUNDS` and `REGRADES`, METHOD.md "Grading"):
 
 - `<round>_map.json`: sheet line id (`fh-07`, or `fh-07~2` for a question split into groups) -> label -> answer,
   `<config> r<n>` or `anchor <config> r<n>`.

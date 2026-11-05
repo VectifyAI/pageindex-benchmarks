@@ -94,15 +94,22 @@ anchors that show it grades on the same scale.
 | round1 | 18 models at one level each, 54 runs | 1,076 / 1,080 | 65 | – |
 | round2 | ten of those models at a second level, 30 runs | 638 / 640 | 2 | 199 / 200 |
 | reask | the 170 answers of round1 and round2 asked again after running out of turns | 52 / 52 | 0 | 77 / 78 |
-| round3 | GPT-6.1 Sol (low) and MiniMax M3.1 Flash at five levels, run 1 | 160 / 160 | 0 | 197 / 200 |
-| round4 | the same, runs 2–3 | 277 / 280 | 3 | 200 / 200 |
+| round3 | GPT-6.1 Sol (low) and MiniMax M3.1 Flash at five levels, run 1 | 160 / 160 | 0 | 196 / 200 |
+| round4 | the same, runs 2–3 | 277 / 280 | 3 | 199 / 200 |
 | round5 | MiniMax M3.1 Flash (max) and (xhigh), runs 4–6 | 159 / 160 | 1 | 196 / 200 |
-| round6 | Kimi K3.1 Pro (max), 3 runs | 99 / 100 | 1 | 198 / 200 |
+| round6 | Kimi K3.1 Pro (max), 3 runs | 95 / 100 | 1 | 197 / 200 |
 | round7 | GPT-6.1 Terra (medium), 3 runs | 99 / 100 | 1 | 196 / 200 |
-| round8 | GPT-6.1 Terra (max), run 1 | 60 / 60 | 2 | 199 / 200 |
+| round8 | GPT-6.1 Terra (max), run 1 | 58 / 60 | 2 | 198 / 200 |
 | round9 | the same, runs 2–3 | 80 / 80 | 0 | 199 / 200 |
-| round10 | Hy4 (high), run 1 | 299 / 300 | 1 | 199 / 200 |
-| round11 | the same, runs 2–3 | 395 / 400 | 5 | 199 / 200 |
+| round10 | Hy4 (high), run 1 | 299 / 300 | 1 | 198 / 200 |
+| round11 | the same, runs 2–3 | 394 / 400 | 5 | 199 / 200 |
+| fh32 | every answer in the results to fh-32, graded again | 8 / 120 | 112 | – |
+
+Graders of different rounds judged fh-32's extra causes (most often a third-quarter charge-off in Asset & Wealth
+Management) differently, some as contradictions and some not, so every answer to it in the results was graded again
+in one round, fh32 (`grade.py regrade`), with a check grader on every answer and a third grader on each
+disagreement; these grades replace the earlier ones. The first two graders read the extras in opposite ways; the third
+found no contradiction in any of the 112 answers they disagreed on.
 
 ## Cost
 
