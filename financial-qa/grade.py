@@ -95,8 +95,8 @@ def blind_map(rnd, kind=""):
 
 def split_answers(rnd, qid, systems):
     """A question's answers in groups of at most ANSWERS_PER_GROUP, graded one group at a time (long lists of
-    answers invite drift). A configuration's runs go to different groups, so that a group graded more leniently
-    cannot hold all of one configuration's runs."""
+    answers invite drift). A configuration's runs go to different groups as far as the number of groups allows, so
+    that a group graded more leniently cannot hold all of one configuration's runs unless it is the only group."""
     n = math.ceil(len(systems) / ANSWERS_PER_GROUP)
     by_config = {}
     for s in systems:

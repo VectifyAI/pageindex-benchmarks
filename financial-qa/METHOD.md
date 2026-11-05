@@ -82,9 +82,9 @@ the rubric in `grading/brief.md`:
   an item that does not belong is a contradiction.
 
 Sheets are blind: answers labeled A, B, C, … in seeded random order, with no configuration named. A question's
-answers go to graders in groups of at most 20, each configuration's runs in different groups. A second grader
-re-grades a seeded fifth of every round (every answer from round10), and a third grader decides blind on disputed
-answers; that verdict stands.
+answers go to graders in groups of at most 20, each configuration's runs in different groups as far as the number
+of groups allows. A second grader re-grades a seeded fifth of every round (every answer from round10), and a third
+grader decides blind on disputed answers; that verdict stands.
 
 Configurations were graded in rounds as they were run (`data/grading/`). Every round after round1 also grades two
 of round1's runs blind among the others, DeepSeek V4.1 Flash (high) and Claude Haiku 5.5 (medium), run 1, as
