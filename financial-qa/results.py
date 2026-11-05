@@ -3,7 +3,7 @@ and comparisons.
 
     python3 results.py                  # -> results/results.md, results/runs.csv, results/accuracy_vs_cost.svg,
                                         #    results/accuracy_leaderboard.svg
-    python3 results.py compare A B      # per question, A's correct runs vs B's: better : worse, sign-test p
+    python3 results.py compare A B      # per question, A's correct runs vs B's: better : worse, paired p
 
 The PNG is the SVG rendered by a headless browser, e.g.:
     google-chrome --headless --hide-scrollbars --window-size=1280,860 --force-device-scale-factor=2 \
@@ -114,7 +114,7 @@ COLOR = {"OpenAI": "#1f1f1f", "Anthropic": "#c8795a", "Google": "#36a854", "Alib
 VENDORS = ("OpenAI", "Anthropic", "Google", "Alibaba", "Z AI", "Xiaomi", "Kimi", "DeepSeek", "MiniMax", "Meta", "SpaceXAI",
            "Tencent")
 # label position per configuration: (dx, dy, text-anchor) from the marker, set by eye against the rendered chart
-PLACE = {"hy4-high": (-10, -10, "end"), "kimi-k3.1-pro-max": (11, -5, "start"), "gpt-6.1-terra-max": (-10, -10, "end"), "minimax-m3.1-flash-max": (11, 4, "start"), "gpt-6.1-sol-low": (-11, 4, "end"), "minimax-m3.1-flash-xhigh": (-11, 4, "end"),
+PLACE = {"hy4-high": (-10, -10, "end"), "kimi-k3.1-pro-max": (11, 18, "start"), "gpt-6.1-terra-max": (-10, -10, "end"), "minimax-m3.1-flash-max": (11, 4, "start"), "gpt-6.1-sol-low": (-11, 4, "end"), "minimax-m3.1-flash-xhigh": (-11, 4, "end"),
          "minimax-m3.1-flash-medium": (8, 24, "start"), "mimo-v2.6-flash": (11, 9, "start"),
          "glm-5.3-flash-max": (-9, -9, "end"), "glm-5.3-max": (0, 22, "middle"),
          "muse-spark-open-xhigh": (0, -14, "middle"), "gpt-6.1-sol-medium": (-10, -10, "end"),
@@ -238,20 +238,32 @@ def leaderboard(res):
     return "\n".join(out + ["</svg>"]) + "\n"
 
 
-def sign_test(better, worse):
-    n, k = better + worse, min(better, worse)
-    return min(1.0, 2 * sum(math.comb(n, i) for i in range(k + 1)) / 2 ** n) if n else 1.0
+def paired_p(diffs):
+    """Two-sided p of the per-question differences in the share of correct runs, every sign flipped at random:
+    exact when both configurations have the same number of runs, approximate otherwise (the differences are then not
+    symmetric under the null). `diffs` are integers (the differences times the runs' common denominator). A sign
+    test would count 5 of 6 runs against 2 of 3 as a full win, as much as 3 of 3 against 0 of 3."""
+    diffs, dist = [d for d in diffs if d], {0: 1}
+    for d in diffs:
+        nxt = {}
+        for s, n in dist.items():
+            for v in (s + d, s - d):
+                nxt[v] = nxt.get(v, 0) + n
+        dist = nxt
+    observed = abs(sum(diffs))
+    return sum(n for s, n in dist.items() if abs(s) >= observed) / 2 ** len(diffs)
 
 
 def compare(a, b):
-    """Per question, the share of each configuration's runs answered correctly; the sign test counts the questions
-    where one is higher."""
+    """Per question, the share of each configuration's runs answered correctly: the questions where A's is higher
+    and lower, and a paired test of the differences."""
     correct = grade.grades()
-    share = {m: {q["id"]: statistics.mean(correct[(q["id"], f"{m} r{r}")] for r in graded_runs(m, correct))
-                 for q in grade.questions()} for m in (a, b)}
-    better = sum(share[a][i] > share[b][i] for i in share[a])
-    worse = sum(share[a][i] < share[b][i] for i in share[a])
-    print(f"{label(a)} vs {label(b)}: {better} : {worse} questions, sign-test p = {sign_test(better, worse):.3f}")
+    runs = {m: graded_runs(m, correct) for m in (a, b)}
+    den = math.lcm(len(runs[a]), len(runs[b]))
+    diffs = [sum(correct[(q["id"], f"{a} r{r}")] for r in runs[a]) * den // len(runs[a])
+             - sum(correct[(q["id"], f"{b} r{r}")] for r in runs[b]) * den // len(runs[b]) for q in grade.questions()]
+    better, worse = sum(d > 0 for d in diffs), sum(d < 0 for d in diffs)
+    print(f"{label(a)} vs {label(b)}: {better} : {worse} questions, paired p = {paired_p(diffs):.3f}")
 
 
 if __name__ == "__main__":

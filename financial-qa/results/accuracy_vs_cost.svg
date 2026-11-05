@@ -86,8 +86,8 @@
 <text x="179.0" y="503.8" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">MiMo-V2.6-Flash</text>
 <g><title>GLM-5.3-Flash (max): 78.3% (80/79/76), $1.86 per run</title><circle cx="219.5" cy="602.2" r="12" fill="transparent"/><circle cx="219.5" cy="602.2" r="6.5" fill="#1880f6" stroke="#ffffff" stroke-width="1"/></g>
 <text x="210.5" y="593.2" font-size="13" fill="#464646" text-anchor="end" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">GLM-5.3-Flash (max)</text>
-<g><title>GPT-6 Luna (max): 78.0% (77/78/79), $2.27 per run</title><circle cx="262.5" cy="608.9" r="12" fill="transparent"/><circle cx="262.5" cy="608.9" r="6.5" fill="#1f1f1f" stroke="#ffffff" stroke-width="1"/></g>
-<text x="273.5" y="612.9" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">GPT-6 Luna (max)</text>
+<g><title>GPT-6 Luna (max): 79.0% (78/79/80), $2.27 per run</title><circle cx="262.5" cy="588.8" r="12" fill="transparent"/><circle cx="262.5" cy="588.8" r="6.5" fill="#1f1f1f" stroke="#ffffff" stroke-width="1"/></g>
+<text x="273.5" y="592.8" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">GPT-6 Luna (max)</text>
 <g><title>DeepSeek V4.1 Flash (high): 79.7% (79/79/81), $2.47 per run</title><circle cx="281.3" cy="575.4" r="12" fill="transparent"/><circle cx="281.3" cy="575.4" r="6.5" fill="#2243e5" stroke="#ffffff" stroke-width="1"/></g>
 <text x="292.3" y="579.4" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">DeepSeek V4.1 Flash (high)</text>
 <circle cx="294.0" cy="454.6" r="9" fill="#ffffff" stroke="#2563eb" stroke-width="1.5"/>
@@ -108,17 +108,17 @@
 <text x="600.9" y="619.6" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Gemini 3.8 Flash (medium)</text>
 <g><title>GPT-6.1 Terra (medium): 91.0% (91/90/92), $11.80 per run</title><circle cx="622.5" cy="347.2" r="12" fill="transparent"/><circle cx="622.5" cy="347.2" r="6.5" fill="#1f1f1f" stroke="#ffffff" stroke-width="1"/></g>
 <text x="633.5" y="351.2" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">GPT-6.1 Terra (medium)</text>
-<g><title>Claude Haiku 5.5 (max): 88.3% (88/87/90), $15.20 per run</title><circle cx="677.8" cy="400.9" r="12" fill="transparent"/><circle cx="677.8" cy="400.9" r="6.5" fill="#c8795a" stroke="#ffffff" stroke-width="1"/></g>
-<text x="677.8" y="388.9" font-size="13" fill="#464646" text-anchor="middle" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Claude Haiku 5.5 (max)</text>
+<g><title>Claude Haiku 5.5 (max): 88.7% (88/88/90), $15.20 per run</title><circle cx="677.8" cy="394.2" r="12" fill="transparent"/><circle cx="677.8" cy="394.2" r="6.5" fill="#c8795a" stroke="#ffffff" stroke-width="1"/></g>
+<text x="677.8" y="382.2" font-size="13" fill="#464646" text-anchor="middle" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Claude Haiku 5.5 (max)</text>
 <g><title>GLM-5.3 (max): 81.7% (85/80/80), $17.57 per run</title><circle cx="709.4" cy="535.1" r="12" fill="transparent"/><circle cx="709.4" cy="535.1" r="6.5" fill="#1880f6" stroke="#ffffff" stroke-width="1"/></g>
 <text x="709.4" y="557.1" font-size="13" fill="#464646" text-anchor="middle" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">GLM-5.3 (max)</text>
 <circle cx="712.3" cy="239.8" r="9" fill="#ffffff" stroke="#2563eb" stroke-width="1.5"/>
 <g><title>GPT-6.1 Terra (max): 96.3% (96/96/97), $17.81 per run</title><circle cx="712.3" cy="239.8" r="12" fill="transparent"/><circle cx="712.3" cy="239.8" r="6.5" fill="#1f1f1f" stroke="#ffffff" stroke-width="1"/></g>
 <text x="702.3" y="229.8" font-size="13" fill="#464646" text-anchor="end" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">GPT-6.1 Terra (max)</text>
-<g><title>GPT-6.1 Sol (low): 92.0% (92/92/92), $18.26 per run</title><circle cx="717.7" cy="327.1" r="12" fill="transparent"/><circle cx="717.7" cy="327.1" r="6.5" fill="#1f1f1f" stroke="#ffffff" stroke-width="1"/></g>
-<text x="706.7" y="331.1" font-size="13" fill="#464646" text-anchor="end" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">GPT-6.1 Sol (low)</text>
-<g><title>GPT-6.1 Sol (medium): 93.3% (94/93/93), $20.09 per run</title><circle cx="738.6" cy="300.2" r="12" fill="transparent"/><circle cx="738.6" cy="300.2" r="6.5" fill="#1f1f1f" stroke="#ffffff" stroke-width="1"/></g>
-<text x="728.6" y="290.2" font-size="13" fill="#464646" text-anchor="end" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">GPT-6.1 Sol (medium)</text>
+<g><title>GPT-6.1 Sol (low): 92.3% (93/92/92), $18.26 per run</title><circle cx="717.7" cy="320.4" r="12" fill="transparent"/><circle cx="717.7" cy="320.4" r="6.5" fill="#1f1f1f" stroke="#ffffff" stroke-width="1"/></g>
+<text x="706.7" y="324.4" font-size="13" fill="#464646" text-anchor="end" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">GPT-6.1 Sol (low)</text>
+<g><title>GPT-6.1 Sol (medium): 94.3% (95/94/94), $20.09 per run</title><circle cx="738.6" cy="280.1" r="12" fill="transparent"/><circle cx="738.6" cy="280.1" r="6.5" fill="#1f1f1f" stroke="#ffffff" stroke-width="1"/></g>
+<text x="728.6" y="270.1" font-size="13" fill="#464646" text-anchor="end" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">GPT-6.1 Sol (medium)</text>
 <circle cx="753.0" cy="186.1" r="9" fill="#ffffff" stroke="#2563eb" stroke-width="1.5"/>
 <g><title>Hy4 (high): 99.0% (99/99/99), $21.46 per run</title><circle cx="753.0" cy="186.1" r="12" fill="transparent"/><circle cx="753.0" cy="186.1" r="6.5" fill="#0aa5a0" stroke="#ffffff" stroke-width="1"/></g>
 <text x="743.0" y="176.1" font-size="13" fill="#464646" text-anchor="end" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Hy4 (high)</text>
@@ -132,14 +132,14 @@
 <text x="831.7" y="210.3" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Gemini 4 Argon (high)</text>
 <g><title>Kimi K3 (max): 77.0% (80/76/75), $30.28 per run</title><circle cx="828.1" cy="629.1" r="12" fill="transparent"/><circle cx="828.1" cy="629.1" r="6.5" fill="#0b81ff" stroke="#ffffff" stroke-width="1"/></g>
 <text x="839.1" y="633.1" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Kimi K3 (max)</text>
-<g><title>Claude Sonnet 5.5 (high): 81.7% (82/80/83), $30.89 per run</title><circle cx="832.5" cy="535.1" r="12" fill="transparent"/><circle cx="832.5" cy="535.1" r="6.5" fill="#c8795a" stroke="#ffffff" stroke-width="1"/></g>
-<text x="843.5" y="539.1" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Claude Sonnet 5.5 (high)</text>
+<g><title>Claude Sonnet 5.5 (high): 82.0% (82/80/84), $30.89 per run</title><circle cx="832.5" cy="528.4" r="12" fill="transparent"/><circle cx="832.5" cy="528.4" r="6.5" fill="#c8795a" stroke="#ffffff" stroke-width="1"/></g>
+<text x="843.5" y="532.4" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Claude Sonnet 5.5 (high)</text>
 <g><title>Qwen3.8 Max (xhigh): 89.0% (88/90/89), $31.04 per run</title><circle cx="833.5" cy="387.5" r="12" fill="transparent"/><circle cx="833.5" cy="387.5" r="6.5" fill="#ff7017" stroke="#ffffff" stroke-width="1"/></g>
 <text x="833.5" y="375.5" font-size="13" fill="#464646" text-anchor="middle" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Qwen3.8 Max (xhigh)</text>
 <g><title>Kimi K3.1 Pro (max): 96.3% (95/95/99), $32.09 per run</title><circle cx="840.8" cy="239.8" r="12" fill="transparent"/><circle cx="840.8" cy="239.8" r="6.5" fill="#0b81ff" stroke="#ffffff" stroke-width="1"/></g>
-<text x="851.8" y="234.8" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Kimi K3.1 Pro (max)</text>
-<g><title>GPT-6.1 Sol (max): 95.7% (96/96/95), $34.36 per run</title><circle cx="855.7" cy="253.2" r="12" fill="transparent"/><circle cx="855.7" cy="253.2" r="6.5" fill="#1f1f1f" stroke="#ffffff" stroke-width="1"/></g>
-<text x="866.7" y="257.2" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">GPT-6.1 Sol (max)</text>
+<text x="851.8" y="257.8" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Kimi K3.1 Pro (max)</text>
+<g><title>GPT-6.1 Sol (max): 96.7% (97/97/96), $34.36 per run</title><circle cx="855.7" cy="233.1" r="12" fill="transparent"/><circle cx="855.7" cy="233.1" r="6.5" fill="#1f1f1f" stroke="#ffffff" stroke-width="1"/></g>
+<text x="866.7" y="237.1" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">GPT-6.1 Sol (max)</text>
 <g><title>Grok 4.7 (xhigh): 71.7% (74/69/72), $40.97 per run</title><circle cx="894.1" cy="736.4" r="12" fill="transparent"/><circle cx="894.1" cy="736.4" r="6.5" fill="#726dd3" stroke="#ffffff" stroke-width="1"/></g>
 <text x="905.1" y="740.4" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Grok 4.7 (xhigh)</text>
 <g><title>Muse Wonder (adaptive): 92.3% (93/91/93), $53.75 per run</title><circle cx="953.3" cy="320.4" r="12" fill="transparent"/><circle cx="953.3" cy="320.4" r="6.5" fill="#0489f3" stroke="#ffffff" stroke-width="1"/></g>
@@ -148,8 +148,8 @@
 <text x="1008.3" y="222.3" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Claude Sonnet 5.5 (max)</text>
 <g><title>Claude Opus 5.5 (medium): 90.0% (91/90/89), $65.79 per run</title><circle cx="997.4" cy="367.3" r="12" fill="transparent"/><circle cx="997.4" cy="367.3" r="6.5" fill="#c8795a" stroke="#ffffff" stroke-width="1"/></g>
 <text x="997.4" y="389.3" font-size="13" fill="#464646" text-anchor="middle" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Claude Opus 5.5 (medium)</text>
-<g><title>Muse Wonder (max): 92.3% (92/94/91), $104.38 per run</title><circle cx="1098.1" cy="320.4" r="12" fill="transparent"/><circle cx="1098.1" cy="320.4" r="6.5" fill="#0489f3" stroke="#ffffff" stroke-width="1"/></g>
-<text x="1109.1" y="324.4" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Muse Wonder (max)</text>
+<g><title>Muse Wonder (max): 93.0% (93/94/92), $104.38 per run</title><circle cx="1098.1" cy="306.9" r="12" fill="transparent"/><circle cx="1098.1" cy="306.9" r="6.5" fill="#0489f3" stroke="#ffffff" stroke-width="1"/></g>
+<text x="1109.1" y="310.9" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Muse Wonder (max)</text>
 <g><title>Claude Opus 5.5 (max): 98.7% (98/99/99), $128.49 per run</title><circle cx="1143.5" cy="192.8" r="12" fill="transparent"/><circle cx="1143.5" cy="192.8" r="6.5" fill="#c8795a" stroke="#ffffff" stroke-width="1"/></g>
 <text x="1143.5" y="180.8" font-size="13" fill="#464646" text-anchor="middle" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Claude Opus 5.5 (max)</text>
 </svg>

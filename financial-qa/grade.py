@@ -1,6 +1,7 @@
 """Blind grading: sheets for the graders, and the grades they return.
 
     python3 grade.py sheets ROUND CONFIGS   # every run of these configurations not graded yet, with the anchors
+    python3 grade.py regrade ROUND          # every answer in the results to the question REGRADES gives the round
     python3 grade.py adjudicate ROUND       # the answers the first and the check grader disagree on, for a third
     python3 grade.py report ROUND           # accuracy per run, the check grader's agreement, the anchors
 
@@ -26,13 +27,24 @@ ROUNDS = ("round1", "round2", "round3", "round4", "round5", "round6", "round7", 
           "round11")
 # the answers of round1 and round2 that ran out of turns, asked again (run.py); their grades replace the earlier ones
 REASK = "reask"
+# questions whose every answer in the results was graded again in one round (`regrade`), because graders of
+# different rounds judged its extra causes differently; these grades replace the earlier ones
+REGRADES = {"fh32": "fh-32"}
+# settled readings of key points graders split on (ruled 2026-10-29, when these questions were first graded),
+# applied to every round so that every round reads them alike: key points whose wording carries a description the
+# filing gives in passing; leaving it out names nothing else in the filing: question -> [(key point index, text of
+# that key point, the answers that cover it: any of these lists, each of whose texts the answer gives, in lower
+# case)]. fh-21: the notes' coupons and the yen note's principal (an amount with its maturity date identifies the
+# note), as graders read it from round4.
+KEY_POINT_RULINGS = {
+    "fh-21": [(2, "3.300% notes", [["1,500", "april 22"], ["1.5 billion", "april 22"]]),
+              (3, "2.850% notes", [["990", "july 8"]]), (4, "0.298% notes", [["253", "july 18"]]),
+              (5, "2.650% notes", [["630", "december 15"]])],
+}
 # two runs round1 graded, graded again blind in every later round to show it grades on the same scale
 ANCHORS = ("deepseek-v4.1-flash-high r1", "claude-haiku-5.5-medium r1")
 CHECK_SHARE = 1.0  # a second grader re-grades this share of each round's sheet lines: all from round10, a fifth before
 ANSWERS_PER_GROUP, ANSWERS_PER_SHEET = 20, 100
-# fh-32 asks for every cause the filing gives, so causes beyond the reference are not contradictions
-# (grading/brief.md); its contradiction flags are not counted
-CONTRADICTIONS_SET_ASIDE = {"fh-32"}
 
 
 def read(path):
@@ -71,8 +83,8 @@ def blind_map(rnd, kind=""):
 
 def split_answers(rnd, qid, systems):
     """A question's answers in groups of at most ANSWERS_PER_GROUP, graded one group at a time (long lists of
-    answers invite drift). A configuration's runs go to different groups, so that a group graded more leniently
-    cannot hold all of one configuration's runs."""
+    answers invite drift). A configuration's runs go to different groups as far as the number of groups allows, so
+    that a group graded more leniently cannot hold all of one configuration's runs unless it is the only group."""
     n = math.ceil(len(systems) / ANSWERS_PER_GROUP)
     by_config = {}
     for s in systems:
@@ -112,28 +124,50 @@ def sheets(rnd, configs):
     """Blind sheets of every run of these configurations that no round has graded yet, the anchors mixed in: per
     question, groups of at most ANSWERS_PER_GROUP answers in seeded random order, one sheet line per group; and a
     seeded CHECK_SHARE of the lines for a check grader."""
-    assert not (GRADES / f"{rnd}_map.json").exists(), f"round {rnd} exists"
     graded = {s for p in GRADES.glob("*_map.json") if "_adjudicate_" not in p.name
               for labels in json.loads(p.read_text()).values() for s in labels.values()}
     systems = sorted({f"{c} r{r}" for c in configs for r in runs_of(c)} - graded) + [f"anchor {a}" for a in ANCHORS]
+    write_round(rnd, systems, questions(), CHECK_SHARE)
+
+
+def regrade(rnd, qid):
+    """Blind sheets of every answer to one question in the results, every line for the check grader too; grades()
+    puts the round's grades in place of the earlier ones (REGRADES)."""
+    systems = sorted({s for q, s in grades() if q == qid})
+    write_round(rnd, systems, [q for q in questions() if q["id"] == qid], 1.0)
+
+
+def write_round(rnd, systems, qs, check_share):
+    """A round's sheets and map: per question, groups of at most ANSWERS_PER_GROUP answers in seeded random order,
+    one sheet line per group; and a seeded share of the lines for a check grader."""
+    assert not (GRADES / f"{rnd}_map.json").exists(), f"round {rnd} exists"
     rows, blind, lines = rows_of(systems), {}, []
-    for q in questions():
+    for q in qs:
         groups = split_answers(rnd, q["id"], systems)
         for g, members in enumerate(groups, 1):
             item = q["id"] if len(groups) == 1 else f"{q['id']}~{g}"
             order = random.Random(f"blind-{rnd}-{item}").sample(members, len(members))
             blind[item] = {chr(65 + i): s for i, s in enumerate(order)}
             lines.append(sheet_line(item, q, blind[item], rows))
-    check = random.Random(f"check-{rnd}").sample(lines, round(CHECK_SHARE * len(lines)))
+    check = random.Random(f"check-{rnd}").sample(lines, round(check_share * len(lines)))
     n, m = write_sheets(rnd, lines), write_sheets(f"{rnd}_check", check)
     (GRADES / f"{rnd}_map.json").write_text(json.dumps(blind, indent=1))
-    print(f"{len(systems)} runs ({len(ANCHORS)} anchors), {len(lines)} sheet lines: {n} sheets, {m} check sheets")
+    print(f"{len(systems)} runs, {len(lines)} sheet lines: {n} sheets, {m} check sheets")
+
+
+def correct(q, x, answer):
+    """Every key point covered and no contradiction, as the grader marked them with KEY_POINT_RULINGS applied, and
+    an answer given."""
+    covered, text = list(x["covered"]), answer.lower()
+    for k, point, readings in KEY_POINT_RULINGS.get(q["id"], ()):
+        assert point in q["key_points"][k], f"{q['id']}: KEY_POINT_RULINGS text"
+        covered[k] = covered[k] or any(all(t in text for t in r) for r in readings)
+    return all(covered) and not x["contradiction"] and bool(answer.strip())
 
 
 def load(rnd, kind=""):
     """(question id, system) -> correct, from a round's grades: "" the first grader's, "_check" the check
-    grader's, "_adjudicate" the third grader's. Correct = every key point covered, no contradiction, an answer
-    given."""
+    grader's, "_adjudicate" the third grader's."""
     blind, questions_by_id = blind_map(rnd, "_adjudicate" if kind == "_adjudicate" else ""), {q["id"]: q for q in questions()}
     files = sorted(GRADES.glob(f"{rnd}{kind}_grades_*.jsonl"))
     rows, out, seen = rows_of({s for labels in blind.values() for s in labels.values()}), {}, set()
@@ -145,8 +179,7 @@ def load(rnd, kind=""):
             for x in g["grades"]:
                 assert len(x["covered"]) == len(questions_by_id[qid]["key_points"]), f"{path.name} {g['id']} {x['label']}"
                 key = (qid, blind[g["id"]][x["label"]])
-                out[key] = (all(x["covered"]) and (not x["contradiction"] or qid in CONTRADICTIONS_SET_ASIDE)
-                            and bool((rows[key].get("answer") or "").strip()))
+                out[key] = correct(questions_by_id[qid], x, rows[key].get("answer") or "")
     # the first and the third grader grade every line of their map; the check grader a sample of it
     assert kind == "_check" or not files or seen == set(blind), f"{rnd}{kind}: lines not graded {sorted(set(blind) - seen)[:5]}"
     return out
@@ -165,7 +198,9 @@ def grades():
     out = {}
     for rnd in ROUNDS:
         out |= {k: v for k, v in round_grades(rnd).items() if not k[1].startswith("anchor ")}
-    return out | {k: v for k, v in round_grades(REASK).items() if k in out}
+    for rnd in (REASK, *(r for r in REGRADES if (GRADES / f"{r}_map.json").exists())):
+        out |= {k: v for k, v in round_grades(rnd).items() if k in out}
+    return out
 
 
 def adjudication_sheets(rnd):
@@ -175,12 +210,16 @@ def adjudication_sheets(rnd):
     by_q = {}
     for qid, s in sorted(k for k in check if check[k] != first[k]):
         by_q.setdefault(qid, []).append(s)
-    qs, rows = {q["id"]: q for q in questions()}, rows_of({s for v in by_q.values() for s in v})
-    blind = {qid: {chr(65 + i): s for i, s in enumerate(random.Random(f"adjudicate-{rnd}-{qid}").sample(v, len(v)))}
-             for qid, v in by_q.items()}
-    n = write_sheets(f"{rnd}_adjudicate", [sheet_line(qid, qs[qid], blind[qid], rows) for qid in blind])
+    qs, rows, blind = {q["id"]: q for q in questions()}, rows_of({s for v in by_q.values() for s in v}), {}
+    for qid, v in by_q.items():  # more than ANSWERS_PER_GROUP disputes split into groups as in sheets()
+        groups = split_answers(f"{rnd}_adjudicate", qid, v) if len(v) > ANSWERS_PER_GROUP else [v]
+        for g, members in enumerate(groups, 1):
+            item = qid if len(groups) == 1 else f"{qid}~{g}"
+            order = random.Random(f"adjudicate-{rnd}-{item}").sample(members, len(members))
+            blind[item] = {chr(65 + i): s for i, s in enumerate(order)}
+    n = write_sheets(f"{rnd}_adjudicate", [sheet_line(i, qs[i.split("~")[0]], blind[i], rows) for i in blind])
     (GRADES / f"{rnd}_adjudicate_map.json").write_text(json.dumps(blind, indent=1))
-    print(f"{sum(map(len, blind.values()))} disputed answers in {len(blind)} questions, {n} sheets")
+    print(f"{sum(map(len, blind.values()))} disputed answers in {len(by_q)} questions, {n} sheets")
 
 
 def report(rnd):
@@ -203,5 +242,5 @@ def report(rnd):
 
 if __name__ == "__main__":
     stage, rnd, *configs = sys.argv[1:]
-    {"sheets": lambda: sheets(rnd, configs[0].split(",")), "adjudicate": lambda: adjudication_sheets(rnd),
-     "report": lambda: report(rnd)}[stage]()
+    {"sheets": lambda: sheets(rnd, configs[0].split(",")), "regrade": lambda: regrade(rnd, REGRADES[rnd]),
+     "adjudicate": lambda: adjudication_sheets(rnd), "report": lambda: report(rnd)}[stage]()

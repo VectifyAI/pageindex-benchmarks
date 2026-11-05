@@ -10,20 +10,20 @@ claude-sonnet-5.5-max,Claude Sonnet 5.5,max,2,98,51,27,20,2,65.882016,70.313150
 claude-sonnet-5.5-max,Claude Sonnet 5.5,max,3,97,51,26,20,2,65.658040,70.553139
 claude-sonnet-5.5-high,Claude Sonnet 5.5,high,1,82,46,18,18,0,31.151574,31.151574
 claude-sonnet-5.5-high,Claude Sonnet 5.5,high,2,80,43,19,18,0,30.880787,30.880787
-claude-sonnet-5.5-high,Claude Sonnet 5.5,high,3,83,45,20,18,0,30.650705,30.650705
+claude-sonnet-5.5-high,Claude Sonnet 5.5,high,3,84,46,20,18,0,30.650705,30.650705
 claude-haiku-5.5-max,Claude Haiku 5.5,max,1,88,47,21,20,0,14.915180,14.915180
-claude-haiku-5.5-max,Claude Haiku 5.5,max,2,87,46,21,20,0,15.491572,15.491572
+claude-haiku-5.5-max,Claude Haiku 5.5,max,2,88,47,21,20,0,15.491572,15.491572
 claude-haiku-5.5-max,Claude Haiku 5.5,max,3,90,48,23,19,0,15.199994,15.199994
 claude-haiku-5.5-medium,Claude Haiku 5.5,medium,1,69,34,17,18,0,6.585594,6.585594
 claude-haiku-5.5-medium,Claude Haiku 5.5,medium,2,67,31,16,20,0,6.386936,6.386936
 claude-haiku-5.5-medium,Claude Haiku 5.5,medium,3,69,33,17,19,0,6.418690,6.418690
-gpt-6.1-sol-max,GPT-6.1 Sol,max,1,96,51,25,20,0,34.871276,34.871276
-gpt-6.1-sol-max,GPT-6.1 Sol,max,2,96,51,25,20,0,34.837507,34.837507
-gpt-6.1-sol-max,GPT-6.1 Sol,max,3,95,51,24,20,0,33.384510,33.384510
-gpt-6.1-sol-medium,GPT-6.1 Sol,medium,1,94,50,24,20,0,20.038010,20.548039
-gpt-6.1-sol-medium,GPT-6.1 Sol,medium,2,93,49,24,20,0,20.853033,23.223205
-gpt-6.1-sol-medium,GPT-6.1 Sol,medium,3,93,49,24,20,0,19.366611,22.208610
-gpt-6.1-sol-low,GPT-6.1 Sol,low,1,92,49,23,20,0,18.201535,18.201535
+gpt-6.1-sol-max,GPT-6.1 Sol,max,1,97,52,25,20,0,34.871276,34.871276
+gpt-6.1-sol-max,GPT-6.1 Sol,max,2,97,52,25,20,0,34.837507,34.837507
+gpt-6.1-sol-max,GPT-6.1 Sol,max,3,96,52,24,20,0,33.384510,33.384510
+gpt-6.1-sol-medium,GPT-6.1 Sol,medium,1,95,51,24,20,0,20.038010,20.548039
+gpt-6.1-sol-medium,GPT-6.1 Sol,medium,2,94,50,24,20,0,20.853033,23.223205
+gpt-6.1-sol-medium,GPT-6.1 Sol,medium,3,94,50,24,20,0,19.366611,22.208610
+gpt-6.1-sol-low,GPT-6.1 Sol,low,1,93,50,23,20,0,18.201535,18.201535
 gpt-6.1-sol-low,GPT-6.1 Sol,low,2,92,47,25,20,0,18.406101,18.406101
 gpt-6.1-sol-low,GPT-6.1 Sol,low,3,92,49,23,20,0,18.162363,18.162363
 gpt-6.1-terra-max,GPT-6.1 Terra,max,1,96,50,26,20,0,18.296135,18.296135
@@ -32,12 +32,12 @@ gpt-6.1-terra-max,GPT-6.1 Terra,max,3,97,50,27,20,0,17.262643,17.262643
 gpt-6.1-terra-medium,GPT-6.1 Terra,medium,1,91,48,24,19,0,11.712094,11.712094
 gpt-6.1-terra-medium,GPT-6.1 Terra,medium,2,90,47,24,19,0,12.040173,12.040173
 gpt-6.1-terra-medium,GPT-6.1 Terra,medium,3,92,49,23,20,0,11.650023,11.650023
-gpt-6-luna-max,GPT-6 Luna,max,1,77,38,21,18,0,2.265159,2.265159
-gpt-6-luna-max,GPT-6 Luna,max,2,78,37,23,18,0,2.310300,2.310300
-gpt-6-luna-max,GPT-6 Luna,max,3,79,39,22,18,0,2.222905,2.222905
-gpt-6-luna-medium,GPT-6 Luna,medium,1,69,37,17,15,0,1.504439,1.504439
-gpt-6-luna-medium,GPT-6 Luna,medium,2,72,37,19,16,0,1.527083,1.527083
-gpt-6-luna-medium,GPT-6 Luna,medium,3,74,39,18,17,1,1.349653,1.578412
+gpt-6-luna-max,GPT-6 Luna,max,1,78,39,21,18,0,2.265159,2.265159
+gpt-6-luna-max,GPT-6 Luna,max,2,79,38,23,18,0,2.310300,2.310300
+gpt-6-luna-max,GPT-6 Luna,max,3,80,40,22,18,0,2.222905,2.222905
+gpt-6-luna-medium,GPT-6 Luna,medium,1,70,38,17,15,0,1.504439,1.504439
+gpt-6-luna-medium,GPT-6 Luna,medium,2,73,38,19,16,0,1.527083,1.527083
+gpt-6-luna-medium,GPT-6 Luna,medium,3,75,40,18,17,1,1.349653,1.578412
 gemini-4-argon-high,Gemini 4 Argon,high,1,98,52,26,20,1,29.132826,30.063654
 gemini-4-argon-high,Gemini 4 Argon,high,2,98,52,26,20,0,29.100881,29.100881
 gemini-4-argon-high,Gemini 4 Argon,high,3,98,52,26,20,0,29.561884,29.561884
@@ -50,9 +50,9 @@ gemini-3.8-flash-high,Gemini 3.8 Flash,high,3,94,48,26,20,32,25.676930,33.458433
 gemini-3.8-flash-medium,Gemini 3.8 Flash,medium,1,89,48,24,17,16,12.666189,17.455767
 gemini-3.8-flash-medium,Gemini 3.8 Flash,medium,2,80,43,24,13,15,10.650174,15.717960
 gemini-3.8-flash-medium,Gemini 3.8 Flash,medium,3,64,40,22,2,7,7.167489,10.951349
-muse-wonder-max,Muse Wonder,max,1,92,47,25,20,0,101.550324,101.550324
+muse-wonder-max,Muse Wonder,max,1,93,48,25,20,0,101.550324,101.550324
 muse-wonder-max,Muse Wonder,max,2,94,49,25,20,0,104.934227,105.042852
-muse-wonder-max,Muse Wonder,max,3,91,48,24,19,1,106.665427,109.300815
+muse-wonder-max,Muse Wonder,max,3,92,49,24,19,1,106.665427,109.300815
 muse-wonder-adaptive,Muse Wonder,adaptive,1,93,48,26,19,0,54.422954,54.422954
 muse-wonder-adaptive,Muse Wonder,adaptive,2,91,47,25,19,0,54.114374,54.114374
 muse-wonder-adaptive,Muse Wonder,adaptive,3,93,48,25,20,0,52.698750,52.698750

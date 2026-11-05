@@ -78,12 +78,13 @@ the rubric in `grading/brief.md`:
 - An answer is correct when it covers every key point and makes no claim that contradicts the reference.
 - Missing any key point makes it wrong. Extra items are fine on questions that ask for everything of one kind
   (SET, WHY), unless they conflict with the reference; on questions that ask for the items meeting a condition
-  (XCO), an item that does not belong is a contradiction.
+  (XCO, and a SET or WHY question that sets one, such as fh-77's causes occurring during the pandemic or currently),
+  an item that does not belong is a contradiction.
 
 Sheets are blind: answers labeled A, B, C, … in seeded random order, with no configuration named. A question's
-answers go to graders in groups of at most 20, each configuration's runs in different groups. A second grader
-re-grades a seeded fifth of every round (every answer from round10), and a third grader decides blind on disputed
-answers; that verdict stands.
+answers go to graders in groups of at most 20, each configuration's runs in different groups as far as the number
+of groups allows. A second grader re-grades a seeded fifth of every round (every answer from round10), and a third
+grader decides blind on disputed answers; that verdict stands.
 
 Configurations were graded in rounds as they were run (`data/grading/`). Every round after round1 also grades two
 of round1's runs blind among the others, DeepSeek V4.1 Flash (high) and Claude Haiku 5.5 (medium), run 1, as
@@ -94,15 +95,30 @@ anchors that show it grades on the same scale.
 | round1 | 18 models at one level each, 54 runs | 1,076 / 1,080 | 65 | – |
 | round2 | ten of those models at a second level, 30 runs | 638 / 640 | 2 | 199 / 200 |
 | reask | the 170 answers of round1 and round2 asked again after running out of turns | 52 / 52 | 0 | 77 / 78 |
-| round3 | GPT-6.1 Sol (low) and MiniMax M3.1 Flash at five levels, run 1 | 160 / 160 | 0 | 197 / 200 |
-| round4 | the same, runs 2–3 | 277 / 280 | 3 | 200 / 200 |
+| round3 | GPT-6.1 Sol (low) and MiniMax M3.1 Flash at five levels, run 1 | 160 / 160 | 0 | 196 / 200 |
+| round4 | the same, runs 2–3 | 277 / 280 | 3 | 199 / 200 |
 | round5 | MiniMax M3.1 Flash (max) and (xhigh), runs 4–6 | 159 / 160 | 1 | 196 / 200 |
-| round6 | Kimi K3.1 Pro (max), 3 runs | 99 / 100 | 1 | 198 / 200 |
+| round6 | Kimi K3.1 Pro (max), 3 runs | 95 / 100 | 1 | 197 / 200 |
 | round7 | GPT-6.1 Terra (medium), 3 runs | 99 / 100 | 1 | 196 / 200 |
-| round8 | GPT-6.1 Terra (max), run 1 | 60 / 60 | 2 | 199 / 200 |
+| round8 | GPT-6.1 Terra (max), run 1 | 58 / 60 | 2 | 198 / 200 |
 | round9 | the same, runs 2–3 | 80 / 80 | 0 | 199 / 200 |
-| round10 | Hy4 (high), run 1 | 299 / 300 | 1 | 199 / 200 |
-| round11 | the same, runs 2–3 | 395 / 400 | 5 | 199 / 200 |
+| round10 | Hy4 (high), run 1 | 299 / 300 | 1 | 198 / 200 |
+| round11 | the same, runs 2–3 | 394 / 400 | 5 | 199 / 200 |
+| fh32 | every answer in the results to fh-32, graded again | 8 / 120 | 112 | – |
+
+Graders of different rounds judged fh-32's extra causes (most often a third-quarter charge-off in Asset & Wealth
+Management) differently, some as contradictions and some not, so every answer to it in the results was graded again
+in one round, fh32 (`grade.py regrade`), with a check grader on every answer and a third grader on each
+disagreement; these grades replace the earlier ones. The first two graders read the extras in opposite ways, alike on
+8 of the 120 answers; the third found no contradiction in any of the 112 they disagreed on. The earlier rounds'
+grades of fh-32 still count in the table: round6's 4, round8's 2 and round11's 1 disagreements over its extras
+(round6's and round11's not adjudicated), and one anchor answer to it in each of round3, round4, round6, round8 and
+round10 graded otherwise than in the fh32 round.
+
+One reading settled where graders split is applied to every round's grades (`grade.py` `KEY_POINT_RULINGS`), so
+that every round reads it alike: in fh-21, a note's amount with its maturity date covers its key point without the
+coupon, or the yen note's principal, as the amount and date identify the note; graders read it so from round4. It
+turns 17 answers, graded in round1 to round3, from wrong to right.
 
 ## Cost
 
@@ -120,5 +136,7 @@ anchors that show it grades on the same scale.
 
 Accuracy is the mean over runs of the share of questions answered correctly. A configuration's runs can differ by
 several points (Gemini 3.8 Flash (medium): 89, 80, 64), so treat gaps of one or two points as ties:
-`python3 results.py compare A B` runs a sign test over the questions where one configuration's share of correct
-runs is higher.
+`python3 results.py compare A B` counts the questions where A's share of correct runs is higher and lower, and
+runs a paired sign-flip test on the per-question differences in share, exact when both have the same number of
+runs and approximate otherwise. A sign test would count 5 of 6 runs against 2 of 3 as a full win, as much as 3 of 3
+against 0 of 3.
