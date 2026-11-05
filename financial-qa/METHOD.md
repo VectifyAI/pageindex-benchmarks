@@ -111,6 +111,21 @@ in one round, fh32 (`grade.py regrade`), with a check grader on every answer and
 disagreement; these grades replace the earlier ones. The first two graders read the extras in opposite ways; the third
 found no contradiction in any of the 112 answers they disagreed on.
 
+Readings settled on these same questions where graders split are applied to every round's grades (`grade.py`
+`RULINGS` and `KEY_POINT_RULINGS`), so that every round reads them alike:
+
+- A key point whose wording carries a description the filing gives in passing is covered without it, as leaving it
+  out names nothing else in the filing: the notes' coupons in fh-21 (an amount with its maturity date identifies
+  the note), the industrial park's name in fh-23, Jabong.com's description in fh-19, "associated with the aerospace
+  industry" in fh-28, the clause describing the supply agreements in fh-70.
+- Items beyond the reference are not contradictions unless they conflict with it: extra causes in fh-77 (as in
+  fh-32), and in fh-26 the filing's own 2025 price effect on Upstream earnings, given apart from the four
+  sensitivities.
+
+They turn 27 answers from wrong to right: 17 to fh-21, graded missing in round1 to round3 and covered from round4,
+9 to fh-77, whose extra causes only round3 to round5 called contradictions, and 1 to fh-23; no grade of the other
+four questions changes.
+
 ## Cost
 
 - Cost is what OpenRouter billed: each call's `usage.cost`, logged per call in `data/calls/` and checked against
@@ -127,5 +142,6 @@ found no contradiction in any of the 112 answers they disagreed on.
 
 Accuracy is the mean over runs of the share of questions answered correctly. A configuration's runs can differ by
 several points (Gemini 3.8 Flash (medium): 89, 80, 64), so treat gaps of one or two points as ties:
-`python3 results.py compare A B` runs a sign test over the questions where one configuration's share of correct
-runs is higher.
+`python3 results.py compare A B` counts the questions where A's share of correct runs is higher and lower, and
+runs an exact paired sign-flip test on the per-question differences in share. A sign test would count 5 of 6 runs
+against 2 of 3 as a full win, as much as 3 of 3 against 0 of 3.
