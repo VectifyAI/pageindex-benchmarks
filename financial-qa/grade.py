@@ -30,28 +30,16 @@ REASK = "reask"
 # questions whose every answer in the results was graded again in one round (`regrade`), because graders of
 # different rounds judged its extra causes differently; these grades replace the earlier ones
 REGRADES = {"fh32": "fh-32"}
-# settled readings of questions graders split on (ruled 2026-10-29, when these questions were first graded),
-# applied to every round so that every round reads them alike;
-# each carries text of the question or key point it was made for.
-# Questions whose items beyond the reference are not contradictions, so their contradiction flags are not counted:
-# fh-32 (extra causes, none a contradiction to the fh32 round's third grader, so that later rounds read them alike),
-# fh-26 (the filing's own 2025 price effect on Upstream earnings, given apart from the four sensitivities).
-RULINGS = {"fh-32": "JPMorgan Chase's net charge-offs rose by $1.2 billion in 2025",
-           "fh-26": "ExxonMobil's 2025 Form 10-K state a dollar"}
-# Key points whose wording carries a description the filing gives in passing; leaving it out names nothing else in
-# the filing: question -> [(key point index, text of that key point, the answers that cover it: any of these lists,
-# each of whose texts the answer gives, in lower case)]. fh-70: the clause describing the supply agreements; fh-21:
-# the notes' coupons (an amount with its maturity date identifies the note); fh-19: Jabong.com's description as one
-# of Flipkart's two fashion trade names; fh-28: "associated with the aerospace industry", in answers about the
-# aerospace impairment throughout.
+# settled readings of key points graders split on (ruled 2026-10-29, when these questions were first graded),
+# applied to every round so that every round reads them alike: key points whose wording carries a description the
+# filing gives in passing; leaving it out names nothing else in the filing: question -> [(key point index, text of
+# that key point, the answers that cover it: any of these lists, each of whose texts the answer gives, in lower
+# case)]. fh-21: the notes' coupons and the yen note's principal (an amount with its maturity date identifies the
+# note), as graders read it from round4.
 KEY_POINT_RULINGS = {
-    "fh-70": [(2, "$1.58 billion", [["1.58"]])],
     "fh-21": [(2, "3.300% notes", [["1,500", "april 22"], ["1.5 billion", "april 22"]]),
               (3, "2.850% notes", [["990", "july 8"]]), (4, "0.298% notes", [["253", "july 18"]]),
               (5, "2.650% notes", [["630", "december 15"]])],
-    "fh-19": [(4, "Jabong.com", [["0.4 billion", "jabong"], ["400 million", "jabong"]])],
-    "fh-28": [(4, "risks and uncertainties associated with the aerospace industry",
-               [["risks and uncertaint"], ["risk and uncertaint"]])],
 }
 # two runs round1 graded, graded again blind in every later round to show it grades on the same scale
 ANCHORS = ("deepseek-v4.1-flash-high r1", "claude-haiku-5.5-medium r1")
@@ -168,14 +156,13 @@ def write_round(rnd, systems, qs, check_share):
 
 
 def correct(q, x, answer):
-    """Every key point covered and no contradiction, as the grader marked them with RULINGS and KEY_POINT_RULINGS
-    applied, and an answer given."""
-    assert q["id"] not in RULINGS or RULINGS[q["id"]] in q["question"], f"{q['id']}: RULINGS text"
+    """Every key point covered and no contradiction, as the grader marked them with KEY_POINT_RULINGS applied, and
+    an answer given."""
     covered, text = list(x["covered"]), answer.lower()
     for k, point, readings in KEY_POINT_RULINGS.get(q["id"], ()):
         assert point in q["key_points"][k], f"{q['id']}: KEY_POINT_RULINGS text"
         covered[k] = covered[k] or any(all(t in text for t in r) for r in readings)
-    return all(covered) and not (x["contradiction"] and q["id"] not in RULINGS) and bool(answer.strip())
+    return all(covered) and not x["contradiction"] and bool(answer.strip())
 
 
 def load(rnd, kind=""):

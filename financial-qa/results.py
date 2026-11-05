@@ -239,9 +239,10 @@ def leaderboard(res):
 
 
 def paired_p(diffs):
-    """Two-sided p of the per-question differences in the share of correct runs, every sign flipped at random,
-    exact. `diffs` are integers (the differences times the runs' common denominator). A sign test would count 5 of
-    6 runs against 2 of 3 as a full win, as much as 3 of 3 against 0 of 3."""
+    """Two-sided p of the per-question differences in the share of correct runs, every sign flipped at random:
+    exact when both configurations have the same number of runs, approximate otherwise (the differences are then not
+    symmetric under the null). `diffs` are integers (the differences times the runs' common denominator). A sign
+    test would count 5 of 6 runs against 2 of 3 as a full win, as much as 3 of 3 against 0 of 3."""
     diffs, dist = [d for d in diffs if d], {0: 1}
     for d in diffs:
         nxt = {}
