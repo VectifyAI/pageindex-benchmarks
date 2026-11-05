@@ -128,7 +128,9 @@ turns 17 answers, graded in round1 to round3, from wrong to right.
 - A run's cost is the sum over its questions of the attempt whose answer stands; attempts retried after an error or
   replaced by an answer asked again are not counted (`results/runs.csv` also gives each run's full bill,
   `billed_usd`). The cost per run in the results is the mean over runs.
-- Prices are those of the pinned providers from 2026-10-22 to 2026-11-05, when the runs were made.
+- Prices are those of the pinned providers from 2026-10-22 to 2026-11-05, when the runs were made. Gemini 4 Argon,
+  Gemini 3.8 Flash and Hy4 ran at their makers' launch prices, half the later ones, until 2026-11-30, 2026-12-31
+  and 2026-12-31; their costs are as billed.
 
 ## Statistics
 
