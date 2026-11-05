@@ -78,7 +78,8 @@ the rubric in `grading/brief.md`:
 - An answer is correct when it covers every key point and makes no claim that contradicts the reference.
 - Missing any key point makes it wrong. Extra items are fine on questions that ask for everything of one kind
   (SET, WHY), unless they conflict with the reference; on questions that ask for the items meeting a condition
-  (XCO), an item that does not belong is a contradiction.
+  (XCO, and a SET or WHY question that sets one, such as fh-77's causes occurring during the pandemic or currently),
+  an item that does not belong is a contradiction.
 
 Sheets are blind: answers labeled A, B, C, … in seeded random order, with no configuration named. A question's
 answers go to graders in groups of at most 20, each configuration's runs in different groups. A second grader
