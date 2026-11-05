@@ -111,17 +111,17 @@
 <line x1="1125.5" y1="419.0" x2="1133.9" y2="419.0" stroke="#000000" stroke-width="1.5" stroke-linecap="round"/>
 <text x="1240.0" y="424.0" font-size="14" fill="#000000" text-anchor="end" font-weight="600" >94.3</text>
 <text x="106.0" y="450.0" font-size="14" fill="#8f8f8f" text-anchor="end" font-weight="400" >11</text>
-<text x="120.0" y="450.0" font-size="14" fill="#000000" text-anchor="start" font-weight="400" >MiniMax M3.1 Flash (xhigh)</text>
-<g><title>MiniMax M3.1 Flash (xhigh): 93.2% (94/94/94/93/91/93), $3.18 per run</title><rect x="334" y="437.0" width="784.5" height="16" rx="2" fill="#ed3769"/></g>
-<line x1="1100.2" y1="445.0" x2="1125.5" y2="445.0" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
-<line x1="1100.2" y1="445.0" x2="1125.5" y2="445.0" stroke="#000000" stroke-width="1.5" stroke-linecap="round"/>
-<text x="1240.0" y="450.0" font-size="14" fill="#000000" text-anchor="end" font-weight="600" >93.2</text>
+<text x="120.0" y="450.0" font-size="14" fill="#000000" text-anchor="start" font-weight="400" >Muse Wonder (max)</text>
+<g><title>Muse Wonder (max): 93.0% (93/94/92), $104.38 per run</title><rect x="334" y="437.0" width="783.1" height="16" rx="2" fill="#0489f3"/></g>
+<line x1="1108.6" y1="445.0" x2="1125.5" y2="445.0" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+<line x1="1108.6" y1="445.0" x2="1125.5" y2="445.0" stroke="#000000" stroke-width="1.5" stroke-linecap="round"/>
+<text x="1240.0" y="450.0" font-size="14" fill="#000000" text-anchor="end" font-weight="600" >93.0</text>
 <text x="106.0" y="476.0" font-size="14" fill="#8f8f8f" text-anchor="end" font-weight="400" >12</text>
-<text x="120.0" y="476.0" font-size="14" fill="#000000" text-anchor="start" font-weight="400" >Muse Wonder (max)</text>
-<g><title>Muse Wonder (max): 93.0% (93/94/92), $104.38 per run</title><rect x="334" y="463.0" width="783.1" height="16" rx="2" fill="#0489f3"/></g>
-<line x1="1108.6" y1="471.0" x2="1125.5" y2="471.0" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
-<line x1="1108.6" y1="471.0" x2="1125.5" y2="471.0" stroke="#000000" stroke-width="1.5" stroke-linecap="round"/>
-<text x="1240.0" y="476.0" font-size="14" fill="#000000" text-anchor="end" font-weight="600" >93.0</text>
+<text x="120.0" y="476.0" font-size="14" fill="#000000" text-anchor="start" font-weight="400" >MiniMax M3.1 Flash (xhigh)</text>
+<g><title>MiniMax M3.1 Flash (xhigh): 92.7% (94/93/93/93/91/92), $3.18 per run</title><rect x="334" y="463.0" width="780.3" height="16" rx="2" fill="#ed3769"/></g>
+<line x1="1100.2" y1="471.0" x2="1125.5" y2="471.0" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+<line x1="1100.2" y1="471.0" x2="1125.5" y2="471.0" stroke="#000000" stroke-width="1.5" stroke-linecap="round"/>
+<text x="1240.0" y="476.0" font-size="14" fill="#000000" text-anchor="end" font-weight="600" >92.7</text>
 <text x="106.0" y="502.0" font-size="14" fill="#8f8f8f" text-anchor="end" font-weight="400" >13</text>
 <text x="120.0" y="502.0" font-size="14" fill="#000000" text-anchor="start" font-weight="400" >GPT-6.1 Sol (low)</text>
 <g><title>GPT-6.1 Sol (low): 92.3% (93/92/92), $18.26 per run</title><rect x="334" y="489.0" width="777.4" height="16" rx="2" fill="#1f1f1f"/></g>
@@ -136,22 +136,22 @@
 <text x="1240.0" y="528.0" font-size="14" fill="#000000" text-anchor="end" font-weight="600" >92.3</text>
 <text x="106.0" y="554.0" font-size="14" fill="#8f8f8f" text-anchor="end" font-weight="400" >15</text>
 <text x="120.0" y="554.0" font-size="14" fill="#000000" text-anchor="start" font-weight="400" >MiniMax M3.1 Flash (max)</text>
-<g><title>MiniMax M3.1 Flash (max): 92.0% (90/91/94/95/92/90), $3.24 per run</title><rect x="334" y="541.0" width="774.6" height="16" rx="2" fill="#ed3769"/></g>
-<line x1="1091.8" y1="549.0" x2="1133.9" y2="549.0" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
-<line x1="1091.8" y1="549.0" x2="1133.9" y2="549.0" stroke="#000000" stroke-width="1.5" stroke-linecap="round"/>
-<text x="1240.0" y="554.0" font-size="14" fill="#000000" text-anchor="end" font-weight="600" >92.0</text>
+<g><title>MiniMax M3.1 Flash (max): 91.8% (90/91/94/95/92/89), $3.24 per run</title><rect x="334" y="541.0" width="773.2" height="16" rx="2" fill="#ed3769"/></g>
+<line x1="1083.4" y1="549.0" x2="1133.9" y2="549.0" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+<line x1="1083.4" y1="549.0" x2="1133.9" y2="549.0" stroke="#000000" stroke-width="1.5" stroke-linecap="round"/>
+<text x="1240.0" y="554.0" font-size="14" fill="#000000" text-anchor="end" font-weight="600" >91.8</text>
 <text x="106.0" y="580.0" font-size="14" fill="#8f8f8f" text-anchor="end" font-weight="400" >16</text>
-<text x="120.0" y="580.0" font-size="14" fill="#000000" text-anchor="start" font-weight="400" >MiniMax M3.1 Flash (high)</text>
-<g><title>MiniMax M3.1 Flash (high): 91.7% (92/89/94), $3.10 per run</title><rect x="334" y="567.0" width="771.8" height="16" rx="2" fill="#ed3769"/></g>
-<line x1="1083.4" y1="575.0" x2="1125.5" y2="575.0" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
-<line x1="1083.4" y1="575.0" x2="1125.5" y2="575.0" stroke="#000000" stroke-width="1.5" stroke-linecap="round"/>
-<text x="1240.0" y="580.0" font-size="14" fill="#000000" text-anchor="end" font-weight="600" >91.7</text>
+<text x="120.0" y="580.0" font-size="14" fill="#000000" text-anchor="start" font-weight="400" >GPT-6.1 Terra (medium)</text>
+<g><title>GPT-6.1 Terra (medium): 91.0% (91/90/92), $11.80 per run</title><rect x="334" y="567.0" width="766.2" height="16" rx="2" fill="#1f1f1f"/></g>
+<line x1="1091.8" y1="575.0" x2="1108.6" y2="575.0" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+<line x1="1091.8" y1="575.0" x2="1108.6" y2="575.0" stroke="#000000" stroke-width="1.5" stroke-linecap="round"/>
+<text x="1240.0" y="580.0" font-size="14" fill="#000000" text-anchor="end" font-weight="600" >91.0</text>
 <text x="106.0" y="606.0" font-size="14" fill="#8f8f8f" text-anchor="end" font-weight="400" >17</text>
-<text x="120.0" y="606.0" font-size="14" fill="#000000" text-anchor="start" font-weight="400" >GPT-6.1 Terra (medium)</text>
-<g><title>GPT-6.1 Terra (medium): 91.0% (91/90/92), $11.80 per run</title><rect x="334" y="593.0" width="766.2" height="16" rx="2" fill="#1f1f1f"/></g>
-<line x1="1091.8" y1="601.0" x2="1108.6" y2="601.0" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
-<line x1="1091.8" y1="601.0" x2="1108.6" y2="601.0" stroke="#000000" stroke-width="1.5" stroke-linecap="round"/>
-<text x="1240.0" y="606.0" font-size="14" fill="#000000" text-anchor="end" font-weight="600" >91.0</text>
+<text x="120.0" y="606.0" font-size="14" fill="#000000" text-anchor="start" font-weight="400" >MiniMax M3.1 Flash (high)</text>
+<g><title>MiniMax M3.1 Flash (high): 90.7% (91/88/93), $3.10 per run</title><rect x="334" y="593.0" width="763.4" height="16" rx="2" fill="#ed3769"/></g>
+<line x1="1075.0" y1="601.0" x2="1117.1" y2="601.0" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+<line x1="1075.0" y1="601.0" x2="1117.1" y2="601.0" stroke="#000000" stroke-width="1.5" stroke-linecap="round"/>
+<text x="1240.0" y="606.0" font-size="14" fill="#000000" text-anchor="end" font-weight="600" >90.7</text>
 <text x="106.0" y="632.0" font-size="14" fill="#8f8f8f" text-anchor="end" font-weight="400" >18</text>
 <text x="120.0" y="632.0" font-size="14" fill="#000000" text-anchor="start" font-weight="400" >Claude Opus 5.5 (medium)</text>
 <g><title>Claude Opus 5.5 (medium): 90.0% (91/90/89), $65.79 per run</title><rect x="334" y="619.0" width="757.8" height="16" rx="2" fill="#c8795a"/></g>
@@ -178,10 +178,10 @@
 <text x="1240.0" y="710.0" font-size="14" fill="#000000" text-anchor="end" font-weight="600" >87.7</text>
 <text x="106.0" y="736.0" font-size="14" fill="#8f8f8f" text-anchor="end" font-weight="400" >22</text>
 <text x="120.0" y="736.0" font-size="14" fill="#000000" text-anchor="start" font-weight="400" >MiniMax M3.1 Flash (medium)</text>
-<g><title>MiniMax M3.1 Flash (medium): 86.0% (86/84/88), $2.62 per run</title><rect x="334" y="723.0" width="724.1" height="16" rx="2" fill="#ed3769"/></g>
+<g><title>MiniMax M3.1 Flash (medium): 85.7% (85/84/88), $2.62 per run</title><rect x="334" y="723.0" width="721.3" height="16" rx="2" fill="#ed3769"/></g>
 <line x1="1041.3" y1="731.0" x2="1075.0" y2="731.0" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
 <line x1="1041.3" y1="731.0" x2="1075.0" y2="731.0" stroke="#000000" stroke-width="1.5" stroke-linecap="round"/>
-<text x="1240.0" y="736.0" font-size="14" fill="#000000" text-anchor="end" font-weight="600" >86.0</text>
+<text x="1240.0" y="736.0" font-size="14" fill="#000000" text-anchor="end" font-weight="600" >85.7</text>
 <text x="106.0" y="762.0" font-size="14" fill="#8f8f8f" text-anchor="end" font-weight="400" >23</text>
 <text x="120.0" y="762.0" font-size="14" fill="#000000" text-anchor="start" font-weight="400" >MiMo-V2.6-Pro</text>
 <g><title>MiMo-V2.6-Pro: 85.7% (86/84/87), $3.81 per run</title><rect x="334" y="749.0" width="721.3" height="16" rx="2" fill="#ff6903"/></g>
@@ -196,10 +196,10 @@
 <text x="1240.0" y="788.0" font-size="14" fill="#000000" text-anchor="end" font-weight="600" >83.7</text>
 <text x="106.0" y="814.0" font-size="14" fill="#8f8f8f" text-anchor="end" font-weight="400" >25</text>
 <text x="120.0" y="814.0" font-size="14" fill="#000000" text-anchor="start" font-weight="400" >MiniMax M3.1 Flash (low)</text>
-<g><title>MiniMax M3.1 Flash (low): 82.7% (81/80/87), $2.12 per run</title><rect x="334" y="801.0" width="696.1" height="16" rx="2" fill="#ed3769"/></g>
-<line x1="1007.6" y1="809.0" x2="1066.5" y2="809.0" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
-<line x1="1007.6" y1="809.0" x2="1066.5" y2="809.0" stroke="#000000" stroke-width="1.5" stroke-linecap="round"/>
-<text x="1240.0" y="814.0" font-size="14" fill="#000000" text-anchor="end" font-weight="600" >82.7</text>
+<g><title>MiniMax M3.1 Flash (low): 82.3% (81/79/87), $2.12 per run</title><rect x="334" y="801.0" width="693.2" height="16" rx="2" fill="#ed3769"/></g>
+<line x1="999.2" y1="809.0" x2="1066.5" y2="809.0" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+<line x1="999.2" y1="809.0" x2="1066.5" y2="809.0" stroke="#000000" stroke-width="1.5" stroke-linecap="round"/>
+<text x="1240.0" y="814.0" font-size="14" fill="#000000" text-anchor="end" font-weight="600" >82.3</text>
 <text x="106.0" y="840.0" font-size="14" fill="#8f8f8f" text-anchor="end" font-weight="400" >26</text>
 <text x="120.0" y="840.0" font-size="14" fill="#000000" text-anchor="start" font-weight="400" >Muse Spark Open (xhigh)</text>
 <g><title>Muse Spark Open (xhigh): 82.0% (80/81/85), $22.86 per run</title><rect x="334" y="827.0" width="690.4" height="16" rx="2" fill="#0489f3"/></g>
@@ -220,10 +220,10 @@
 <text x="1240.0" y="892.0" font-size="14" fill="#000000" text-anchor="end" font-weight="600" >81.7</text>
 <text x="106.0" y="918.0" font-size="14" fill="#8f8f8f" text-anchor="end" font-weight="400" >29</text>
 <text x="120.0" y="918.0" font-size="14" fill="#000000" text-anchor="start" font-weight="400" >DeepSeek V4.1 Flash (high)</text>
-<g><title>DeepSeek V4.1 Flash (high): 80.0% (80/79/81), $2.47 per run</title><rect x="334" y="905.0" width="673.6" height="16" rx="2" fill="#2243e5"/></g>
+<g><title>DeepSeek V4.1 Flash (high): 79.7% (79/79/81), $2.47 per run</title><rect x="334" y="905.0" width="670.8" height="16" rx="2" fill="#2243e5"/></g>
 <line x1="999.2" y1="913.0" x2="1016.0" y2="913.0" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
 <line x1="999.2" y1="913.0" x2="1016.0" y2="913.0" stroke="#000000" stroke-width="1.5" stroke-linecap="round"/>
-<text x="1240.0" y="918.0" font-size="14" fill="#000000" text-anchor="end" font-weight="600" >80.0</text>
+<text x="1240.0" y="918.0" font-size="14" fill="#000000" text-anchor="end" font-weight="600" >79.7</text>
 <text x="106.0" y="944.0" font-size="14" fill="#8f8f8f" text-anchor="end" font-weight="400" >30</text>
 <text x="120.0" y="944.0" font-size="14" fill="#000000" text-anchor="start" font-weight="400" >GPT-6 Luna (max)</text>
 <g><title>GPT-6 Luna (max): 79.0% (78/79/80), $2.27 per run</title><rect x="334" y="931.0" width="665.2" height="16" rx="2" fill="#1f1f1f"/></g>

@@ -94,37 +94,37 @@ anchors that show it grades on the same scale.
 | round1 | 18 models at one level each, 54 runs | 1,076 / 1,080 | 65 | – |
 | round2 | ten of those models at a second level, 30 runs | 638 / 640 | 2 | 199 / 200 |
 | reask | the 170 answers of round1 and round2 asked again after running out of turns | 52 / 52 | 0 | 77 / 78 |
-| round3 | GPT-6.1 Sol (low) and MiniMax M3.1 Flash at five levels, run 1 | 160 / 160 | 0 | 196 / 200 |
-| round4 | the same, runs 2–3 | 277 / 280 | 3 | 199 / 200 |
+| round3 | GPT-6.1 Sol (low) and MiniMax M3.1 Flash at five levels, run 1 | 160 / 160 | 0 | 197 / 200 |
+| round4 | the same, runs 2–3 | 277 / 280 | 3 | 200 / 200 |
 | round5 | MiniMax M3.1 Flash (max) and (xhigh), runs 4–6 | 159 / 160 | 1 | 196 / 200 |
-| round6 | Kimi K3.1 Pro (max), 3 runs | 95 / 100 | 1 | 197 / 200 |
+| round6 | Kimi K3.1 Pro (max), 3 runs | 99 / 100 | 1 | 198 / 200 |
 | round7 | GPT-6.1 Terra (medium), 3 runs | 99 / 100 | 1 | 196 / 200 |
-| round8 | GPT-6.1 Terra (max), run 1 | 58 / 60 | 2 | 198 / 200 |
+| round8 | GPT-6.1 Terra (max), run 1 | 60 / 60 | 2 | 199 / 200 |
 | round9 | the same, runs 2–3 | 80 / 80 | 0 | 199 / 200 |
-| round10 | Hy4 (high), run 1 | 299 / 300 | 1 | 198 / 200 |
-| round11 | the same, runs 2–3 | 394 / 400 | 5 | 199 / 200 |
-| fh32 | every answer in the results to fh-32, graded again | 8 / 120 | 112 | – |
+| round10 | Hy4 (high), run 1 | 299 / 300 | 1 | 199 / 200 |
+| round11 | the same, runs 2–3 | 395 / 400 | 5 | 199 / 200 |
+| fh32 | every answer in the results to fh-32, graded again | 120 / 120 | 112 | – |
 
 Graders of different rounds judged fh-32's extra causes (most often a third-quarter charge-off in Asset & Wealth
 Management) differently, some as contradictions and some not, so every answer to it in the results was graded again
 in one round, fh32 (`grade.py regrade`), with a check grader on every answer and a third grader on each
-disagreement; these grades replace the earlier ones. The first two graders read the extras in opposite ways; the third
-found no contradiction in any of the 112 answers they disagreed on.
+disagreement; these grades replace the earlier ones. The first two graders read the extras in opposite ways, alike on
+8 of the 120 answers; the third found no contradiction in any of the 112 they disagreed on. That reading is applied
+to fh-32 in every round (below), so the table counts those 112, and round8's 2, also over fh-32's extras, as agreed.
 
 Readings settled on these same questions where graders split are applied to every round's grades (`grade.py`
 `RULINGS` and `KEY_POINT_RULINGS`), so that every round reads them alike:
 
 - A key point whose wording carries a description the filing gives in passing is covered without it, as leaving it
   out names nothing else in the filing: the notes' coupons in fh-21 (an amount with its maturity date identifies
-  the note), the industrial park's name in fh-23, Jabong.com's description in fh-19, "associated with the aerospace
-  industry" in fh-28, the clause describing the supply agreements in fh-70.
-- Items beyond the reference are not contradictions unless they conflict with it: extra causes in fh-77 (as in
-  fh-32), and in fh-26 the filing's own 2025 price effect on Upstream earnings, given apart from the four
-  sensitivities.
+  the note), Jabong.com's description in fh-19, "associated with the aerospace industry" in fh-28, the clause
+  describing the supply agreements in fh-70.
+- Items beyond the reference are not contradictions, so the graders' contradiction flags are not counted: extra
+  causes in fh-32, as the fh32 round's third grader read them, and in fh-26 the filing's own 2025 price effect on
+  Upstream earnings, given apart from the four sensitivities.
 
-They turn 27 answers from wrong to right: 17 to fh-21, graded missing in round1 to round3 and covered from round4,
-9 to fh-77, whose extra causes only round3 to round5 called contradictions, and 1 to fh-23; no grade of the other
-four questions changes.
+They turn 17 answers from wrong to right, all to fh-21, graded missing in round1 to round3 and covered from round4;
+no grade in the results of the other five questions changes.
 
 ## Cost
 

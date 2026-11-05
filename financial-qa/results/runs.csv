@@ -68,7 +68,7 @@ grok-4.7-high,Grok 4.7,high,3,68,36,19,13,0,33.780320,33.780320
 deepseek-v4.1-flash-max,DeepSeek V4.1 Flash,max,1,89,44,25,20,0,3.516446,3.516446
 deepseek-v4.1-flash-max,DeepSeek V4.1 Flash,max,2,88,45,24,19,1,3.407512,3.465177
 deepseek-v4.1-flash-max,DeepSeek V4.1 Flash,max,3,86,44,23,19,0,3.361019,3.361019
-deepseek-v4.1-flash-high,DeepSeek V4.1 Flash,high,1,80,40,23,17,0,2.430353,2.430353
+deepseek-v4.1-flash-high,DeepSeek V4.1 Flash,high,1,79,39,23,17,0,2.430353,2.430353
 deepseek-v4.1-flash-high,DeepSeek V4.1 Flash,high,2,79,39,22,18,0,2.444069,2.444069
 deepseek-v4.1-flash-high,DeepSeek V4.1 Flash,high,3,81,42,21,18,0,2.537508,2.537508
 qwen3.8-max-xhigh,Qwen3.8 Max,xhigh,1,88,44,24,20,0,30.779254,31.817380
@@ -97,21 +97,21 @@ minimax-m3.1-flash-max,MiniMax M3.1 Flash,max,2,91,49,22,20,4,3.245301,3.606321
 minimax-m3.1-flash-max,MiniMax M3.1 Flash,max,3,94,51,23,20,4,3.246932,3.658857
 minimax-m3.1-flash-max,MiniMax M3.1 Flash,max,4,95,50,25,20,4,3.301370,3.730538
 minimax-m3.1-flash-max,MiniMax M3.1 Flash,max,5,92,48,25,19,6,3.278679,3.810186
-minimax-m3.1-flash-max,MiniMax M3.1 Flash,max,6,90,49,23,18,7,3.231612,3.857336
+minimax-m3.1-flash-max,MiniMax M3.1 Flash,max,6,89,49,22,18,7,3.231612,3.857336
 minimax-m3.1-flash-xhigh,MiniMax M3.1 Flash,xhigh,1,94,48,26,20,4,3.136808,3.557094
-minimax-m3.1-flash-xhigh,MiniMax M3.1 Flash,xhigh,2,94,51,23,20,5,3.363089,3.898238
-minimax-m3.1-flash-xhigh,MiniMax M3.1 Flash,xhigh,3,94,49,25,20,10,3.127251,3.924419
+minimax-m3.1-flash-xhigh,MiniMax M3.1 Flash,xhigh,2,93,51,22,20,5,3.363089,3.898238
+minimax-m3.1-flash-xhigh,MiniMax M3.1 Flash,xhigh,3,93,49,24,20,10,3.127251,3.924419
 minimax-m3.1-flash-xhigh,MiniMax M3.1 Flash,xhigh,4,93,48,25,20,1,3.168443,3.279732
 minimax-m3.1-flash-xhigh,MiniMax M3.1 Flash,xhigh,5,91,46,25,20,6,3.139156,3.620440
-minimax-m3.1-flash-xhigh,MiniMax M3.1 Flash,xhigh,6,93,51,23,19,5,3.166874,3.700634
-minimax-m3.1-flash-high,MiniMax M3.1 Flash,high,1,92,48,24,20,6,3.246961,3.727898
-minimax-m3.1-flash-high,MiniMax M3.1 Flash,high,2,89,46,23,20,7,2.960075,3.550078
-minimax-m3.1-flash-high,MiniMax M3.1 Flash,high,3,94,49,25,20,12,3.080601,4.023448
-minimax-m3.1-flash-medium,MiniMax M3.1 Flash,medium,1,86,45,23,18,7,2.539327,3.182851
+minimax-m3.1-flash-xhigh,MiniMax M3.1 Flash,xhigh,6,92,51,22,19,5,3.166874,3.700634
+minimax-m3.1-flash-high,MiniMax M3.1 Flash,high,1,91,48,23,20,6,3.246961,3.727898
+minimax-m3.1-flash-high,MiniMax M3.1 Flash,high,2,88,46,22,20,7,2.960075,3.550078
+minimax-m3.1-flash-high,MiniMax M3.1 Flash,high,3,93,49,24,20,12,3.080601,4.023448
+minimax-m3.1-flash-medium,MiniMax M3.1 Flash,medium,1,85,45,22,18,7,2.539327,3.182851
 minimax-m3.1-flash-medium,MiniMax M3.1 Flash,medium,2,84,42,23,19,6,2.656151,3.167445
 minimax-m3.1-flash-medium,MiniMax M3.1 Flash,medium,3,88,46,23,19,6,2.660294,3.191372
 minimax-m3.1-flash-low,MiniMax M3.1 Flash,low,1,81,41,22,18,4,2.047934,2.419159
-minimax-m3.1-flash-low,MiniMax M3.1 Flash,low,2,80,43,19,18,5,2.132120,2.516690
+minimax-m3.1-flash-low,MiniMax M3.1 Flash,low,2,79,43,18,18,5,2.132120,2.516690
 minimax-m3.1-flash-low,MiniMax M3.1 Flash,low,3,87,45,23,19,6,2.193352,2.708578
 mimo-v2.6-pro,MiMo-V2.6-Pro,,1,86,42,24,20,0,3.849661,3.849661
 mimo-v2.6-pro,MiMo-V2.6-Pro,,2,84,43,22,19,0,3.773395,3.776378

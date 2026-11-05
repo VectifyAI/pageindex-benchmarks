@@ -80,7 +80,7 @@
 <text x="1240.0" y="796.0" font-size="13" fill="#666666" text-anchor="middle" font-weight="400" >$200</text>
 <text x="662.0" y="828.0" font-size="15" fill="#000000" text-anchor="middle" font-weight="400" >Cost per 100-question run (USD, log scale)</text>
 <g transform="translate(26 468.0) rotate(-90)"><text x="0.0" y="0.0" font-size="15" fill="#000000" text-anchor="middle" font-weight="400" >Accuracy (%, mean of 3 runs)</text></g>
-<path d="M168.0,494.8 L294.0,447.9 L336.7,303.6 L712.3,239.8 L753.0,186.1" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M168.0,494.8 L294.0,454.6 L336.7,313.6 L712.3,239.8 L753.0,186.1" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 <circle cx="168.0" cy="494.8" r="9" fill="#ffffff" stroke="#2563eb" stroke-width="1.5"/>
 <g><title>MiMo-V2.6-Flash: 83.7% (82/84/85), $1.47 per run</title><circle cx="168.0" cy="494.8" r="12" fill="transparent"/><circle cx="168.0" cy="494.8" r="6.5" fill="#ff6903" stroke="#ffffff" stroke-width="1"/></g>
 <text x="179.0" y="503.8" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">MiMo-V2.6-Flash</text>
@@ -88,16 +88,16 @@
 <text x="210.5" y="593.2" font-size="13" fill="#464646" text-anchor="end" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">GLM-5.3-Flash (max)</text>
 <g><title>GPT-6 Luna (max): 79.0% (78/79/80), $2.27 per run</title><circle cx="262.5" cy="588.8" r="12" fill="transparent"/><circle cx="262.5" cy="588.8" r="6.5" fill="#1f1f1f" stroke="#ffffff" stroke-width="1"/></g>
 <text x="273.5" y="592.8" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">GPT-6 Luna (max)</text>
-<g><title>DeepSeek V4.1 Flash (high): 80.0% (80/79/81), $2.47 per run</title><circle cx="281.3" cy="568.7" r="12" fill="transparent"/><circle cx="281.3" cy="568.7" r="6.5" fill="#2243e5" stroke="#ffffff" stroke-width="1"/></g>
-<text x="292.3" y="572.7" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">DeepSeek V4.1 Flash (high)</text>
-<circle cx="294.0" cy="447.9" r="9" fill="#ffffff" stroke="#2563eb" stroke-width="1.5"/>
-<g><title>MiniMax M3.1 Flash (medium): 86.0% (86/84/88), $2.62 per run</title><circle cx="294.0" cy="447.9" r="12" fill="transparent"/><circle cx="294.0" cy="447.9" r="6.5" fill="#ed3769" stroke="#ffffff" stroke-width="1"/></g>
-<text x="302.0" y="471.9" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">MiniMax M3.1 Flash (medium)</text>
-<circle cx="336.7" cy="303.6" r="9" fill="#ffffff" stroke="#2563eb" stroke-width="1.5"/>
-<g><title>MiniMax M3.1 Flash (xhigh): 93.2% (94/94/94/93/91/93), $3.18 per run</title><circle cx="336.7" cy="303.6" r="12" fill="transparent"/><circle cx="336.7" cy="303.6" r="6.5" fill="#ed3769" stroke="#ffffff" stroke-width="1"/></g>
-<text x="325.7" y="307.6" font-size="13" fill="#464646" text-anchor="end" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">MiniMax M3.1 Flash (xhigh)</text>
-<g><title>MiniMax M3.1 Flash (max): 92.0% (90/91/94/95/92/90), $3.24 per run</title><circle cx="340.6" cy="327.1" r="12" fill="transparent"/><circle cx="340.6" cy="327.1" r="6.5" fill="#ed3769" stroke="#ffffff" stroke-width="1"/></g>
-<text x="351.6" y="331.1" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">MiniMax M3.1 Flash (max)</text>
+<g><title>DeepSeek V4.1 Flash (high): 79.7% (79/79/81), $2.47 per run</title><circle cx="281.3" cy="575.4" r="12" fill="transparent"/><circle cx="281.3" cy="575.4" r="6.5" fill="#2243e5" stroke="#ffffff" stroke-width="1"/></g>
+<text x="292.3" y="579.4" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">DeepSeek V4.1 Flash (high)</text>
+<circle cx="294.0" cy="454.6" r="9" fill="#ffffff" stroke="#2563eb" stroke-width="1.5"/>
+<g><title>MiniMax M3.1 Flash (medium): 85.7% (85/84/88), $2.62 per run</title><circle cx="294.0" cy="454.6" r="12" fill="transparent"/><circle cx="294.0" cy="454.6" r="6.5" fill="#ed3769" stroke="#ffffff" stroke-width="1"/></g>
+<text x="302.0" y="478.6" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">MiniMax M3.1 Flash (medium)</text>
+<circle cx="336.7" cy="313.6" r="9" fill="#ffffff" stroke="#2563eb" stroke-width="1.5"/>
+<g><title>MiniMax M3.1 Flash (xhigh): 92.7% (94/93/93/93/91/92), $3.18 per run</title><circle cx="336.7" cy="313.6" r="12" fill="transparent"/><circle cx="336.7" cy="313.6" r="6.5" fill="#ed3769" stroke="#ffffff" stroke-width="1"/></g>
+<text x="325.7" y="317.6" font-size="13" fill="#464646" text-anchor="end" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">MiniMax M3.1 Flash (xhigh)</text>
+<g><title>MiniMax M3.1 Flash (max): 91.8% (90/91/94/95/92/89), $3.24 per run</title><circle cx="340.6" cy="330.4" r="12" fill="transparent"/><circle cx="340.6" cy="330.4" r="6.5" fill="#ed3769" stroke="#ffffff" stroke-width="1"/></g>
+<text x="351.6" y="334.4" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">MiniMax M3.1 Flash (max)</text>
 <g><title>DeepSeek V4.1 Flash (max): 87.7% (89/88/86), $3.43 per run</title><circle cx="352.8" cy="414.3" r="12" fill="transparent"/><circle cx="352.8" cy="414.3" r="6.5" fill="#2243e5" stroke="#ffffff" stroke-width="1"/></g>
 <text x="363.8" y="418.3" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">DeepSeek V4.1 Flash (max)</text>
 <g><title>MiMo-V2.6-Pro: 85.7% (86/84/87), $3.81 per run</title><circle cx="375.8" cy="454.6" r="12" fill="transparent"/><circle cx="375.8" cy="454.6" r="6.5" fill="#ff6903" stroke="#ffffff" stroke-width="1"/></g>

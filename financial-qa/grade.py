@@ -33,23 +33,22 @@ REGRADES = {"fh32": "fh-32"}
 # settled readings of questions graders split on (ruled 2026-10-29, when these questions were first graded),
 # applied to every round so that every round reads them alike;
 # each carries text of the question or key point it was made for.
-# Questions whose items beyond the reference are not contradictions unless they conflict with it: fh-77 (extra
-# causes, as fh-32), fh-26 (the filing's own 2025 price effect on Upstream earnings, given apart from the four
-# sensitivities).
-RULINGS = {"fh-77": "Apple's fiscal 2022 Form 10-K says that supply shortages",
+# Questions whose items beyond the reference are not contradictions, so their contradiction flags are not counted:
+# fh-32 (extra causes, none a contradiction to the fh32 round's third grader, so that later rounds read them alike),
+# fh-26 (the filing's own 2025 price effect on Upstream earnings, given apart from the four sensitivities).
+RULINGS = {"fh-32": "JPMorgan Chase's net charge-offs rose by $1.2 billion in 2025",
            "fh-26": "ExxonMobil's 2025 Form 10-K state a dollar"}
 # Key points whose wording carries a description the filing gives in passing; leaving it out names nothing else in
 # the filing: question -> [(key point index, text of that key point, the answers that cover it: any of these lists,
 # each of whose texts the answer gives, in lower case)]. fh-70: the clause describing the supply agreements; fh-21:
-# the notes' coupons (an amount with its maturity date identifies the note); fh-23: the industrial park's name;
-# fh-19: Jabong.com's description as one of Flipkart's two fashion trade names; fh-28: "associated with the
-# aerospace industry", in answers about the aerospace impairment throughout.
+# the notes' coupons (an amount with its maturity date identifies the note); fh-19: Jabong.com's description as one
+# of Flipkart's two fashion trade names; fh-28: "associated with the aerospace industry", in answers about the
+# aerospace impairment throughout.
 KEY_POINT_RULINGS = {
     "fh-70": [(2, "$1.58 billion", [["1.58"]])],
     "fh-21": [(2, "3.300% notes", [["1,500", "april 22"], ["1.5 billion", "april 22"]]),
               (3, "2.850% notes", [["990", "july 8"]]), (4, "0.298% notes", [["253", "july 18"]]),
               (5, "2.650% notes", [["630", "december 15"]])],
-    "fh-23": [(3, "Huizhou", [["huizhou", "chemical"]])],
     "fh-19": [(4, "Jabong.com", [["0.4 billion", "jabong"], ["400 million", "jabong"]])],
     "fh-28": [(4, "risks and uncertainties associated with the aerospace industry",
                [["risks and uncertaint"], ["risk and uncertaint"]])],
