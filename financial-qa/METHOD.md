@@ -41,7 +41,7 @@ verified candidates.
 
 ## Configurations
 
-A configuration is a model at one reasoning level (`models.py`): 37 configurations of 21 models, 12 of them at two
+A configuration is a model at one reasoning level (`models.py`): 38 configurations of 22 models, 12 of them at two
 or more levels.
 
 - **Route**: OpenRouter, each model pinned to one provider with fallbacks off, at its standard tier (no flex, fast or
@@ -50,9 +50,9 @@ or more levels.
   price, and the reasoning setting (`data/preflight/`).
 - **Reasoning levels**: a level other than the default is sent as `reasoning.effort`. At the default level no
   reasoning setting is sent, and the level named is the vendor's default, confirmed by runs with that level set
-  explicitly. MiniMax M3.1 Flash and Kimi K3.1 Pro run at max, their default, with max sent, and GPT-6.1 Terra at
-  medium, its default, with medium sent. MiMo models have no levels; Muse Wonder's default is a level the model
-  picks for itself, labeled "adaptive".
+  explicitly. MiniMax M3.1 Flash and Kimi K3.1 Pro run at max, GPT-6.1 Terra at medium and Hy4 at high, their
+  defaults, with those levels sent. MiMo models have no levels; Muse Wonder's default is a level the model picks
+  for itself, labeled "adaptive".
 
 ## Runs
 
@@ -82,7 +82,8 @@ the rubric in `grading/brief.md`:
 
 Sheets are blind: answers labeled A, B, C, … in seeded random order, with no configuration named. A question's
 answers go to graders in groups of at most 20, each configuration's runs in different groups. A second grader
-re-grades a seeded fifth of every round, and a third grader decides blind on disputed answers; that verdict stands.
+re-grades a seeded fifth of every round (every answer from round10), and a third grader decides blind on disputed
+answers; that verdict stands.
 
 Configurations were graded in rounds as they were run (`data/grading/`). Every round after round1 also grades two
 of round1's runs blind among the others, DeepSeek V4.1 Flash (high) and Claude Haiku 5.5 (medium), run 1, as
@@ -100,6 +101,8 @@ anchors that show it grades on the same scale.
 | round7 | GPT-6.1 Terra (medium), 3 runs | 99 / 100 | 1 | 196 / 200 |
 | round8 | GPT-6.1 Terra (max), run 1 | 60 / 60 | 2 | 199 / 200 |
 | round9 | the same, runs 2–3 | 80 / 80 | 0 | 199 / 200 |
+| round10 | Hy4 (high), run 1 | 299 / 300 | 1 | 199 / 200 |
+| round11 | the same, runs 2–3 | 395 / 400 | 5 | 199 / 200 |
 
 ## Cost
 
@@ -109,7 +112,9 @@ anchors that show it grades on the same scale.
 - A run's cost is the sum over its questions of the attempt whose answer stands; attempts retried after an error or
   replaced by an answer asked again are not counted (`results/runs.csv` also gives each run's full bill,
   `billed_usd`). The cost per run in the results is the mean over runs.
-- Prices are those of the pinned providers from 2026-10-22 to 2026-10-27, when the runs were made.
+- Tencent bills Hy4 at half its list price until 2026-12-31; its cost is counted at the list price, twice the
+  bill, as every other configuration's is (`results.py`, `AT_LIST_PRICE`; `results/runs.csv` gives both).
+- Prices are those of the pinned providers from 2026-10-22 to 2026-11-05, when the runs were made.
 
 ## Statistics
 

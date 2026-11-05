@@ -21,13 +21,14 @@ HERE = pathlib.Path(__file__).resolve().parent
 DATA, GRADES, SHEETS = HERE / "data", HERE / "data" / "grading", HERE / "sheets"
 # the rounds behind the results, in the order graded (METHOD.md, "Grading"): round1 18 models at one level each,
 # round2 ten of those at a second level, round3-5 GPT-6.1 Sol (low) and MiniMax M3.1 Flash at five levels, round6
-# Kimi K3.1 Pro, round7 GPT-6.1 Terra (medium), round8-9 GPT-6.1 Terra (max)
-ROUNDS = ("round1", "round2", "round3", "round4", "round5", "round6", "round7", "round8", "round9")
+# Kimi K3.1 Pro, round7 GPT-6.1 Terra (medium), round8-9 GPT-6.1 Terra (max), round10-11 Hy4
+ROUNDS = ("round1", "round2", "round3", "round4", "round5", "round6", "round7", "round8", "round9", "round10",
+          "round11")
 # the answers of round1 and round2 that ran out of turns, asked again (run.py); their grades replace the earlier ones
 REASK = "reask"
 # two runs round1 graded, graded again blind in every later round to show it grades on the same scale
 ANCHORS = ("deepseek-v4.1-flash-high r1", "claude-haiku-5.5-medium r1")
-CHECK_SHARE = 0.2  # a second grader re-grades this share of each round's sheet lines
+CHECK_SHARE = 1.0  # a second grader re-grades this share of each round's sheet lines: all from round10, a fifth before
 ANSWERS_PER_GROUP, ANSWERS_PER_SHEET = 20, 100
 # fh-32 asks for every cause the filing gives, so causes beyond the reference are not contradictions
 # (grading/brief.md); its contradiction flags are not counted

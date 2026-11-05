@@ -1,0 +1,173 @@
+{
+ "model": "hy4-high",
+ "route": "tencent/hy4",
+ "provider": "Tencent",
+ "reasoning_setting": "high",
+ "checked": "2026-11-05 11:29:13 +0800",
+ "openrouter_reasoning": {
+  "mandatory": false,
+  "default_enabled": true,
+  "supported_efforts": [
+   "high",
+   "low",
+   "none"
+  ],
+  "default_effort": "high"
+ },
+ "declared_default": "high",
+ "pricing": {
+  "prompt": "0.000000417",
+  "completion": "0.0000012505",
+  "input_cache_read": "0.000000021"
+ },
+ "endpoint_tag": "tencent/fp4",
+ "endpoint_pricing": {
+  "prompt": "0.000000417",
+  "completion": "0.0000012505",
+  "input_cache_read": "0.000000021",
+  "discount": 0.5
+ },
+ "billed_over_standard": [
+  1.0,
+  1.0
+ ],
+ "reasoning_tokens_median": {
+  "None": 2998,
+  "high": 2649,
+  "low": 3169,
+  "none": 0
+ },
+ "calls": [
+  {
+   "setting": null,
+   "gen_id": "gen-1793849293-Sb1JLbp0otMc6uC2gZP0",
+   "provider": "Tencent",
+   "cost": 0.0048361115,
+   "standard_price_cost": 0.0048361115,
+   "reasoning_tokens": 3842
+  },
+  {
+   "setting": null,
+   "gen_id": "gen-1793849293-spJ8yGjR9PcQb7tdOHSm",
+   "provider": "Tencent",
+   "cost": 0.0037806895,
+   "standard_price_cost": 0.0037806894999999996,
+   "reasoning_tokens": 2998
+  },
+  {
+   "setting": null,
+   "gen_id": "gen-1793849293-G5kjSyk5dwUgBbAFPHCr",
+   "provider": "Tencent",
+   "cost": 0.0037031585,
+   "standard_price_cost": 0.0037031584999999995,
+   "reasoning_tokens": 2936
+  },
+  {
+   "setting": null,
+   "gen_id": "gen-1793849293-xv0YwCv2s8XIwNQVKXuQ",
+   "provider": "Tencent",
+   "cost": 0.003624377,
+   "standard_price_cost": 0.003624377,
+   "reasoning_tokens": 2873
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1793849293-uVxCOY3kg7OGLBdLTTWb",
+   "provider": "Tencent",
+   "cost": 0.0030704055,
+   "standard_price_cost": 0.0030704054999999997,
+   "reasoning_tokens": 2430
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1793849293-JroSSlHCc6uNWTBmDZW8",
+   "provider": "Tencent",
+   "cost": 0.002784041,
+   "standard_price_cost": 0.0027840409999999997,
+   "reasoning_tokens": 2201
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1793849293-4CoyFD9utms61hafwbwL",
+   "provider": "Tencent",
+   "cost": 0.003344265,
+   "standard_price_cost": 0.0033442649999999995,
+   "reasoning_tokens": 2649
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1793849293-KLxDALWABYdhj42pUw7c",
+   "provider": "Tencent",
+   "cost": 0.003974517,
+   "standard_price_cost": 0.003974517,
+   "reasoning_tokens": 3153
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1793849316-Zs3Ad2HZ0DYXUzllmpsC",
+   "provider": "Tencent",
+   "cost": 0.0040257875,
+   "standard_price_cost": 0.0040257875,
+   "reasoning_tokens": 3194
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1793849319-bkS585uJIKSfiI3N2THK",
+   "provider": "Tencent",
+   "cost": 0.002378879,
+   "standard_price_cost": 0.0023788789999999995,
+   "reasoning_tokens": 1877
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1793849322-uvd4IHkN93BrFBTdukwa",
+   "provider": "Tencent",
+   "cost": 0.003994525,
+   "standard_price_cost": 0.003994525,
+   "reasoning_tokens": 3169
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1793849323-K7AQAcWIYR6hyX5ekFlA",
+   "provider": "Tencent",
+   "cost": 0.003829459,
+   "standard_price_cost": 0.0038294589999999995,
+   "reasoning_tokens": 3037
+  },
+  {
+   "setting": "none",
+   "gen_id": "gen-1793849323-2FmP2JltPoFkIfVB4J8z",
+   "provider": "Tencent",
+   "cost": 3.1691e-05,
+   "standard_price_cost": 3.1691e-05,
+   "reasoning_tokens": 0
+  },
+  {
+   "setting": "none",
+   "gen_id": "gen-1793849323-5s0ymfhPnM0NIa2Qb36m",
+   "provider": "Tencent",
+   "cost": 3.1691e-05,
+   "standard_price_cost": 3.1691e-05,
+   "reasoning_tokens": 0
+  },
+  {
+   "setting": "none",
+   "gen_id": "gen-1793849325-rij7IIO0fOW78PuYDFYt",
+   "provider": "Tencent",
+   "cost": 3.1691e-05,
+   "standard_price_cost": 3.1691e-05,
+   "reasoning_tokens": 0
+  },
+  {
+   "setting": "none",
+   "gen_id": "gen-1793849325-N312yc84VYfq9KC9RYpj",
+   "provider": "Tencent",
+   "cost": 3.1691e-05,
+   "standard_price_cost": 3.1691e-05,
+   "reasoning_tokens": 0
+  }
+ ],
+ "cost": 0.043473,
+ "passed": true,
+ "failures": []
+}

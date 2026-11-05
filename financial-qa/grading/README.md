@@ -16,7 +16,8 @@ no context with any other.
 
 - `grade.py` checks every grade file against its map before use: every line of the map graded (by the first and
   the third grader), every label of each line, one boolean per key point.
-- A second grader re-grades a seeded fifth of each round's sheet lines (`<round>_check_grades_<n>.jsonl`).
+- A second grader re-grades a seeded fifth of each round's sheet lines, every line from round10
+  (`<round>_check_grades_<n>.jsonl`).
 - A third grader re-grades blind the answers `grade.py adjudicate` picks, those whose two grades differ, seeing
   neither verdict; its verdict stands (`<round>_adjudicate_map.json`, `<round>_adjudicate_grades_<n>.jsonl`).
 

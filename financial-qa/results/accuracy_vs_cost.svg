@@ -7,26 +7,28 @@
 <text x="1142.0" y="138.0" font-size="13" fill="#666666" text-anchor="start" font-weight="400" >Pareto frontier</text>
 <circle cx="92" cy="133" r="6.5" fill="#1f1f1f"/>
 <text x="106.0" y="138.0" font-size="15" fill="#000000" text-anchor="start" font-weight="400" >OpenAI</text>
-<circle cx="179.2" cy="133" r="6.5" fill="#c8795a"/>
-<text x="193.2" y="138.0" font-size="15" fill="#000000" text-anchor="start" font-weight="400" >Anthropic</text>
-<circle cx="288.0" cy="133" r="6.5" fill="#36a854"/>
-<text x="302.0" y="138.0" font-size="15" fill="#000000" text-anchor="start" font-weight="400" >Google</text>
-<circle cx="375.2" cy="133" r="6.5" fill="#ff7017"/>
-<text x="389.2" y="138.0" font-size="15" fill="#000000" text-anchor="start" font-weight="400" >Alibaba</text>
-<circle cx="469.6" cy="133" r="6.5" fill="#1880f6"/>
-<text x="483.6" y="138.0" font-size="15" fill="#000000" text-anchor="start" font-weight="400" >Z AI</text>
-<circle cx="542.4" cy="133" r="6.5" fill="#ff6903"/>
-<text x="556.4" y="138.0" font-size="15" fill="#000000" text-anchor="start" font-weight="400" >Xiaomi</text>
-<circle cx="629.6" cy="133" r="6.5" fill="#0b81ff"/>
-<text x="643.6" y="138.0" font-size="15" fill="#000000" text-anchor="start" font-weight="400" >Kimi</text>
-<circle cx="702.4" cy="133" r="6.5" fill="#2243e5"/>
-<text x="716.4" y="138.0" font-size="15" fill="#000000" text-anchor="start" font-weight="400" >DeepSeek</text>
-<circle cx="804.0" cy="133" r="6.5" fill="#ed3769"/>
-<text x="818.0" y="138.0" font-size="15" fill="#000000" text-anchor="start" font-weight="400" >MiniMax</text>
-<circle cx="898.4" cy="133" r="6.5" fill="#0489f3"/>
-<text x="912.4" y="138.0" font-size="15" fill="#000000" text-anchor="start" font-weight="400" >Meta</text>
-<circle cx="971.1999999999999" cy="133" r="6.5" fill="#726dd3"/>
-<text x="985.2" y="138.0" font-size="15" fill="#000000" text-anchor="start" font-weight="400" >SpaceXAI</text>
+<circle cx="173.2" cy="133" r="6.5" fill="#c8795a"/>
+<text x="187.2" y="138.0" font-size="15" fill="#000000" text-anchor="start" font-weight="400" >Anthropic</text>
+<circle cx="276.0" cy="133" r="6.5" fill="#36a854"/>
+<text x="290.0" y="138.0" font-size="15" fill="#000000" text-anchor="start" font-weight="400" >Google</text>
+<circle cx="357.2" cy="133" r="6.5" fill="#ff7017"/>
+<text x="371.2" y="138.0" font-size="15" fill="#000000" text-anchor="start" font-weight="400" >Alibaba</text>
+<circle cx="445.6" cy="133" r="6.5" fill="#1880f6"/>
+<text x="459.6" y="138.0" font-size="15" fill="#000000" text-anchor="start" font-weight="400" >Z AI</text>
+<circle cx="512.4000000000001" cy="133" r="6.5" fill="#ff6903"/>
+<text x="526.4" y="138.0" font-size="15" fill="#000000" text-anchor="start" font-weight="400" >Xiaomi</text>
+<circle cx="593.6" cy="133" r="6.5" fill="#0b81ff"/>
+<text x="607.6" y="138.0" font-size="15" fill="#000000" text-anchor="start" font-weight="400" >Kimi</text>
+<circle cx="660.4" cy="133" r="6.5" fill="#2243e5"/>
+<text x="674.4" y="138.0" font-size="15" fill="#000000" text-anchor="start" font-weight="400" >DeepSeek</text>
+<circle cx="756.0" cy="133" r="6.5" fill="#ed3769"/>
+<text x="770.0" y="138.0" font-size="15" fill="#000000" text-anchor="start" font-weight="400" >MiniMax</text>
+<circle cx="844.4" cy="133" r="6.5" fill="#0489f3"/>
+<text x="858.4" y="138.0" font-size="15" fill="#000000" text-anchor="start" font-weight="400" >Meta</text>
+<circle cx="911.1999999999999" cy="133" r="6.5" fill="#726dd3"/>
+<text x="925.2" y="138.0" font-size="15" fill="#000000" text-anchor="start" font-weight="400" >SpaceXAI</text>
+<circle cx="1006.8" cy="133" r="6.5" fill="#0aa5a0"/>
+<text x="1020.8" y="138.0" font-size="15" fill="#000000" text-anchor="start" font-weight="400" >Tencent</text>
 <line x1="84" y1="770.0" x2="1240" y2="770.0" stroke="#edf0f4" stroke-width="1"/>
 <line x1="75" y1="770.0" x2="81" y2="770.0" stroke="#666666" stroke-width="1"/>
 <text x="70.0" y="774.0" font-size="13" fill="#666666" text-anchor="end" font-weight="400" >70</text>
@@ -78,7 +80,7 @@
 <text x="1240.0" y="796.0" font-size="13" fill="#666666" text-anchor="middle" font-weight="400" >$200</text>
 <text x="662.0" y="828.0" font-size="15" fill="#000000" text-anchor="middle" font-weight="400" >Cost per 100-question run (USD, log scale)</text>
 <g transform="translate(26 468.0) rotate(-90)"><text x="0.0" y="0.0" font-size="15" fill="#000000" text-anchor="middle" font-weight="400" >Accuracy (%, mean of 3 runs)</text></g>
-<path d="M168.0,494.8 L294.0,454.6 L336.7,313.6 L712.3,239.8 L778.5,219.7 L820.7,206.3 L1143.5,192.8" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M168.0,494.8 L294.0,454.6 L336.7,313.6 L712.3,239.8 L753.0,186.1" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 <circle cx="168.0" cy="494.8" r="9" fill="#ffffff" stroke="#2563eb" stroke-width="1.5"/>
 <g><title>MiMo-V2.6-Flash: 83.7% (82/84/85), $1.47 per run</title><circle cx="168.0" cy="494.8" r="12" fill="transparent"/><circle cx="168.0" cy="494.8" r="6.5" fill="#ff6903" stroke="#ffffff" stroke-width="1"/></g>
 <text x="179.0" y="503.8" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">MiMo-V2.6-Flash</text>
@@ -117,16 +119,17 @@
 <text x="706.7" y="331.1" font-size="13" fill="#464646" text-anchor="end" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">GPT-6.1 Sol (low)</text>
 <g><title>GPT-6.1 Sol (medium): 93.3% (94/93/93), $20.09 per run</title><circle cx="738.6" cy="300.2" r="12" fill="transparent"/><circle cx="738.6" cy="300.2" r="6.5" fill="#1f1f1f" stroke="#ffffff" stroke-width="1"/></g>
 <text x="728.6" y="290.2" font-size="13" fill="#464646" text-anchor="end" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">GPT-6.1 Sol (medium)</text>
+<circle cx="753.0" cy="186.1" r="9" fill="#ffffff" stroke="#2563eb" stroke-width="1.5"/>
+<g><title>Hy4 (high): 99.0% (99/99/99), $21.46 per run</title><circle cx="753.0" cy="186.1" r="12" fill="transparent"/><circle cx="753.0" cy="186.1" r="6.5" fill="#0aa5a0" stroke="#ffffff" stroke-width="1"/></g>
+<text x="743.0" y="176.1" font-size="13" fill="#464646" text-anchor="end" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Hy4 (high)</text>
 <g><title>Muse Spark Open (xhigh): 82.0% (80/81/85), $22.86 per run</title><circle cx="766.8" cy="528.4" r="12" fill="transparent"/><circle cx="766.8" cy="528.4" r="6.5" fill="#0489f3" stroke="#ffffff" stroke-width="1"/></g>
 <text x="766.8" y="514.4" font-size="13" fill="#464646" text-anchor="middle" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Muse Spark Open (xhigh)</text>
-<circle cx="778.5" cy="219.7" r="9" fill="#ffffff" stroke="#2563eb" stroke-width="1.5"/>
 <g><title>Gemini 4 Argon (medium): 97.3% (97/97/98), $24.13 per run</title><circle cx="778.5" cy="219.7" r="12" fill="transparent"/><circle cx="778.5" cy="219.7" r="6.5" fill="#36a854" stroke="#ffffff" stroke-width="1"/></g>
 <text x="768.5" y="209.7" font-size="13" fill="#464646" text-anchor="end" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Gemini 4 Argon (medium)</text>
 <g><title>Gemini 3.8 Flash (high): 94.7% (96/94/94), $25.59 per run</title><circle cx="791.4" cy="273.4" r="12" fill="transparent"/><circle cx="791.4" cy="273.4" r="6.5" fill="#36a854" stroke="#ffffff" stroke-width="1"/></g>
 <text x="802.4" y="277.4" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Gemini 3.8 Flash (high)</text>
-<circle cx="820.7" cy="206.3" r="9" fill="#ffffff" stroke="#2563eb" stroke-width="1.5"/>
 <g><title>Gemini 4 Argon (high): 98.0% (98/98/98), $29.27 per run</title><circle cx="820.7" cy="206.3" r="12" fill="transparent"/><circle cx="820.7" cy="206.3" r="6.5" fill="#36a854" stroke="#ffffff" stroke-width="1"/></g>
-<text x="820.7" y="194.3" font-size="13" fill="#464646" text-anchor="middle" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Gemini 4 Argon (high)</text>
+<text x="831.7" y="210.3" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Gemini 4 Argon (high)</text>
 <g><title>Kimi K3 (max): 77.0% (80/76/75), $30.28 per run</title><circle cx="828.1" cy="629.1" r="12" fill="transparent"/><circle cx="828.1" cy="629.1" r="6.5" fill="#0b81ff" stroke="#ffffff" stroke-width="1"/></g>
 <text x="839.1" y="633.1" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Kimi K3 (max)</text>
 <g><title>Claude Sonnet 5.5 (high): 81.7% (82/80/83), $30.89 per run</title><circle cx="832.5" cy="535.1" r="12" fill="transparent"/><circle cx="832.5" cy="535.1" r="6.5" fill="#c8795a" stroke="#ffffff" stroke-width="1"/></g>
@@ -147,7 +150,6 @@
 <text x="997.4" y="389.3" font-size="13" fill="#464646" text-anchor="middle" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Claude Opus 5.5 (medium)</text>
 <g><title>Muse Wonder (max): 92.3% (92/94/91), $104.38 per run</title><circle cx="1098.1" cy="320.4" r="12" fill="transparent"/><circle cx="1098.1" cy="320.4" r="6.5" fill="#0489f3" stroke="#ffffff" stroke-width="1"/></g>
 <text x="1109.1" y="324.4" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Muse Wonder (max)</text>
-<circle cx="1143.5" cy="192.8" r="9" fill="#ffffff" stroke="#2563eb" stroke-width="1.5"/>
 <g><title>Claude Opus 5.5 (max): 98.7% (98/99/99), $128.49 per run</title><circle cx="1143.5" cy="192.8" r="12" fill="transparent"/><circle cx="1143.5" cy="192.8" r="6.5" fill="#c8795a" stroke="#ffffff" stroke-width="1"/></g>
 <text x="1143.5" y="180.8" font-size="13" fill="#464646" text-anchor="middle" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Claude Opus 5.5 (max)</text>
 </svg>
