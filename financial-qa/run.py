@@ -123,8 +123,8 @@ def cut_off(answers, calls):
 
 
 def collect(path, items, work, redo=(), counts=lambda row: True):
-    rows = read(path)
-    done = {r["id"] for r in rows if counts(r) and "error" not in r and not unprocessed(r) and r["id"] not in redo}
+    standing = {r["id"]: r for r in read(path) if counts(r)}  # a question's last row stands, as in cut_off
+    done = {i for i, r in standing.items() if "error" not in r and not unprocessed(r) and i not in redo}
     todo = [q for q in items if q["id"] not in done]
     lock = threading.Lock()
     path.parent.mkdir(parents=True, exist_ok=True)
@@ -385,8 +385,10 @@ def answer(key, run):
                     "input_tokens": usage["prompt_tokens"], "cached_tokens": details.get("cached_tokens") or 0,
                     "output_tokens": usage["completion_tokens"], "usage": usage}
 
-        # in the second pass only rows of asking again count as done, so its errors are retried as usual
-        counts = (lambda row: row.get("max_turns_limit") == REASK_TURNS) if turns == REASK_TURNS else (lambda row: True)
+        # each pass counts only its own rows, so its errors are retried as usual and a resumed first pass leaves the
+        # questions asked again to the second
+        counts = (lambda row: row.get("max_turns_limit") == REASK_TURNS) if turns == REASK_TURNS \
+            else (lambda row: row.get("max_turns_limit") != REASK_TURNS)
         log.reset()
         started = time.time()
         redo = lambda: cut_off(path, calls_path) & {q["id"] for q in items}  # noqa: E731
