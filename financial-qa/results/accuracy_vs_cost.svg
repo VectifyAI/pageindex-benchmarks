@@ -80,7 +80,7 @@
 <text x="1240.0" y="796.0" font-size="13" fill="#666666" text-anchor="middle" font-weight="400" >$200</text>
 <text x="662.0" y="828.0" font-size="15" fill="#000000" text-anchor="middle" font-weight="400" >Cost per 100-question run (USD, log scale)</text>
 <g transform="translate(26 468.0) rotate(-90)"><text x="0.0" y="0.0" font-size="15" fill="#000000" text-anchor="middle" font-weight="400" >Accuracy (%, mean of 3 runs)</text></g>
-<path d="M168.0,494.8 L294.0,454.6 L336.7,313.6 L712.3,239.8 L753.0,186.1" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M168.0,494.8 L294.0,454.6 L336.7,313.6 L601.8,186.1" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 <circle cx="168.0" cy="494.8" r="9" fill="#ffffff" stroke="#2563eb" stroke-width="1.5"/>
 <g><title>MiMo-V2.6-Flash: 83.7% (82/84/85), $1.47 per run</title><circle cx="168.0" cy="494.8" r="12" fill="transparent"/><circle cx="168.0" cy="494.8" r="6.5" fill="#ff6903" stroke="#ffffff" stroke-width="1"/></g>
 <text x="179.0" y="503.8" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">MiMo-V2.6-Flash</text>
@@ -106,22 +106,21 @@
 <text x="539.8" y="700.2" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Qwen3.8 27B (xhigh)</text>
 <g><title>Gemini 3.8 Flash (medium): 77.7% (89/80/64), $10.16 per run</title><circle cx="589.9" cy="615.6" r="12" fill="transparent"/><circle cx="589.9" cy="615.6" r="6.5" fill="#36a854" stroke="#ffffff" stroke-width="1"/></g>
 <text x="600.9" y="619.6" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Gemini 3.8 Flash (medium)</text>
+<circle cx="601.8" cy="186.1" r="9" fill="#ffffff" stroke="#2563eb" stroke-width="1.5"/>
+<g><title>Hy4 (high): 99.0% (99/99/99), $10.73 per run</title><circle cx="601.8" cy="186.1" r="12" fill="transparent"/><circle cx="601.8" cy="186.1" r="6.5" fill="#0aa5a0" stroke="#ffffff" stroke-width="1"/></g>
+<text x="612.8" y="190.1" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Hy4 (high)</text>
 <g><title>GPT-6.1 Terra (medium): 91.0% (91/90/92), $11.80 per run</title><circle cx="622.5" cy="347.2" r="12" fill="transparent"/><circle cx="622.5" cy="347.2" r="6.5" fill="#1f1f1f" stroke="#ffffff" stroke-width="1"/></g>
 <text x="633.5" y="351.2" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">GPT-6.1 Terra (medium)</text>
 <g><title>Claude Haiku 5.5 (max): 88.7% (88/88/90), $15.20 per run</title><circle cx="677.8" cy="394.2" r="12" fill="transparent"/><circle cx="677.8" cy="394.2" r="6.5" fill="#c8795a" stroke="#ffffff" stroke-width="1"/></g>
 <text x="677.8" y="382.2" font-size="13" fill="#464646" text-anchor="middle" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Claude Haiku 5.5 (max)</text>
 <g><title>GLM-5.3 (max): 81.7% (85/80/80), $17.57 per run</title><circle cx="709.4" cy="535.1" r="12" fill="transparent"/><circle cx="709.4" cy="535.1" r="6.5" fill="#1880f6" stroke="#ffffff" stroke-width="1"/></g>
 <text x="709.4" y="557.1" font-size="13" fill="#464646" text-anchor="middle" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">GLM-5.3 (max)</text>
-<circle cx="712.3" cy="239.8" r="9" fill="#ffffff" stroke="#2563eb" stroke-width="1.5"/>
 <g><title>GPT-6.1 Terra (max): 96.3% (96/96/97), $17.81 per run</title><circle cx="712.3" cy="239.8" r="12" fill="transparent"/><circle cx="712.3" cy="239.8" r="6.5" fill="#1f1f1f" stroke="#ffffff" stroke-width="1"/></g>
 <text x="702.3" y="229.8" font-size="13" fill="#464646" text-anchor="end" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">GPT-6.1 Terra (max)</text>
 <g><title>GPT-6.1 Sol (low): 92.3% (93/92/92), $18.26 per run</title><circle cx="717.7" cy="320.4" r="12" fill="transparent"/><circle cx="717.7" cy="320.4" r="6.5" fill="#1f1f1f" stroke="#ffffff" stroke-width="1"/></g>
 <text x="706.7" y="324.4" font-size="13" fill="#464646" text-anchor="end" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">GPT-6.1 Sol (low)</text>
 <g><title>GPT-6.1 Sol (medium): 94.3% (95/94/94), $20.09 per run</title><circle cx="738.6" cy="280.1" r="12" fill="transparent"/><circle cx="738.6" cy="280.1" r="6.5" fill="#1f1f1f" stroke="#ffffff" stroke-width="1"/></g>
 <text x="728.6" y="270.1" font-size="13" fill="#464646" text-anchor="end" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">GPT-6.1 Sol (medium)</text>
-<circle cx="753.0" cy="186.1" r="9" fill="#ffffff" stroke="#2563eb" stroke-width="1.5"/>
-<g><title>Hy4 (high): 99.0% (99/99/99), $21.46 per run</title><circle cx="753.0" cy="186.1" r="12" fill="transparent"/><circle cx="753.0" cy="186.1" r="6.5" fill="#0aa5a0" stroke="#ffffff" stroke-width="1"/></g>
-<text x="743.0" y="176.1" font-size="13" fill="#464646" text-anchor="end" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Hy4 (high)</text>
 <g><title>Muse Spark Open (xhigh): 82.0% (80/81/85), $22.86 per run</title><circle cx="766.8" cy="528.4" r="12" fill="transparent"/><circle cx="766.8" cy="528.4" r="6.5" fill="#0489f3" stroke="#ffffff" stroke-width="1"/></g>
 <text x="766.8" y="514.4" font-size="13" fill="#464646" text-anchor="middle" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Muse Spark Open (xhigh)</text>
 <g><title>Gemini 4 Argon (medium): 97.3% (97/97/98), $24.13 per run</title><circle cx="778.5" cy="219.7" r="12" fill="transparent"/><circle cx="778.5" cy="219.7" r="6.5" fill="#36a854" stroke="#ffffff" stroke-width="1"/></g>
@@ -129,7 +128,7 @@
 <g><title>Gemini 3.8 Flash (high): 94.7% (96/94/94), $25.59 per run</title><circle cx="791.4" cy="273.4" r="12" fill="transparent"/><circle cx="791.4" cy="273.4" r="6.5" fill="#36a854" stroke="#ffffff" stroke-width="1"/></g>
 <text x="802.4" y="277.4" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Gemini 3.8 Flash (high)</text>
 <g><title>Gemini 4 Argon (high): 98.0% (98/98/98), $29.27 per run</title><circle cx="820.7" cy="206.3" r="12" fill="transparent"/><circle cx="820.7" cy="206.3" r="6.5" fill="#36a854" stroke="#ffffff" stroke-width="1"/></g>
-<text x="831.7" y="210.3" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Gemini 4 Argon (high)</text>
+<text x="820.7" y="194.3" font-size="13" fill="#464646" text-anchor="middle" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Gemini 4 Argon (high)</text>
 <g><title>Kimi K3 (max): 77.0% (80/76/75), $30.28 per run</title><circle cx="828.1" cy="629.1" r="12" fill="transparent"/><circle cx="828.1" cy="629.1" r="6.5" fill="#0b81ff" stroke="#ffffff" stroke-width="1"/></g>
 <text x="839.1" y="633.1" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Kimi K3 (max)</text>
 <g><title>Claude Sonnet 5.5 (high): 82.0% (82/80/84), $30.89 per run</title><circle cx="832.5" cy="528.4" r="12" fill="transparent"/><circle cx="832.5" cy="528.4" r="6.5" fill="#c8795a" stroke="#ffffff" stroke-width="1"/></g>

@@ -128,8 +128,6 @@ turns 17 answers, graded in round1 to round3, from wrong to right.
 - A run's cost is the sum over its questions of the attempt whose answer stands; attempts retried after an error or
   replaced by an answer asked again are not counted (`results/runs.csv` also gives each run's full bill,
   `billed_usd`). The cost per run in the results is the mean over runs.
-- Tencent bills Hy4 at half its list price until 2026-12-31; its cost is counted at the list price, twice the
-  bill, as every other configuration's is (`results.py`, `AT_LIST_PRICE`; `results/runs.csv` gives both).
 - Prices are those of the pinned providers from 2026-10-22 to 2026-11-05, when the runs were made.
 
 ## Statistics

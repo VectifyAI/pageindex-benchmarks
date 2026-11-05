@@ -3,8 +3,7 @@
 38 configurations of 22 LLMs, each answering the same 100 questions about 40 annual reports (Form 10-K) of eight
 companies, with PageIndex doing the retrieval. The questions are hard for retrieval: they name the company and year
 but not where the answer is, and ask for every item of a kind without saying how many there are. Every
-configuration ran at least three times and was graded blind; cost is what OpenRouter billed, Hy4's at its list
-price. All answers, model
+configuration ran at least three times and was graded blind; cost is what OpenRouter billed. All answers, model
 calls, bills and grades are in this folder, and every number below can be recomputed from them.
 
 **Accuracy**
@@ -17,7 +16,7 @@ calls, bills and grades are in this folder, and every number below can be recomp
 
 ## Findings
 
-- **Most accurate**: Hy4 (high), 99.0% at $21.46 per 100-question run, Claude Opus 5.5 (max), 98.7% at $128.49,
+- **Most accurate**: Hy4 (high), 99.0% at $10.73 per 100-question run, Claude Opus 5.5 (max), 98.7% at $128.49,
   and Gemini 4 Argon (high), 98.0% at $29.27; any two of them differ on 4 or 5 questions (2 : 2 or 3 : 2).
   Gemini 4 Argon (medium) reaches 97.3% for $24.13.
 - **Low cost**: MiniMax M3.1 Flash (xhigh) answers 92.7% at $3.18 per run, within noise of GPT-6.1 Sol (medium),
@@ -32,13 +31,13 @@ calls, bills and grades are in this folder, and every number below can be recomp
 
 | # | Model | Reasoning | Accuracy (%) | Runs | SET (52) | WHY (28) | XCO (20) | $ per run | Pareto |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | Hy4 | high | 99.0 | 99/99/99 | 100.0 | 98.8 | 96.7 | 21.46 | ✓ |
+| 1 | Hy4 | high | 99.0 | 99/99/99 | 100.0 | 98.8 | 96.7 | 10.73 | ✓ |
 | 2 | Claude Opus 5.5 | max | 98.7 | 98/99/99 | 100.0 | 95.2 | 100.0 | 128.49 |  |
 | 3 | Gemini 4 Argon | high | 98.0 | 98/98/98 | 100.0 | 92.9 | 100.0 | 29.27 |  |
 | 4 | Claude Sonnet 5.5 | max | 98.0 | 99/98/97 | 98.7 | 95.2 | 100.0 | 65.76 |  |
 | 5 | Gemini 4 Argon | medium | 97.3 | 97/97/98 | 100.0 | 90.5 | 100.0 | 24.13 |  |
 | 6 | GPT-6.1 Sol | max | 96.7 | 97/97/96 | 100.0 | 88.1 | 100.0 | 34.36 |  |
-| 7 | GPT-6.1 Terra | max | 96.3 | 96/96/97 | 95.5 | 95.2 | 100.0 | 17.81 | ✓ |
+| 7 | GPT-6.1 Terra | max | 96.3 | 96/96/97 | 95.5 | 95.2 | 100.0 | 17.81 |  |
 | 8 | Kimi K3.1 Pro | max | 96.3 | 95/95/99 | 98.1 | 91.7 | 98.3 | 32.09 |  |
 | 9 | Gemini 3.8 Flash | high | 94.7 | 96/94/94 | 94.9 | 92.9 | 96.7 | 25.59 |  |
 | 10 | GPT-6.1 Sol | medium | 94.3 | 95/94/94 | 96.8 | 85.7 | 100.0 | 20.09 |  |
@@ -76,8 +75,8 @@ calls, bills and grades are in this folder, and every number below can be recomp
   **Runs**: each run's score out of 100.
 - **SET, WHY, XCO**: accuracy by question type (open set, open causes, cross-company open set), with the number of
   questions.
-- **$ per run**: what OpenRouter billed for one run of the 100 questions, mean over runs; Hy4 at its list price,
-  twice its discounted bill ([METHOD.md](METHOD.md#cost)). Building the index is a one-time cost and not included.
+- **$ per run**: what OpenRouter billed for one run of the 100 questions, mean over runs ([METHOD.md](METHOD.md#cost));
+  building the index is a one-time cost and not included.
 - **Pareto**: no other configuration is cheaper and at least as accurate. The accuracy-vs-cost chart leaves out five
   configurations to declutter, so its Pareto line differs.
 

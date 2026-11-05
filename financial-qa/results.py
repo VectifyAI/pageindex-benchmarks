@@ -24,25 +24,21 @@ from models import CONFIGS, label
 HERE = pathlib.Path(__file__).resolve().parent
 OUT = HERE / "results"
 TYPES = ("SET", "WHY", "XCO")
-# Tencent bills Hy4 at half its list price until 2026-12-31: its calls count at the list price, twice the bill, as
-# every other configuration's do (METHOD.md, "Cost")
-AT_LIST_PRICE = {"hy4-high": 2}
 
 
 def costs(config, run):
-    """question id -> USD OpenRouter billed (AT_LIST_PRICE: at the list price) for the attempt whose answer stands
-    (calls not matched to a question, under None), and the USD of the other attempts: those that ended in an
-    account error and were retried, and those that ran out of turns and were asked again. An attempt's calls fall
-    between its row's start and end."""
-    standing, kept, other, scale = grade.answer_rows(config, run), {}, 0.0, AT_LIST_PRICE.get(config, 1)
+    """question id -> USD OpenRouter billed for the attempt whose answer stands (calls not matched to a question,
+    under None), and the USD of the other attempts: those that ended in an account error and were retried, and
+    those that ran out of turns and were asked again. An attempt's calls fall between its row's start and end."""
+    standing, kept, other = grade.answer_rows(config, run), {}, 0.0
     for c in grade.read(grade.DATA / "calls" / f"{config}_run{run}.jsonl"):
         if not c.get("ok"):
             continue
         row = standing.get(c["id"])
         if row is None or row["started"] <= c["start"] <= row["started"] + (row.get("seconds") or 0) + 5:
-            kept[c["id"]] = kept.get(c["id"], 0) + scale * c["cost"]
+            kept[c["id"]] = kept.get(c["id"], 0) + c["cost"]
         else:
-            other += scale * c["cost"]
+            other += c["cost"]
     return kept, other
 
 
@@ -114,13 +110,13 @@ COLOR = {"OpenAI": "#1f1f1f", "Anthropic": "#c8795a", "Google": "#36a854", "Alib
 VENDORS = ("OpenAI", "Anthropic", "Google", "Alibaba", "Z AI", "Xiaomi", "Kimi", "DeepSeek", "MiniMax", "Meta", "SpaceXAI",
            "Tencent")
 # label position per configuration: (dx, dy, text-anchor) from the marker, set by eye against the rendered chart
-PLACE = {"hy4-high": (-10, -10, "end"), "kimi-k3.1-pro-max": (11, 18, "start"), "gpt-6.1-terra-max": (-10, -10, "end"), "minimax-m3.1-flash-max": (11, 4, "start"), "gpt-6.1-sol-low": (-11, 4, "end"), "minimax-m3.1-flash-xhigh": (-11, 4, "end"),
+PLACE = {"kimi-k3.1-pro-max": (11, 18, "start"), "gpt-6.1-terra-max": (-10, -10, "end"), "minimax-m3.1-flash-max": (11, 4, "start"), "gpt-6.1-sol-low": (-11, 4, "end"), "minimax-m3.1-flash-xhigh": (-11, 4, "end"),
          "minimax-m3.1-flash-medium": (8, 24, "start"), "mimo-v2.6-flash": (11, 9, "start"),
          "glm-5.3-flash-max": (-9, -9, "end"), "glm-5.3-max": (0, 22, "middle"),
          "muse-spark-open-xhigh": (0, -14, "middle"), "gpt-6.1-sol-medium": (-10, -10, "end"),
          "muse-wonder-adaptive": (-11, 4, "end"), "claude-opus-5.5-medium": (0, 22, "middle"),
          "qwen3.8-max-xhigh": (0, -12, "middle"), "gemini-4-argon-medium": (-10, -10, "end"),
-         "gemini-4-argon-high": (11, 4, "start"), "claude-sonnet-5.5-max": (11, 16, "start"),
+         "gemini-4-argon-high": (0, -12, "middle"), "claude-sonnet-5.5-max": (11, 16, "start"),
          "claude-haiku-5.5-max": (0, -12, "middle"), "claude-opus-5.5-max": (0, -12, "middle")}
 # in the table, not on the chart, to declutter: three models shown at a higher level; MiniMax at high and low, within
 # noise of a point shown (high) or below another model (low)
