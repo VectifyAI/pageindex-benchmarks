@@ -1,0 +1,17 @@
+{
+ "period": "Q2 FY2023",
+ "currency": "USD",
+ "fiscal_period_end_date": "2023-06-30",
+ "total_revenue": 90.5,
+ "revenue_growth_yoy": 19.0,
+ "gross_profit": null,
+ "operating_income": null,
+ "net_income": 26.1,
+ "adjusted_ebitda": null,
+ "gaap_eps_diluted": 0.7,
+ "adjusted_eps_diluted": 0.73,
+ "gross_margin": null,
+ "operating_margin": null,
+ "free_cash_flow": null,
+ "segments": []
+}

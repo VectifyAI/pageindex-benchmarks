@@ -1,0 +1,4476 @@
+{
+ "value_unit": "nearest_dollar",
+ "holdings": [
+  {
+   "name_of_issuer": "ABBOTT LABORATORIES",
+   "title_of_class": "COM",
+   "cusip": "002824100",
+   "figi": null,
+   "value": 4594483,
+   "shares_or_principal_amount": 44750,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 44750,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "ACADIA HEALTHCARE COMPANY IN",
+   "title_of_class": "COM",
+   "cusip": "00404A109",
+   "figi": null,
+   "value": 527117,
+   "shares_or_principal_amount": 22536,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 22536,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "ACADIAN ASSET MANAGEMENT INC",
+   "title_of_class": "COM",
+   "cusip": "10948W103",
+   "figi": null,
+   "value": 35308077,
+   "shares_or_principal_amount": 648807,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 648807,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "ACCENTURE PLC IRELAND",
+   "title_of_class": "SHS CLASS A",
+   "cusip": "G1151C101",
+   "figi": null,
+   "value": 26697766,
+   "shares_or_principal_amount": 134640,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 134640,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "ADEIA INC",
+   "title_of_class": "COM",
+   "cusip": "00676P107",
+   "figi": null,
+   "value": 1207988,
+   "shares_or_principal_amount": 50270,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 50270,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "ADVANCED MICRO DEVICES INC",
+   "title_of_class": "COM",
+   "cusip": "007903107",
+   "figi": null,
+   "value": 7047832,
+   "shares_or_principal_amount": 34645,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 34645,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "AES CORP",
+   "title_of_class": "COM",
+   "cusip": "00130H105",
+   "figi": null,
+   "value": 21938130,
+   "shares_or_principal_amount": 1557000,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 1557000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "AKTIS ONCOLOGY INC",
+   "title_of_class": "COM",
+   "cusip": "01021M104",
+   "figi": null,
+   "value": 1789000,
+   "shares_or_principal_amount": 100000,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 100000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "ALCOA CORP",
+   "title_of_class": "COM",
+   "cusip": "013872106",
+   "figi": null,
+   "value": 429951,
+   "shares_or_principal_amount": 6482,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 6482,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "ALLIANT ENERGY CORP",
+   "title_of_class": "COM",
+   "cusip": "018802108",
+   "figi": null,
+   "value": 1324116,
+   "shares_or_principal_amount": 18452,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 18452,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "ALLY FINL INC",
+   "title_of_class": "COM",
+   "cusip": "02005N100",
+   "figi": null,
+   "value": 28452224,
+   "shares_or_principal_amount": 725267,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 725267,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "ALPHABET INC",
+   "title_of_class": "CAP STK CL A",
+   "cusip": "02079K305",
+   "figi": null,
+   "value": 165039023,
+   "shares_or_principal_amount": 573929,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 573929,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "AMAZON COM INC",
+   "title_of_class": "COM",
+   "cusip": "023135106",
+   "figi": null,
+   "value": 405249475,
+   "shares_or_principal_amount": 1945789,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 1945789,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "AMENTUM HOLDINGS INC",
+   "title_of_class": "COM",
+   "cusip": "023939101",
+   "figi": null,
+   "value": 2806364,
+   "shares_or_principal_amount": 107606,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 107606,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "AMER SPORTS INC",
+   "title_of_class": "COM SHS",
+   "cusip": "G0260P102",
+   "figi": null,
+   "value": 1335729,
+   "shares_or_principal_amount": 40575,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 40575,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "AMERICAN INTL GROUP INC",
+   "title_of_class": "COM NEW",
+   "cusip": "026874784",
+   "figi": null,
+   "value": 11281932,
+   "shares_or_principal_amount": 149926,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 149926,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "AMICUS THERAPEUTIC",
+   "title_of_class": "COM",
+   "cusip": "03152W109",
+   "figi": null,
+   "value": 83191070,
+   "shares_or_principal_amount": 5753186,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 5753186,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "AMRIZE LTD",
+   "title_of_class": "SHS",
+   "cusip": "H2927K103",
+   "figi": null,
+   "value": 4979562,
+   "shares_or_principal_amount": 88889,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 88889,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "ANDERSEN GROUP INC",
+   "title_of_class": "CL A",
+   "cusip": "033853102",
+   "figi": null,
+   "value": 1360000,
+   "shares_or_principal_amount": 50000,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 50000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "APELLIS PHARMACEUTICALS INC",
+   "title_of_class": "COM",
+   "cusip": "03753U106",
+   "figi": null,
+   "value": 42482880,
+   "shares_or_principal_amount": 1056000,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 1056000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "APOLLO GLOBAL MGMT INC",
+   "title_of_class": "COM",
+   "cusip": "03769M106",
+   "figi": null,
+   "value": 14635128,
+   "shares_or_principal_amount": 131351,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 131351,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "APPLE INC",
+   "title_of_class": "COM",
+   "cusip": "037833100",
+   "figi": null,
+   "value": 127030524,
+   "shares_or_principal_amount": 500534,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 500534,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "ARCELLX INC",
+   "title_of_class": "COMMON STOCK",
+   "cusip": "03940C100",
+   "figi": null,
+   "value": 22964000,
+   "shares_or_principal_amount": 200000,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 200000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "ARES MANAGEMENT CORPORATION",
+   "title_of_class": "CL A COM STK",
+   "cusip": "03990B101",
+   "figi": null,
+   "value": 21389491,
+   "shares_or_principal_amount": 196054,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 196054,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "ARRAY TECHNOLOGIES INC",
+   "title_of_class": "COM SHS",
+   "cusip": "04271T100",
+   "figi": null,
+   "value": 1990318,
+   "shares_or_principal_amount": 275286,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 275286,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "ATI INC",
+   "title_of_class": "COM",
+   "cusip": "01741R102",
+   "figi": null,
+   "value": 7684943,
+   "shares_or_principal_amount": 52832,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 52832,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "ATLASSIAN CORPORATION",
+   "title_of_class": "CL A",
+   "cusip": "049468101",
+   "figi": null,
+   "value": 36548899,
+   "shares_or_principal_amount": 535515,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 535515,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "BANKUNITED INC",
+   "title_of_class": "COM",
+   "cusip": "06652K103",
+   "figi": null,
+   "value": 1415450,
+   "shares_or_principal_amount": 31343,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 31343,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "BERKSHIRE HATHAWAY INC DEL",
+   "title_of_class": "CL B NEW",
+   "cusip": "084670702",
+   "figi": null,
+   "value": 63866338,
+   "shares_or_principal_amount": 133277,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 133277,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "BGC GROUP INC",
+   "title_of_class": "CL A",
+   "cusip": "088929104",
+   "figi": null,
+   "value": 41073193,
+   "shares_or_principal_amount": 4199713,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 4199713,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "BILL HOLDINGS INC",
+   "title_of_class": "NOTE 4/0",
+   "cusip": "090043AF7",
+   "figi": null,
+   "value": 186562193,
+   "shares_or_principal_amount": 209679000,
+   "sh_prn": "PRN",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 209679000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "BILL HOLDINGS INC",
+   "title_of_class": "COM",
+   "cusip": "090043100",
+   "figi": null,
+   "value": 4095228,
+   "shares_or_principal_amount": 106925,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 106925,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "BILLIONTOONE INC",
+   "title_of_class": "CL A",
+   "cusip": "090168105",
+   "figi": null,
+   "value": 1144630,
+   "shares_or_principal_amount": 14500,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 14500,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "BLACK ROCK COFFEE BAR INC",
+   "title_of_class": "CL A",
+   "cusip": "092244102",
+   "figi": null,
+   "value": 4170059,
+   "shares_or_principal_amount": 322760,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 322760,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "BLACKLINE INC",
+   "title_of_class": "NOTE 1.000% 6/0",
+   "cusip": "09239BAF6",
+   "figi": null,
+   "value": 94857888,
+   "shares_or_principal_amount": 101000000,
+   "sh_prn": "PRN",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 101000000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "BLACKSTONE INC",
+   "title_of_class": "COM",
+   "cusip": "09260D107",
+   "figi": null,
+   "value": 19949500,
+   "shares_or_principal_amount": 173489,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 173489,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "BLACKSTONE SECD LENDING FD",
+   "title_of_class": "COMMON STOCK",
+   "cusip": "09261X102",
+   "figi": null,
+   "value": 20551075,
+   "shares_or_principal_amount": 867500,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 867500,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "BLUE OWL CAPITAL CORPORATION",
+   "title_of_class": "COM",
+   "cusip": "69121K104",
+   "figi": null,
+   "value": 27109564,
+   "shares_or_principal_amount": 2451136,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 2451136,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "BLUE OWL CAPITAL INC",
+   "title_of_class": "COM CL A",
+   "cusip": "09581B103",
+   "figi": null,
+   "value": 18421017,
+   "shares_or_principal_amount": 2017636,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 2017636,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "BLUE OWL TECHNOLOGY FIN CORP",
+   "title_of_class": "COMMON STOCK",
+   "cusip": "095924106",
+   "figi": null,
+   "value": 12451950,
+   "shares_or_principal_amount": 1005000,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 1005000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "BOBS DISC FURNITURE INC",
+   "title_of_class": "COM SHS",
+   "cusip": "09681N106",
+   "figi": null,
+   "value": 1410000,
+   "shares_or_principal_amount": 120000,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 120000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "BRIGHTHOUSE FINL INC",
+   "title_of_class": "COM",
+   "cusip": "10922N103",
+   "figi": null,
+   "value": 50706025,
+   "shares_or_principal_amount": 846794,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 846794,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "BROADCOM INC",
+   "title_of_class": "COM",
+   "cusip": "11135F101",
+   "figi": null,
+   "value": 48007168,
+   "shares_or_principal_amount": 155107,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 155107,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "BUILDERS FIRSTSOURCE INC",
+   "title_of_class": "COM",
+   "cusip": "12008R107",
+   "figi": null,
+   "value": 218668,
+   "shares_or_principal_amount": 2656,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 2656,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "BULLISH",
+   "title_of_class": "ORD SHS",
+   "cusip": "G16910120",
+   "figi": null,
+   "value": 3865986,
+   "shares_or_principal_amount": 108200,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 108200,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "BUNGE GLOBAL SA",
+   "title_of_class": "COM SHS",
+   "cusip": "H11356104",
+   "figi": null,
+   "value": 8742710,
+   "shares_or_principal_amount": 68732,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 68732,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "CADIZ INC",
+   "title_of_class": "COM NEW",
+   "cusip": "127537207",
+   "figi": null,
+   "value": 143401,
+   "shares_or_principal_amount": 29206,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 29206,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "CANTOR EQUITY PARTNERS II IN",
+   "title_of_class": "CL A ORD SHS",
+   "cusip": "G1827P106",
+   "figi": null,
+   "value": 544500,
+   "shares_or_principal_amount": 50000,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 50000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "CANTOR EQUITY PARTNERS V INC",
+   "title_of_class": "SHS CL A S",
+   "cusip": "G1828S109",
+   "figi": null,
+   "value": 1010000,
+   "shares_or_principal_amount": 100000,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 100000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "CAPITAL ONE FINL CORP",
+   "title_of_class": "COM",
+   "cusip": "14040H105",
+   "figi": null,
+   "value": 32856555,
+   "shares_or_principal_amount": 180105,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 180105,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "CARLYLE GROUP INC",
+   "title_of_class": "COM",
+   "cusip": "14316J108",
+   "figi": null,
+   "value": 11854824,
+   "shares_or_principal_amount": 244985,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 244985,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "CARPENTER TECHNOLOGY CORP",
+   "title_of_class": "COM",
+   "cusip": "144285103",
+   "figi": null,
+   "value": 3325049,
+   "shares_or_principal_amount": 8436,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 8436,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "CEMEX SA EURO MTN BE 144A",
+   "title_of_class": "SPON ADR NEW",
+   "cusip": "151290889",
+   "figi": null,
+   "value": 34228148,
+   "shares_or_principal_amount": 2991971,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 2991971,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "CENTRAL BANCOMPANY",
+   "title_of_class": "COM CL A",
+   "cusip": "152413100",
+   "figi": null,
+   "value": 2223662,
+   "shares_or_principal_amount": 92846,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 92846,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "CF INDUSTRIES HOLD",
+   "title_of_class": "COM",
+   "cusip": "125269100",
+   "figi": null,
+   "value": 7511114,
+   "shares_or_principal_amount": 57849,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 57849,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "CHART INDS INC",
+   "title_of_class": "COM",
+   "cusip": "16115Q308",
+   "figi": null,
+   "value": 97192141,
+   "shares_or_principal_amount": 470095,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 470095,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "CHEESECAKE FACTORY INC",
+   "title_of_class": "NOTE 0.375% 6/1",
+   "cusip": "163072AA9",
+   "figi": null,
+   "value": 8948719,
+   "shares_or_principal_amount": 9000000,
+   "sh_prn": "PRN",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 9000000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "CHUBB LTD SWITZ",
+   "title_of_class": "COM",
+   "cusip": "H1467J104",
+   "figi": null,
+   "value": 7460538,
+   "shares_or_principal_amount": 22890,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 22890,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "CIRCLE INTERNET GROUP INC",
+   "title_of_class": "COM CL A",
+   "cusip": "172573107",
+   "figi": null,
+   "value": 7221201,
+   "shares_or_principal_amount": 75686,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 75686,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "CITIZENS FINL GROUP INC",
+   "title_of_class": "COM",
+   "cusip": "174610105",
+   "figi": null,
+   "value": 17901465,
+   "shares_or_principal_amount": 298507,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 298507,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "CLEAR CHANNEL OUTDOOR HLDGS",
+   "title_of_class": "COM",
+   "cusip": "18453H106",
+   "figi": null,
+   "value": 12815005,
+   "shares_or_principal_amount": 5407175,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 5407175,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "CLEARWATER ANALYTICS HLDGS I",
+   "title_of_class": "CL A",
+   "cusip": "185123106",
+   "figi": null,
+   "value": 69564228,
+   "shares_or_principal_amount": 2941405,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 2941405,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "CLOUDFLARE INC",
+   "title_of_class": "CL A COM",
+   "cusip": "18915M107",
+   "figi": null,
+   "value": 2224552,
+   "shares_or_principal_amount": 10781,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 10781,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "CME GROUP INC",
+   "title_of_class": "COM",
+   "cusip": "12572Q105",
+   "figi": null,
+   "value": 8868770,
+   "shares_or_principal_amount": 30028,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 30028,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "CMS ENERGY CORP",
+   "title_of_class": "COM",
+   "cusip": "125896100",
+   "figi": null,
+   "value": 80248519,
+   "shares_or_principal_amount": 1034397,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 1034397,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "COCA COLA CO",
+   "title_of_class": "COM",
+   "cusip": "191216100",
+   "figi": null,
+   "value": 11456400,
+   "shares_or_principal_amount": 150643,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 150643,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "COMCAST CORP NEW",
+   "title_of_class": "CL A",
+   "cusip": "20030N101",
+   "figi": null,
+   "value": 413108,
+   "shares_or_principal_amount": 14389,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 14389,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "COMPASS DIVERSIFIED",
+   "title_of_class": "SH BEN INT",
+   "cusip": "20451Q104",
+   "figi": null,
+   "value": 193482,
+   "shares_or_principal_amount": 24616,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 24616,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "CORE & MAIN INC",
+   "title_of_class": "CL A",
+   "cusip": "21874C102",
+   "figi": null,
+   "value": 11482388,
+   "shares_or_principal_amount": 232437,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 232437,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "CORE SCIENTIFIC INC NEW",
+   "title_of_class": "COM",
+   "cusip": "21874A106",
+   "figi": null,
+   "value": 4928153,
+   "shares_or_principal_amount": 329422,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 329422,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "CORE SCIENTIFIC INC NEW",
+   "title_of_class": "*W EXP 01/23/202",
+   "cusip": "21874A114",
+   "figi": null,
+   "value": 7641181,
+   "shares_or_principal_amount": 874277,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 874277,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "COREBRIDGE FINL INC",
+   "title_of_class": "COM",
+   "cusip": "21871X109",
+   "figi": null,
+   "value": 50908817,
+   "shares_or_principal_amount": 2133647,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 2133647,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "COREWEAVE INC",
+   "title_of_class": "COM CL A",
+   "cusip": "21873S108",
+   "figi": null,
+   "value": 34037219,
+   "shares_or_principal_amount": 439360,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 439360,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "COREWEAVE INC",
+   "title_of_class": "COM CL A",
+   "cusip": "21873S108",
+   "figi": null,
+   "value": 220022547,
+   "shares_or_principal_amount": 2840100,
+   "sh_prn": "SH",
+   "put_call": "PUT",
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 2840100,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "COUPANG INC",
+   "title_of_class": "CL A",
+   "cusip": "22266T109",
+   "figi": null,
+   "value": 1379580,
+   "shares_or_principal_amount": 73071,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 73071,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "CRH PLC",
+   "title_of_class": "ORD",
+   "cusip": "G25508105",
+   "figi": null,
+   "value": 12091428,
+   "shares_or_principal_amount": 115025,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 115025,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "DATADOG INC",
+   "title_of_class": "CL A COM",
+   "cusip": "23804L103",
+   "figi": null,
+   "value": 11963895,
+   "shares_or_principal_amount": 101346,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 101346,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "DAY ONE BIOPHARMACEUTICALS I",
+   "title_of_class": "COM",
+   "cusip": "23954D109",
+   "figi": null,
+   "value": 32998304,
+   "shares_or_principal_amount": 1539100,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 1539100,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "DEXCOM INC",
+   "title_of_class": "NOTE 0.375% 5/1",
+   "cusip": "252131AM9",
+   "figi": null,
+   "value": 58165989,
+   "shares_or_principal_amount": 62977000,
+   "sh_prn": "PRN",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 62977000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "DIGITAL RLTY TR INC",
+   "title_of_class": "COM",
+   "cusip": "253868103",
+   "figi": null,
+   "value": 10347298,
+   "shares_or_principal_amount": 57418,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 57418,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "DIGITALOCEAN HLDGS INC",
+   "title_of_class": "NOTE 12/0",
+   "cusip": "25402DAB8",
+   "figi": null,
+   "value": 22602070,
+   "shares_or_principal_amount": 23095000,
+   "sh_prn": "PRN",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 23095000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "DISNEY WALT CO",
+   "title_of_class": "COM",
+   "cusip": "254687106",
+   "figi": null,
+   "value": 1013725,
+   "shares_or_principal_amount": 10518,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 10518,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "DOORDASH INC",
+   "title_of_class": "CL A",
+   "cusip": "25809K105",
+   "figi": null,
+   "value": 25549524,
+   "shares_or_principal_amount": 170160,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 170160,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "DROPBOX INC",
+   "title_of_class": "NOTE 3/0",
+   "cusip": "26210CAD6",
+   "figi": null,
+   "value": 98239953,
+   "shares_or_principal_amount": 103500000,
+   "sh_prn": "PRN",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 103500000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "DTE ENERGY CO",
+   "title_of_class": "COM",
+   "cusip": "233331107",
+   "figi": null,
+   "value": 646877,
+   "shares_or_principal_amount": 4424,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 4424,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "DUPONT DE NEMOURS INC",
+   "title_of_class": "COM",
+   "cusip": "26614N102",
+   "figi": null,
+   "value": 16854400,
+   "shares_or_principal_amount": 368000,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 368000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "DYCOM INDS INC",
+   "title_of_class": "COM",
+   "cusip": "267475101",
+   "figi": null,
+   "value": 2777646,
+   "shares_or_principal_amount": 8198,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 8198,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "ELASTIC N V",
+   "title_of_class": "ORD SHS",
+   "cusip": "N14506104",
+   "figi": null,
+   "value": 38042390,
+   "shares_or_principal_amount": 761000,
+   "sh_prn": "SH",
+   "put_call": "CALL",
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 761000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "ELECTRONIC ARTS INC",
+   "title_of_class": "COM",
+   "cusip": "285512109",
+   "figi": null,
+   "value": 196896219,
+   "shares_or_principal_amount": 965793,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 965793,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "ELI LILLY & CO",
+   "title_of_class": "COM",
+   "cusip": "532457108",
+   "figi": null,
+   "value": 20417974,
+   "shares_or_principal_amount": 22199,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 22199,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "EMCOR GROUP INC",
+   "title_of_class": "COM",
+   "cusip": "29084Q100",
+   "figi": null,
+   "value": 242166,
+   "shares_or_principal_amount": 328,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 328,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "ENERSYS",
+   "title_of_class": "COM",
+   "cusip": "29275Y102",
+   "figi": null,
+   "value": 4149302,
+   "shares_or_principal_amount": 23885,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 23885,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "ENHABIT INC",
+   "title_of_class": "COM",
+   "cusip": "29332G102",
+   "figi": null,
+   "value": 15762117,
+   "shares_or_principal_amount": 1118674,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 1118674,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "ENTERGY CORP NEW",
+   "title_of_class": "COM",
+   "cusip": "29364G103",
+   "figi": null,
+   "value": 8671720,
+   "shares_or_principal_amount": 77178,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 77178,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "EQUIPMENTSHARE COM INC",
+   "title_of_class": "COM CL A",
+   "cusip": "29445S100",
+   "figi": null,
+   "value": 3055500,
+   "shares_or_principal_amount": 150000,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 150000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "EQUITY RESIDENTIAL",
+   "title_of_class": "SH BEN INT",
+   "cusip": "29476L107",
+   "figi": null,
+   "value": 9540185,
+   "shares_or_principal_amount": 161288,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 161288,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "ETSY INC",
+   "title_of_class": "COM",
+   "cusip": "29786A106",
+   "figi": null,
+   "value": 10745700,
+   "shares_or_principal_amount": 215000,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 215000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "ETSY INC",
+   "title_of_class": "NOTE 0.125%10/0",
+   "cusip": "29786AAJ5",
+   "figi": null,
+   "value": 36698779,
+   "shares_or_principal_amount": 37500000,
+   "sh_prn": "PRN",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 37500000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "EVERSOURCE ENERGY",
+   "title_of_class": "COM",
+   "cusip": "30040W108",
+   "figi": null,
+   "value": 1031648,
+   "shares_or_principal_amount": 14891,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 14891,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "EVGO INC",
+   "title_of_class": "CL A COM",
+   "cusip": "30052F100",
+   "figi": null,
+   "value": 10382899,
+   "shares_or_principal_amount": 6036569,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 6036569,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "EXELON CORP",
+   "title_of_class": "COM",
+   "cusip": "30161N101",
+   "figi": null,
+   "value": 5134061,
+   "shares_or_principal_amount": 104734,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 104734,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "FERMI INC",
+   "title_of_class": "COM",
+   "cusip": "314911108",
+   "figi": null,
+   "value": 92301,
+   "shares_or_principal_amount": 15805,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 15805,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "FIGURE TECHNOLOGY SOLUTIO",
+   "title_of_class": "COM CL A",
+   "cusip": "349381103",
+   "figi": null,
+   "value": 33950000,
+   "shares_or_principal_amount": 1000000,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 1000000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "FIRSTENERGY CORP",
+   "title_of_class": "COM",
+   "cusip": "337932107",
+   "figi": null,
+   "value": 1061124,
+   "shares_or_principal_amount": 20946,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 20946,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "FLUOR CORP",
+   "title_of_class": "COM",
+   "cusip": "343412102",
+   "figi": null,
+   "value": 2370473,
+   "shares_or_principal_amount": 50814,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 50814,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "FORGENT POWER SOLUTIONS INC",
+   "title_of_class": "COM SHS CL A",
+   "cusip": "34631F102",
+   "figi": null,
+   "value": 2991394,
+   "shares_or_principal_amount": 102200,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 102200,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "GALAXY DIGITAL INC.",
+   "title_of_class": "CL A",
+   "cusip": "36317J209",
+   "figi": null,
+   "value": 5016758,
+   "shares_or_principal_amount": 271911,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 271911,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "GFL ENVIRONMENTAL INC",
+   "title_of_class": "SUB VTG SHS",
+   "cusip": "36168Q104",
+   "figi": null,
+   "value": 22119276,
+   "shares_or_principal_amount": 530184,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 530184,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "GLOBAL PMTS INC",
+   "title_of_class": "NOTE 1.500% 3/0",
+   "cusip": "37940XAU6",
+   "figi": null,
+   "value": 218206755,
+   "shares_or_principal_amount": 247500000,
+   "sh_prn": "PRN",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 247500000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "GLOBALFOUNDRIES INC",
+   "title_of_class": "ORDINARY SHARES",
+   "cusip": "G39387108",
+   "figi": null,
+   "value": 19765222,
+   "shares_or_principal_amount": 444362,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 444362,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "GLOBE LIFE INC",
+   "title_of_class": "COM",
+   "cusip": "37959E102",
+   "figi": null,
+   "value": 8307753,
+   "shares_or_principal_amount": 59695,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 59695,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "GOLDEN ENTMT INC",
+   "title_of_class": "COM",
+   "cusip": "381013101",
+   "figi": null,
+   "value": 11479396,
+   "shares_or_principal_amount": 430101,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 430101,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "GRAB HOLDINGS LIMITED",
+   "title_of_class": "CLASS A ORD",
+   "cusip": "G4124C109",
+   "figi": null,
+   "value": 71070,
+   "shares_or_principal_amount": 19418,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 19418,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "GROCERY OUTLET HLDG CORP",
+   "title_of_class": "COM",
+   "cusip": "39874R101",
+   "figi": null,
+   "value": 260082,
+   "shares_or_principal_amount": 36891,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 36891,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "H2O AMERICA",
+   "title_of_class": "COM",
+   "cusip": "784305104",
+   "figi": null,
+   "value": 72090586,
+   "shares_or_principal_amount": 1228747,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 1228747,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "HOLOGIC INC",
+   "title_of_class": "COM",
+   "cusip": "436440101",
+   "figi": null,
+   "value": 76614396,
+   "shares_or_principal_amount": 1013552,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 1013552,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "HONEYWELL INTL INC",
+   "title_of_class": "COM",
+   "cusip": "438516106",
+   "figi": null,
+   "value": 80930494,
+   "shares_or_principal_amount": 358052,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 358052,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "HUMANA INC",
+   "title_of_class": "COM",
+   "cusip": "444859102",
+   "figi": null,
+   "value": 11728793,
+   "shares_or_principal_amount": 67644,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 67644,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "HUNTSMAN CORP",
+   "title_of_class": "COM",
+   "cusip": "447011107",
+   "figi": null,
+   "value": 545830,
+   "shares_or_principal_amount": 41009,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 41009,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "HUNTSMAN CORP",
+   "title_of_class": "COM",
+   "cusip": "447011107",
+   "figi": null,
+   "value": 12211925,
+   "shares_or_principal_amount": 917500,
+   "sh_prn": "SH",
+   "put_call": "CALL",
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 917500,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "IDACORP INC",
+   "title_of_class": "COM",
+   "cusip": "451107106",
+   "figi": null,
+   "value": 82535151,
+   "shares_or_principal_amount": 577290,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 577290,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "IMPINJ INC",
+   "title_of_class": "COM",
+   "cusip": "453204109",
+   "figi": null,
+   "value": 398579,
+   "shares_or_principal_amount": 3881,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 3881,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "INGRAM MICRO HLDG CORP",
+   "title_of_class": "COM",
+   "cusip": "457152106",
+   "figi": null,
+   "value": 9324000,
+   "shares_or_principal_amount": 400000,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 400000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "INTERACTIVE BROKERS GROUP IN",
+   "title_of_class": "COM CL A",
+   "cusip": "45841N107",
+   "figi": null,
+   "value": 43283222,
+   "shares_or_principal_amount": 645344,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 645344,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "IRON MTN INC DEL",
+   "title_of_class": "COM",
+   "cusip": "46284V101",
+   "figi": null,
+   "value": 31663400,
+   "shares_or_principal_amount": 310000,
+   "sh_prn": "SH",
+   "put_call": "CALL",
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 310000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "ISHARES INC",
+   "title_of_class": "MSCI EMRG CHN",
+   "cusip": "46434G764",
+   "figi": null,
+   "value": 27899601,
+   "shares_or_principal_amount": 354686,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 354686,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "ISHARES INC",
+   "title_of_class": "MSCI CDA ETF",
+   "cusip": "464286509",
+   "figi": null,
+   "value": 5352983,
+   "shares_or_principal_amount": 97700,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 97700,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "ISHARES TR",
+   "title_of_class": "NATIONAL MUN ETF",
+   "cusip": "464288414",
+   "figi": null,
+   "value": 25624610,
+   "shares_or_principal_amount": 241400,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 241400,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "ISHARES TR",
+   "title_of_class": "IBOXX INV CP ETF",
+   "cusip": "464287242",
+   "figi": null,
+   "value": 2179800,
+   "shares_or_principal_amount": 20000,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 20000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "ISHARES TR",
+   "title_of_class": "IBOXX HI YD ETF",
+   "cusip": "464288513",
+   "figi": null,
+   "value": 19890000,
+   "shares_or_principal_amount": 250000,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 250000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "ITRON INC",
+   "title_of_class": "COM",
+   "cusip": "465741106",
+   "figi": null,
+   "value": 69672536,
+   "shares_or_principal_amount": 777335,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 777335,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "ITRON INC",
+   "title_of_class": "COM",
+   "cusip": "465741106",
+   "figi": null,
+   "value": 28457525,
+   "shares_or_principal_amount": 317500,
+   "sh_prn": "SH",
+   "put_call": "CALL",
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 317500,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "ITT INC",
+   "title_of_class": "COM",
+   "cusip": "45073V108",
+   "figi": null,
+   "value": 17098162,
+   "shares_or_principal_amount": 89740,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 89740,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "JACOBS SOLUTIONS INC",
+   "title_of_class": "COM",
+   "cusip": "46982L108",
+   "figi": null,
+   "value": 321509,
+   "shares_or_principal_amount": 2526,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 2526,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "JANUS LIVING INC",
+   "title_of_class": "CL A-1",
+   "cusip": "471024109",
+   "figi": null,
+   "value": 5392062,
+   "shares_or_principal_amount": 228768,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 228768,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "JAZZ INVESTMENTS I LTD",
+   "title_of_class": "NOTE 2.000% 6/1",
+   "cusip": "472145AF8",
+   "figi": null,
+   "value": 158441825,
+   "shares_or_principal_amount": 130399000,
+   "sh_prn": "PRN",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 130399000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "JBT MAREL CORPORATION",
+   "title_of_class": "NOTE 0.250% 5/1",
+   "cusip": "477839AB0",
+   "figi": null,
+   "value": 16916175,
+   "shares_or_principal_amount": 17000000,
+   "sh_prn": "PRN",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 17000000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "JD.COM INC",
+   "title_of_class": "NOTE 0.250% 6/0",
+   "cusip": "47215PAJ5",
+   "figi": null,
+   "value": 149880473,
+   "shares_or_principal_amount": 150158000,
+   "sh_prn": "PRN",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 150158000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "JOHNSON & JOHNSON",
+   "title_of_class": "COM",
+   "cusip": "478160104",
+   "figi": null,
+   "value": 8517756,
+   "shares_or_principal_amount": 34846,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 34846,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "JPMORGAN CHASE & CO",
+   "title_of_class": "COM",
+   "cusip": "46625H100",
+   "figi": null,
+   "value": 34816189,
+   "shares_or_principal_amount": 118358,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 118358,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "KENVUE INC",
+   "title_of_class": "COM",
+   "cusip": "49177J102",
+   "figi": null,
+   "value": 54431266,
+   "shares_or_principal_amount": 3157266,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 3157266,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "KKR & CO INC",
+   "title_of_class": "COM",
+   "cusip": "48251W104",
+   "figi": null,
+   "value": 22633918,
+   "shares_or_principal_amount": 244691,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 244691,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "KODIAK AI INC.",
+   "title_of_class": "COM",
+   "cusip": "500081104",
+   "figi": null,
+   "value": 67783237,
+   "shares_or_principal_amount": 9767037,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 9767037,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "KRANESHARES TRUST",
+   "title_of_class": "CSI CHI INTERNET",
+   "cusip": "500767306",
+   "figi": null,
+   "value": 8540486,
+   "shares_or_principal_amount": 300404,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 300404,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "KRATOS DEFENSE & SEC SOLUTIO",
+   "title_of_class": "COM NEW",
+   "cusip": "50077B207",
+   "figi": null,
+   "value": 352550,
+   "shares_or_principal_amount": 5000,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 5000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "LEGENCE CORP",
+   "title_of_class": "CL A",
+   "cusip": "52476L109",
+   "figi": null,
+   "value": 7489645,
+   "shares_or_principal_amount": 132654,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 132654,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "LIBERTY BROADBAND CORP",
+   "title_of_class": "COM SER C",
+   "cusip": "530307305",
+   "figi": null,
+   "value": 6399921,
+   "shares_or_principal_amount": 127235,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 127235,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "LIBERTY MEDIA CORP DEL",
+   "title_of_class": "COM LBTY ONE S C",
+   "cusip": "531229755",
+   "figi": null,
+   "value": 20994244,
+   "shares_or_principal_amount": 246933,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 246933,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "LINCOLN NATL CORP IND",
+   "title_of_class": "COM",
+   "cusip": "534187109",
+   "figi": null,
+   "value": 258689,
+   "shares_or_principal_amount": 7287,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 7287,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "LINDE PLC",
+   "title_of_class": "SHS",
+   "cusip": "G54950103",
+   "figi": null,
+   "value": 128860914,
+   "shares_or_principal_amount": 259926,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 259926,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "LUCID GROUP INC",
+   "title_of_class": "COM NEW",
+   "cusip": "549498202",
+   "figi": null,
+   "value": 1648690,
+   "shares_or_principal_amount": 173000,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 173000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "LULULEMON ATHLETICA INC",
+   "title_of_class": "COM",
+   "cusip": "550021109",
+   "figi": null,
+   "value": 375095,
+   "shares_or_principal_amount": 2450,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 2450,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "LUMENTUM HLDGS INC",
+   "title_of_class": "NOTE 0.500%12/1",
+   "cusip": "55024UAD1",
+   "figi": null,
+   "value": 72345624,
+   "shares_or_principal_amount": 10250000,
+   "sh_prn": "PRN",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 10250000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "LUMENTUM HLDGS INC",
+   "title_of_class": "NOTE 0.500% 6/1",
+   "cusip": "55024UAF6",
+   "figi": null,
+   "value": 114451142,
+   "shares_or_principal_amount": 21378000,
+   "sh_prn": "PRN",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 21378000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "MASIMO CORP",
+   "title_of_class": "COM",
+   "cusip": "574795100",
+   "figi": null,
+   "value": 17936055,
+   "shares_or_principal_amount": 100838,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 100838,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "MASTEC INC",
+   "title_of_class": "COM",
+   "cusip": "576323109",
+   "figi": null,
+   "value": 1264760,
+   "shares_or_principal_amount": 3931,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 3931,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "MASTERCARD INCORPORATED",
+   "title_of_class": "CL A",
+   "cusip": "57636Q104",
+   "figi": null,
+   "value": 15215646,
+   "shares_or_principal_amount": 30452,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 30452,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "MATERION CORP",
+   "title_of_class": "COM",
+   "cusip": "576690101",
+   "figi": null,
+   "value": 3058190,
+   "shares_or_principal_amount": 21142,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 21142,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "MCCORMICK & CO INC",
+   "title_of_class": "COM NON VTG",
+   "cusip": "579780206",
+   "figi": null,
+   "value": 5183265,
+   "shares_or_principal_amount": 102761,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 102761,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "MCDONALDS CORP",
+   "title_of_class": "COM",
+   "cusip": "580135101",
+   "figi": null,
+   "value": 38401834,
+   "shares_or_principal_amount": 123562,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 123562,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "MDA SPACE LTD",
+   "title_of_class": "COM",
+   "cusip": "55293N109",
+   "figi": null,
+   "value": 5064000,
+   "shares_or_principal_amount": 200000,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 200000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "MEDLINE INC",
+   "title_of_class": "COM CL A",
+   "cusip": "58507V107",
+   "figi": null,
+   "value": 57246313,
+   "shares_or_principal_amount": 1286434,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 1286434,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "META PLATFORMS INC",
+   "title_of_class": "CL A",
+   "cusip": "30303M102",
+   "figi": null,
+   "value": 19799703,
+   "shares_or_principal_amount": 34607,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 34607,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "METROPOLITAN BK HLDG CORP",
+   "title_of_class": "COM",
+   "cusip": "591774104",
+   "figi": null,
+   "value": 6246750,
+   "shares_or_principal_amount": 75000,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 75000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "MIAMI INTL HLDGS INC",
+   "title_of_class": "COM",
+   "cusip": "59356Q108",
+   "figi": null,
+   "value": 5160792,
+   "shares_or_principal_amount": 132600,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 132600,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "MICRON TECHNOLOGY INC",
+   "title_of_class": "COM",
+   "cusip": "595112103",
+   "figi": null,
+   "value": 954060,
+   "shares_or_principal_amount": 2824,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 2824,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "MICROSOFT CORP",
+   "title_of_class": "COM",
+   "cusip": "594918104",
+   "figi": null,
+   "value": 78463454,
+   "shares_or_principal_amount": 211966,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 211966,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "MIDCAP FINANCIAL INVSTMNT CO",
+   "title_of_class": "COM NEW",
+   "cusip": "03761U502",
+   "figi": null,
+   "value": 21856180,
+   "shares_or_principal_amount": 1944500,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 1944500,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "MP MATERIALS CORP",
+   "title_of_class": "COM CL A",
+   "cusip": "553368101",
+   "figi": null,
+   "value": 455671,
+   "shares_or_principal_amount": 9442,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 9442,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "NATIONAL STORAGE AFFILIATES",
+   "title_of_class": "COM SHS BEN IN",
+   "cusip": "637870106",
+   "figi": null,
+   "value": 11979884,
+   "shares_or_principal_amount": 317432,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 317432,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "NCL CORP LTD",
+   "title_of_class": "NOTE 1.125% 2/1",
+   "cusip": "62886HBD2",
+   "figi": null,
+   "value": 39494469,
+   "shares_or_principal_amount": 40175000,
+   "sh_prn": "PRN",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 40175000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "NCR ATLEOS CORPORATION",
+   "title_of_class": "COM SHS",
+   "cusip": "63001N106",
+   "figi": null,
+   "value": 31828609,
+   "shares_or_principal_amount": 730349,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 730349,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "NEPTUNE INS HLDGS INC",
+   "title_of_class": "CL A",
+   "cusip": "64073B103",
+   "figi": null,
+   "value": 4136490,
+   "shares_or_principal_amount": 171000,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 171000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "NETFLIX INC.",
+   "title_of_class": "COM",
+   "cusip": "64110L106",
+   "figi": null,
+   "value": 4603181,
+   "shares_or_principal_amount": 47875,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 47875,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "NEXTERA ENERGY INC",
+   "title_of_class": "UNIT 02/15/2029",
+   "cusip": "65339F655",
+   "figi": null,
+   "value": 60430906,
+   "shares_or_principal_amount": 1200703,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 1200703,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "NORTHROP GRUMMAN CORP",
+   "title_of_class": "COM",
+   "cusip": "666807102",
+   "figi": null,
+   "value": 6590438,
+   "shares_or_principal_amount": 9660,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 9660,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "NUSCALE PWR CORP",
+   "title_of_class": "CL A COM",
+   "cusip": "67079K100",
+   "figi": null,
+   "value": 762702,
+   "shares_or_principal_amount": 70360,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 70360,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "NUTANIX INC",
+   "title_of_class": "NOTE 0.500%12/1",
+   "cusip": "67059NAK4",
+   "figi": null,
+   "value": 2902938,
+   "shares_or_principal_amount": 3211000,
+   "sh_prn": "PRN",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 3211000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "NVIDIA CORPORATION",
+   "title_of_class": "COM",
+   "cusip": "67066G104",
+   "figi": null,
+   "value": 187167126,
+   "shares_or_principal_amount": 1073206,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 1073206,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "OKTA INC",
+   "title_of_class": "NOTE 0.375% 6/1",
+   "cusip": "679295AF2",
+   "figi": null,
+   "value": 10416000,
+   "shares_or_principal_amount": 10500000,
+   "sh_prn": "PRN",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 10500000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "ONCE UPON A FARM PBC",
+   "title_of_class": "COM",
+   "cusip": "68237F108",
+   "figi": null,
+   "value": 2452500,
+   "shares_or_principal_amount": 150000,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 150000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "ONESTREAM INC",
+   "title_of_class": "CL A",
+   "cusip": "68278B107",
+   "figi": null,
+   "value": 43925328,
+   "shares_or_principal_amount": 1830222,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 1830222,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "OPENDOOR TECHNOLOGIES INC",
+   "title_of_class": "*W EXP 11/20/202",
+   "cusip": "683712137",
+   "figi": null,
+   "value": 271,
+   "shares_or_principal_amount": 1102,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 1102,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "OPENDOOR TECHNOLOGIES INC",
+   "title_of_class": "*W EXP 11/20/202",
+   "cusip": "683712129",
+   "figi": null,
+   "value": 11529,
+   "shares_or_principal_amount": 19069,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 19069,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "ORACLE CORP",
+   "title_of_class": "6.5 DEP CUM SR D",
+   "cusip": "68389X204",
+   "figi": null,
+   "value": 26057044,
+   "shares_or_principal_amount": 569360,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 569360,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "PEAKSTONE REALTY TRUST",
+   "title_of_class": "COMMON SHARES",
+   "cusip": "39818P799",
+   "figi": null,
+   "value": 5176584,
+   "shares_or_principal_amount": 247802,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 247802,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "PENUMBRA INC",
+   "title_of_class": "COM",
+   "cusip": "70975L107",
+   "figi": null,
+   "value": 66801623,
+   "shares_or_principal_amount": 203434,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 203434,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "PG&E CORP",
+   "title_of_class": "NOTE 4.250%12/0",
+   "cusip": "69331CAL2",
+   "figi": null,
+   "value": 181580349,
+   "shares_or_principal_amount": 175000000,
+   "sh_prn": "PRN",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 175000000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "PHILIP MORRIS INTL INC",
+   "title_of_class": "COM",
+   "cusip": "718172109",
+   "figi": null,
+   "value": 18566690,
+   "shares_or_principal_amount": 112294,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 112294,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "PONY AI INC",
+   "title_of_class": "SPONSORED ADS",
+   "cusip": "732908108",
+   "figi": null,
+   "value": 12199397,
+   "shares_or_principal_amount": 1292309,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 1292309,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "PONY AI INC",
+   "title_of_class": "SPONSORED ADS",
+   "cusip": "732908108",
+   "figi": null,
+   "value": 21054976,
+   "shares_or_principal_amount": 2230400,
+   "sh_prn": "SH",
+   "put_call": "CALL",
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 2230400,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "PORTLAND GEN ELEC CO",
+   "title_of_class": "COM NEW",
+   "cusip": "736508847",
+   "figi": null,
+   "value": 26718929,
+   "shares_or_principal_amount": 506328,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 506328,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "PPL CORP",
+   "title_of_class": "COM",
+   "cusip": "69351T106",
+   "figi": null,
+   "value": 4477040,
+   "shares_or_principal_amount": 117200,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 117200,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "PROGRESSIVE CORP",
+   "title_of_class": "COM",
+   "cusip": "743315103",
+   "figi": null,
+   "value": 1877729,
+   "shares_or_principal_amount": 9472,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 9472,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "PURECYCLE TECHNOLOGIES INC",
+   "title_of_class": "COM",
+   "cusip": "74623V103",
+   "figi": null,
+   "value": 107936,
+   "shares_or_principal_amount": 20797,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 20797,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "RADNET INC",
+   "title_of_class": "COM",
+   "cusip": "750491102",
+   "figi": null,
+   "value": 24504971,
+   "shares_or_principal_amount": 438450,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 438450,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "RAPID7 INC",
+   "title_of_class": "COM",
+   "cusip": "753422104",
+   "figi": null,
+   "value": 688750,
+   "shares_or_principal_amount": 125000,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 125000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "RBC BEARINGS INC",
+   "title_of_class": "COM",
+   "cusip": "75524B104",
+   "figi": null,
+   "value": 2647710,
+   "shares_or_principal_amount": 4875,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 4875,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "REDDIT INC",
+   "title_of_class": "CL A",
+   "cusip": "75734B100",
+   "figi": null,
+   "value": 3240891,
+   "shares_or_principal_amount": 24069,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 24069,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "RIVIAN AUTOMOTIVE INC",
+   "title_of_class": "NOTE 4.625% 3/1",
+   "cusip": "76954AAB9",
+   "figi": null,
+   "value": 153674058,
+   "shares_or_principal_amount": 143436000,
+   "sh_prn": "PRN",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 143436000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "ROCKET COS INC",
+   "title_of_class": "COM CL A",
+   "cusip": "77311W101",
+   "figi": null,
+   "value": 191905,
+   "shares_or_principal_amount": 13467,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 13467,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "RUSH ENTERPRISES INC",
+   "title_of_class": "CL A",
+   "cusip": "781846209",
+   "figi": null,
+   "value": 921375,
+   "shares_or_principal_amount": 13937,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 13937,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "S&P GLOBAL INC",
+   "title_of_class": "COM",
+   "cusip": "78409V104",
+   "figi": null,
+   "value": 7031721,
+   "shares_or_principal_amount": 16532,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 16532,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "SALESFORCE INC",
+   "title_of_class": "COM",
+   "cusip": "79466L302",
+   "figi": null,
+   "value": 67442191,
+   "shares_or_principal_amount": 361291,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 361291,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "SEALED AIR CORP NEW",
+   "title_of_class": "COM",
+   "cusip": "81211K100",
+   "figi": null,
+   "value": 115713148,
+   "shares_or_principal_amount": 2751799,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 2751799,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "SELECT MED HLDGS CORP",
+   "title_of_class": "COM",
+   "cusip": "81619Q105",
+   "figi": null,
+   "value": 29867275,
+   "shares_or_principal_amount": 1833473,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 1833473,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "SELECT SECTOR SPDR TR",
+   "title_of_class": "STATE STREET FIN",
+   "cusip": "81369Y605",
+   "figi": null,
+   "value": 605770,
+   "shares_or_principal_amount": 12270,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 12270,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "SELECT SECTOR SPDR TR",
+   "title_of_class": "STATE STREET ENE",
+   "cusip": "81369Y506",
+   "figi": null,
+   "value": 303138984,
+   "shares_or_principal_amount": 4948400,
+   "sh_prn": "SH",
+   "put_call": "PUT",
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 4948400,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "SEMPRA",
+   "title_of_class": "COM",
+   "cusip": "816851109",
+   "figi": null,
+   "value": 10549747,
+   "shares_or_principal_amount": 108570,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 108570,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "SEMRUSH HLDGS INC",
+   "title_of_class": "CL A COM",
+   "cusip": "81686C104",
+   "figi": null,
+   "value": 17702566,
+   "shares_or_principal_amount": 1482627,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 1482627,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "SERVICENOW INC",
+   "title_of_class": "COM",
+   "cusip": "81762P102",
+   "figi": null,
+   "value": 16137188,
+   "shares_or_principal_amount": 154349,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 154349,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "SHOALS TECHNOLOGIES GROUP IN",
+   "title_of_class": "CL A",
+   "cusip": "82489W107",
+   "figi": null,
+   "value": 1901462,
+   "shares_or_principal_amount": 288976,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 288976,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "SMURFIT WESTROCK PLC",
+   "title_of_class": "SHS",
+   "cusip": "G8267P108",
+   "figi": null,
+   "value": 100431405,
+   "shares_or_principal_amount": 2520236,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 2520236,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "SNAP INC",
+   "title_of_class": "NOTE 0.125% 3/0",
+   "cusip": "83304AAH9",
+   "figi": null,
+   "value": 9131344,
+   "shares_or_principal_amount": 10000000,
+   "sh_prn": "PRN",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 10000000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "SNAP INC",
+   "title_of_class": "NOTE 0.500% 5/0",
+   "cusip": "83304AAK2",
+   "figi": null,
+   "value": 71149774,
+   "shares_or_principal_amount": 88000000,
+   "sh_prn": "PRN",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 88000000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "SNOWFLAKE INC",
+   "title_of_class": "COM SHS",
+   "cusip": "833445109",
+   "figi": null,
+   "value": 7212363,
+   "shares_or_principal_amount": 47821,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 47821,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "SOLV ENERGY INC",
+   "title_of_class": "COM SHS CL A",
+   "cusip": "78475V103",
+   "figi": null,
+   "value": 4219215,
+   "shares_or_principal_amount": 140500,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 140500,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "SOMNIGROUP INTERNATIONAL INC",
+   "title_of_class": "COM",
+   "cusip": "88023U101",
+   "figi": null,
+   "value": 13216674,
+   "shares_or_principal_amount": 178797,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 178797,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "SPDR SERIES TRUST",
+   "title_of_class": "STATE STREET SPD",
+   "cusip": "78464A474",
+   "figi": null,
+   "value": 910159,
+   "shares_or_principal_amount": 30268,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 30268,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "SPDR SERIES TRUST",
+   "title_of_class": "STATE STREET SPD",
+   "cusip": "78468R556",
+   "figi": null,
+   "value": 217632327,
+   "shares_or_principal_amount": 1196900,
+   "sh_prn": "SH",
+   "put_call": "PUT",
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 1196900,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "SPRING VY ACQUISITION CORP I",
+   "title_of_class": "SHS CL A",
+   "cusip": "G8377R101",
+   "figi": null,
+   "value": 2999852,
+   "shares_or_principal_amount": 295261,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 295261,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "STANDARDAERO INC",
+   "title_of_class": "COM",
+   "cusip": "85423L103",
+   "figi": null,
+   "value": 18081000,
+   "shares_or_principal_amount": 700000,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 700000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "STATE STR SPDR S&P 500 ETF T",
+   "title_of_class": "TR UNIT",
+   "cusip": "78462F103",
+   "figi": null,
+   "value": 16258500,
+   "shares_or_principal_amount": 25000,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 25000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "STATE STR SPDR S&P 500 ETF T",
+   "title_of_class": "TR UNIT",
+   "cusip": "78462F103",
+   "figi": null,
+   "value": 772864056,
+   "shares_or_principal_amount": 1188400,
+   "sh_prn": "SH",
+   "put_call": "PUT",
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 1188400,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "STELLANTIS N.V",
+   "title_of_class": "SHS",
+   "cusip": "N82405106",
+   "figi": null,
+   "value": 2685274,
+   "shares_or_principal_amount": 378741,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 378741,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "STUBHUB HLDGS INC",
+   "title_of_class": "CL A",
+   "cusip": "86384P109",
+   "figi": null,
+   "value": 780000,
+   "shares_or_principal_amount": 125000,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 125000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "SUNBELT RENTALS HOLDINGS INC",
+   "title_of_class": "SHS",
+   "cusip": "866966104",
+   "figi": null,
+   "value": 35546560,
+   "shares_or_principal_amount": 546114,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 546114,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "SUNRUN INC",
+   "title_of_class": "COM",
+   "cusip": "86771W105",
+   "figi": null,
+   "value": 264420,
+   "shares_or_principal_amount": 19500,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 19500,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "T1 ENERGY INC",
+   "title_of_class": "COM NEW",
+   "cusip": "35834F104",
+   "figi": null,
+   "value": 387887,
+   "shares_or_principal_amount": 88357,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 88357,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "TAIWAN SEMICONDUCTOR MANUFAC",
+   "title_of_class": "SPONSORED ADS",
+   "cusip": "874039100",
+   "figi": null,
+   "value": 176517368,
+   "shares_or_principal_amount": 522318,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 522318,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "TAIWAN SEMICONDUCTOR MANUFAC",
+   "title_of_class": "SPONSORED ADS",
+   "cusip": "874039100",
+   "figi": null,
+   "value": 126731250,
+   "shares_or_principal_amount": 375000,
+   "sh_prn": "SH",
+   "put_call": "PUT",
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 375000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "TALKSPACE INC",
+   "title_of_class": "COM",
+   "cusip": "87427V103",
+   "figi": null,
+   "value": 14319432,
+   "shares_or_principal_amount": 2767040,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 2767040,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "TENNANT CO",
+   "title_of_class": "COM",
+   "cusip": "880345103",
+   "figi": null,
+   "value": 1727197,
+   "shares_or_principal_amount": 26012,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 26012,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "TERNS PHARMACEUTICALS INC",
+   "title_of_class": "COM",
+   "cusip": "880881107",
+   "figi": null,
+   "value": 16970832,
+   "shares_or_principal_amount": 321905,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 321905,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "TESLA INC",
+   "title_of_class": "COM",
+   "cusip": "88160R101",
+   "figi": null,
+   "value": 19737323,
+   "shares_or_principal_amount": 53093,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 53093,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "THERMON GROUP HLDGS INC",
+   "title_of_class": "COM",
+   "cusip": "88362T103",
+   "figi": null,
+   "value": 22583635,
+   "shares_or_principal_amount": 448088,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 448088,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "TKO GROUP HOLDINGS INC",
+   "title_of_class": "CL A",
+   "cusip": "87256C101",
+   "figi": null,
+   "value": 121845399,
+   "shares_or_principal_amount": 604242,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 604242,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "TPG INC",
+   "title_of_class": "COM CL A",
+   "cusip": "872657101",
+   "figi": null,
+   "value": 7001546,
+   "shares_or_principal_amount": 172835,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 172835,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "TRI POINTE HOMES INC",
+   "title_of_class": "COM",
+   "cusip": "87265H109",
+   "figi": null,
+   "value": 48665837,
+   "shares_or_principal_amount": 1041426,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 1041426,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "UBER TECHNOLOGIES INC",
+   "title_of_class": "COM",
+   "cusip": "90353T100",
+   "figi": null,
+   "value": 22601053,
+   "shares_or_principal_amount": 314209,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 314209,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "UDEMY INC",
+   "title_of_class": "COM",
+   "cusip": "902685106",
+   "figi": null,
+   "value": 8877672,
+   "shares_or_principal_amount": 1921574,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 1921574,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "UL SOLUTIONS INC",
+   "title_of_class": "CLASS A COM SHS",
+   "cusip": "903731107",
+   "figi": null,
+   "value": 33855450,
+   "shares_or_principal_amount": 395000,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 395000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "UNITEDHEALTH GROUP INC",
+   "title_of_class": "COM",
+   "cusip": "91324P102",
+   "figi": null,
+   "value": 17586456,
+   "shares_or_principal_amount": 64993,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 64993,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "USA RARE EARTH INC",
+   "title_of_class": "COM",
+   "cusip": "91733P107",
+   "figi": null,
+   "value": 317699,
+   "shares_or_principal_amount": 20991,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 20991,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "VANECK ETF TRUST",
+   "title_of_class": "SEMICONDUCTR ETF",
+   "cusip": "92189F676",
+   "figi": null,
+   "value": 25036020,
+   "shares_or_principal_amount": 65300,
+   "sh_prn": "SH",
+   "put_call": "PUT",
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 65300,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "VARONIS SYS INC",
+   "title_of_class": "NOTE 1.000% 9/1",
+   "cusip": "922280AD4",
+   "figi": null,
+   "value": 59454300,
+   "shares_or_principal_amount": 68055000,
+   "sh_prn": "PRN",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 68055000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "VERIS RESIDENTIAL INC",
+   "title_of_class": "COM",
+   "cusip": "554489104",
+   "figi": null,
+   "value": 28943561,
+   "shares_or_principal_amount": 1533840,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 1533840,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "VERISK ANALYTICS INC",
+   "title_of_class": "COM",
+   "cusip": "92345Y106",
+   "figi": null,
+   "value": 10143086,
+   "shares_or_principal_amount": 53455,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 53455,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "VERIZON COMMUNICATIONS INC",
+   "title_of_class": "COM",
+   "cusip": "92343V104",
+   "figi": null,
+   "value": 2173258,
+   "shares_or_principal_amount": 43292,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 43292,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "VISTRA CORP",
+   "title_of_class": "COM",
+   "cusip": "92840M102",
+   "figi": null,
+   "value": 36727724,
+   "shares_or_principal_amount": 244314,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 244314,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "VOYAGER TECHNOLOGIES INC",
+   "title_of_class": "COM CL A",
+   "cusip": "92892B103",
+   "figi": null,
+   "value": 1206924,
+   "shares_or_principal_amount": 51600,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 51600,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "VSE CORP",
+   "title_of_class": "COM",
+   "cusip": "918284100",
+   "figi": null,
+   "value": 28987864,
+   "shares_or_principal_amount": 157201,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 157201,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "VSE CORP",
+   "title_of_class": "UNIT 02/01/2029",
+   "cusip": "918284209",
+   "figi": null,
+   "value": 16571601,
+   "shares_or_principal_amount": 336856,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 336856,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "WALMART INC",
+   "title_of_class": "COM",
+   "cusip": "931142103",
+   "figi": null,
+   "value": 7841944,
+   "shares_or_principal_amount": 63099,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 63099,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "WARNER BROS DISCOVERY INC",
+   "title_of_class": "COM SER A",
+   "cusip": "934423104",
+   "figi": null,
+   "value": 30003071,
+   "shares_or_principal_amount": 1092610,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 1092610,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "WEBSTER FINL CORP",
+   "title_of_class": "COM",
+   "cusip": "947890109",
+   "figi": null,
+   "value": 49412462,
+   "shares_or_principal_amount": 711790,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 711790,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "WEC ENERGY GROUP INC",
+   "title_of_class": "COM",
+   "cusip": "92939U106",
+   "figi": null,
+   "value": 59361531,
+   "shares_or_principal_amount": 512754,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 512754,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "WIX COM LTD",
+   "title_of_class": "SHS",
+   "cusip": "M98068105",
+   "figi": null,
+   "value": 22517500,
+   "shares_or_principal_amount": 250000,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 250000,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "WIX COM LTD",
+   "title_of_class": "SHS",
+   "cusip": "M98068105",
+   "figi": null,
+   "value": 28065812,
+   "shares_or_principal_amount": 311600,
+   "sh_prn": "SH",
+   "put_call": "PUT",
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 311600,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "WOLFSPEED INC",
+   "title_of_class": "COMMON STOCK",
+   "cusip": "97785W106",
+   "figi": null,
+   "value": 4101542,
+   "shares_or_principal_amount": 251320,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 251320,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "WOLFSPEED INC",
+   "title_of_class": "COMMON STOCK",
+   "cusip": "97785W106",
+   "figi": null,
+   "value": 1135872,
+   "shares_or_principal_amount": 69600,
+   "sh_prn": "SH",
+   "put_call": "CALL",
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 69600,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "WOODWARD INC",
+   "title_of_class": "COM",
+   "cusip": "980745103",
+   "figi": null,
+   "value": 35731154,
+   "shares_or_principal_amount": 99830,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 99830,
+    "shared": 0,
+    "none": 0
+   }
+  },
+  {
+   "name_of_issuer": "XCEL ENERGY INC",
+   "title_of_class": "COM",
+   "cusip": "98389B100",
+   "figi": null,
+   "value": 40390474,
+   "shares_or_principal_amount": 508440,
+   "sh_prn": "SH",
+   "put_call": null,
+   "investment_discretion": "SOLE",
+   "other_manager": "1",
+   "voting_authority": {
+    "sole": 508440,
+    "shared": 0,
+    "none": 0
+   }
+  }
+ ]
+}

@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 686" width="1280" height="686" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif">
+<rect width="1280" height="686" fill="#ffffff"/>
+<text x="84.0" y="64.0" font-size="40" fill="#000000" text-anchor="start" font-weight="650" font-family="'Iowan Old Style', Georgia, serif">Page Extract on ExtractBench</text>
+<text x="84.0" y="94.0" font-size="16" fill="#8f8f8f" text-anchor="start" font-weight="400" >Overall value F1 on 370 documents: the top 15, with ExtractBench&#x27;s leaderboard (commit 4064262)</text>
+<rect x="85" y="127" width="14" height="12" rx="2" fill="#2563eb"/>
+<text x="106.0" y="138.0" font-size="15" fill="#000000" text-anchor="start" font-weight="400" >Page Extract</text>
+<rect x="217.4" y="127" width="14" height="12" rx="2" fill="#b4bac4"/>
+<text x="238.4" y="138.0" font-size="15" fill="#000000" text-anchor="start" font-weight="400" >Systems on ExtractBench&#x27;s leaderboard</text>
+<line x1="414.0" y1="170" x2="414.0" y2="598" stroke="#edf0f4" stroke-width="1"/>
+<text x="414.0" y="618.0" font-size="13" fill="#666666" text-anchor="middle" font-weight="400" >75</text>
+<line x1="549.2" y1="170" x2="549.2" y2="598" stroke="#edf0f4" stroke-width="1"/>
+<text x="549.2" y="618.0" font-size="13" fill="#666666" text-anchor="middle" font-weight="400" >80</text>
+<line x1="684.4" y1="170" x2="684.4" y2="598" stroke="#edf0f4" stroke-width="1"/>
+<text x="684.4" y="618.0" font-size="13" fill="#666666" text-anchor="middle" font-weight="400" >85</text>
+<line x1="819.6" y1="170" x2="819.6" y2="598" stroke="#edf0f4" stroke-width="1"/>
+<text x="819.6" y="618.0" font-size="13" fill="#666666" text-anchor="middle" font-weight="400" >90</text>
+<line x1="954.8" y1="170" x2="954.8" y2="598" stroke="#edf0f4" stroke-width="1"/>
+<text x="954.8" y="618.0" font-size="13" fill="#666666" text-anchor="middle" font-weight="400" >95</text>
+<line x1="1090.0" y1="170" x2="1090.0" y2="598" stroke="#edf0f4" stroke-width="1"/>
+<text x="1090.0" y="618.0" font-size="13" fill="#666666" text-anchor="middle" font-weight="400" >100</text>
+<text x="752.0" y="650.0" font-size="15" fill="#000000" text-anchor="middle" font-weight="400" >Value F1 (%; the axis starts at 75)</text>
+<text x="1240.0" y="162.0" font-size="13" fill="#666666" text-anchor="end" font-weight="400" >¢ / page</text>
+<text x="106.0" y="195.0" font-size="14" fill="#8f8f8f" text-anchor="end" font-weight="400" >1</text>
+<text x="120.0" y="195.0" font-size="14" fill="#000000" text-anchor="start" font-weight="650" >Page Extract (Pro)</text>
+<g><title>Page Extract (Pro): 96.80, 5.00¢ a page</title><rect x="414" y="182.0" width="589.4" height="16" rx="2" fill="#2563eb"/></g>
+<text x="1011.4" y="195.0" font-size="14" fill="#000000" text-anchor="start" font-weight="650" >96.80</text>
+<text x="1240.0" y="195.0" font-size="14" fill="#464646" text-anchor="end" font-weight="400" >5.00</text>
+<text x="106.0" y="223.0" font-size="14" fill="#8f8f8f" text-anchor="end" font-weight="400" >2</text>
+<text x="120.0" y="223.0" font-size="14" fill="#000000" text-anchor="start" font-weight="650" >Page Extract (Standard)</text>
+<g><title>Page Extract (Standard): 96.37, 3.00¢ a page</title><rect x="414" y="210.0" width="577.9" height="16" rx="2" fill="#2563eb"/></g>
+<text x="999.9" y="223.0" font-size="14" fill="#000000" text-anchor="start" font-weight="650" >96.37</text>
+<text x="1240.0" y="223.0" font-size="14" fill="#464646" text-anchor="end" font-weight="400" >3.00</text>
+<text x="106.0" y="251.0" font-size="14" fill="#8f8f8f" text-anchor="end" font-weight="400" >3</text>
+<text x="120.0" y="251.0" font-size="14" fill="#000000" text-anchor="start" font-weight="400" >LlamaExtract Agentic Plus</text>
+<g><title>LlamaExtract Agentic Plus: 96.17, 7.50¢ a page</title><rect x="414" y="238.0" width="572.4" height="16" rx="2" fill="#b4bac4"/></g>
+<text x="994.4" y="251.0" font-size="14" fill="#000000" text-anchor="start" font-weight="400" >96.17</text>
+<text x="1240.0" y="251.0" font-size="14" fill="#464646" text-anchor="end" font-weight="400" >7.50</text>
+<text x="106.0" y="279.0" font-size="14" fill="#8f8f8f" text-anchor="end" font-weight="400" >4</text>
+<text x="120.0" y="279.0" font-size="14" fill="#000000" text-anchor="start" font-weight="400" >LlamaExtract Agentic Plus (Max Effort)</text>
+<g><title>LlamaExtract Agentic Plus (Max Effort): 96.17, 19.11¢ a page</title><rect x="414" y="266.0" width="572.4" height="16" rx="2" fill="#b4bac4"/></g>
+<text x="994.4" y="279.0" font-size="14" fill="#000000" text-anchor="start" font-weight="400" >96.17</text>
+<text x="1240.0" y="279.0" font-size="14" fill="#464646" text-anchor="end" font-weight="400" >19.11</text>
+<text x="106.0" y="307.0" font-size="14" fill="#8f8f8f" text-anchor="end" font-weight="400" >5</text>
+<text x="120.0" y="307.0" font-size="14" fill="#000000" text-anchor="start" font-weight="400" >Reducto Deep Extract</text>
+<g><title>Reducto Deep Extract: 96.08, 6.35¢ a page</title><rect x="414" y="294.0" width="570.0" height="16" rx="2" fill="#b4bac4"/></g>
+<text x="992.0" y="307.0" font-size="14" fill="#000000" text-anchor="start" font-weight="400" >96.08</text>
+<text x="1240.0" y="307.0" font-size="14" fill="#464646" text-anchor="end" font-weight="400" >6.35</text>
+<text x="106.0" y="335.0" font-size="14" fill="#8f8f8f" text-anchor="end" font-weight="400" >6</text>
+<text x="120.0" y="335.0" font-size="14" fill="#000000" text-anchor="start" font-weight="400" >Pulse (Effort)</text>
+<g><title>Pulse (Effort): 96.07, 10.50¢ a page</title><rect x="414" y="322.0" width="569.7" height="16" rx="2" fill="#b4bac4"/></g>
+<text x="991.7" y="335.0" font-size="14" fill="#000000" text-anchor="start" font-weight="400" >96.07</text>
+<text x="1240.0" y="335.0" font-size="14" fill="#464646" text-anchor="end" font-weight="400" >10.50</text>
+<text x="106.0" y="363.0" font-size="14" fill="#8f8f8f" text-anchor="end" font-weight="400" >7</text>
+<text x="120.0" y="363.0" font-size="14" fill="#000000" text-anchor="start" font-weight="400" >LlamaExtract Agentic</text>
+<g><title>LlamaExtract Agentic: 95.65, 3.12¢ a page</title><rect x="414" y="350.0" width="558.4" height="16" rx="2" fill="#b4bac4"/></g>
+<text x="980.4" y="363.0" font-size="14" fill="#000000" text-anchor="start" font-weight="400" >95.65</text>
+<text x="1240.0" y="363.0" font-size="14" fill="#464646" text-anchor="end" font-weight="400" >3.12</text>
+<text x="106.0" y="391.0" font-size="14" fill="#8f8f8f" text-anchor="end" font-weight="400" >8</text>
+<text x="120.0" y="391.0" font-size="14" fill="#000000" text-anchor="start" font-weight="400" >Codex (GPT-6.1 Sol)</text>
+<g><title>Codex (GPT-6.1 Sol): 95.31, 7.13¢ a page</title><rect x="414" y="378.0" width="549.2" height="16" rx="2" fill="#b4bac4"/></g>
+<text x="971.2" y="391.0" font-size="14" fill="#000000" text-anchor="start" font-weight="400" >95.31</text>
+<text x="1240.0" y="391.0" font-size="14" fill="#464646" text-anchor="end" font-weight="400" >7.13</text>
+<text x="106.0" y="419.0" font-size="14" fill="#8f8f8f" text-anchor="end" font-weight="400" >9</text>
+<text x="120.0" y="419.0" font-size="14" fill="#000000" text-anchor="start" font-weight="400" >Claude Code (Sonnet 5.5)</text>
+<g><title>Claude Code (Sonnet 5.5): 94.68, 5.69¢ a page</title><rect x="414" y="406.0" width="532.1" height="16" rx="2" fill="#b4bac4"/></g>
+<text x="954.1" y="419.0" font-size="14" fill="#000000" text-anchor="start" font-weight="400" >94.68</text>
+<text x="1240.0" y="419.0" font-size="14" fill="#464646" text-anchor="end" font-weight="400" >5.69</text>
+<text x="106.0" y="447.0" font-size="14" fill="#8f8f8f" text-anchor="end" font-weight="400" >10</text>
+<text x="120.0" y="447.0" font-size="14" fill="#000000" text-anchor="start" font-weight="400" >Codex (GPT-6 Sol)</text>
+<g><title>Codex (GPT-6 Sol): 94.57, 9.80¢ a page</title><rect x="414" y="434.0" width="529.2" height="16" rx="2" fill="#b4bac4"/></g>
+<text x="951.2" y="447.0" font-size="14" fill="#000000" text-anchor="start" font-weight="400" >94.57</text>
+<text x="1240.0" y="447.0" font-size="14" fill="#464646" text-anchor="end" font-weight="400" >9.80</text>
+<text x="106.0" y="475.0" font-size="14" fill="#8f8f8f" text-anchor="end" font-weight="400" >11</text>
+<text x="120.0" y="475.0" font-size="14" fill="#000000" text-anchor="start" font-weight="400" >Pulse (Non-effort)</text>
+<g><title>Pulse (Non-effort): 94.51, 3.00¢ a page</title><rect x="414" y="462.0" width="527.6" height="16" rx="2" fill="#b4bac4"/></g>
+<text x="949.6" y="475.0" font-size="14" fill="#000000" text-anchor="start" font-weight="400" >94.51</text>
+<text x="1240.0" y="475.0" font-size="14" fill="#464646" text-anchor="end" font-weight="400" >3.00</text>
+<text x="106.0" y="503.0" font-size="14" fill="#8f8f8f" text-anchor="end" font-weight="400" >12</text>
+<text x="120.0" y="503.0" font-size="14" fill="#000000" text-anchor="start" font-weight="400" >Codex (GPT-6.1 Terra)</text>
+<g><title>Codex (GPT-6.1 Terra): 94.28, 4.68¢ a page</title><rect x="414" y="490.0" width="521.3" height="16" rx="2" fill="#b4bac4"/></g>
+<text x="943.3" y="503.0" font-size="14" fill="#000000" text-anchor="start" font-weight="400" >94.28</text>
+<text x="1240.0" y="503.0" font-size="14" fill="#464646" text-anchor="end" font-weight="400" >4.68</text>
+<text x="106.0" y="531.0" font-size="14" fill="#8f8f8f" text-anchor="end" font-weight="400" >13</text>
+<text x="120.0" y="531.0" font-size="14" fill="#000000" text-anchor="start" font-weight="400" >LlamaExtract Cost-Effective</text>
+<g><title>LlamaExtract Cost-Effective: 94.21, 1.00¢ a page</title><rect x="414" y="518.0" width="519.4" height="16" rx="2" fill="#b4bac4"/></g>
+<text x="941.4" y="531.0" font-size="14" fill="#000000" text-anchor="start" font-weight="400" >94.21</text>
+<text x="1240.0" y="531.0" font-size="14" fill="#464646" text-anchor="end" font-weight="400" >1.00</text>
+<text x="106.0" y="559.0" font-size="14" fill="#8f8f8f" text-anchor="end" font-weight="400" >14</text>
+<text x="120.0" y="559.0" font-size="14" fill="#000000" text-anchor="start" font-weight="400" >Codex (GPT-5.6 Sol)</text>
+<g><title>Codex (GPT-5.6 Sol): 93.77, 21.65¢ a page</title><rect x="414" y="546.0" width="507.5" height="16" rx="2" fill="#b4bac4"/></g>
+<text x="929.5" y="559.0" font-size="14" fill="#000000" text-anchor="start" font-weight="400" >93.77</text>
+<text x="1240.0" y="559.0" font-size="14" fill="#464646" text-anchor="end" font-weight="400" >21.65</text>
+<text x="106.0" y="587.0" font-size="14" fill="#8f8f8f" text-anchor="end" font-weight="400" >15</text>
+<text x="120.0" y="587.0" font-size="14" fill="#000000" text-anchor="start" font-weight="400" >Codex (GPT-5.5)</text>
+<g><title>Codex (GPT-5.5): 93.35, 33.63¢ a page</title><rect x="414" y="574.0" width="496.2" height="16" rx="2" fill="#b4bac4"/></g>
+<text x="918.2" y="587.0" font-size="14" fill="#000000" text-anchor="start" font-weight="400" >93.35</text>
+<text x="1240.0" y="587.0" font-size="14" fill="#464646" text-anchor="end" font-weight="400" >33.63</text>
+</svg>

@@ -1,0 +1,6315 @@
+{
+ "report_title": "CHECK REGISTER",
+ "program": "CHK100",
+ "date_run": "03/22/2024",
+ "time_run": "22:21",
+ "period_start": "03/11/2024",
+ "period_end": "03/11/2024",
+ "check_filter": "ALL CHECKS",
+ "bank_account": "ALL",
+ "checks": [
+  {
+   "check_number": "160961",
+   "vendor_name": "AT&T",
+   "void_date": null,
+   "check_total": "5,474.78",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-420",
+     "account_name": "TELEPHONE",
+     "item_reason": "PHONES",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "5,474.78",
+     "batch_code": "--"
+    }
+   ],
+   "source_page": 1
+  },
+  {
+   "check_number": "160962",
+   "vendor_name": "AT&T MOBILITY",
+   "void_date": null,
+   "check_total": "37.99",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "014-624-420",
+     "account_name": "TELEPHONE",
+     "item_reason": "PCT 4 DATA CARD",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "37.99",
+     "batch_code": "--"
+    }
+   ],
+   "source_page": 1
+  },
+  {
+   "check_number": "160963",
+   "vendor_name": "AT&T MOBILITY",
+   "void_date": null,
+   "check_total": "34.25",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-540-420",
+     "account_name": "TELEPHONE",
+     "item_reason": "LTE RADIO NETWORK",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "34.25",
+     "batch_code": "--"
+    }
+   ],
+   "source_page": 1
+  },
+  {
+   "check_number": "160964",
+   "vendor_name": "AT&T MOBILITY",
+   "void_date": null,
+   "check_total": "34.25",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-407-420",
+     "account_name": "TELEPHONE",
+     "item_reason": "LET RADIO BACKUP",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "34.25",
+     "batch_code": "--"
+    }
+   ],
+   "source_page": 1
+  },
+  {
+   "check_number": "160965",
+   "vendor_name": "GLENN POLK AUTOPLEX",
+   "void_date": null,
+   "check_total": "69,831.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "104-540-570",
+     "account_name": "MACHINERY & EQUIPMENT - CA",
+     "item_reason": "CHASSIS FOR AMBULANCE",
+     "date": "03/11/2024",
+     "po_no": "036946",
+     "amount": "69,831.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 1
+  },
+  {
+   "check_number": "160966",
+   "vendor_name": "SPARKLETTS AND SIERRA S",
+   "void_date": null,
+   "check_total": "31.99",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "041-650-310",
+     "account_name": "SUPPLIES",
+     "item_reason": "WATER FEB 2024",
+     "date": "03/11/2024",
+     "po_no": "036375",
+     "amount": "31.99",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 1
+  },
+  {
+   "check_number": "160967",
+   "vendor_name": "ABELS TOUCH",
+   "void_date": null,
+   "check_total": "300.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-540-354",
+     "account_name": "VEHICLE MAINTENANCE",
+     "item_reason": "FIX LEAK 2019 RAM 3500",
+     "date": "03/11/2024",
+     "po_no": "036481",
+     "amount": "300.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 1
+  },
+  {
+   "check_number": "160968",
+   "vendor_name": "ACE HARDWARE #8130-D",
+   "void_date": null,
+   "check_total": "503.85",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-300",
+     "account_name": "SUPPLIES & HARDWARE",
+     "item_reason": "CHAIN PROOF",
+     "date": "03/11/2024",
+     "po_no": "036404",
+     "amount": "72.70",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-300",
+     "account_name": "SUPPLIES & HARDWARE",
+     "item_reason": "SDHC CARD 8GB",
+     "date": "03/11/2024",
+     "po_no": "036404",
+     "amount": "11.99",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "014-624-300",
+     "account_name": "SUPPLIES & HARDWARE",
+     "item_reason": "BOTTLED WATER",
+     "date": "03/11/2024",
+     "po_no": "036404",
+     "amount": "419.16",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 1
+  },
+  {
+   "check_number": "160969",
+   "vendor_name": "ACE INTERDICTION TACTIC",
+   "void_date": null,
+   "check_total": "379.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-582-429",
+     "account_name": "TRAINING & SCHOOLS",
+     "item_reason": "INTERDICTIONS TACTICS",
+     "date": "03/11/2024",
+     "po_no": "037151",
+     "amount": "379.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 1
+  },
+  {
+   "check_number": "160970",
+   "vendor_name": "ADSUM COUNSELING LLC",
+   "void_date": null,
+   "check_total": "450.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "020-570-328",
+     "account_name": "MENTAL HEALTH SERVICES",
+     "item_reason": "JUVENILE - DSV",
+     "date": "03/11/2024",
+     "po_no": "036709",
+     "amount": "150.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "020-570-328",
+     "account_name": "MENTAL HEALTH SERVICES",
+     "item_reason": "JUVENILE - JK",
+     "date": "03/11/2024",
+     "po_no": "036709",
+     "amount": "75.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "020-570-328",
+     "account_name": "MENTAL HEALTH SERVICES",
+     "item_reason": "JUVENILE - LS",
+     "date": "03/11/2024",
+     "po_no": "036709",
+     "amount": "75.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "020-570-328",
+     "account_name": "MENTAL HEALTH SERVICES",
+     "item_reason": "JUVENILE - ZM",
+     "date": "03/11/2024",
+     "po_no": "036709",
+     "amount": "150.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 1
+  },
+  {
+   "check_number": "160971",
+   "vendor_name": "AMAZON CAPITAL SERVICES",
+   "void_date": null,
+   "check_total": "3,431.28",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-561-310",
+     "account_name": "OFFICE SUPPLIES",
+     "item_reason": "AURORA PAPER SHREDDER",
+     "date": "03/11/2024",
+     "po_no": "036909",
+     "amount": "229.99",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-560-457",
+     "account_name": "MACHINERY & EQUIP-NON CAPI",
+     "item_reason": "NIGHT VISION GOGGLE",
+     "date": "03/11/2024",
+     "po_no": "036805",
+     "amount": "2,495.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-540-310",
+     "account_name": "OFFICE SUPPLIES",
+     "item_reason": "TOILET PAPER DISPENSER K",
+     "date": "03/11/2024",
+     "po_no": "037046",
+     "amount": "15.80",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-510-300",
+     "account_name": "SUPPLIES",
+     "item_reason": "GRID PAPER ROLLS",
+     "date": "03/11/2024",
+     "po_no": "036874",
+     "amount": "90.30",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "041-650-590",
+     "account_name": "BOOKS",
+     "item_reason": "SCAREDY SQUIRREL GOES CA",
+     "date": "03/11/2024",
+     "po_no": "037041",
+     "amount": "14.78",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-560-310",
+     "account_name": "OFFICE SUPPLIES",
+     "item_reason": "THERMAL LAMINATOR",
+     "date": "03/11/2024",
+     "po_no": "036805",
+     "amount": "33.49",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-503-310",
+     "account_name": "OFFICE SUPPLIES",
+     "item_reason": "SCREEN WIPES",
+     "date": "03/11/2024",
+     "po_no": "036714",
+     "amount": "13.87",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-570-310",
+     "account_name": "OFFICE SUPPLIES",
+     "item_reason": "DVD PLAYER",
+     "date": "03/11/2024",
+     "po_no": "037237",
+     "amount": "34.99",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-561-310",
+     "account_name": "OFFICE SUPPLIES",
+     "item_reason": "COPY STAMPS",
+     "date": "03/11/2024",
+     "po_no": "036909",
+     "amount": "24.24",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-561-310",
+     "account_name": "OFFICE SUPPLIES",
+     "item_reason": "PADDED KEYBOARD SET",
+     "date": "03/11/2024",
+     "po_no": "036909",
+     "amount": "19.95",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-561-310",
+     "account_name": "OFFICE SUPPLIES",
+     "item_reason": "FABRIC SCISSORS",
+     "date": "03/11/2024",
+     "po_no": "036909",
+     "amount": "20.58",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "012-622-300",
+     "account_name": "SUPPLIES & HARDWARE",
+     "item_reason": "410A TONER 4 PACK",
+     "date": "03/11/2024",
+     "po_no": "037224",
+     "amount": "438.29",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 2
+  },
+  {
+   "check_number": "160972",
+   "vendor_name": "ARAMARK UNIFORM & CAREE",
+   "void_date": null,
+   "check_total": "245.53",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "014-624-392",
+     "account_name": "UNIFORMS - EMPLOYEES & PRI",
+     "item_reason": "UNIFORMS 02/19/2024",
+     "date": "03/11/2024",
+     "po_no": "036616",
+     "amount": "245.53",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 2
+  },
+  {
+   "check_number": "160973",
+   "vendor_name": "ARENDT ADAM",
+   "void_date": null,
+   "check_total": "426.55",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-427",
+     "account_name": "CONFERENCE EXPENSE",
+     "item_reason": "VG YOUNG 66TH ANNUAL",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "426.55",
+     "batch_code": "--"
+    }
+   ],
+   "source_page": 2
+  },
+  {
+   "check_number": "160974",
+   "vendor_name": "ARGUS RISING FIRST RESP",
+   "void_date": null,
+   "check_total": "999.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-560-429",
+     "account_name": "TRAINING & SCHOOLS",
+     "item_reason": "4 DAY FAA PART 107 TEST",
+     "date": "03/11/2024",
+     "po_no": "037230",
+     "amount": "999.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 2
+  },
+  {
+   "check_number": "160975",
+   "vendor_name": "ASCO EQUIPMENT",
+   "void_date": null,
+   "check_total": "44.12",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "LATCH",
+     "date": "03/11/2024",
+     "po_no": "036407",
+     "amount": "44.12",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 2
+  },
+  {
+   "check_number": "160976",
+   "vendor_name": "AT&T",
+   "void_date": null,
+   "check_total": "167.50",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-420",
+     "account_name": "TELEPHONE",
+     "item_reason": "EMS PHONES",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "167.50",
+     "batch_code": "--"
+    }
+   ],
+   "source_page": 2
+  },
+  {
+   "check_number": "160977",
+   "vendor_name": "AT&T MOBILITY",
+   "void_date": null,
+   "check_total": "569.85",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-650-420",
+     "account_name": "TELEPHONE",
+     "item_reason": "LIBRARY HOT SPOT",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "37.99",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "041-650-420",
+     "account_name": "TELEPHONE",
+     "item_reason": "GRANT HOT SPOTS",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "531.86",
+     "batch_code": "--"
+    }
+   ],
+   "source_page": 2
+  },
+  {
+   "check_number": "160978",
+   "vendor_name": "ATTEBERRY SHELLY",
+   "void_date": null,
+   "check_total": "550.88",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-495-427",
+     "account_name": "CONFERENCE EXPENSE",
+     "item_reason": "AUDITORS ON THE ROAD",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "550.88",
+     "batch_code": "--"
+    }
+   ],
+   "source_page": 2
+  },
+  {
+   "check_number": "160979",
+   "vendor_name": "ATWOOD DISTRIBUTING LP",
+   "void_date": null,
+   "check_total": "41.95",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-540-310",
+     "account_name": "OFFICE SUPPLIES",
+     "item_reason": "COFFEE FILTERS",
+     "date": "03/11/2024",
+     "po_no": "036492",
+     "amount": "41.95",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 2
+  },
+  {
+   "check_number": "160980",
+   "vendor_name": "AUSTIN ASPHALT INC",
+   "void_date": null,
+   "check_total": "2,225.94",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "012-622-309",
+     "account_name": "ASPHALT",
+     "item_reason": "HP POTHOLE PATCH",
+     "date": "03/11/2024",
+     "po_no": "036391",
+     "amount": "2,225.94",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 2
+  },
+  {
+   "check_number": "160981",
+   "vendor_name": "AVENU HOLDINGS LLC",
+   "void_date": "03/13/2024",
+   "check_total": "6,620.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "052-403-495",
+     "account_name": "MICROFILM EXPENSE",
+     "item_reason": "FEB 2024",
+     "date": "03/11/2024",
+     "po_no": "036526",
+     "amount": "6,620.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 3
+  },
+  {
+   "check_number": "160982",
+   "vendor_name": "BANE MACHINERY INC",
+   "void_date": null,
+   "check_total": "504.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "014-624-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "REPAIRS CA2500PD",
+     "date": "03/11/2024",
+     "po_no": "036617",
+     "amount": "504.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 3
+  },
+  {
+   "check_number": "160983",
+   "vendor_name": "BARNES MARGARET",
+   "void_date": null,
+   "check_total": "50.87",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-465-180",
+     "account_name": "SPECIAL DISTRICT JUDGE",
+     "item_reason": "VISTING JUDGE REIMBURSEM",
+     "date": "03/11/2024",
+     "po_no": "037211",
+     "amount": "50.87",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 3
+  },
+  {
+   "check_number": "160984",
+   "vendor_name": "BETA TECHNOLOGY INC",
+   "void_date": null,
+   "check_total": "254.38",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "012-622-300",
+     "account_name": "SUPPLIES & HARDWARE",
+     "item_reason": "MIG",
+     "date": "03/11/2024",
+     "po_no": "036386",
+     "amount": "254.38",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 3
+  },
+  {
+   "check_number": "160985",
+   "vendor_name": "BLUEBONNET CONSTRUCTION",
+   "void_date": null,
+   "check_total": "1,570.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-510-450",
+     "account_name": "BUILDING MAINTENANCE",
+     "item_reason": "SERVICE CALL, INSTALL CI",
+     "date": "03/11/2024",
+     "po_no": "037070",
+     "amount": "1,570.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 3
+  },
+  {
+   "check_number": "160986",
+   "vendor_name": "BOUND TREE MEDICAL LLC",
+   "void_date": null,
+   "check_total": "9,046.76",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-540-392",
+     "account_name": "UNIFORMS",
+     "item_reason": "5.11 PANTS",
+     "date": "03/11/2024",
+     "po_no": "036489",
+     "amount": "59.99",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-540-391",
+     "account_name": "MEDICAL SUPPLIES",
+     "item_reason": "IV SOLUTION",
+     "date": "03/11/2024",
+     "po_no": "036489",
+     "amount": "536.49",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-540-391",
+     "account_name": "MEDICAL SUPPLIES",
+     "item_reason": "CATHETER",
+     "date": "03/11/2024",
+     "po_no": "036489",
+     "amount": "1,400.16",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-540-392",
+     "account_name": "UNIFORMS",
+     "item_reason": "5.11 PANTS",
+     "date": "03/11/2024",
+     "po_no": "036489",
+     "amount": "150.03",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-540-391",
+     "account_name": "MEDICAL SUPPLIES",
+     "item_reason": "ALCOHOL PREP PADS",
+     "date": "03/11/2024",
+     "po_no": "036489",
+     "amount": "3,750.07",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-540-391",
+     "account_name": "MEDICAL SUPPLIES",
+     "item_reason": "COLD PACK",
+     "date": "03/11/2024",
+     "po_no": "036489",
+     "amount": "29.11",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-540-391",
+     "account_name": "MEDICAL SUPPLIES",
+     "item_reason": "IV SOLUTION",
+     "date": "03/11/2024",
+     "po_no": "036489",
+     "amount": "1,452.95",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-540-429",
+     "account_name": "EMS TRAINING ACADEMY",
+     "item_reason": "AED TRAINERS",
+     "date": "03/11/2024",
+     "po_no": "037170",
+     "amount": "833.98",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-540-429",
+     "account_name": "EMS TRAINING ACADEMY",
+     "item_reason": "AED TRAINERS",
+     "date": "03/11/2024",
+     "po_no": "037170",
+     "amount": "416.99",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-540-429",
+     "account_name": "EMS TRAINING ACADEMY",
+     "item_reason": "AED TRAINERS",
+     "date": "03/11/2024",
+     "po_no": "037170",
+     "amount": "416.99",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 3
+  },
+  {
+   "check_number": "160987",
+   "vendor_name": "BRYANT LISA",
+   "void_date": null,
+   "check_total": "5,500.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "054-340-600",
+     "account_name": "FEES - DISTRICT ATTORNEY",
+     "item_reason": "HOT CHECK REPAY",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "5,500.00",
+     "batch_code": "--"
+    }
+   ],
+   "source_page": 3
+  },
+  {
+   "check_number": "160988",
+   "vendor_name": "C&L MACHINE SHOP",
+   "void_date": null,
+   "check_total": "406.65",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "014-624-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "SEAL KITS",
+     "date": "03/11/2024",
+     "po_no": "036619",
+     "amount": "406.65",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 3
+  },
+  {
+   "check_number": "160989",
+   "vendor_name": "CACINO GABRIEL",
+   "void_date": null,
+   "check_total": "40.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-209-300",
+     "account_name": "RESTITUTION PAYABLE",
+     "item_reason": "RESTITUTION",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "40.00",
+     "batch_code": "--"
+    }
+   ],
+   "source_page": 3
+  },
+  {
+   "check_number": "160990",
+   "vendor_name": "CAREFLITE",
+   "void_date": null,
+   "check_total": "105.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-498-411",
+     "account_name": "EMPLOYEE RECOGNITION",
+     "item_reason": "R REYNOLDS",
+     "date": "03/11/2024",
+     "po_no": "036679",
+     "amount": "15.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-498-411",
+     "account_name": "EMPLOYEE RECOGNITION",
+     "item_reason": "WRIGHT, BROCK, OROZCO, B",
+     "date": "03/11/2024",
+     "po_no": "036679",
+     "amount": "90.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 3
+  },
+  {
+   "check_number": "160991",
+   "vendor_name": "CBJ TIRE & ALIGNMENT NR",
+   "void_date": null,
+   "check_total": "11,846.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "012-622-303",
+     "account_name": "TIRES & TIRE REPAIRS",
+     "item_reason": "TIRES",
+     "date": "03/11/2024",
+     "po_no": "036394",
+     "amount": "6,060.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "012-622-303",
+     "account_name": "TIRES & TIRE REPAIRS",
+     "item_reason": "TIRE DISPOSAL FEES",
+     "date": "03/11/2024",
+     "po_no": "036394",
+     "amount": "428.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "012-622-303",
+     "account_name": "TIRES & TIRE REPAIRS",
+     "item_reason": "TIRES",
+     "date": "03/11/2024",
+     "po_no": "036394",
+     "amount": "2,280.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-560-354",
+     "account_name": "VEHICLE MAINTENANCE",
+     "item_reason": "UNIT 42 - FLAT",
+     "date": "03/11/2024",
+     "po_no": "036358",
+     "amount": "25.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-560-354",
+     "account_name": "VEHICLE MAINTENANCE",
+     "item_reason": "UNIT 45 - FLAT",
+     "date": "03/11/2024",
+     "po_no": "036358",
+     "amount": "25.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-303",
+     "account_name": "TIRES & TIRE REPAIRS",
+     "item_reason": "TIRE DISPOSAL FEE",
+     "date": "03/11/2024",
+     "po_no": "036336",
+     "amount": "160.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-303",
+     "account_name": "TIRES & TIRE REPAIRS",
+     "item_reason": "TIRE",
+     "date": "03/11/2024",
+     "po_no": "036336",
+     "amount": "510.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-302",
+     "account_name": "GRAVEL",
+     "item_reason": "TIRES",
+     "date": "03/11/2024",
+     "po_no": "036336",
+     "amount": "2,358.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 4
+  },
+  {
+   "check_number": "160992",
+   "vendor_name": "CENGAGE LEARNING INC",
+   "void_date": null,
+   "check_total": "83.17",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-650-590",
+     "account_name": "BOOKS",
+     "item_reason": "BOOKS",
+     "date": "03/11/2024",
+     "po_no": "036377",
+     "amount": "83.17",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 4
+  },
+  {
+   "check_number": "160993",
+   "vendor_name": "CINTAS CORPORATION",
+   "void_date": null,
+   "check_total": "1,577.91",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-300",
+     "account_name": "SUPPLIES & HARDWARE",
+     "item_reason": "SHOP TOWELS & MAT",
+     "date": "03/11/2024",
+     "po_no": "036413",
+     "amount": "5.88",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-392",
+     "account_name": "UNIFORMS",
+     "item_reason": "UNIFORMS 02/02/2024",
+     "date": "03/11/2024",
+     "po_no": "036413",
+     "amount": "160.83",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-300",
+     "account_name": "SUPPLIES & HARDWARE",
+     "item_reason": "SHOP TOWELS & MAT",
+     "date": "03/11/2024",
+     "po_no": "036413",
+     "amount": "5.88",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-392",
+     "account_name": "UNIFORMS",
+     "item_reason": "UNIFORMS 02/09/2024",
+     "date": "03/11/2024",
+     "po_no": "036413",
+     "amount": "160.83",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-300",
+     "account_name": "SUPPLIES & HARDWARE",
+     "item_reason": "SHOP TOWELS & MAT",
+     "date": "03/11/2024",
+     "po_no": "036413",
+     "amount": "6.06",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-392",
+     "account_name": "UNIFORMS",
+     "item_reason": "UNIFORMS 02/16/2024",
+     "date": "03/11/2024",
+     "po_no": "036413",
+     "amount": "166.02",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-300",
+     "account_name": "SUPPLIES & HARDWARE",
+     "item_reason": "SHOP TOWELS & MAT",
+     "date": "03/11/2024",
+     "po_no": "036413",
+     "amount": "6.06",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-300",
+     "account_name": "SUPPLIES & HARDWARE",
+     "item_reason": "SHOP TOWELS & MATS",
+     "date": "03/11/2024",
+     "po_no": "036334",
+     "amount": "8.46",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-392",
+     "account_name": "UNIFORMS - EMPLOYEES & PRI",
+     "item_reason": "UNIFORMS 02/06/2024",
+     "date": "03/11/2024",
+     "po_no": "036334",
+     "amount": "107.20",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-300",
+     "account_name": "SUPPLIES & HARDWARE",
+     "item_reason": "SHOP TOWELS & MATS",
+     "date": "03/11/2024",
+     "po_no": "036334",
+     "amount": "8.46",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-392",
+     "account_name": "UNIFORMS - EMPLOYEES & PRI",
+     "item_reason": "UNIFORMS 02/13/2024",
+     "date": "03/11/2024",
+     "po_no": "036334",
+     "amount": "107.20",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-300",
+     "account_name": "SUPPLIES & HARDWARE",
+     "item_reason": "SHOP TOWELS & MATS",
+     "date": "03/11/2024",
+     "po_no": "036334",
+     "amount": "8.21",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-392",
+     "account_name": "UNIFORMS - EMPLOYEES & PRI",
+     "item_reason": "UNIFORMS 02/20/2024",
+     "date": "03/11/2024",
+     "po_no": "036334",
+     "amount": "110.68",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-300",
+     "account_name": "SUPPLIES & HARDWARE",
+     "item_reason": "SHOP TOWELS & MATS",
+     "date": "03/11/2024",
+     "po_no": "036334",
+     "amount": "8.21",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-392",
+     "account_name": "UNIFORMS - EMPLOYEES & PRI",
+     "item_reason": "UNIFORMS 02/27/2024",
+     "date": "03/11/2024",
+     "po_no": "036334",
+     "amount": "110.68",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "012-622-300",
+     "account_name": "SUPPLIES & HARDWARE",
+     "item_reason": "SHOP TOWELS & MATS",
+     "date": "03/11/2024",
+     "po_no": "036397",
+     "amount": "12.91",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "012-622-392",
+     "account_name": "UNIFORMS - EMPLOYEES & PRI",
+     "item_reason": "UNIFORMS 02/06/2024",
+     "date": "03/11/2024",
+     "po_no": "036397",
+     "amount": "113.80",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "012-622-300",
+     "account_name": "SUPPLIES & HARDWARE",
+     "item_reason": "SHOP TOWELS & MATS",
+     "date": "03/11/2024",
+     "po_no": "036397",
+     "amount": "12.91",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "012-622-392",
+     "account_name": "UNIFORMS - EMPLOYEES & PRI",
+     "item_reason": "UNIFORMS 02/13/2024",
+     "date": "03/11/2024",
+     "po_no": "036397",
+     "amount": "97.82",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "012-622-300",
+     "account_name": "SUPPLIES & HARDWARE",
+     "item_reason": "SHOP TOWELS & MATS",
+     "date": "03/11/2024",
+     "po_no": "036397",
+     "amount": "13.31",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "012-622-392",
+     "account_name": "UNIFORMS - EMPLOYEES & PRI",
+     "item_reason": "UNIFORMS 02/20/2024",
+     "date": "03/11/2024",
+     "po_no": "036397",
+     "amount": "249.98",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "012-622-300",
+     "account_name": "SUPPLIES & HARDWARE",
+     "item_reason": "SHOP TOWELS & MATS",
+     "date": "03/11/2024",
+     "po_no": "036397",
+     "amount": "13.31",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "012-622-392",
+     "account_name": "UNIFORMS - EMPLOYEES & PRI",
+     "item_reason": "UNIFORMS 02/27/2024",
+     "date": "03/11/2024",
+     "po_no": "036397",
+     "amount": "112.16",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "012-622-392",
+     "account_name": "UNIFORMS - EMPLOYEES & PRI",
+     "item_reason": "CREDIT",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "88.00-",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "012-622-392",
+     "account_name": "UNIFORMS - EMPLOYEES & PRI",
+     "item_reason": "CREDIT",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "106.97-",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-392",
+     "account_name": "UNIFORMS",
+     "item_reason": "UNIFORMS 02/23/2024",
+     "date": "03/11/2024",
+     "po_no": "036413",
+     "amount": "166.02",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 4
+  },
+  {
+   "check_number": "160994",
+   "vendor_name": "CITY OF GAINESVILLE",
+   "void_date": null,
+   "check_total": "1,068.15",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-510-442",
+     "account_name": "WATER",
+     "item_reason": "CONTAINER RENTAL FEE",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "1,068.15",
+     "batch_code": "--"
+    }
+   ],
+   "source_page": 4
+  },
+  {
+   "check_number": "160995",
+   "vendor_name": "COMMUNITY LUMBER CO",
+   "void_date": null,
+   "check_total": "89.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "014-624-300",
+     "account_name": "SUPPLIES & HARDWARE",
+     "item_reason": "YELLOW PINE",
+     "date": "03/11/2024",
+     "po_no": "036622",
+     "amount": "70.62",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "014-624-300",
+     "account_name": "SUPPLIES & HARDWARE",
+     "item_reason": "RING HOG",
+     "date": "03/11/2024",
+     "po_no": "036622",
+     "amount": "18.38",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 4
+  },
+  {
+   "check_number": "160996",
+   "vendor_name": "COOKE CO TAX A/C",
+   "void_date": null,
+   "check_total": "112.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-510-354",
+     "account_name": "VEHICLE EXPENSE",
+     "item_reason": "3553 - 2002 CHEVY",
+     "date": "03/11/2024",
+     "po_no": "036282",
+     "amount": "7.50",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "014-624-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "2210 - 2018 MC TRAILER",
+     "date": "03/11/2024",
+     "po_no": "036612",
+     "amount": "7.50",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "014-624-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "6909 - 2009 INTERNATIONA",
+     "date": "03/11/2024",
+     "po_no": "036612",
+     "amount": "7.50",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "014-624-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "8525 - 2002 FREIGHTLINER",
+     "date": "03/11/2024",
+     "po_no": "036612",
+     "amount": "7.50",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "014-624-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "0585 - 1991 EAST TN",
+     "date": "03/11/2024",
+     "po_no": "036612",
+     "amount": "22.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "014-624-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "1856 - 1996 MACK",
+     "date": "03/11/2024",
+     "po_no": "036612",
+     "amount": "7.50",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "014-624-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "0451 - 1994 MACK",
+     "date": "03/11/2024",
+     "po_no": "036612",
+     "amount": "7.50",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "014-624-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "4107 - 2012 PETERBILT",
+     "date": "03/11/2024",
+     "po_no": "036612",
+     "amount": "7.50",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "014-624-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "0929 - 1993 AMG",
+     "date": "03/11/2024",
+     "po_no": "036612",
+     "amount": "7.50",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "014-624-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "5322 - 1986 MACK",
+     "date": "03/11/2024",
+     "po_no": "036612",
+     "amount": "7.50",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-561-354",
+     "account_name": "VEHICLE MAINTENANCE",
+     "item_reason": "2378 - 2016 CHEVY (UNIT",
+     "date": "03/11/2024",
+     "po_no": "037093",
+     "amount": "7.50",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "012-622-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "0258 - 2016 FREIGHTLINER",
+     "date": "03/11/2024",
+     "po_no": "037115",
+     "amount": "7.50",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "012-622-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "4646 - 2017 FREIGHTLINER",
+     "date": "03/11/2024",
+     "po_no": "037115",
+     "amount": "7.50",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 5
+  },
+  {
+   "check_number": "160997",
+   "vendor_name": "CORDANT LABORATORY SOLU",
+   "void_date": null,
+   "check_total": "61.60",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "028-571-346",
+     "account_name": "DRUG TESTING",
+     "item_reason": "FEB 2024",
+     "date": "03/11/2024",
+     "po_no": "036064",
+     "amount": "61.60",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 5
+  },
+  {
+   "check_number": "160998",
+   "vendor_name": "CORPORATE BILLING LLC",
+   "void_date": null,
+   "check_total": "302.80",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "SWITCH PANEL",
+     "date": "03/11/2024",
+     "po_no": "036323",
+     "amount": "302.80",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 5
+  },
+  {
+   "check_number": "160999",
+   "vendor_name": "CORRECTIONS SOFTWARE SO",
+   "void_date": null,
+   "check_total": "1,023.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "028-571-452",
+     "account_name": "COMPUTER EXPENSE",
+     "item_reason": "APRIL 2024",
+     "date": "03/11/2024",
+     "po_no": "036050",
+     "amount": "1,023.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 5
+  },
+  {
+   "check_number": "161000",
+   "vendor_name": "DEALERS ELECTRICAL SUPP",
+   "void_date": null,
+   "check_total": "761.40",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-510-450",
+     "account_name": "BUILDING MAINTENANCE",
+     "item_reason": "LIGHT BULBS",
+     "date": "03/11/2024",
+     "po_no": "036288",
+     "amount": "761.40",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 5
+  },
+  {
+   "check_number": "161001",
+   "vendor_name": "DELL MARKETING LP",
+   "void_date": null,
+   "check_total": "2,309.95",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-495-452",
+     "account_name": "COMPUTER EXPENSE",
+     "item_reason": "DELL LAPTOP",
+     "date": "03/11/2024",
+     "po_no": "036998",
+     "amount": "1,558.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-503-452",
+     "account_name": "COMPUTER EQUIPMENT",
+     "item_reason": "LAPTOP",
+     "date": "03/11/2024",
+     "po_no": "036998",
+     "amount": "751.95",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 5
+  },
+  {
+   "check_number": "161002",
+   "vendor_name": "DENCO AREA 911 DISTRICT",
+   "void_date": null,
+   "check_total": "270.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-560-429",
+     "account_name": "TRAINING & SCHOOLS",
+     "item_reason": "1080 BASIC TELECOMMUNICA",
+     "date": "03/11/2024",
+     "po_no": "037229",
+     "amount": "160.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-560-429",
+     "account_name": "TRAINING & SCHOOLS",
+     "item_reason": "TCIC/TLETS FULL ACCESS",
+     "date": "03/11/2024",
+     "po_no": "037229",
+     "amount": "55.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-560-429",
+     "account_name": "TRAINING & SCHOOLS",
+     "item_reason": "TCIC/TLETS FULL ACCESS",
+     "date": "03/11/2024",
+     "po_no": "037229",
+     "amount": "55.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 5
+  },
+  {
+   "check_number": "161003",
+   "vendor_name": "DIAMOND MEDICAL SUPPLY",
+   "void_date": null,
+   "check_total": "414.56",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-561-336",
+     "account_name": "MEDICAL SUPPLIES",
+     "item_reason": "CATHETERS AND URINARY LE",
+     "date": "03/11/2024",
+     "po_no": "036913",
+     "amount": "42.76",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-561-336",
+     "account_name": "MEDICAL SUPPLIES",
+     "item_reason": "STRIPS TRUE METRIX PRO",
+     "date": "03/11/2024",
+     "po_no": "036913",
+     "amount": "371.80",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 5
+  },
+  {
+   "check_number": "161004",
+   "vendor_name": "DKBINNOVATIVE LLC",
+   "void_date": null,
+   "check_total": "1,508.78",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-503-390",
+     "account_name": "SUBSCRIPTIONS",
+     "item_reason": "MARCH 2024",
+     "date": "03/11/2024",
+     "po_no": "036637",
+     "amount": "1,508.78",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 5
+  },
+  {
+   "check_number": "161005",
+   "vendor_name": "DUNN MITCHELL H MD",
+   "void_date": null,
+   "check_total": "2,212.50",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-495",
+     "account_name": "TRIAL EXPENSE",
+     "item_reason": "EVAUL ON EDUARDO MARTINZ",
+     "date": "03/11/2024",
+     "po_no": "037217",
+     "amount": "1,087.50",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-495",
+     "account_name": "TRIAL EXPENSE",
+     "item_reason": "EVAUL ALLEN NORRIS 2 CAS",
+     "date": "03/11/2024",
+     "po_no": "037216",
+     "amount": "1,125.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 6
+  },
+  {
+   "check_number": "161006",
+   "vendor_name": "DUREN DONNY",
+   "void_date": null,
+   "check_total": "345.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-540-453",
+     "account_name": "MEDICAL EQUIP REPAIRS",
+     "item_reason": "4904 STRYKER GRIP REPAIR",
+     "date": "03/11/2024",
+     "po_no": "036484",
+     "amount": "345.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 6
+  },
+  {
+   "check_number": "161007",
+   "vendor_name": "DUSTIN OFFICE MACHINES",
+   "void_date": null,
+   "check_total": "13.87",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "028-571-463",
+     "account_name": "COPIER MAINTENANCE",
+     "item_reason": "COPIES FEB 2024",
+     "date": "03/11/2024",
+     "po_no": "036062",
+     "amount": "13.87",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 6
+  },
+  {
+   "check_number": "161008",
+   "vendor_name": "EHAWK INC",
+   "void_date": null,
+   "check_total": "700.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-570-390",
+     "account_name": "SUBSCRIPTIONS",
+     "item_reason": "FEBRUARY MONITORING",
+     "date": "03/11/2024",
+     "po_no": "036850",
+     "amount": "700.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 6
+  },
+  {
+   "check_number": "161009",
+   "vendor_name": "EITAN GROUP NORTH AMERI",
+   "void_date": null,
+   "check_total": "360.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-540-390",
+     "account_name": "SUBSCRIPTIONS",
+     "item_reason": "MARCH 2024 SERV AGREEMEN",
+     "date": "03/11/2024",
+     "po_no": "036529",
+     "amount": "360.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 6
+  },
+  {
+   "check_number": "161010",
+   "vendor_name": "ERGON ASHALT & EMULSION",
+   "void_date": null,
+   "check_total": "575.92",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-312",
+     "account_name": "ROAD OIL",
+     "item_reason": "CRS-2",
+     "date": "03/11/2024",
+     "po_no": "036421",
+     "amount": "575.92",
+     "batch_code": "23"
+    }
+   ],
+   "source_page": 6
+  },
+  {
+   "check_number": "161011",
+   "vendor_name": "ERLANDSON DIRT WORK LLC",
+   "void_date": null,
+   "check_total": "49,975.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-570",
+     "account_name": "MACHINERY & EQUIPMENT",
+     "item_reason": "2013 MACK TRUCK",
+     "date": "03/11/2024",
+     "po_no": "037271",
+     "amount": "29,975.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-570",
+     "account_name": "MACHINERY & EQUIPMENT",
+     "item_reason": "2004 CTSI DUMP TRAILER",
+     "date": "03/11/2024",
+     "po_no": "037271",
+     "amount": "20,000.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 6
+  },
+  {
+   "check_number": "161012",
+   "vendor_name": "ERVIN NATHAN",
+   "void_date": null,
+   "check_total": "327.63",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-561-429",
+     "account_name": "TRAINING",
+     "item_reason": "JMHO MASTER TRAINER",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "327.63",
+     "batch_code": "--"
+    }
+   ],
+   "source_page": 6
+  },
+  {
+   "check_number": "161013",
+   "vendor_name": "ESO SOLUTIONS INC",
+   "void_date": null,
+   "check_total": "2,569.85",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-540-390",
+     "account_name": "SUBSCRIPTIONS",
+     "item_reason": "ESO CAD INTERGRATION",
+     "date": "03/11/2024",
+     "po_no": "037222",
+     "amount": "2,569.85",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 6
+  },
+  {
+   "check_number": "161014",
+   "vendor_name": "FEDERAL EXPRESS CORPORA",
+   "void_date": null,
+   "check_total": "29.12",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-540-311",
+     "account_name": "POSTAGE",
+     "item_reason": "SHIPPING 02/13/24",
+     "date": "03/11/2024",
+     "po_no": "036493",
+     "amount": "29.12",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 6
+  },
+  {
+   "check_number": "161015",
+   "vendor_name": "FLUSCHE ENTERPRISES INC",
+   "void_date": null,
+   "check_total": "17.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "014-624-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "WELD ON BUCKET HOOK",
+     "date": "03/11/2024",
+     "po_no": "036595",
+     "amount": "17.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 6
+  },
+  {
+   "check_number": "161016",
+   "vendor_name": "FOUR FEATHERS ALARM LLC",
+   "void_date": null,
+   "check_total": "59.70",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-581-390",
+     "account_name": "SUBSCRIPTIONS",
+     "item_reason": "MARCH 2024",
+     "date": "03/11/2024",
+     "po_no": "036696",
+     "amount": "59.70",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 6
+  },
+  {
+   "check_number": "161017",
+   "vendor_name": "FRAZER LTD",
+   "void_date": null,
+   "check_total": "363.54",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-540-354",
+     "account_name": "VEHICLE MAINTENANCE",
+     "item_reason": "LIGHT",
+     "date": "03/11/2024",
+     "po_no": "036494",
+     "amount": "363.54",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 6
+  },
+  {
+   "check_number": "161018",
+   "vendor_name": "GAINESVILLE DAILY REGIS",
+   "void_date": null,
+   "check_total": "135.70",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-650-591",
+     "account_name": "PERIODICALS",
+     "item_reason": "GDR YEARLY SUBSCRIPTION",
+     "date": "03/11/2024",
+     "po_no": "037228",
+     "amount": "135.70",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 7
+  },
+  {
+   "check_number": "161019",
+   "vendor_name": "GAINESVILLE GLASS CO IN",
+   "void_date": null,
+   "check_total": "2,165.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-510-450",
+     "account_name": "BUILDING MAINTENANCE",
+     "item_reason": "REPLACED 3&4 OPENINGS",
+     "date": "03/11/2024",
+     "po_no": "036290",
+     "amount": "2,165.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 7
+  },
+  {
+   "check_number": "161020",
+   "vendor_name": "GAINESVILLE KIWANIS CLU",
+   "void_date": null,
+   "check_total": "400.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-499",
+     "account_name": "MISCELLANEOUS",
+     "item_reason": "2024 FLAG PROGRAM",
+     "date": "03/11/2024",
+     "po_no": "037252",
+     "amount": "400.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 7
+  },
+  {
+   "check_number": "161021",
+   "vendor_name": "GERMAINE DESIGNS EMBROI",
+   "void_date": null,
+   "check_total": "119.90",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-561-392",
+     "account_name": "UNIFORMS - EMPLOYEES",
+     "item_reason": "HAMMONS ACADEMY UNIFORMS",
+     "date": "03/11/2024",
+     "po_no": "037220",
+     "amount": "119.90",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 7
+  },
+  {
+   "check_number": "161022",
+   "vendor_name": "GIFFEN, SHARON",
+   "void_date": null,
+   "check_total": "355.62",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-495-427",
+     "account_name": "CONFERENCE EXPENSE",
+     "item_reason": "AUDITORS ON THE ROAD",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "355.62",
+     "batch_code": "--"
+    }
+   ],
+   "source_page": 7
+  },
+  {
+   "check_number": "161023",
+   "vendor_name": "GLENN POLK AUTOPLEX",
+   "void_date": null,
+   "check_total": "1,011.40",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-560-354",
+     "account_name": "VEHICLE MAINTENANCE",
+     "item_reason": "UNIT 2-REMOVE PUSH BAR F",
+     "date": "03/11/2024",
+     "po_no": "036359",
+     "amount": "751.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "012-622-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "INSPECTION 0258",
+     "date": "03/11/2024",
+     "po_no": "037262",
+     "amount": "7.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "012-622-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "INSPECTION 4646",
+     "date": "03/11/2024",
+     "po_no": "037262",
+     "amount": "7.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "012-622-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "BOLT",
+     "date": "03/11/2024",
+     "po_no": "037262",
+     "amount": "246.40",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 7
+  },
+  {
+   "check_number": "161024",
+   "vendor_name": "GOODWIN J STANLEY ATTY",
+   "void_date": null,
+   "check_total": "437.50",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ST VS MICHAEL E BARTON",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "437.50",
+     "batch_code": "--"
+    }
+   ],
+   "source_page": 7
+  },
+  {
+   "check_number": "161025",
+   "vendor_name": "GRIFFIN PHYLLIS",
+   "void_date": null,
+   "check_total": "73.70",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-665-427",
+     "account_name": "MILEAGE - 4-H AGENT",
+     "item_reason": "MILEAGE FEBRUARY",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "73.70",
+     "batch_code": "--"
+    }
+   ],
+   "source_page": 7
+  },
+  {
+   "check_number": "161026",
+   "vendor_name": "GT DISTRIBUTORS INC",
+   "void_date": null,
+   "check_total": "143.49",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-560-392",
+     "account_name": "UNIFORMS -EMPLOYEES & PRI",
+     "item_reason": "BODY CAM CASES",
+     "date": "03/11/2024",
+     "po_no": "036348",
+     "amount": "105.99",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-560-392",
+     "account_name": "UNIFORMS -EMPLOYEES & PRI",
+     "item_reason": "NAMETAPES",
+     "date": "03/11/2024",
+     "po_no": "036348",
+     "amount": "37.50",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 7
+  },
+  {
+   "check_number": "161027",
+   "vendor_name": "GUARDIAN PEST & TERMITE",
+   "void_date": null,
+   "check_total": "565.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-510-332",
+     "account_name": "PEST & BIRD CONTROL",
+     "item_reason": "FEB 2024 - EMS WOODBINE",
+     "date": "03/11/2024",
+     "po_no": "036285",
+     "amount": "40.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-510-332",
+     "account_name": "PEST & BIRD CONTROL",
+     "item_reason": "FEB 2024 - COURTHOUSE",
+     "date": "03/11/2024",
+     "po_no": "036285",
+     "amount": "215.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-510-332",
+     "account_name": "PEST & BIRD CONTROL",
+     "item_reason": "FEB 2024 - TAX ASSESSOR",
+     "date": "03/11/2024",
+     "po_no": "036285",
+     "amount": "55.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-510-332",
+     "account_name": "PEST & BIRD CONTROL",
+     "item_reason": "FEB 2024 - EMS CHURCH ST",
+     "date": "03/11/2024",
+     "po_no": "036285",
+     "amount": "80.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-510-332",
+     "account_name": "PEST & BIRD CONTROL",
+     "item_reason": "FEB 2024 - EMS RICE AVE",
+     "date": "03/11/2024",
+     "po_no": "036285",
+     "amount": "40.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-510-332",
+     "account_name": "PEST & BIRD CONTROL",
+     "item_reason": "FEB 2024 - DPS",
+     "date": "03/11/2024",
+     "po_no": "036285",
+     "amount": "40.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-510-332",
+     "account_name": "PEST & BIRD CONTROL",
+     "item_reason": "FEB 2024 - OLD JAIL",
+     "date": "03/11/2024",
+     "po_no": "036285",
+     "amount": "45.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-510-332",
+     "account_name": "PEST & BIRD CONTROL",
+     "item_reason": "FEB 2024 - LIBRARY",
+     "date": "03/11/2024",
+     "po_no": "036285",
+     "amount": "50.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 7
+  },
+  {
+   "check_number": "161028",
+   "vendor_name": "HAMMONS TIMOTHY",
+   "void_date": null,
+   "check_total": "231.15",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-560-212",
+     "account_name": "DAY TRAVEL REIMBURSEMENT",
+     "item_reason": "MILEAGE FEB 2024",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "231.15",
+     "batch_code": "--"
+    }
+   ],
+   "source_page": 8
+  },
+  {
+   "check_number": "161029",
+   "vendor_name": "HENNIGAN AUTO PARTS INC",
+   "void_date": null,
+   "check_total": "2,135.93",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "012-622-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "CB RADIO",
+     "date": "03/11/2024",
+     "po_no": "036454",
+     "amount": "229.89",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "HD U JOINT",
+     "date": "03/11/2024",
+     "po_no": "036402",
+     "amount": "141.32",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "AIR BAG",
+     "date": "03/11/2024",
+     "po_no": "036402",
+     "amount": "185.88",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "BRASS NIPPLE",
+     "date": "03/11/2024",
+     "po_no": "036402",
+     "amount": "4.59",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "FUEL HOSE",
+     "date": "03/11/2024",
+     "po_no": "036402",
+     "amount": "71.46",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "HYDRAULIC",
+     "date": "03/11/2024",
+     "po_no": "036402",
+     "amount": "96.80",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "FUEL ELEMENT",
+     "date": "03/11/2024",
+     "po_no": "036402",
+     "amount": "236.76",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "AIR FILTER",
+     "date": "03/11/2024",
+     "po_no": "036402",
+     "amount": "497.84",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "BEARING",
+     "date": "03/11/2024",
+     "po_no": "036402",
+     "amount": "152.10",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "AIR",
+     "date": "03/11/2024",
+     "po_no": "036402",
+     "amount": "194.54",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "AIR BRAKE HOSE FITTING",
+     "date": "03/11/2024",
+     "po_no": "036402",
+     "amount": "105.96",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "K-SEAL",
+     "date": "03/11/2024",
+     "po_no": "036402",
+     "amount": "38.58",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "DWAWBAR HOOK",
+     "date": "03/11/2024",
+     "po_no": "036402",
+     "amount": "153.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "FITTING",
+     "date": "03/11/2024",
+     "po_no": "036402",
+     "amount": "7.29",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "LOCK NUT",
+     "date": "03/11/2024",
+     "po_no": "036402",
+     "amount": "19.92",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 8
+  },
+  {
+   "check_number": "161030",
+   "vendor_name": "HILAND DAIRY FOODS COMP",
+   "void_date": null,
+   "check_total": "1,008.52",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-561-333",
+     "account_name": "FOOD FOR JAIL",
+     "item_reason": "MILK",
+     "date": "03/11/2024",
+     "po_no": "036556",
+     "amount": "513.01",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-561-333",
+     "account_name": "FOOD FOR JAIL",
+     "item_reason": "MILK",
+     "date": "03/11/2024",
+     "po_no": "036556",
+     "amount": "495.51",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 8
+  },
+  {
+   "check_number": "161031",
+   "vendor_name": "HOGAN'S JIF-E LUBE #2",
+   "void_date": null,
+   "check_total": "815.55",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-560-354",
+     "account_name": "VEHICLE MAINTENANCE",
+     "item_reason": "UNIT 13 - OIL CHANGE",
+     "date": "03/11/2024",
+     "po_no": "036350",
+     "amount": "89.95",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "OIL CHANGE 2015 1500",
+     "date": "03/11/2024",
+     "po_no": "036403",
+     "amount": "105.90",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-540-354",
+     "account_name": "VEHICLE MAINTENANCE",
+     "item_reason": "OIL CHANGE 2022 F-450",
+     "date": "03/11/2024",
+     "po_no": "036549",
+     "amount": "89.95",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-540-354",
+     "account_name": "VEHICLE MAINTENANCE",
+     "item_reason": "OIL CHANGE 2020 RAM 3500",
+     "date": "03/11/2024",
+     "po_no": "036549",
+     "amount": "219.90",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-540-354",
+     "account_name": "VEHICLE MAINTENANCE",
+     "item_reason": "OIL CHANGE 2021 RAM 3500",
+     "date": "03/11/2024",
+     "po_no": "036549",
+     "amount": "309.85",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 8
+  },
+  {
+   "check_number": "161032",
+   "vendor_name": "HOLLOWELL GARY",
+   "void_date": null,
+   "check_total": "521.55",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-427",
+     "account_name": "CONFERENCE EXPENSE",
+     "item_reason": "VG YOUNG 66TH ANNUAL",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "521.55",
+     "batch_code": "--"
+    }
+   ],
+   "source_page": 8
+  },
+  {
+   "check_number": "161033",
+   "vendor_name": "HOLT CAT",
+   "void_date": null,
+   "check_total": "146.56",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "MIRROR AS",
+     "date": "03/11/2024",
+     "po_no": "036432",
+     "amount": "146.56",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 8
+  },
+  {
+   "check_number": "161034",
+   "vendor_name": "HOWARD MORTUARY PROFESS",
+   "void_date": null,
+   "check_total": "1,000.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-418",
+     "account_name": "AUTOPSY EXPENSE",
+     "item_reason": "JACK EVANS",
+     "date": "03/11/2024",
+     "po_no": "036753",
+     "amount": "500.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-418",
+     "account_name": "AUTOPSY EXPENSE",
+     "item_reason": "FERNANDO ALDABA",
+     "date": "03/11/2024",
+     "po_no": "037268",
+     "amount": "500.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 8
+  },
+  {
+   "check_number": "161035",
+   "vendor_name": "HUNTERS OIL DEPOT",
+   "void_date": null,
+   "check_total": "194.18",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-476-354",
+     "account_name": "VEHICLE MAINTENANCE",
+     "item_reason": "OIL CHANGE 2022 RAM 1500",
+     "date": "03/11/2024",
+     "po_no": "036470",
+     "amount": "76.49",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-560-354",
+     "account_name": "VEHICLE MAINTENANCE",
+     "item_reason": "UNIT 44 OIL CHANGE",
+     "date": "03/11/2024",
+     "po_no": "036364",
+     "amount": "99.44",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-510-354",
+     "account_name": "VEHICLE EXPENSE",
+     "item_reason": "3553 - 2002 CHEVY INSPEC",
+     "date": "03/11/2024",
+     "po_no": "036258",
+     "amount": "7.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-560-354",
+     "account_name": "VEHICLE MAINTENANCE",
+     "item_reason": "UNIT 9 - OIL",
+     "date": "03/11/2024",
+     "po_no": "036364",
+     "amount": "11.25",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 9
+  },
+  {
+   "check_number": "161036",
+   "vendor_name": "HUNTERS TUNNEL EXPRESS",
+   "void_date": null,
+   "check_total": "47.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-540-354",
+     "account_name": "VEHICLE MAINTENANCE",
+     "item_reason": "CAR WASHES FEB 2024",
+     "date": "03/11/2024",
+     "po_no": "036547",
+     "amount": "36.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-476-354",
+     "account_name": "VEHICLE MAINTENANCE",
+     "item_reason": "CAR WASH FEB 2024",
+     "date": "03/11/2024",
+     "po_no": "036471",
+     "amount": "11.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 9
+  },
+  {
+   "check_number": "161037",
+   "vendor_name": "INDUSTRIAL BEARING CO",
+   "void_date": null,
+   "check_total": "106.09",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "012-622-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "PARTS",
+     "date": "03/11/2024",
+     "po_no": "036473",
+     "amount": "106.09",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 9
+  },
+  {
+   "check_number": "161038",
+   "vendor_name": "INGRAM LIBRARY SERVICE",
+   "void_date": null,
+   "check_total": "610.39",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-650-590",
+     "account_name": "BOOKS",
+     "item_reason": "BOOKS",
+     "date": "03/11/2024",
+     "po_no": "036366",
+     "amount": "63.54",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-650-590",
+     "account_name": "BOOKS",
+     "item_reason": "BOOKS",
+     "date": "03/11/2024",
+     "po_no": "036366",
+     "amount": "84.77",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-650-590",
+     "account_name": "BOOKS",
+     "item_reason": "BOOKS",
+     "date": "03/11/2024",
+     "po_no": "036366",
+     "amount": "36.56",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-650-590",
+     "account_name": "BOOKS",
+     "item_reason": "BOOK",
+     "date": "03/11/2024",
+     "po_no": "036366",
+     "amount": "15.90",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-650-590",
+     "account_name": "BOOKS",
+     "item_reason": "BOOKS",
+     "date": "03/11/2024",
+     "po_no": "036366",
+     "amount": "20.12",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-650-590",
+     "account_name": "BOOKS",
+     "item_reason": "BOOK",
+     "date": "03/11/2024",
+     "po_no": "036366",
+     "amount": "10.62",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-650-590",
+     "account_name": "BOOKS",
+     "item_reason": "BOOK",
+     "date": "03/11/2024",
+     "po_no": "036366",
+     "amount": "10.59",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-650-590",
+     "account_name": "BOOKS",
+     "item_reason": "BOOK",
+     "date": "03/11/2024",
+     "po_no": "036366",
+     "amount": "9.53",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-650-590",
+     "account_name": "BOOKS",
+     "item_reason": "BOOKS",
+     "date": "03/11/2024",
+     "po_no": "036366",
+     "amount": "65.92",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-650-590",
+     "account_name": "BOOKS",
+     "item_reason": "BOOKS",
+     "date": "03/11/2024",
+     "po_no": "036366",
+     "amount": "84.33",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-650-590",
+     "account_name": "BOOKS",
+     "item_reason": "BOOKS",
+     "date": "03/11/2024",
+     "po_no": "036366",
+     "amount": "19.97",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-650-590",
+     "account_name": "BOOKS",
+     "item_reason": "BOOK",
+     "date": "03/11/2024",
+     "po_no": "036366",
+     "amount": "10.06",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-650-590",
+     "account_name": "BOOKS",
+     "item_reason": "BOOKS",
+     "date": "03/11/2024",
+     "po_no": "036366",
+     "amount": "79.99",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-650-590",
+     "account_name": "BOOKS",
+     "item_reason": "BOOK",
+     "date": "03/11/2024",
+     "po_no": "036366",
+     "amount": "10.06",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-650-590",
+     "account_name": "BOOKS",
+     "item_reason": "BOOK",
+     "date": "03/11/2024",
+     "po_no": "036366",
+     "amount": "10.06",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-650-590",
+     "account_name": "BOOKS",
+     "item_reason": "BOOK",
+     "date": "03/11/2024",
+     "po_no": "036366",
+     "amount": "10.06",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-650-590",
+     "account_name": "BOOKS",
+     "item_reason": "BOOK",
+     "date": "03/11/2024",
+     "po_no": "036366",
+     "amount": "10.60",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "041-650-590",
+     "account_name": "BOOKS",
+     "item_reason": "BOOK",
+     "date": "03/11/2024",
+     "po_no": "036381",
+     "amount": "7.94",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "041-650-590",
+     "account_name": "BOOKS",
+     "item_reason": "BOOKS",
+     "date": "03/11/2024",
+     "po_no": "036381",
+     "amount": "49.77",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 9
+  },
+  {
+   "check_number": "161039",
+   "vendor_name": "JAMES LANE FIRE PROTECT",
+   "void_date": null,
+   "check_total": "4,069.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-510-450",
+     "account_name": "BUILDING MAINTENANCE",
+     "item_reason": "YEARLY SERVICE",
+     "date": "03/11/2024",
+     "po_no": "036248",
+     "amount": "508.50",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-510-450",
+     "account_name": "BUILDING MAINTENANCE",
+     "item_reason": "YEARLY SERVICE",
+     "date": "03/11/2024",
+     "po_no": "036248",
+     "amount": "146.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-510-450",
+     "account_name": "BUILDING MAINTENANCE",
+     "item_reason": "YEARLY SERVICE",
+     "date": "03/11/2024",
+     "po_no": "036248",
+     "amount": "811.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-510-450",
+     "account_name": "BUILDING MAINTENANCE",
+     "item_reason": "YEARLY SERVICE",
+     "date": "03/11/2024",
+     "po_no": "036248",
+     "amount": "339.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-510-450",
+     "account_name": "BUILDING MAINTENANCE",
+     "item_reason": "YEARLY SERVICE",
+     "date": "03/11/2024",
+     "po_no": "036248",
+     "amount": "437.50",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-510-450",
+     "account_name": "BUILDING MAINTENANCE",
+     "item_reason": "YEARLY SERVICE",
+     "date": "03/11/2024",
+     "po_no": "036248",
+     "amount": "691.50",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "014-624-499",
+     "account_name": "MISCELLANEOUS",
+     "item_reason": "ANNUAL INSPECTION",
+     "date": "03/11/2024",
+     "po_no": "036594",
+     "amount": "1,135.50",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 9
+  },
+  {
+   "check_number": "161040",
+   "vendor_name": "JOE WALTER LUMBER CO",
+   "void_date": null,
+   "check_total": "42.57",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-510-300",
+     "account_name": "SUPPLIES",
+     "item_reason": "DEADBOLT,SCREWS,BARREL B",
+     "date": "03/11/2024",
+     "po_no": "036279",
+     "amount": "33.03",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-510-450",
+     "account_name": "BUILDING MAINTENANCE",
+     "item_reason": "KEYS",
+     "date": "03/11/2024",
+     "po_no": "036279",
+     "amount": "9.54",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 9
+  },
+  {
+   "check_number": "161041",
+   "vendor_name": "JOHNSON-SPENCE JENNIFER",
+   "void_date": null,
+   "check_total": "1,164.83",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-650-427",
+     "account_name": "CONFERENCE EXPENSE",
+     "item_reason": "ISEA CONFERENCE",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "1,164.83",
+     "batch_code": "--"
+    }
+   ],
+   "source_page": 10
+  },
+  {
+   "check_number": "161042",
+   "vendor_name": "KANOPY",
+   "void_date": null,
+   "check_total": "800.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-650-592",
+     "account_name": "AUDIO VISUAL MATERIAL",
+     "item_reason": "KANOPY MOVIE SERVICES",
+     "date": "03/11/2024",
+     "po_no": "037206",
+     "amount": "800.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 10
+  },
+  {
+   "check_number": "161043",
+   "vendor_name": "KIMBALL MIDWEST",
+   "void_date": null,
+   "check_total": "186.42",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "014-624-300",
+     "account_name": "SUPPLIES & HARDWARE",
+     "item_reason": "SHRINK TUBING",
+     "date": "03/11/2024",
+     "po_no": "036578",
+     "amount": "186.42",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 10
+  },
+  {
+   "check_number": "161044",
+   "vendor_name": "KOFILE TECHNOLOGIES INC",
+   "void_date": null,
+   "check_total": "309,724.78",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "032-450-553",
+     "account_name": "ARCHIVE & RESTORATION",
+     "item_reason": "INVOICE KT-014527",
+     "date": "03/11/2024",
+     "po_no": "037235",
+     "amount": "309,724.78",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 10
+  },
+  {
+   "check_number": "161045",
+   "vendor_name": "KYOCERA DOCUMENT SOLUTI",
+   "void_date": null,
+   "check_total": "497.09",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "038-456-463",
+     "account_name": "COPY MACHINE RENTAL",
+     "item_reason": "MARCH 2024",
+     "date": "03/11/2024",
+     "po_no": "036218",
+     "amount": "134.45",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-463",
+     "account_name": "COPY MACHINE RENTAL",
+     "item_reason": "MARCH 2024",
+     "date": "03/11/2024",
+     "po_no": "036217",
+     "amount": "147.08",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-463",
+     "account_name": "COPY MACHINE RENTAL",
+     "item_reason": "COPIES 01/24-02/24",
+     "date": "03/11/2024",
+     "po_no": "036220",
+     "amount": "85.57",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-463",
+     "account_name": "COPY MACHINE RENTAL",
+     "item_reason": "MARCH 2024",
+     "date": "03/11/2024",
+     "po_no": "036220",
+     "amount": "129.99",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 10
+  },
+  {
+   "check_number": "161046",
+   "vendor_name": "LABATT FOOD SERVICE LLC",
+   "void_date": null,
+   "check_total": "16,130.60",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-561-338",
+     "account_name": "KITCHEN SUPPLIES",
+     "item_reason": "TRASH LINERS",
+     "date": "03/11/2024",
+     "po_no": "036554",
+     "amount": "478.24",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-561-333",
+     "account_name": "FOOD FOR JAIL",
+     "item_reason": "JAIL FOOD",
+     "date": "03/11/2024",
+     "po_no": "036383",
+     "amount": "2,027.22",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-561-333",
+     "account_name": "FOOD FOR JAIL",
+     "item_reason": "JAIL FOOD",
+     "date": "03/11/2024",
+     "po_no": "036383",
+     "amount": "182.48",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-561-333",
+     "account_name": "FOOD FOR JAIL",
+     "item_reason": "JAIL FOOD",
+     "date": "03/11/2024",
+     "po_no": "036383",
+     "amount": "8,376.76",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-561-333",
+     "account_name": "FOOD FOR JAIL",
+     "item_reason": "JAIL FOOD",
+     "date": "03/11/2024",
+     "po_no": "036383",
+     "amount": "43.07",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-561-333",
+     "account_name": "FOOD FOR JAIL",
+     "item_reason": "JAIL FOOD",
+     "date": "03/11/2024",
+     "po_no": "036383",
+     "amount": "4,933.48",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-561-333",
+     "account_name": "FOOD FOR JAIL",
+     "item_reason": "JAIL FOOD",
+     "date": "03/11/2024",
+     "po_no": "036383",
+     "amount": "89.35",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 10
+  },
+  {
+   "check_number": "161047",
+   "vendor_name": "LAKE KIOWA MEDICAL CLIN",
+   "void_date": null,
+   "check_total": "4,000.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-561-391",
+     "account_name": "PRISONER MEDICAL CARE",
+     "item_reason": "MARCH 2024",
+     "date": "03/11/2024",
+     "po_no": "036214",
+     "amount": "4,000.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 10
+  },
+  {
+   "check_number": "161048",
+   "vendor_name": "LEWIS DOUGLAS T MD",
+   "void_date": null,
+   "check_total": "2,450.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-491",
+     "account_name": "COUNTY HEALTH DOCTOR",
+     "item_reason": "MARCH 2024",
+     "date": "03/11/2024",
+     "po_no": "036216",
+     "amount": "50.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-540-491",
+     "account_name": "EMS MEDICAL DIRECTOR",
+     "item_reason": "MARCH 2024",
+     "date": "03/11/2024",
+     "po_no": "036215",
+     "amount": "2,400.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 10
+  },
+  {
+   "check_number": "161049",
+   "vendor_name": "LEXISNEXIS",
+   "void_date": null,
+   "check_total": "256.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-475-390",
+     "account_name": "SUBSCRIPTIONS",
+     "item_reason": "MONTHLY BILL-FEBRUARY 20",
+     "date": "03/11/2024",
+     "po_no": "036842",
+     "amount": "256.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 10
+  },
+  {
+   "check_number": "161050",
+   "vendor_name": "LIBERTY RESOURCES FAMIL",
+   "void_date": null,
+   "check_total": "7,500.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-570-324",
+     "account_name": "COMMUNITY BASED SERVICES",
+     "item_reason": "Q3",
+     "date": "03/11/2024",
+     "po_no": "036793",
+     "amount": "7,500.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 10
+  },
+  {
+   "check_number": "161051",
+   "vendor_name": "MAL TECHNOLOGIES LLC",
+   "void_date": null,
+   "check_total": "1,200.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-560-570",
+     "account_name": "MACHINERY & EQUIPMENT",
+     "item_reason": "INSTALLATION/TRAINING OF",
+     "date": "03/11/2024",
+     "po_no": "036042",
+     "amount": "1,200.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 10
+  },
+  {
+   "check_number": "161052",
+   "vendor_name": "MARTIN MARIETTA MATERIA",
+   "void_date": null,
+   "check_total": "11,341.50",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-302",
+     "account_name": "GRAVEL",
+     "item_reason": "5/8 CHIP",
+     "date": "03/11/2024",
+     "po_no": "036437",
+     "amount": "5,599.50",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-302",
+     "account_name": "GRAVEL",
+     "item_reason": "5/8 CHIP",
+     "date": "03/11/2024",
+     "po_no": "036437",
+     "amount": "5,742.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 11
+  },
+  {
+   "check_number": "161053",
+   "vendor_name": "MCMASTER-CARR",
+   "void_date": null,
+   "check_total": "858.53",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-300",
+     "account_name": "SUPPLIES & HARDWARE",
+     "item_reason": "ARC-FIBERGLASS STRIP",
+     "date": "03/11/2024",
+     "po_no": "036902",
+     "amount": "858.53",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 11
+  },
+  {
+   "check_number": "161054",
+   "vendor_name": "METAL SALES INC",
+   "void_date": null,
+   "check_total": "1,255.50",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-300",
+     "account_name": "SUPPLIES & HARDWARE",
+     "item_reason": "1/8 X 3",
+     "date": "03/11/2024",
+     "po_no": "036440",
+     "amount": "22.08",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-300",
+     "account_name": "SUPPLIES & HARDWARE",
+     "item_reason": "4 QUICK BINDERS",
+     "date": "03/11/2024",
+     "po_no": "036440",
+     "amount": "1,037.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-300",
+     "account_name": "SUPPLIES & HARDWARE",
+     "item_reason": "HITCH PINS",
+     "date": "03/11/2024",
+     "po_no": "036440",
+     "amount": "99.84",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-300",
+     "account_name": "SUPPLIES & HARDWARE",
+     "item_reason": "CAPS",
+     "date": "03/11/2024",
+     "po_no": "036440",
+     "amount": "96.58",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 11
+  },
+  {
+   "check_number": "161055",
+   "vendor_name": "MIDWEST TAPE LLC",
+   "void_date": null,
+   "check_total": "183.68",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-650-592",
+     "account_name": "AUDIO VISUAL MATERIAL",
+     "item_reason": "MIGRATION",
+     "date": "03/11/2024",
+     "po_no": "036369",
+     "amount": "71.67",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-650-592",
+     "account_name": "AUDIO VISUAL MATERIAL",
+     "item_reason": "NEVER TOO LATE",
+     "date": "03/11/2024",
+     "po_no": "036369",
+     "amount": "81.98",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-650-592",
+     "account_name": "AUDIO VISUAL MATERIAL",
+     "item_reason": "FREELANCE",
+     "date": "03/11/2024",
+     "po_no": "036369",
+     "amount": "30.03",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 11
+  },
+  {
+   "check_number": "161056",
+   "vendor_name": "MIEARS SHERYL ANN",
+   "void_date": null,
+   "check_total": "3,717.19",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ITO K R G",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "100.00",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ITIO AP & AP",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "3,470.00",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-495",
+     "account_name": "TRIAL EXPENSE",
+     "item_reason": "ITIO AP & AP",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "147.19",
+     "batch_code": "--"
+    }
+   ],
+   "source_page": 11
+  },
+  {
+   "check_number": "161057",
+   "vendor_name": "MOTOROLA SOLUTIONS INC",
+   "void_date": null,
+   "check_total": "287.06",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-560-422",
+     "account_name": "RADIOS & COMMUNICATIONS",
+     "item_reason": "WIRELESS MIC",
+     "date": "03/11/2024",
+     "po_no": "037044",
+     "amount": "243.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-560-422",
+     "account_name": "RADIOS & COMMUNICATIONS",
+     "item_reason": "ANTENNAS",
+     "date": "03/11/2024",
+     "po_no": "037044",
+     "amount": "44.06",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 11
+  },
+  {
+   "check_number": "161058",
+   "vendor_name": "MYERS JEREMY",
+   "void_date": null,
+   "check_total": "300.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-209-300",
+     "account_name": "RESTITUTION PAYABLE",
+     "item_reason": "RESTITUTION",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "100.00",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-209-300",
+     "account_name": "RESTITUTION PAYABLE",
+     "item_reason": "RESTITUTION",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "200.00",
+     "batch_code": "--"
+    }
+   ],
+   "source_page": 11
+  },
+  {
+   "check_number": "161059",
+   "vendor_name": "NAPA PARTS GAINESVILLE",
+   "void_date": null,
+   "check_total": "381.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "V-BELT",
+     "date": "03/11/2024",
+     "po_no": "036296",
+     "amount": "29.11",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "FUEL LINE HOSE",
+     "date": "03/11/2024",
+     "po_no": "036296",
+     "amount": "27.30",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "DEF",
+     "date": "03/11/2024",
+     "po_no": "036296",
+     "amount": "82.97",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "CREDIT",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "34.99-",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "2010 VOLVO AIR CONDITION",
+     "date": "03/11/2024",
+     "po_no": "036296",
+     "amount": "334.03",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "OIL FILTER",
+     "date": "03/11/2024",
+     "po_no": "036296",
+     "amount": "179.08",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "CREDIT",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "236.50-",
+     "batch_code": "--"
+    }
+   ],
+   "source_page": 11
+  },
+  {
+   "check_number": "161060",
+   "vendor_name": "NORTEX COMMUNICATIONS P",
+   "void_date": null,
+   "check_total": "718.88",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-420",
+     "account_name": "TELEPHONE",
+     "item_reason": "BUSINESS LOCAL",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "98.07",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-420",
+     "account_name": "TELEPHONE",
+     "item_reason": "EMS STAT 2 PHONE, INT,",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "188.14",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-420",
+     "account_name": "TELEPHONE",
+     "item_reason": "EMS STAT 5 PHONE, INT, T",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "245.59",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-420",
+     "account_name": "TELEPHONE",
+     "item_reason": "CCDPS PHONE SYSTEM",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "60.00",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "012-622-420",
+     "account_name": "TELEPHONE",
+     "item_reason": "PCT 2 BARN PHONE, INT",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "127.08",
+     "batch_code": "--"
+    }
+   ],
+   "source_page": 12
+  },
+  {
+   "check_number": "161061",
+   "vendor_name": "NORTH TEXAS PACKER SERV",
+   "void_date": null,
+   "check_total": "44.76",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "HYD HOSE",
+     "date": "03/11/2024",
+     "po_no": "036304",
+     "amount": "44.76",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 12
+  },
+  {
+   "check_number": "161062",
+   "vendor_name": "NORTHERN TOOL & EQUIPME",
+   "void_date": null,
+   "check_total": "911.84",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-540-392",
+     "account_name": "UNIFORMS",
+     "item_reason": "HI VIS JACKETS AND COATS",
+     "date": "03/11/2024",
+     "po_no": "037173",
+     "amount": "855.86",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-540-392",
+     "account_name": "UNIFORMS",
+     "item_reason": "JACKET",
+     "date": "03/11/2024",
+     "po_no": "037173",
+     "amount": "55.98",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 12
+  },
+  {
+   "check_number": "161063",
+   "vendor_name": "NTMC HEALTH COMPLETE CA",
+   "void_date": null,
+   "check_total": "9,922.44",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-561-391",
+     "account_name": "PRISONER MEDICAL CARE",
+     "item_reason": "GRANT, D 404623001",
+     "date": "03/11/2024",
+     "po_no": "037140",
+     "amount": "3,483.64",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-561-391",
+     "account_name": "PRISONER MEDICAL CARE",
+     "item_reason": "HUGHS, C 404636101",
+     "date": "03/11/2024",
+     "po_no": "037140",
+     "amount": "205.80",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-561-391",
+     "account_name": "PRISONER MEDICAL CARE",
+     "item_reason": "JONES, R 404945301",
+     "date": "03/11/2024",
+     "po_no": "037140",
+     "amount": "2,702.15",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-561-391",
+     "account_name": "PRISONER MEDICAL CARE",
+     "item_reason": "MANUEL, B 404909401",
+     "date": "03/11/2024",
+     "po_no": "037140",
+     "amount": "524.11",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-561-391",
+     "account_name": "PRISONER MEDICAL CARE",
+     "item_reason": "PEREZ, J 405008901",
+     "date": "03/11/2024",
+     "po_no": "037140",
+     "amount": "2,023.46",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-561-391",
+     "account_name": "PRISONER MEDICAL CARE",
+     "item_reason": "ROMINE, C 404745401",
+     "date": "03/11/2024",
+     "po_no": "037140",
+     "amount": "983.28",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 12
+  },
+  {
+   "check_number": "161064",
+   "vendor_name": "ODP BUSINESS SOLUTIONS",
+   "void_date": null,
+   "check_total": "1,517.11",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-561-310",
+     "account_name": "OFFICE SUPPLIES",
+     "item_reason": "SELF INKING NOTARY STAMP",
+     "date": "03/11/2024",
+     "po_no": "036687",
+     "amount": "32.99",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-476-310",
+     "account_name": "OFFICE SUPPLIES",
+     "item_reason": "PERF PAD",
+     "date": "03/11/2024",
+     "po_no": "036465",
+     "amount": "50.63",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-476-310",
+     "account_name": "OFFICE SUPPLIES",
+     "item_reason": "LABEL",
+     "date": "03/11/2024",
+     "po_no": "036465",
+     "amount": "48.77",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-476-310",
+     "account_name": "OFFICE SUPPLIES",
+     "item_reason": "DIVIDER",
+     "date": "03/11/2024",
+     "po_no": "036465",
+     "amount": "5.39",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-650-310",
+     "account_name": "OFFICE SUPPLIES",
+     "item_reason": "EASEL",
+     "date": "03/11/2024",
+     "po_no": "036370",
+     "amount": "61.97",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-475-310",
+     "account_name": "OFFICE SUPPLIES",
+     "item_reason": "STAPLER, TAPE DISPENSERS",
+     "date": "03/11/2024",
+     "po_no": "037242",
+     "amount": "49.33",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-475-310",
+     "account_name": "OFFICE SUPPLIES",
+     "item_reason": "DIVIDERS",
+     "date": "03/11/2024",
+     "po_no": "037242",
+     "amount": "63.87",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-475-310",
+     "account_name": "OFFICE SUPPLIES",
+     "item_reason": "LEGAL PADS",
+     "date": "03/11/2024",
+     "po_no": "037242",
+     "amount": "11.77",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-495-310",
+     "account_name": "OFFICE SUPPLIES",
+     "item_reason": "PENS,BINDERS,FILE FOLDER",
+     "date": "03/11/2024",
+     "po_no": "037033",
+     "amount": "124.22",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-403-310",
+     "account_name": "OFFICE SUPPLIES",
+     "item_reason": "FILE FOLDERS",
+     "date": "03/11/2024",
+     "po_no": "037214",
+     "amount": "27.12",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-403-310",
+     "account_name": "OFFICE SUPPLIES",
+     "item_reason": "MAILING TAPE",
+     "date": "03/11/2024",
+     "po_no": "037214",
+     "amount": "29.24",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-403-410",
+     "account_name": "ELECTION EXPENSE",
+     "item_reason": "POLLWORKER WATER",
+     "date": "03/11/2024",
+     "po_no": "037214",
+     "amount": "30.58",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-427-310",
+     "account_name": "OFFICE SUPPLIES",
+     "item_reason": "PROBATE TABS",
+     "date": "03/11/2024",
+     "po_no": "037214",
+     "amount": "24.12",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-403-310",
+     "account_name": "OFFICE SUPPLIES",
+     "item_reason": "MAILING LABELS",
+     "date": "03/11/2024",
+     "po_no": "037214",
+     "amount": "57.93",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-427-310",
+     "account_name": "OFFICE SUPPLIES",
+     "item_reason": "BACK OFFICE STAPLER",
+     "date": "03/11/2024",
+     "po_no": "037214",
+     "amount": "17.49",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-540-310",
+     "account_name": "OFFICE SUPPLIES",
+     "item_reason": "CHAIRMAT",
+     "date": "03/11/2024",
+     "po_no": "036540",
+     "amount": "62.28",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-540-310",
+     "account_name": "OFFICE SUPPLIES",
+     "item_reason": "PENS",
+     "date": "03/11/2024",
+     "po_no": "036540",
+     "amount": "187.40",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-540-310",
+     "account_name": "OFFICE SUPPLIES",
+     "item_reason": "TONER",
+     "date": "03/11/2024",
+     "po_no": "036540",
+     "amount": "188.12",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-540-310",
+     "account_name": "OFFICE SUPPLIES",
+     "item_reason": "TONER",
+     "date": "03/11/2024",
+     "po_no": "036540",
+     "amount": "188.12",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-650-310",
+     "account_name": "OFFICE SUPPLIES",
+     "item_reason": "TISSUE",
+     "date": "03/11/2024",
+     "po_no": "036370",
+     "amount": "44.97",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-650-310",
+     "account_name": "OFFICE SUPPLIES",
+     "item_reason": "PAPER",
+     "date": "03/11/2024",
+     "po_no": "036370",
+     "amount": "212.49",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-403-310",
+     "account_name": "OFFICE SUPPLIES",
+     "item_reason": "CREDIT",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "0.87-",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-403-310",
+     "account_name": "OFFICE SUPPLIES",
+     "item_reason": "CREDIT",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "0.24-",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-403-310",
+     "account_name": "OFFICE SUPPLIES",
+     "item_reason": "CREDIT",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "0.58-",
+     "batch_code": "--"
+    }
+   ],
+   "source_page": 12
+  },
+  {
+   "check_number": "161065",
+   "vendor_name": "OFFEN PETROLEUM LLC",
+   "void_date": null,
+   "check_total": "20,359.42",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-330",
+     "account_name": "FUEL & OIL",
+     "item_reason": "TX LED CLR DSL",
+     "date": "03/11/2024",
+     "po_no": "036918",
+     "amount": "2,626.85",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-330",
+     "account_name": "FUEL & OIL",
+     "item_reason": "TX LED CLR DSL",
+     "date": "03/11/2024",
+     "po_no": "036918",
+     "amount": "2,901.20",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-330",
+     "account_name": "FUEL & OIL",
+     "item_reason": "TX LED CLR DSL",
+     "date": "03/11/2024",
+     "po_no": "036918",
+     "amount": "3,294.41",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "014-624-330",
+     "account_name": "FUEL & OIL",
+     "item_reason": "TX LED CLR DSL",
+     "date": "03/11/2024",
+     "po_no": "036627",
+     "amount": "3,294.45",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-330",
+     "account_name": "FUEL & OIL",
+     "item_reason": "TX LED CLR DSL",
+     "date": "03/11/2024",
+     "po_no": "036919",
+     "amount": "3,044.84",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "012-622-330",
+     "account_name": "FUEL & OIL",
+     "item_reason": "TX LED CLR DSL",
+     "date": "03/11/2024",
+     "po_no": "036920",
+     "amount": "3,056.92",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "012-622-330",
+     "account_name": "FUEL & OIL",
+     "item_reason": "TX LED CLR DSL",
+     "date": "03/11/2024",
+     "po_no": "036920",
+     "amount": "2,140.75",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 13
+  },
+  {
+   "check_number": "161066",
+   "vendor_name": "OLIVEIRA HOLLY",
+   "void_date": null,
+   "check_total": "400.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-460",
+     "account_name": "RENT",
+     "item_reason": "MARCH 2024",
+     "date": "03/11/2024",
+     "po_no": "036207",
+     "amount": "400.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 13
+  },
+  {
+   "check_number": "161067",
+   "vendor_name": "ONEY JEROMIE ATTORNEY",
+   "void_date": null,
+   "check_total": "6,037.50",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-414",
+     "account_name": "JUVENILE CT APPOINTED ATT",
+     "item_reason": "ST VS B D M",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "775.00",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ST VS ANTHONY CARRASCO",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "187.50",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ST VS STEVEN W BEACH JR",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "400.00",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ST VS BOBBY B TRAMMELL",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "531.25",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ST VS CHRISTOPHER W CONN",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "1,700.00",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ST VS TYLER D CAVANESS",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "343.75",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ST VS PATTY G STEVENS",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "437.50",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ST VS VIRGINIA L KIRK",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "218.75",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ST VS TAYLOR L SMITH",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "218.75",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ST VS HEATHER RASOR",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "250.00",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ST VS OCTAVIO RUIZ-CRORO",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "975.00",
+     "batch_code": "--"
+    }
+   ],
+   "source_page": 13
+  },
+  {
+   "check_number": "161068",
+   "vendor_name": "ONSOLVE LLC",
+   "void_date": null,
+   "check_total": "20,217.07",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-407-422",
+     "account_name": "RADIO & COMMUNICATIONS",
+     "item_reason": "CODE RED",
+     "date": "03/11/2024",
+     "po_no": "037223",
+     "amount": "20,217.07",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 13
+  },
+  {
+   "check_number": "161069",
+   "vendor_name": "OREILLY AUTOMOTIVE ENTE",
+   "void_date": null,
+   "check_total": "62.98",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "012-622-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "EXTRACTOR ST",
+     "date": "03/11/2024",
+     "po_no": "036865",
+     "amount": "62.98",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 13
+  },
+  {
+   "check_number": "161070",
+   "vendor_name": "ORIENTAL TRADING",
+   "void_date": null,
+   "check_total": "212.93",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "041-650-310",
+     "account_name": "SUPPLIES",
+     "item_reason": "PLUSH ASSORTMENT",
+     "date": "03/11/2024",
+     "po_no": "036376",
+     "amount": "212.93",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 13
+  },
+  {
+   "check_number": "161071",
+   "vendor_name": "ORKIN OF SHERMAN FRANCH",
+   "void_date": null,
+   "check_total": "445.50",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-510-332",
+     "account_name": "PEST & BIRD CONTROL",
+     "item_reason": "FEB 2024 - JUSTICE CENTE",
+     "date": "03/11/2024",
+     "po_no": "036254",
+     "amount": "445.50",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 13
+  },
+  {
+   "check_number": "161072",
+   "vendor_name": "PACK N MAIL",
+   "void_date": null,
+   "check_total": "97.91",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-570-311",
+     "account_name": "POSTAGE",
+     "item_reason": "POSTAGE",
+     "date": "03/11/2024",
+     "po_no": "037203",
+     "amount": "19.07",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-560-499",
+     "account_name": "MISCELLANEOUS",
+     "item_reason": "POSTAGE",
+     "date": "03/11/2024",
+     "po_no": "037043",
+     "amount": "68.24",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-561-499",
+     "account_name": "MISCELLANEOUS",
+     "item_reason": "SHIPPING-TIMEKEEPING SYS",
+     "date": "03/11/2024",
+     "po_no": "037257",
+     "amount": "10.60",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 13
+  },
+  {
+   "check_number": "161073",
+   "vendor_name": "PIEL CARY T ATTY",
+   "void_date": null,
+   "check_total": "1,906.25",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ST VS SHELLY REEDER",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "1,000.00",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ST VS DAVIS GRANT",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "906.25",
+     "batch_code": "--"
+    }
+   ],
+   "source_page": 14
+  },
+  {
+   "check_number": "161074",
+   "vendor_name": "PINNACLE HEALTH TECHNOL",
+   "void_date": null,
+   "check_total": "625.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-498-490",
+     "account_name": "PRE-EMPLOYMENT PHYSICALS",
+     "item_reason": "JOSEPH SHERPELL",
+     "date": "03/11/2024",
+     "po_no": "036681",
+     "amount": "235.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "012-622-490",
+     "account_name": "PHYSICALS & CDL TESTING",
+     "item_reason": "SCOTT REYNOLDS",
+     "date": "03/11/2024",
+     "po_no": "036681",
+     "amount": "155.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-561-490",
+     "account_name": "PHYSICAL",
+     "item_reason": "T CURRY",
+     "date": "03/11/2024",
+     "po_no": "036681",
+     "amount": "235.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 14
+  },
+  {
+   "check_number": "161075",
+   "vendor_name": "PNC BANK,N.A.",
+   "void_date": null,
+   "check_total": "35.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-497-499",
+     "account_name": "MISCELLANEOUS",
+     "item_reason": "SERVICE CHARGE FOR SAFEK",
+     "date": "03/11/2024",
+     "po_no": "037212",
+     "amount": "35.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 14
+  },
+  {
+   "check_number": "161076",
+   "vendor_name": "POWER PLAN OIB",
+   "void_date": null,
+   "check_total": "302.29",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "FUEL FILTER",
+     "date": "03/11/2024",
+     "po_no": "036442",
+     "amount": "53.34",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "014-624-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "STROBE LIGHT",
+     "date": "03/11/2024",
+     "po_no": "036591",
+     "amount": "248.95",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 14
+  },
+  {
+   "check_number": "161077",
+   "vendor_name": "PROFESSIONAL PSYCHOLOGI",
+   "void_date": null,
+   "check_total": "300.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-561-490",
+     "account_name": "PHYSICAL",
+     "item_reason": "CURRY",
+     "date": "03/11/2024",
+     "po_no": "037156",
+     "amount": "300.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 14
+  },
+  {
+   "check_number": "161078",
+   "vendor_name": "R&R AUTOMOTIVE AND SALE",
+   "void_date": null,
+   "check_total": "3,121.67",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-540-354",
+     "account_name": "VEHICLE MAINTENANCE",
+     "item_reason": "REPAIRS 2015 RAM 1500",
+     "date": "03/11/2024",
+     "po_no": "036536",
+     "amount": "1,876.62",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-540-354",
+     "account_name": "VEHICLE MAINTENANCE",
+     "item_reason": "REPAIRS 4904",
+     "date": "03/11/2024",
+     "po_no": "036536",
+     "amount": "1,177.19",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-540-354",
+     "account_name": "VEHICLE MAINTENANCE",
+     "item_reason": "REPAIRS 4904",
+     "date": "03/11/2024",
+     "po_no": "036536",
+     "amount": "67.86",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 14
+  },
+  {
+   "check_number": "161079",
+   "vendor_name": "RED RIVER FARM CO-OP IN",
+   "void_date": null,
+   "check_total": "2,082.40",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-590-330",
+     "account_name": "FUEL",
+     "item_reason": "FUEL - DEC 2023",
+     "date": "03/11/2024",
+     "po_no": "036826",
+     "amount": "231.86",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-590-330",
+     "account_name": "FUEL",
+     "item_reason": "FUEL - NOV 2023",
+     "date": "03/11/2024",
+     "po_no": "036826",
+     "amount": "260.58",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-552-330",
+     "account_name": "FUEL",
+     "item_reason": "FUEL - FEB 2024",
+     "date": "03/11/2024",
+     "po_no": "036827",
+     "amount": "101.23",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-475-330",
+     "account_name": "FUEL",
+     "item_reason": "FUEL - FEBRUARY 2024",
+     "date": "03/11/2024",
+     "po_no": "036839",
+     "amount": "74.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-407-330",
+     "account_name": "FUEL",
+     "item_reason": "FUEL - FEB 2024",
+     "date": "03/11/2024",
+     "po_no": "036346",
+     "amount": "201.77",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-441",
+     "account_name": "GAS",
+     "item_reason": "PROPANE - FEB 2024",
+     "date": "03/11/2024",
+     "po_no": "036328",
+     "amount": "1,212.96",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 14
+  },
+  {
+   "check_number": "161080",
+   "vendor_name": "RED RIVER TRUCK REPAIR",
+   "void_date": null,
+   "check_total": "185.85",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "BLACK MESH TARP",
+     "date": "03/11/2024",
+     "po_no": "036318",
+     "amount": "185.85",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 14
+  },
+  {
+   "check_number": "161081",
+   "vendor_name": "REEVES LORI E",
+   "void_date": null,
+   "check_total": "562.50",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-495",
+     "account_name": "TRIAL EXPENSE",
+     "item_reason": "CV22-00274-COURT APPOINT",
+     "date": "03/11/2024",
+     "po_no": "037218",
+     "amount": "150.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-495",
+     "account_name": "TRIAL EXPENSE",
+     "item_reason": "CV23-00052 - COURT APPOI",
+     "date": "03/11/2024",
+     "po_no": "037218",
+     "amount": "412.50",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 14
+  },
+  {
+   "check_number": "161082",
+   "vendor_name": "REINERT PAPER & CHEMICA",
+   "void_date": null,
+   "check_total": "1,414.10",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-561-331",
+     "account_name": "LAUNDRY SUPPLIES",
+     "item_reason": "BREAK/COLOR SAFE DESTAIN",
+     "date": "03/11/2024",
+     "po_no": "036557",
+     "amount": "520.82",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-561-337",
+     "account_name": "CLEANING SUPPLIES",
+     "item_reason": "TOILET PAPER, PAPER TOWEL",
+     "date": "03/11/2024",
+     "po_no": "036557",
+     "amount": "893.28",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 14
+  },
+  {
+   "check_number": "161083",
+   "vendor_name": "REITER KIMBERLY",
+   "void_date": null,
+   "check_total": "181.57",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-650-425",
+     "account_name": "MILEAGE",
+     "item_reason": "MILEAGE FEBRUARY",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "181.57",
+     "batch_code": "--"
+    }
+   ],
+   "source_page": 15
+  },
+  {
+   "check_number": "161084",
+   "vendor_name": "ROBUCK MORGAN PLLC",
+   "void_date": null,
+   "check_total": "820.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ST VS AMANDA GOSS",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "820.00",
+     "batch_code": "--"
+    }
+   ],
+   "source_page": 15
+  },
+  {
+   "check_number": "161085",
+   "vendor_name": "ROGERS BEVERLEY",
+   "void_date": null,
+   "check_total": "470.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ITIO M R B",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "470.00",
+     "batch_code": "--"
+    }
+   ],
+   "source_page": 15
+  },
+  {
+   "check_number": "161086",
+   "vendor_name": "ROMCO EQUIPMENT CO",
+   "void_date": null,
+   "check_total": "75,847.78",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "REPAIRS VOLVO G946C",
+     "date": "03/11/2024",
+     "po_no": "036303",
+     "amount": "75,693.22",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "TRANS OIL",
+     "date": "03/11/2024",
+     "po_no": "036303",
+     "amount": "154.56",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 15
+  },
+  {
+   "check_number": "161087",
+   "vendor_name": "SANJAY BISWAS AT LAW PC",
+   "void_date": null,
+   "check_total": "1,462.50",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ST VS CHRISTIAN GOMEZ",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "387.50",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-420",
+     "account_name": "TELEPHONE",
+     "item_reason": "ST VS GRETHEL GONZALEZ",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "412.50",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ST VS MONIQUE GONZALEZ",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "375.00",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ST VS RAHEIM NELSON",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "287.50",
+     "batch_code": "--"
+    }
+   ],
+   "source_page": 15
+  },
+  {
+   "check_number": "161088",
+   "vendor_name": "SCHILLING TIRE & LUBE L",
+   "void_date": null,
+   "check_total": "14.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "014-624-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "INSPECTION X 2",
+     "date": "03/11/2024",
+     "po_no": "036572",
+     "amount": "14.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 15
+  },
+  {
+   "check_number": "161089",
+   "vendor_name": "SERENECO WELLNESS CENTE",
+   "void_date": null,
+   "check_total": "550.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "020-570-305",
+     "account_name": "PSYCHOLOGICAL & PSYCHIATR",
+     "item_reason": "JUVENILE - YM",
+     "date": "03/11/2024",
+     "po_no": "036849",
+     "amount": "550.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 15
+  },
+  {
+   "check_number": "161090",
+   "vendor_name": "SIDDONS-MARTIN EMERGENC",
+   "void_date": null,
+   "check_total": "199.59",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-540-354",
+     "account_name": "VEHICLE MAINTENANCE",
+     "item_reason": "SWIVEL KNOBS FOR SCENE L",
+     "date": "03/11/2024",
+     "po_no": "037167",
+     "amount": "199.59",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 15
+  },
+  {
+   "check_number": "161091",
+   "vendor_name": "SIGNWAREHOUSE INC",
+   "void_date": null,
+   "check_total": "1,837.72",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-300",
+     "account_name": "SUPPLIES & HARDWARE",
+     "item_reason": "VINYL",
+     "date": "03/11/2024",
+     "po_no": "037049",
+     "amount": "459.43",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "012-622-300",
+     "account_name": "SUPPLIES & HARDWARE",
+     "item_reason": "VINYL",
+     "date": "03/11/2024",
+     "po_no": "037049",
+     "amount": "459.43",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-300",
+     "account_name": "SUPPLIES & HARDWARE",
+     "item_reason": "VINYL",
+     "date": "03/11/2024",
+     "po_no": "037049",
+     "amount": "459.43",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "014-624-300",
+     "account_name": "SUPPLIES & HARDWARE",
+     "item_reason": "VINYL",
+     "date": "03/11/2024",
+     "po_no": "037049",
+     "amount": "459.43",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 15
+  },
+  {
+   "check_number": "161092",
+   "vendor_name": "SPARKLETTS AND SIERRA S",
+   "void_date": null,
+   "check_total": "13.55",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-465-183",
+     "account_name": "FOOD FOR JURY",
+     "item_reason": "WATER FEB 2024",
+     "date": "03/11/2024",
+     "po_no": "036791",
+     "amount": "13.55",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 15
+  },
+  {
+   "check_number": "161093",
+   "vendor_name": "SPEATH MICHELLE",
+   "void_date": null,
+   "check_total": "80.40",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-455-425",
+     "account_name": "MILEAGE",
+     "item_reason": "MILEAGE FEB 2024",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "80.40",
+     "batch_code": "--"
+    }
+   ],
+   "source_page": 15
+  },
+  {
+   "check_number": "161094",
+   "vendor_name": "STEVENSON LARRY",
+   "void_date": null,
+   "check_total": "900.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-209-300",
+     "account_name": "RESTITUTION PAYABLE",
+     "item_reason": "RESTITUTION",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "700.00",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-209-300",
+     "account_name": "RESTITUTION PAYABLE",
+     "item_reason": "RESTITUTION",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "200.00",
+     "batch_code": "--"
+    }
+   ],
+   "source_page": 16
+  },
+  {
+   "check_number": "161095",
+   "vendor_name": "STOWE'S INDEPENDENT SER",
+   "void_date": null,
+   "check_total": "2,900.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-510-450",
+     "account_name": "BUILDING MAINTENANCE",
+     "item_reason": "BASEMENT BOILER REPAIR",
+     "date": "03/11/2024",
+     "po_no": "036276",
+     "amount": "2,900.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 16
+  },
+  {
+   "check_number": "161096",
+   "vendor_name": "SULLIVANT LARRY B. ATTY",
+   "void_date": null,
+   "check_total": "350.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ST VS DESTINY NEW",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "350.00",
+     "batch_code": "--"
+    }
+   ],
+   "source_page": 16
+  },
+  {
+   "check_number": "161097",
+   "vendor_name": "TATUM LEE",
+   "void_date": null,
+   "check_total": "1,500.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ST VS GERARDO GARCIA-ROM",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "495.00",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ST VS FRANK EDDY",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "1,005.00",
+     "batch_code": "--"
+    }
+   ],
+   "source_page": 16
+  },
+  {
+   "check_number": "161098",
+   "vendor_name": "TDCAA NOW TRUST FUND",
+   "void_date": null,
+   "check_total": "505.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-475-427",
+     "account_name": "CONFERENCE EXPENSE",
+     "item_reason": "CIVIL LAW CONFERENCE - E",
+     "date": "03/11/2024",
+     "po_no": "037226",
+     "amount": "350.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-475-481",
+     "account_name": "ASSN DUES",
+     "item_reason": "SHERPELL'S MEMBERSHIP DU",
+     "date": "03/11/2024",
+     "po_no": "036666",
+     "amount": "75.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-475-481",
+     "account_name": "ASSN DUES",
+     "item_reason": "KREBS' MEMBERSHIP DUES",
+     "date": "03/11/2024",
+     "po_no": "036666",
+     "amount": "80.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 16
+  },
+  {
+   "check_number": "161099",
+   "vendor_name": "TELEFLEX LLC",
+   "void_date": null,
+   "check_total": "1,115.50",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-540-391",
+     "account_name": "MEDICAL SUPPLIES",
+     "item_reason": "NEEDLES",
+     "date": "03/11/2024",
+     "po_no": "036533",
+     "amount": "1,115.50",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 16
+  },
+  {
+   "check_number": "161100",
+   "vendor_name": "TEXAS ASSOCIATION OF CO",
+   "void_date": null,
+   "check_total": "37,621.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-206",
+     "account_name": "WORKER'S COMP",
+     "item_reason": "FY24 2ND QTR GEN WORKERS",
+     "date": "03/11/2024",
+     "po_no": "037254",
+     "amount": "29,561.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-206",
+     "account_name": "WORKERS COMP INS",
+     "item_reason": "FY24 2ND R&B1 WORKERS CO",
+     "date": "03/11/2024",
+     "po_no": "037254",
+     "amount": "2,015.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "012-622-206",
+     "account_name": "WORKERS COMP INS",
+     "item_reason": "FY24 2ND R&B2 WORKERS CO",
+     "date": "03/11/2024",
+     "po_no": "037254",
+     "amount": "2,015.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-206",
+     "account_name": "WORKERS COMP INS",
+     "item_reason": "FY24 2ND R&B3 WORKERS CO",
+     "date": "03/11/2024",
+     "po_no": "037254",
+     "amount": "2,015.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "014-624-206",
+     "account_name": "WORKERS COMP INS",
+     "item_reason": "FY24 2ND R&B4 WORKERS C",
+     "date": "03/11/2024",
+     "po_no": "037254",
+     "amount": "2,015.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 16
+  },
+  {
+   "check_number": "161101",
+   "vendor_name": "TEXAS DEPT OF PUBLIC SA",
+   "void_date": null,
+   "check_total": "2.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-498-490",
+     "account_name": "PRE-EMPLOYMENT PHYSICALS",
+     "item_reason": "NEWHIRE BACKGROUND CHECK",
+     "date": "03/11/2024",
+     "po_no": "036678",
+     "amount": "2.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 16
+  },
+  {
+   "check_number": "161102",
+   "vendor_name": "TEXAS LAWYERS INS EXCHA",
+   "void_date": null,
+   "check_total": "1,500.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-435-206",
+     "account_name": "PROFESSIONAL LIABILITY",
+     "item_reason": "TLIE RENEWAL",
+     "date": "03/11/2024",
+     "po_no": "037269",
+     "amount": "1,500.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 16
+  },
+  {
+   "check_number": "161103",
+   "vendor_name": "TEXAS STAR EMBROIDERY",
+   "void_date": null,
+   "check_total": "599.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-540-392",
+     "account_name": "UNIFORMS",
+     "item_reason": "LOGO ON SHIRTS",
+     "date": "03/11/2024",
+     "po_no": "036532",
+     "amount": "84.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-540-392",
+     "account_name": "UNIFORMS",
+     "item_reason": "LOGO ON SHIRTS",
+     "date": "03/11/2024",
+     "po_no": "036532",
+     "amount": "42.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-540-392",
+     "account_name": "UNIFORMS",
+     "item_reason": "CHEST LOGO",
+     "date": "03/11/2024",
+     "po_no": "036532",
+     "amount": "298.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-540-392",
+     "account_name": "UNIFORMS",
+     "item_reason": "CAPS",
+     "date": "03/11/2024",
+     "po_no": "036532",
+     "amount": "175.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 16
+  },
+  {
+   "check_number": "161104",
+   "vendor_name": "TEXOMA COUNCIL OF GOVER",
+   "void_date": null,
+   "check_total": "7,610.32",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-306",
+     "account_name": "CONTRACT SERVICES",
+     "item_reason": "JAN 2024",
+     "date": "03/11/2024",
+     "po_no": "036198",
+     "amount": "2,368.66",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-481",
+     "account_name": "DUES",
+     "item_reason": "MEMBERSHIP DUES",
+     "date": "03/11/2024",
+     "po_no": "037248",
+     "amount": "5,241.66",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 17
+  },
+  {
+   "check_number": "161105",
+   "vendor_name": "THOMPSON J R INC",
+   "void_date": null,
+   "check_total": "95,508.88",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "014-624-302",
+     "account_name": "GRAVEL",
+     "item_reason": "#1 FLEX BASE",
+     "date": "03/11/2024",
+     "po_no": "036577",
+     "amount": "5,509.33",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "014-624-302",
+     "account_name": "GRAVEL",
+     "item_reason": "#1 FLEX BASE",
+     "date": "03/11/2024",
+     "po_no": "036577",
+     "amount": "5,040.04",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "014-624-302",
+     "account_name": "GRAVEL",
+     "item_reason": "#1 FLEX BASE",
+     "date": "03/11/2024",
+     "po_no": "036577",
+     "amount": "1,159.09",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-302",
+     "account_name": "GRAVEL",
+     "item_reason": "#1 FLEX BASE",
+     "date": "03/11/2024",
+     "po_no": "036419",
+     "amount": "2,986.36",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-302",
+     "account_name": "GRAVEL",
+     "item_reason": "#1 FLEX BASE",
+     "date": "03/11/2024",
+     "po_no": "036419",
+     "amount": "1,044.24",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-302",
+     "account_name": "GRAVEL",
+     "item_reason": "2\" X 4\"",
+     "date": "03/11/2024",
+     "po_no": "036419",
+     "amount": "1,089.29",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-302",
+     "account_name": "GRAVEL",
+     "item_reason": "#1 FLEX BASE",
+     "date": "03/11/2024",
+     "po_no": "036419",
+     "amount": "3,601.97",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-302",
+     "account_name": "GRAVEL",
+     "item_reason": "#1 FLEX BASE",
+     "date": "03/11/2024",
+     "po_no": "036419",
+     "amount": "3,910.80",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-302",
+     "account_name": "GRAVEL",
+     "item_reason": "#1 FLEX BASE",
+     "date": "03/11/2024",
+     "po_no": "036419",
+     "amount": "1,252.76",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-302",
+     "account_name": "GRAVEL",
+     "item_reason": "#1 FLEX BASE",
+     "date": "03/11/2024",
+     "po_no": "036419",
+     "amount": "2,983.98",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "013-623-302",
+     "account_name": "GRAVEL",
+     "item_reason": "#1 FLEX BASE",
+     "date": "03/11/2024",
+     "po_no": "036419",
+     "amount": "2,748.98",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "012-622-302",
+     "account_name": "GRAVEL",
+     "item_reason": "1 1/2\" CRUSHER",
+     "date": "03/11/2024",
+     "po_no": "036511",
+     "amount": "2,750.85",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "012-622-302",
+     "account_name": "GRAVEL",
+     "item_reason": "1 1/2\" CRUSHER",
+     "date": "03/11/2024",
+     "po_no": "036511",
+     "amount": "920.74",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-302",
+     "account_name": "GRAVEL",
+     "item_reason": "1 1/2\" CRUSHER",
+     "date": "03/11/2024",
+     "po_no": "036325",
+     "amount": "2,453.96",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-302",
+     "account_name": "GRAVEL",
+     "item_reason": "1 1/2\" CRUSHER",
+     "date": "03/11/2024",
+     "po_no": "036325",
+     "amount": "3,602.06",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-302",
+     "account_name": "GRAVEL",
+     "item_reason": "1 1/2\" CRUSHER",
+     "date": "03/11/2024",
+     "po_no": "036325",
+     "amount": "3,630.19",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-302",
+     "account_name": "GRAVEL",
+     "item_reason": "1 1/2\" CRUSHER",
+     "date": "03/11/2024",
+     "po_no": "036325",
+     "amount": "2,859.05",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-302",
+     "account_name": "GRAVEL",
+     "item_reason": "1 1/2\" CRUSHER",
+     "date": "03/11/2024",
+     "po_no": "036325",
+     "amount": "4,477.49",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-302",
+     "account_name": "GRAVEL",
+     "item_reason": "1 1/2\" CRUSHER",
+     "date": "03/11/2024",
+     "po_no": "036325",
+     "amount": "4,918.86",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-302",
+     "account_name": "GRAVEL",
+     "item_reason": "1 1/2\" CRUSHER",
+     "date": "03/11/2024",
+     "po_no": "036325",
+     "amount": "5,511.19",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-302",
+     "account_name": "GRAVEL",
+     "item_reason": "1 1/2\" CRUSHER",
+     "date": "03/11/2024",
+     "po_no": "036325",
+     "amount": "3,052.66",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-302",
+     "account_name": "GRAVEL",
+     "item_reason": "1 1/2\" CRUSHER",
+     "date": "03/11/2024",
+     "po_no": "036325",
+     "amount": "2,890.88",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-302",
+     "account_name": "GRAVEL",
+     "item_reason": "1 1/2\" CRUSHER",
+     "date": "03/11/2024",
+     "po_no": "036325",
+     "amount": "3,745.02",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-302",
+     "account_name": "GRAVEL",
+     "item_reason": "1 1/2\" CRUSHER",
+     "date": "03/11/2024",
+     "po_no": "036325",
+     "amount": "3,316.87",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "012-622-302",
+     "account_name": "GRAVEL",
+     "item_reason": "1 1/2\" CRUSHER",
+     "date": "03/11/2024",
+     "po_no": "036511",
+     "amount": "2,127.87",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "012-622-302",
+     "account_name": "GRAVEL",
+     "item_reason": "1 1/2\" CRUSHER",
+     "date": "03/11/2024",
+     "po_no": "036511",
+     "amount": "4,285.98",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "012-622-302",
+     "account_name": "GRAVEL",
+     "item_reason": "1 1/2\" CRUSHER",
+     "date": "03/11/2024",
+     "po_no": "036511",
+     "amount": "3,803.84",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "012-622-302",
+     "account_name": "GRAVEL",
+     "item_reason": "1 1/2\" CRUSHER",
+     "date": "03/11/2024",
+     "po_no": "036511",
+     "amount": "4,605.19",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "012-622-302",
+     "account_name": "GRAVEL",
+     "item_reason": "1 1/2\" CRUSHER",
+     "date": "03/11/2024",
+     "po_no": "036511",
+     "amount": "5,229.34",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 17
+  },
+  {
+   "check_number": "161106",
+   "vendor_name": "THOMSON WEST",
+   "void_date": null,
+   "check_total": "1,183.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-435-390",
+     "account_name": "SUBSCRIPTIONS",
+     "item_reason": "JAN 2024",
+     "date": "03/11/2024",
+     "po_no": "036667",
+     "amount": "255.45",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-435-590",
+     "account_name": "BOOKS",
+     "item_reason": "2024 TX CIVIL PRACTICE A",
+     "date": "03/11/2024",
+     "po_no": "037239",
+     "amount": "85.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-435-390",
+     "account_name": "SUBSCRIPTIONS",
+     "item_reason": "FEB 2024",
+     "date": "03/11/2024",
+     "po_no": "036667",
+     "amount": "255.45",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "040-651-390",
+     "account_name": "SUBSCRIPTIONS",
+     "item_reason": "FEB 2024",
+     "date": "03/11/2024",
+     "po_no": "036669",
+     "amount": "587.10",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 17
+  },
+  {
+   "check_number": "161107",
+   "vendor_name": "TIMBERCREEK REAL ESTATE",
+   "void_date": null,
+   "check_total": "400.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-460",
+     "account_name": "RENT",
+     "item_reason": "MARCH 2024",
+     "date": "03/11/2024",
+     "po_no": "036202",
+     "amount": "400.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 17
+  },
+  {
+   "check_number": "161108",
+   "vendor_name": "TOWNSEND FIRM",
+   "void_date": null,
+   "check_total": "4,325.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ST VS MICHELLE CRISWELL",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "275.00",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ST VS ANTHONY HERNANDEZ-",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "320.00",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ST VS BRIANNA BOYLES",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "275.00",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ST VS SHELLY REEDER",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "360.00",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ST VS TJARK HATCHER",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "262.50",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ST VS LUIS RAMIREZ-RODRI",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "350.00",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ST VS KANE RUSSELL",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "100.00",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ST VS ABNER CASTILLO-VIL",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "240.00",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ST VS SHAWN M BELL",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "120.00",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ST VS MIGUEL ORDUNA",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "337.50",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ST VS KEVIN MCCOY",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "400.00",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ST VS DACODA PERRYMAN",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "200.00",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ST VS COURTNEY SKAGGS",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "100.00",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ST VS PRICILLA BOGGES",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "175.00",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ST VS JAMIE SHANNON",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "490.00",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ST VS JOHAN DELAROSA",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "320.00",
+     "batch_code": "--"
+    }
+   ],
+   "source_page": 18
+  },
+  {
+   "check_number": "161109",
+   "vendor_name": "TRADE CREDIT SERVICES",
+   "void_date": null,
+   "check_total": "119.79",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-561-393",
+     "account_name": "UNIFORMS - PRISONERS",
+     "item_reason": "INMATE UNIFORMS",
+     "date": "03/11/2024",
+     "po_no": "036899",
+     "amount": "119.79",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 18
+  },
+  {
+   "check_number": "161110",
+   "vendor_name": "TRANSUNION RISK AND ALT",
+   "void_date": null,
+   "check_total": "75.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-411-390",
+     "account_name": "SUBSCRIPTIONS",
+     "item_reason": "COMP FEB 2024",
+     "date": "03/11/2024",
+     "po_no": "036472",
+     "amount": "25.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-475-495",
+     "account_name": "TRIAL EXPENSE",
+     "item_reason": "CA FEB 2024",
+     "date": "03/11/2024",
+     "po_no": "036472",
+     "amount": "25.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-476-495",
+     "account_name": "TRIAL EXPENSE",
+     "item_reason": "DA FEB 2024",
+     "date": "03/11/2024",
+     "po_no": "036472",
+     "amount": "25.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 18
+  },
+  {
+   "check_number": "161111",
+   "vendor_name": "TRICOUNTY MATERIALS AND",
+   "void_date": null,
+   "check_total": "2,656.08",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-302",
+     "account_name": "GRAVEL",
+     "item_reason": "1 1/2\" FLEX BASE",
+     "date": "03/11/2024",
+     "po_no": "036301",
+     "amount": "2,035.98",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "011-621-302",
+     "account_name": "GRAVEL",
+     "item_reason": "1 1/2\" FLEX BASE",
+     "date": "03/11/2024",
+     "po_no": "036301",
+     "amount": "620.10",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 18
+  },
+  {
+   "check_number": "161112",
+   "vendor_name": "UNITED AG & TURF",
+   "void_date": null,
+   "check_total": "369.73",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "014-624-354",
+     "account_name": "MACHINERY REPAIRS",
+     "item_reason": "AIR FILTER",
+     "date": "03/11/2024",
+     "po_no": "036561",
+     "amount": "369.73",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 18
+  },
+  {
+   "check_number": "161113",
+   "vendor_name": "VALLEY VIEW VOLUNTEER F",
+   "void_date": null,
+   "check_total": "1,000.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-543-472",
+     "account_name": "COOKE CO. FIREFIGHTERS",
+     "item_reason": "GRANT MATCH",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "1,000.00",
+     "batch_code": "--"
+    }
+   ],
+   "source_page": 18
+  },
+  {
+   "check_number": "161114",
+   "vendor_name": "WAGNER SUPPLY COMPANY I",
+   "void_date": null,
+   "check_total": "1,156.90",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-510-300",
+     "account_name": "SUPPLIES",
+     "item_reason": "LINERS,CARPET FRESH,DSF",
+     "date": "03/11/2024",
+     "po_no": "036269",
+     "amount": "1,156.90",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 18
+  },
+  {
+   "check_number": "161115",
+   "vendor_name": "WILLIAMS ROGER ATTORNEY",
+   "void_date": null,
+   "check_total": "4,287.50",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ST VS BRITTANY MANUEL",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "218.75",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ST VS JUAN JOSE MIRELES",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "600.00",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ST VS RONDA J COX-DOUGLA",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "562.50",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ST VS JONATHAN S RUIZ",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "250.00",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ST VS JAMIE D SHANNON",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "625.00",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ST VS CLINT CARLTON",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "500.00",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ST VS ROBIN M HIGGINS",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "968.75",
+     "batch_code": "--"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-400",
+     "account_name": "COURT APPOINTED ATTORNEYS",
+     "item_reason": "ST VS CORREY TIMMONS",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "562.50",
+     "batch_code": "--"
+    }
+   ],
+   "source_page": 19
+  },
+  {
+   "check_number": "161116",
+   "vendor_name": "WILSON AUTO REPAIR",
+   "void_date": null,
+   "check_total": "4,549.81",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-560-354",
+     "account_name": "VEHICLE MAINTENANCE",
+     "item_reason": "UNIT 13 REBUILD TRANSMIS",
+     "date": "03/11/2024",
+     "po_no": "037047",
+     "amount": "4,549.81",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 19
+  },
+  {
+   "check_number": "161117",
+   "vendor_name": "XEROX CORPORATION",
+   "void_date": null,
+   "check_total": "1,613.94",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "041-650-463",
+     "account_name": "COPY MACHINE RENTAL",
+     "item_reason": "COPIES 01/20-02/21",
+     "date": "03/11/2024",
+     "po_no": "036230",
+     "amount": "127.92",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "041-650-463",
+     "account_name": "COPY MACHINE RENTAL",
+     "item_reason": "FEB 2024",
+     "date": "03/11/2024",
+     "po_no": "036230",
+     "amount": "174.92",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-463",
+     "account_name": "COPY MACHINE RENTAL",
+     "item_reason": "COPIES 01/26-02/23",
+     "date": "03/11/2024",
+     "po_no": "036231",
+     "amount": "46.58",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-463",
+     "account_name": "COPY MACHINE RENTAL",
+     "item_reason": "FEB 2024",
+     "date": "03/11/2024",
+     "po_no": "036231",
+     "amount": "58.61",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-463",
+     "account_name": "COPY MACHINE RENTAL",
+     "item_reason": "COPIES 01/21-02/21",
+     "date": "03/11/2024",
+     "po_no": "036240",
+     "amount": "131.15",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-463",
+     "account_name": "COPY MACHINE RENTAL",
+     "item_reason": "FEB 2024",
+     "date": "03/11/2024",
+     "po_no": "036240",
+     "amount": "145.05",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-463",
+     "account_name": "COPY MACHINE RENTAL",
+     "item_reason": "COPIES 01/21-02/21",
+     "date": "03/11/2024",
+     "po_no": "036242",
+     "amount": "8.70",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-463",
+     "account_name": "COPY MACHINE RENTAL",
+     "item_reason": "FEB 2024",
+     "date": "03/11/2024",
+     "po_no": "036242",
+     "amount": "146.81",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-463",
+     "account_name": "COPY MACHINE RENTAL",
+     "item_reason": "COPIES 01/30-02/21",
+     "date": "03/11/2024",
+     "po_no": "036241",
+     "amount": "8.45",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-463",
+     "account_name": "COPY MACHINE RENTAL",
+     "item_reason": "FEB 2024",
+     "date": "03/11/2024",
+     "po_no": "036241",
+     "amount": "146.38",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-463",
+     "account_name": "COPY MACHINE RENTAL",
+     "item_reason": "COPIEWS 01/21-02/21",
+     "date": "03/11/2024",
+     "po_no": "036237",
+     "amount": "31.17",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-463",
+     "account_name": "COPY MACHINE RENTAL",
+     "item_reason": "FEB 2024",
+     "date": "03/11/2024",
+     "po_no": "036237",
+     "amount": "138.55",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-463",
+     "account_name": "COPY MACHINE RENTAL",
+     "item_reason": "COPIES 01/21-02/21",
+     "date": "03/11/2024",
+     "po_no": "036243",
+     "amount": "20.90",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-463",
+     "account_name": "COPY MACHINE RENTAL",
+     "item_reason": "FEB 2024",
+     "date": "03/11/2024",
+     "po_no": "036243",
+     "amount": "146.81",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-570-463",
+     "account_name": "COPY MACHINE RENTAL",
+     "item_reason": "FEB 2024",
+     "date": "03/11/2024",
+     "po_no": "036236",
+     "amount": "65.31",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-463",
+     "account_name": "COPY MACHINE RENTAL",
+     "item_reason": "COPIES 01/23-02/26",
+     "date": "03/11/2024",
+     "po_no": "036244",
+     "amount": "0.96",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-463",
+     "account_name": "COPY MACHINE RENTAL",
+     "item_reason": "FEB 2024",
+     "date": "03/11/2024",
+     "po_no": "036244",
+     "amount": "86.07",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-463",
+     "account_name": "COPY MACHINE RENTAL",
+     "item_reason": "FEB 2024",
+     "date": "03/11/2024",
+     "po_no": "036238",
+     "amount": "55.93",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-463",
+     "account_name": "COPY MACHINE RENTAL",
+     "item_reason": "COPIES 01/26-02/23",
+     "date": "03/11/2024",
+     "po_no": "036232",
+     "amount": "8.71",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-409-463",
+     "account_name": "COPY MACHINE RENTAL",
+     "item_reason": "FEB 2024",
+     "date": "03/11/2024",
+     "po_no": "036232",
+     "amount": "64.96",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 19
+  },
+  {
+   "check_number": "161118",
+   "vendor_name": "YETT ANN",
+   "void_date": null,
+   "check_total": "90.00",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-561-424",
+     "account_name": "RETURNING PRISONERS",
+     "item_reason": "INMATE PICKUP",
+     "date": "03/11/2024",
+     "po_no": null,
+     "amount": "90.00",
+     "batch_code": "--"
+    }
+   ],
+   "source_page": 19
+  },
+  {
+   "check_number": "161119",
+   "vendor_name": "ZOLL MEDICAL CORPORATIO",
+   "void_date": null,
+   "check_total": "1,215.60",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-540-391",
+     "account_name": "MEDICAL SUPPLIES",
+     "item_reason": "CPR-D PADZ",
+     "date": "03/11/2024",
+     "po_no": "036530",
+     "amount": "942.00",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-540-391",
+     "account_name": "MEDICAL SUPPLIES",
+     "item_reason": "RED LNC-4 CABLE",
+     "date": "03/11/2024",
+     "po_no": "036530",
+     "amount": "273.60",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 19
+  },
+  {
+   "check_number": "161120",
+   "vendor_name": "151 GARAGE LLC LLC",
+   "void_date": null,
+   "check_total": "4,404.21",
+   "line_items": [
+    {
+     "pp": "06 2024",
+     "account_number": "001-560-354",
+     "account_name": "VEHICLE MAINTENANCE",
+     "item_reason": "UNIT 30 BELTS,WATER PUMP",
+     "date": "03/11/2024",
+     "po_no": "036349",
+     "amount": "1,092.71",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-560-354",
+     "account_name": "VEHICLE MAINTENANCE",
+     "item_reason": "UNIT 11 ANTIFREEZE",
+     "date": "03/11/2024",
+     "po_no": "036349",
+     "amount": "158.25",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-560-354",
+     "account_name": "VEHICLE MAINTENANCE",
+     "item_reason": "UNIT 2 - BRAKE PADS AND",
+     "date": "03/11/2024",
+     "po_no": "036349",
+     "amount": "810.25",
+     "batch_code": "PO"
+    },
+    {
+     "pp": "06 2024",
+     "account_number": "001-560-354",
+     "account_name": "VEHICLE MAINTENANCE",
+     "item_reason": "UNIT 4 - HEADLIGHT ASSY",
+     "date": "03/11/2024",
+     "po_no": "036349",
+     "amount": "2,343.00",
+     "batch_code": "PO"
+    }
+   ],
+   "source_page": 20
+  }
+ ],
+ "total_checks_written": "897,943.57",
+ "total_void_checks": "6,620.00",
+ "total_check_amount": "891,323.57"
+}

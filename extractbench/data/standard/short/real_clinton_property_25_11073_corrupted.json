@@ -1,0 +1,310 @@
+{
+ "creditors": [
+  {
+   "number": "2.1",
+   "part": "priority",
+   "creditor_name": "NYS DEPARTMENT OF TAX AND FINANCE",
+   "mailing_address": [
+    "PO BOX 5300",
+    "ALBANY, NY 12205"
+   ],
+   "date_incurred": null,
+   "account_last4": null,
+   "priority_code_subsection": "11 U.S.C. § 507(a) ((8)(B))",
+   "priority_amount": "$6,867.62",
+   "basis_for_claim": "Property Tax",
+   "contingent": false,
+   "unliquidated": false,
+   "disputed": false,
+   "subject_to_offset": false,
+   "amount_claimed": "$6,867.62",
+   "source_page": 1
+  },
+  {
+   "number": "3.1",
+   "part": "nonpriority",
+   "creditor_name": "TARGET EXTERMINATING INC.",
+   "mailing_address": [
+    "79-11 69TH DRIVE",
+    "MIDDLE VILLAGE, NY 11379"
+   ],
+   "date_incurred": null,
+   "account_last4": null,
+   "priority_code_subsection": null,
+   "priority_amount": null,
+   "basis_for_claim": "Trade Payables",
+   "contingent": false,
+   "unliquidated": false,
+   "disputed": false,
+   "subject_to_offset": false,
+   "amount_claimed": "$179.64",
+   "source_page": 1
+  },
+  {
+   "number": "3.2",
+   "part": "nonpriority",
+   "creditor_name": "JACK JAFFA & ASSOCIATES CORP.",
+   "mailing_address": [
+    "147 PRINCE STREET",
+    "BROOKLYN, NY 11201"
+   ],
+   "date_incurred": null,
+   "account_last4": null,
+   "priority_code_subsection": null,
+   "priority_amount": null,
+   "basis_for_claim": "Trade Payables",
+   "contingent": false,
+   "unliquidated": false,
+   "disputed": false,
+   "subject_to_offset": false,
+   "amount_claimed": "$292.00",
+   "source_page": 1
+  },
+  {
+   "number": "3.3",
+   "part": "nonpriority",
+   "creditor_name": "BIG MIKE'S A/C",
+   "mailing_address": [
+    "269 LINKS DRIVE WEST",
+    "OCEANSIDE, NY 11572"
+   ],
+   "date_incurred": null,
+   "account_last4": null,
+   "priority_code_subsection": null,
+   "priority_amount": null,
+   "basis_for_claim": "Trade Payables",
+   "contingent": false,
+   "unliquidated": false,
+   "disputed": false,
+   "subject_to_offset": false,
+   "amount_claimed": "$34.84",
+   "source_page": 1
+  },
+  {
+   "number": "3.4",
+   "part": "nonpriority",
+   "creditor_name": "JANUZ BERISHA",
+   "mailing_address": [
+    "220 25TH ST, STE 106",
+    "BROOKLYN, NY 11232"
+   ],
+   "date_incurred": null,
+   "account_last4": null,
+   "priority_code_subsection": null,
+   "priority_amount": null,
+   "basis_for_claim": "Employee Programs",
+   "contingent": false,
+   "unliquidated": false,
+   "disputed": false,
+   "subject_to_offset": false,
+   "amount_claimed": "$1,000.00",
+   "source_page": 2
+  },
+  {
+   "number": "3.5",
+   "part": "nonpriority",
+   "creditor_name": "SYNCO",
+   "mailing_address": [
+    "116 STORER AVE",
+    "NEW ROCHELLE, NY 10801"
+   ],
+   "date_incurred": null,
+   "account_last4": null,
+   "priority_code_subsection": null,
+   "priority_amount": null,
+   "basis_for_claim": "Trade Payables",
+   "contingent": false,
+   "unliquidated": false,
+   "disputed": false,
+   "subject_to_offset": false,
+   "amount_claimed": "$342.86",
+   "source_page": 2
+  },
+  {
+   "number": "3.6",
+   "part": "nonpriority",
+   "creditor_name": "VERIZON",
+   "mailing_address": [
+    "1095 AVENUE OF THE AMERICAS",
+    "NEW YORK, NY 10036"
+   ],
+   "date_incurred": null,
+   "account_last4": null,
+   "priority_code_subsection": null,
+   "priority_amount": null,
+   "basis_for_claim": "Trade Payables",
+   "contingent": false,
+   "unliquidated": false,
+   "disputed": false,
+   "subject_to_offset": false,
+   "amount_claimed": "$35.60",
+   "source_page": 2
+  },
+  {
+   "number": "3.7",
+   "part": "nonpriority",
+   "creditor_name": "OFFICE OF ADMINISTRATIVE TRIALS AND HEARINGS",
+   "mailing_address": [
+    "280 BROADWAY",
+    "NEW YORK, NY 10007"
+   ],
+   "date_incurred": null,
+   "account_last4": null,
+   "priority_code_subsection": null,
+   "priority_amount": null,
+   "basis_for_claim": "ECB Violation",
+   "contingent": true,
+   "unliquidated": true,
+   "disputed": true,
+   "subject_to_offset": false,
+   "amount_claimed": "UNLIQUIDATED",
+   "source_page": 2
+  },
+  {
+   "number": "3.8",
+   "part": "nonpriority",
+   "creditor_name": "HORING WELIKSON ROSEN & DIGRUGILLIERS, P.C.",
+   "mailing_address": [
+    "11 HILLSIDE AVENUE",
+    "WILLISTON PARK, NY 11596"
+   ],
+   "date_incurred": null,
+   "account_last4": null,
+   "priority_code_subsection": null,
+   "priority_amount": null,
+   "basis_for_claim": "Trade Payables",
+   "contingent": false,
+   "unliquidated": false,
+   "disputed": false,
+   "subject_to_offset": false,
+   "amount_claimed": "$237.45",
+   "source_page": 2
+  },
+  {
+   "number": "3.9",
+   "part": "nonpriority",
+   "creditor_name": "YES ENERGY MANAGEMENT",
+   "mailing_address": [
+    "1877 BROADWAY STREET, SUITE 606",
+    "BOULDER, CO 80302"
+   ],
+   "date_incurred": null,
+   "account_last4": null,
+   "priority_code_subsection": null,
+   "priority_amount": null,
+   "basis_for_claim": "Trade Payables",
+   "contingent": false,
+   "unliquidated": false,
+   "disputed": false,
+   "subject_to_offset": false,
+   "amount_claimed": "$2.50",
+   "source_page": 3
+  },
+  {
+   "number": "3.10",
+   "part": "nonpriority",
+   "creditor_name": "BGS CONTROL",
+   "mailing_address": [
+    "910 E COUNTY LINE RD, SUITE 101",
+    "LAKEWOOD, NJ 08701"
+   ],
+   "date_incurred": null,
+   "account_last4": null,
+   "priority_code_subsection": null,
+   "priority_amount": null,
+   "basis_for_claim": "Trade Payables",
+   "contingent": false,
+   "unliquidated": false,
+   "disputed": false,
+   "subject_to_offset": false,
+   "amount_claimed": "$323.36",
+   "source_page": 3
+  },
+  {
+   "number": "3.11",
+   "part": "nonpriority",
+   "creditor_name": "CONSOLIDATED EDISON COMPANY OF NEW YORK, INC.",
+   "mailing_address": [
+    "4 IRVING PLACE",
+    "NEW YORK, NY 10003"
+   ],
+   "date_incurred": null,
+   "account_last4": null,
+   "priority_code_subsection": null,
+   "priority_amount": null,
+   "basis_for_claim": "Trade Payables",
+   "contingent": false,
+   "unliquidated": false,
+   "disputed": false,
+   "subject_to_offset": false,
+   "amount_claimed": "$207.09",
+   "source_page": 3
+  },
+  {
+   "number": "3.12",
+   "part": "nonpriority",
+   "creditor_name": "ENDICOTT COMM, INC.",
+   "mailing_address": [
+    "1015 TANZANIA DRIVE",
+    "ROSEVILLE, CA 95661"
+   ],
+   "date_incurred": null,
+   "account_last4": null,
+   "priority_code_subsection": null,
+   "priority_amount": null,
+   "basis_for_claim": "Trade Payables",
+   "contingent": false,
+   "unliquidated": false,
+   "disputed": false,
+   "subject_to_offset": false,
+   "amount_claimed": "$12.15",
+   "source_page": 3
+  },
+  {
+   "number": "3.13",
+   "part": "nonpriority",
+   "creditor_name": "YARDI SYSTEMS, INC",
+   "mailing_address": [
+    "430 S FAIRVIEW AVENUE",
+    "SANTA BARBARA, CA 93117"
+   ],
+   "date_incurred": null,
+   "account_last4": null,
+   "priority_code_subsection": null,
+   "priority_amount": null,
+   "basis_for_claim": "Trade Payables",
+   "contingent": false,
+   "unliquidated": false,
+   "disputed": false,
+   "subject_to_offset": false,
+   "amount_claimed": "$19.91",
+   "source_page": 3
+  },
+  {
+   "number": "3.14",
+   "part": "nonpriority",
+   "creditor_name": "NEW YORK PLUMBING & HEATING",
+   "mailing_address": [
+    "5774 MOSHOLU AVENUE",
+    "BRONX, NY 10471"
+   ],
+   "date_incurred": null,
+   "account_last4": null,
+   "priority_code_subsection": null,
+   "priority_amount": null,
+   "basis_for_claim": "Trade Payables",
+   "contingent": false,
+   "unliquidated": false,
+   "disputed": false,
+   "subject_to_offset": false,
+   "amount_claimed": "$4,267.90",
+   "source_page": 4
+  }
+ ],
+ "debtor_name": "Clinton Property Co., LLC",
+ "court": "Southern District of New York",
+ "case_number": "25-11073",
+ "total_priority_claims": "$6,867.62",
+ "total_nonpriority_claims": "$6,955.30",
+ "total_all_claims": "$13,822.92"
+}

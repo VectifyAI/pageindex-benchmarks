@@ -1,0 +1,113 @@
+{
+ "api_no": "42-269-31618",
+ "rrc_district_no": "8A",
+ "rrc_lease_no": "66571",
+ "field_name": "Anne Tandy (Strawn 5400')",
+ "lease_name": "S.B. Burnett Estate",
+ "well_no": "*Y-63AL*",
+ "operator_name": "Pacific Enterprises Oil Co.",
+ "rrc_operator_no": "632801",
+ "county": "King",
+ "operator_address": "4245 Kemp, Suite 600, Wichita Falls, Texas 76308",
+ "producers_initial_potential": false,
+ "producers_retest": false,
+ "producers_reclass": false,
+ "producers_well_record_only": true,
+ "location_section_block_survey": "Sec. 44, Blk. T, J.L. Parsons",
+ "well_located_miles": "17",
+ "well_located_direction": "SE",
+ "well_located_nearest_town": "Guthrie, TX",
+ "notice_filed_in_name_of": "Gunn Management Co.",
+ "logs_run": "DIL/LD",
+ "swab_used_yes": false,
+ "swab_used_no": false,
+ "completion_new_well": false,
+ "completion_deepening": false,
+ "completion_other": true,
+ "completion_plug_back": false,
+ "permit_drill_plugback_deepen_date": "9/22/86",
+ "permit_drill_plugback_deepen_no": "303183",
+ "fluid_injection_permit_date": "5/17/89",
+ "fluid_injection_permit_no": "F12146",
+ "number_producing_wells_lease_field": "N/A",
+ "total_acres_in_lease": "5640",
+ "date_plugback_recompletion_drilling_commenced": "4/16/91",
+ "date_plugback_recompletion_drilling_ended": "4/26/91",
+ "distance_nearest_well_lease_reservoir": "N/A",
+ "directional_survey_yes": false,
+ "directional_survey_no": true,
+ "cementing_affidavit_yes": false,
+ "cementing_affidavit_no": true,
+ "amount_and_kind_of_material_used": "2000 G 15% Spearhead HCL",
+ "remarks": "W-2 is filed to show well as a dual WIW in the Anne Tandy (Strawn, Lo.)- Project #F10946 and Anne Tandy (Strawn 5400')- Project #F12146 fields. W-2 for Ann Tandy (Strawn Lo.) was filed 9/5/86. Dual WI began 4/17/91.",
+ "signature_present": true,
+ "certification_title": "Production Engineering Manager",
+ "certification_area_code": "(817)",
+ "certification_number": "692-3003",
+ "certification_printed_name": "Stan M. Smith",
+ "item39_multiple_completion_reservoirs": [
+  {
+   "field_reservoir": "Anne Tandy (Strawn 5400)",
+   "gas_id_or_oil_lease_no": "66571",
+   "oil_or_gas": "oil",
+   "well_no": "Y-63AL"
+  },
+  {
+   "field_reservoir": "Anne Tandy (Strawn, Lo.)",
+   "gas_id_or_oil_lease_no": "60998",
+   "oil_or_gas": "oil",
+   "well_no": "Y-63AU"
+  }
+ ],
+ "casing_record": [
+  {
+   "type_of_casing": null,
+   "casing_size": "8 5/8\"",
+   "weight_per_ft": "24#",
+   "hole_size": "12 1/4\"",
+   "setting_depth": "256'",
+   "multistage_tool_depth": null,
+   "multistage_shoe_depth": null,
+   "cement_class": null,
+   "cement_amount": "225 Sx Cmt.",
+   "slurry_volume": "297",
+   "top_of_cement": "Surf.",
+   "top_of_cement_determined_by": null
+  },
+  {
+   "type_of_casing": null,
+   "casing_size": "5 1/2\"",
+   "weight_per_ft": "15.5#",
+   "hole_size": "7 7/8\"",
+   "setting_depth": "6050'",
+   "multistage_tool_depth": null,
+   "multistage_shoe_depth": null,
+   "cement_class": null,
+   "cement_amount": "530 HLC & 300",
+   "slurry_volume": "1371",
+   "top_of_cement": "4090'",
+   "top_of_cement_determined_by": null
+  }
+ ],
+ "liner_record": [],
+ "tubing_record": [
+  {
+   "size": "2 7/8\"",
+   "depth_set": "5349'",
+   "packer_depth_type": "5349'"
+  }
+ ],
+ "producing_injection_disposal_intervals": [
+  {
+   "from_depth": "5541'",
+   "to_depth": "5558'"
+  }
+ ],
+ "operation_depth_intervals": [
+  {
+   "from_depth": "5541'",
+   "to_depth": "58'"
+  }
+ ],
+ "formation_record": []
+}

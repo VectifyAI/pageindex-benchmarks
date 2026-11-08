@@ -1,0 +1,126 @@
+{
+ "api_no": "079-32559",
+ "rrc_district_no": "8A",
+ "rrc_lease_no": "66371",
+ "field_name": "Levelland",
+ "lease_name": "Starnes Ranch '34'",
+ "well_no": "2H",
+ "operator_name": "The Redmon Oil Company, Inc.",
+ "rrc_operator_no": "697051",
+ "county": "Cochran",
+ "operator_address": "3315 Silverstone Drive, Ste. A, Plano, TX 75023",
+ "purpose_of_filing": "Re-Compl. Horiz.",
+ "producers_initial_potential": true,
+ "producers_retest": false,
+ "producers_reclass": false,
+ "producers_well_record_only": false,
+ "location_section_block_survey": "Harrison T Sec. 34, Abst. 21 Brown, JH",
+ "well_located_miles": "11",
+ "well_located_direction": "SW",
+ "well_located_nearest_town": "Lehman",
+ "notice_filed_in_name_of": "The Redmon Oil Company, Inc.\nCastey Energy, Inc.",
+ "item39_multiple_completion_reservoirs": [],
+ "logs_run": "no logs run",
+ "test_date": "8-10-07",
+ "test_no_hours_tested": "24",
+ "test_production_method": "2x1 1/2 x 16 RC60RWBC",
+ "test_choke_size": "n/a",
+ "prod_oil_bbls": "40",
+ "prod_gas_mcf": "35",
+ "prod_water_bbls": "50",
+ "prod_flowing_tubing_pressure": "n/a",
+ "rate_oil_bbls": "40",
+ "rate_gas_mcf": "35",
+ "rate_water_bbls": "50",
+ "rate_oil_gravity": "27.4",
+ "rate_casing_pressure": "0",
+ "swab_used_yes": false,
+ "swab_used_no": true,
+ "oil_produced_prior_to_test": "none",
+ "completion_new_well": false,
+ "completion_deepening": false,
+ "completion_plug_back": false,
+ "completion_other": true,
+ "permit_drill_plugback_deepen_date": "6-21-07",
+ "permit_drill_plugback_deepen_no": "640578",
+ "number_producing_wells_lease_field": "4",
+ "total_acres_in_lease": "560",
+ "date_plugback_recompletion_drilling_commenced": "6-28-07",
+ "date_plugback_recompletion_drilling_ended": "7-5-07",
+ "distance_nearest_well_lease_reservoir": "440'",
+ "elevation": "3,793' GR",
+ "directional_survey_yes": true,
+ "directional_survey_no": false,
+ "total_depth_tvd": "5069",
+ "total_depth_md": "8,031'",
+ "plug_back_depth_md": "8,031'",
+ "cementing_affidavit_yes": true,
+ "cementing_affidavit_no": false,
+ "amount_and_kind_of_material_used": "Acidized w/30,000 gals.",
+ "remarks": "KOP @ 4921 +- TVD @ 5069; MD @ 8031\n***Rule 36 Covered Well***",
+ "signature_present": true,
+ "certification_title": "Operations Admin.",
+ "certification_area_code": "972",
+ "certification_number": "943-8844",
+ "certification_printed_name": "Yvonne Cohen",
+ "certification_date": "10/13/07",
+ "casing_record": [
+  {
+   "type_of_casing": null,
+   "casing_size": "8 5/8\"",
+   "weight_per_ft": "24",
+   "hole_size": "12 1/4\"",
+   "setting_depth": "462'",
+   "multistage_tool_depth": null,
+   "multistage_shoe_depth": null,
+   "cement_class": "\"C\"",
+   "cement_amount": "300 sx",
+   "slurry_volume": "396",
+   "top_of_cement": "Surface",
+   "top_of_cement_determined_by": null
+  },
+  {
+   "type_of_casing": null,
+   "casing_size": "5 1/2\"",
+   "weight_per_ft": "15.5",
+   "hole_size": "7 7/8",
+   "setting_depth": "5,069",
+   "multistage_tool_depth": null,
+   "multistage_shoe_depth": null,
+   "cement_class": "C",
+   "cement_amount": "100 sx",
+   "slurry_volume": "135",
+   "top_of_cement": "-",
+   "top_of_cement_determined_by": null
+  }
+ ],
+ "liner_record": [],
+ "tubing_record": [
+  {
+   "size": "2 7/8\"",
+   "depth_set": "5,095'",
+   "packer_depth_type": null
+  }
+ ],
+ "producing_injection_disposal_intervals": [
+  {
+   "from_depth": "4,871'",
+   "to_depth": "4,873'"
+  }
+ ],
+ "operation_depth_intervals": [
+  {
+   "from_depth": "4,871'",
+   "to_depth": "4,873'"
+  }
+ ],
+ "formation_record": [
+  {
+   "markers_formation_tops": "San Andres",
+   "depth_tvd": null,
+   "depth_md": null,
+   "formation_type": null,
+   "formation_isolated": null
+  }
+ ]
+}

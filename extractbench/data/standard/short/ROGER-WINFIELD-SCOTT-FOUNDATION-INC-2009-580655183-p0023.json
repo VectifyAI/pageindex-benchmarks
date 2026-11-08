@@ -1,0 +1,217 @@
+{
+ "payer_name": "GIBRALTAR PRIVATE BANK & TRUST",
+ "payer_address": "220 ALHAMBRA CIRCLE, SUITE 800, CORAL GABLES, FL 33134-5101",
+ "payer_phone": "(305)476-1982",
+ "payer_federal_id": "59-2372081",
+ "account_number": "0920035",
+ "recipient_name": "ROGER WINFIELD SCOTT FOUNDATION, INC",
+ "recipient_address": "3583 CASTLEHILL WAY, TUCKER, GA 30084",
+ "recipient_tax_id": "58-0655183",
+ "corrected": false,
+ "second_tin_notice": false,
+ "transactions": [
+  {
+   "number_of_shares": 249.0,
+   "cusip": "458140100",
+   "description": "INTEL CORP",
+   "date_acquired": "VARIOUS",
+   "date_of_sale": "07/07/2009",
+   "proceeds": 4061.08,
+   "cost_or_other_basis": 3499.47,
+   "net_gain_or_loss": 561.61,
+   "federal_income_tax_withheld": 0.0
+  },
+  {
+   "number_of_shares": 310.0,
+   "cusip": "460146103",
+   "description": "INTERNATIONAL PAPER CO",
+   "date_acquired": "VARIOUS",
+   "date_of_sale": "07/07/2009",
+   "proceeds": 4369.98,
+   "cost_or_other_basis": 8006.09,
+   "net_gain_or_loss": -3636.11,
+   "federal_income_tax_withheld": 0.0
+  },
+  {
+   "number_of_shares": 97.0,
+   "cusip": "500255104",
+   "description": "KOHLS CORP",
+   "date_acquired": "VARIOUS",
+   "date_of_sale": "07/07/2009",
+   "proceeds": 4132.22,
+   "cost_or_other_basis": 3516.64,
+   "net_gain_or_loss": 615.58,
+   "federal_income_tax_withheld": 0.0
+  },
+  {
+   "number_of_shares": 210.0,
+   "cusip": "548661107",
+   "description": "LOWES COS INC",
+   "date_acquired": "VARIOUS",
+   "date_of_sale": "07/07/2009",
+   "proceeds": 3912.95,
+   "cost_or_other_basis": 4398.07,
+   "net_gain_or_loss": -485.12,
+   "federal_income_tax_withheld": 0.0
+  },
+  {
+   "number_of_shares": 67.0,
+   "cusip": "617446448",
+   "description": "MORGAN STANLEY",
+   "date_acquired": "06/11/2009",
+   "date_of_sale": "07/07/2009",
+   "proceeds": 1770.78,
+   "cost_or_other_basis": 1995.26,
+   "net_gain_or_loss": -224.48,
+   "federal_income_tax_withheld": 0.0
+  },
+  {
+   "number_of_shares": 25.0,
+   "cusip": "742718109",
+   "description": "PROCTER & GAMBLE CO",
+   "date_acquired": "07/31/2008",
+   "date_of_sale": "07/07/2009",
+   "proceeds": 1294.68,
+   "cost_or_other_basis": 1636.0,
+   "net_gain_or_loss": -341.32,
+   "federal_income_tax_withheld": 0.0
+  },
+  {
+   "number_of_shares": 2.0,
+   "cusip": "760975102",
+   "description": "RESEARCH IN MOTION LIMITED",
+   "date_acquired": "08/01/2008",
+   "date_of_sale": "06/08/2009",
+   "proceeds": 161.03,
+   "cost_or_other_basis": 239.49,
+   "net_gain_or_loss": -78.46,
+   "federal_income_tax_withheld": 0.0
+  },
+  {
+   "number_of_shares": 58.0,
+   "cusip": "760975102",
+   "description": "RESEARCH IN MOTION LIMITED",
+   "date_acquired": "VARIOUS",
+   "date_of_sale": "07/07/2009",
+   "proceeds": 3893.43,
+   "cost_or_other_basis": 3094.07,
+   "net_gain_or_loss": 799.36,
+   "federal_income_tax_withheld": 0.0
+  },
+  {
+   "number_of_shares": 76.0,
+   "cusip": "78462F103",
+   "description": "SPDR S&P 500 ETF TRUST",
+   "date_acquired": "VARIOUS",
+   "date_of_sale": "01/09/2009",
+   "proceeds": 6807.36,
+   "cost_or_other_basis": 8849.3,
+   "net_gain_or_loss": -2041.94,
+   "federal_income_tax_withheld": 0.0
+  },
+  {
+   "number_of_shares": 165.0,
+   "cusip": "855030102",
+   "description": "STAPLES INC",
+   "date_acquired": "08/04/2008",
+   "date_of_sale": "07/07/2009",
+   "proceeds": 3128.32,
+   "cost_or_other_basis": 3806.76,
+   "net_gain_or_loss": -678.44,
+   "federal_income_tax_withheld": 0.0
+  },
+  {
+   "number_of_shares": 95.0,
+   "cusip": "867914103",
+   "description": "SUNTRUST BANKS INC",
+   "date_acquired": "VARIOUS",
+   "date_of_sale": "01/21/2009",
+   "proceeds": 1432.33,
+   "cost_or_other_basis": 3357.93,
+   "net_gain_or_loss": -1925.6,
+   "federal_income_tax_withheld": 0.0
+  },
+  {
+   "number_of_shares": 75.0,
+   "cusip": "74144T108",
+   "description": "T ROWE PRICE GROUP INC",
+   "date_acquired": "VARIOUS",
+   "date_of_sale": "07/07/2009",
+   "proceeds": 2866.65,
+   "cost_or_other_basis": 3062.95,
+   "net_gain_or_loss": -196.3,
+   "federal_income_tax_withheld": 0.0
+  },
+  {
+   "number_of_shares": 98.0,
+   "cusip": "881624209",
+   "description": "TEVA PHARMACEUTICAL INDS LTD ADR",
+   "date_acquired": "VARIOUS",
+   "date_of_sale": "07/07/2009",
+   "proceeds": 4828.91,
+   "cost_or_other_basis": 4691.54,
+   "net_gain_or_loss": 137.37,
+   "federal_income_tax_withheld": 0.0
+  },
+  {
+   "number_of_shares": 5.0,
+   "cusip": "883556102",
+   "description": "THERMO FISHER SCIENTIFIC INC",
+   "date_acquired": "10/29/2008",
+   "date_of_sale": "07/07/2009",
+   "proceeds": 193.15,
+   "cost_or_other_basis": 181.14,
+   "net_gain_or_loss": 12.01,
+   "federal_income_tax_withheld": 0.0
+  },
+  {
+   "number_of_shares": 47.0,
+   "cusip": "907818108",
+   "description": "UNION PAC CORP",
+   "date_acquired": "05/06/2009",
+   "date_of_sale": "07/07/2009",
+   "proceeds": 2292.21,
+   "cost_or_other_basis": 2459.66,
+   "net_gain_or_loss": -167.45,
+   "federal_income_tax_withheld": 0.0
+  },
+  {
+   "number_of_shares": 45.0,
+   "cusip": "911312106",
+   "description": "UNITED PARCEL SERVICE-CLASS B",
+   "date_acquired": "VARIOUS",
+   "date_of_sale": "07/07/2009",
+   "proceeds": 2145.09,
+   "cost_or_other_basis": 2356.18,
+   "net_gain_or_loss": -211.09,
+   "federal_income_tax_withheld": 0.0
+  },
+  {
+   "number_of_shares": 158.0,
+   "cusip": "H27013103",
+   "description": "WEATHERFORD INTNTL LTD",
+   "date_acquired": "VARIOUS",
+   "date_of_sale": "07/07/2009",
+   "proceeds": 2776.44,
+   "cost_or_other_basis": 2199.11,
+   "net_gain_or_loss": 577.33,
+   "federal_income_tax_withheld": 0.0
+  }
+ ],
+ "section_subtotals": [
+  {
+   "section_label": "Total Short Term Sales Reported on 1099-B",
+   "proceeds": 86619.67,
+   "cost_or_other_basis": 101983.33,
+   "net_gain_or_loss": -15363.66,
+   "federal_income_tax_withheld": 0.0
+  },
+  {
+   "section_label": "Long Term 15% Sales Reported on 1099-B",
+   "proceeds": null,
+   "cost_or_other_basis": null,
+   "net_gain_or_loss": null,
+   "federal_income_tax_withheld": null
+  }
+ ]
+}

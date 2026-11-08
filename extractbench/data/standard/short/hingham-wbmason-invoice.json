@@ -1,0 +1,56 @@
+{
+ "invoice_number": "253661463",
+ "invoice_type": "standard",
+ "original_invoice_number": null,
+ "date": "2025-04-16",
+ "due_date": "2025-05-16",
+ "purchase_order_number": null,
+ "order_number": "S151787147",
+ "vendor": {
+  "name": "W.B.MASON CO., INC.",
+  "address": {
+   "street": "59 Centre St",
+   "city": "Brockton",
+   "state": "MA",
+   "zip_code": "02301",
+   "country": null
+  },
+  "phone": "888-WB-MASON",
+  "email": null,
+  "tax_id": "04-2455641"
+ },
+ "customer": {
+  "name": "HINGHAM-ZONING DEPT.",
+  "address": {
+   "street": "210 CENTRAL ST",
+   "city": "HINGHAM",
+   "state": "MA",
+   "zip_code": "02043-2756",
+   "country": null
+  },
+  "phone": null,
+  "email": null,
+  "account_number": "C2588144"
+ },
+ "line_items": [
+  {
+   "line_no": 1,
+   "item_code": "KID21005779",
+   "description": "EXTINGUISHER FIRE 4# ABC",
+   "quantity": 1,
+   "unit_price": 47.29,
+   "discount_percent": null,
+   "tax_rate": null,
+   "amount": 47.29
+  }
+ ],
+ "subtotal": 47.29,
+ "discount_total": null,
+ "tax_total": 0.0,
+ "shipping": null,
+ "total_amount": 47.29,
+ "payment_terms": "Net 30",
+ "bank_details": null,
+ "currency": "USD",
+ "notes": null
+}

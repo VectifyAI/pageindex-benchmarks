@@ -1,0 +1,29 @@
+{
+ "scorer": "extract_bench.extract_unified_value_f1",
+ "scorable": true,
+ "metrics": {
+  "extract_unified_value_precision": 0.9952153110047847,
+  "extract_unified_value_recall": 0.9952153110047847,
+  "extract_unified_value_f1": 0.9952153110047847
+ },
+ "value_f1_metadata": {
+  "v_correct": 624,
+  "expected_cells": 627,
+  "predicted_cells": 627,
+  "g_correct": 0,
+  "grounded_expected_cells": 419,
+  "grounded_pred_claims": 0,
+  "p_correct": 0,
+  "page_expected_cells": 627,
+  "page_pred_claims": 0,
+  "expected_rows": 208,
+  "predicted_rows": 208,
+  "bbox_iou_threshold": 0.5,
+  "bbox_match_mode": "envelope",
+  "grounded_incomplete": false,
+  "value_incomplete": false
+ },
+ "run": {
+  "seconds": 132
+ }
+}

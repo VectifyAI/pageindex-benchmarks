@@ -1,0 +1,38 @@
+{
+ "period": "FY2024",
+ "currency": "JPY",
+ "fiscal_period_end_date": "2024-03-31",
+ "total_revenue": 9353590,
+ "revenue_growth_yoy": 52.3,
+ "gross_profit": null,
+ "operating_income": 1466128,
+ "net_income": 962946,
+ "adjusted_ebitda": null,
+ "gaap_eps_diluted": 724.34,
+ "adjusted_eps_diluted": null,
+ "gross_margin": null,
+ "operating_margin": null,
+ "free_cash_flow": null,
+ "segments": [
+  {
+   "segment_name": "ホールセール事業部門",
+   "segment_revenue": 835200,
+   "segment_profit": 632100
+  },
+  {
+   "segment_name": "リテール事業部門",
+   "segment_revenue": 1290000,
+   "segment_profit": 215700
+  },
+  {
+   "segment_name": "グローバル事業部門",
+   "segment_revenue": 1375900,
+   "segment_profit": 644900
+  },
+  {
+   "segment_name": "市場事業部門",
+   "segment_revenue": 526200,
+   "segment_profit": 389900
+  }
+ ]
+}

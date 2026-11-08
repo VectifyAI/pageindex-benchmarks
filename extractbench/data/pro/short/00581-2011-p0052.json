@@ -1,0 +1,68 @@
+{
+ "final_k1": false,
+ "amended_k1": false,
+ "partnership_ein": "26-1287244",
+ "partnership_name": "TELCO EXPERTS LLC",
+ "partnership_address": "38 PARK AVENUE, RUTHERFORD, NJ 07070",
+ "irs_center": "OGDEN, UT",
+ "is_publicly_traded_partnership": false,
+ "partner_id": "082-50-3812",
+ "partner_name": "ADAM GOLDBERG",
+ "partner_address": "33 WINDING WAY, WAYNE, NJ 07470",
+ "is_general_partner": true,
+ "is_domestic_partner": true,
+ "partner_entity_type": "INDIVIDUAL",
+ "liability_nonrecourse": null,
+ "liability_qualified_nonrecourse_financing": null,
+ "liability_recourse": 22027,
+ "capital_beginning_account": 12281,
+ "capital_contributed": 15000,
+ "capital_current_year_increase_decrease": -5587,
+ "capital_withdrawals_distributions": null,
+ "capital_ending_account": 21694,
+ "capital_account_method": "Tax basis",
+ "contributed_built_in_gain_loss_property": null,
+ "profit_share_beginning": 33.3333333,
+ "profit_share_ending": 33.3333333,
+ "loss_share_beginning": 33.3333333,
+ "loss_share_ending": 33.3333333,
+ "capital_share_beginning": 33.3333333,
+ "capital_share_ending": 33.3333333,
+ "box_1_ordinary_business_income": -5307,
+ "box_2_net_rental_real_estate": null,
+ "box_3_other_net_rental_income": null,
+ "box_4_guaranteed_payments": null,
+ "box_5_interest_income": null,
+ "box_6a_ordinary_dividends": null,
+ "box_6b_qualified_dividends": null,
+ "box_7_royalties": null,
+ "box_8_net_short_term_capital_gain": null,
+ "box_9a_net_long_term_capital_gain": null,
+ "box_9b_collectibles_gain": null,
+ "box_9c_unrecaptured_1250_gain": null,
+ "box_10_net_section_1231_gain": null,
+ "box_12_section_179_deduction": null,
+ "box_11_other_income": null,
+ "box_13_other_deductions": null,
+ "box_15_credits": null,
+ "box_16_foreign_transactions": null,
+ "box_17_amt_items": null,
+ "box_19_distributions": null,
+ "box_20_other_information": null,
+ "box_14_self_employment_earnings": [
+  {
+   "code": "A",
+   "amount": -5307
+  },
+  {
+   "code": "C",
+   "amount": 34200
+  }
+ ],
+ "box_18_tax_exempt_income": [
+  {
+   "code": "C",
+   "amount": 280
+  }
+ ]
+}

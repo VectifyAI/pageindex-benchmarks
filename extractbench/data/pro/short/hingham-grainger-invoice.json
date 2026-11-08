@@ -1,0 +1,56 @@
+{
+ "invoice_number": "9823373304",
+ "invoice_type": "standard",
+ "original_invoice_number": null,
+ "date": "2023-08-30",
+ "due_date": "2023-09-29",
+ "purchase_order_number": "WEB2454487473",
+ "order_number": "1491364305",
+ "vendor": {
+  "name": "GRAINGER",
+  "address": {
+   "street": "428 UNIVERSITY AVE.",
+   "city": "NORWOOD",
+   "state": "MA",
+   "zip_code": "02062-2638",
+   "country": null
+  },
+  "phone": "1-800-472-4643",
+  "email": null,
+  "tax_id": "36-1150280"
+ },
+ "customer": {
+  "name": "HINGHAM TOWN HALL SELECTMEN",
+  "address": {
+   "street": "210 CENTRAL ST",
+   "city": "HINGHAM",
+   "state": "MA",
+   "zip_code": "02043-1955",
+   "country": null
+  },
+  "phone": "(781) 741-1400",
+  "email": null,
+  "account_number": "838233708"
+ },
+ "line_items": [
+  {
+   "line_no": 1,
+   "item_code": "61DE01",
+   "description": "OFFICE DEHUMID,229CFM,16.9PT,WHITE MANUFACTURER # FFAP5033W1",
+   "quantity": 1,
+   "unit_price": 392.07,
+   "discount_percent": null,
+   "tax_rate": null,
+   "amount": 392.07
+  }
+ ],
+ "subtotal": 392.07,
+ "discount_total": null,
+ "tax_total": null,
+ "shipping": null,
+ "total_amount": 392.07,
+ "payment_terms": "NET 30 DAYS AFTER INVOICE DATE IN U.S. DOLLARS.",
+ "bank_details": null,
+ "currency": "USD",
+ "notes": null
+}

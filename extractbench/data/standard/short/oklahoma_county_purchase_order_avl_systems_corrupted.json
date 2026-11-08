@@ -1,0 +1,33 @@
+{
+ "po_number": "22601904",
+ "requisition_number": "12602080",
+ "po_date": "2025-08-28",
+ "buyer": {
+  "name": "Oklahoma County",
+  "department": "Emergency Management"
+ },
+ "requisitioner": "Nick Rutledge",
+ "buyer_contact": "Nick Rutledge",
+ "vendor": {
+  "name": "AVL SYSTEMS DESIGN LLC",
+  "address": "14901 BRISTOL PARK BLVD EDMOND, OK 73013",
+  "vendor_number": "5421",
+  "contact": "405-749-1866"
+ },
+ "ship_to": "OK CO EMERGENCY MANAGEMENT 320 ROBERT S KERR ROOM 101 OKLAHOMA CITY, OK 73102",
+ "bill_to": "OK CO EMERGENCY MANAGEMENT 320 ROBERT S KERR ROOM 101 OKLAHOMA CITY, OK 73102",
+ "line_items": [
+  {
+   "line_no": 1,
+   "description": "Statewide Contract # SW1021AV - Emergency Operations Center (EOC) audio-visual equipment",
+   "quantity": 1,
+   "unit_of_measure": "EACH",
+   "unit_price": 6721.8,
+   "start_date": null,
+   "end_date": null,
+   "extended_price": 6721.8
+  }
+ ],
+ "total_amount": 6721.8,
+ "currency": "USD"
+}

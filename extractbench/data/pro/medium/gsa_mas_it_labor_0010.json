@@ -1,0 +1,79 @@
+{
+ "contract_number": "47QTCA18D00E0",
+ "contractor_name": "Rapidiant Corporation",
+ "schedule_title": "GSA Multiple Award Schedule (MAS) Catalog",
+ "labor_categories": [
+  {
+   "sin": null,
+   "labor_category_title": "Project Manager",
+   "minimum_education": "Bachelor of Science (BS) degree",
+   "minimum_years_experience": "ten years overall experience, including more than five years project management experience, managing increasingly complex programs / projects preferably in the government contracting arena.",
+   "site": "Government Site",
+   "year_1_rate": 213.75,
+   "year_2_rate": 213.75,
+   "year_3_rate": 213.75,
+   "year_4_rate": 213.75,
+   "year_5_rate": 213.75
+  },
+  {
+   "sin": null,
+   "labor_category_title": "Core Analyst",
+   "minimum_education": "Bachelor of Science (BS) degree",
+   "minimum_years_experience": "four years overall experience, including more than two years technical experience.",
+   "site": "Government Site",
+   "year_1_rate": 118.75,
+   "year_2_rate": 118.75,
+   "year_3_rate": 118.75,
+   "year_4_rate": 118.75,
+   "year_5_rate": 118.75
+  },
+  {
+   "sin": null,
+   "labor_category_title": "Implementation Specialist",
+   "minimum_education": "Bachelor of Science (BS) degree",
+   "minimum_years_experience": "eight or more years of technical experience.",
+   "site": "Government Site",
+   "year_1_rate": 190.0,
+   "year_2_rate": 190.0,
+   "year_3_rate": 190.0,
+   "year_4_rate": 190.0,
+   "year_5_rate": 190.0
+  },
+  {
+   "sin": null,
+   "labor_category_title": "Project Manager",
+   "minimum_education": "Bachelor of Science (BS) degree",
+   "minimum_years_experience": "ten years overall experience, including more than five years project management experience, managing increasingly complex programs / projects preferably in the government contracting arena.",
+   "site": "Government Site",
+   "year_1_rate": 213.75,
+   "year_2_rate": 213.75,
+   "year_3_rate": 213.75,
+   "year_4_rate": 213.75,
+   "year_5_rate": 213.75
+  },
+  {
+   "sin": null,
+   "labor_category_title": "Core Analyst",
+   "minimum_education": "Bachelor of Science (BS) degree",
+   "minimum_years_experience": "four years overall experience, including more than two years technical experience.",
+   "site": "Government Site",
+   "year_1_rate": 118.75,
+   "year_2_rate": 118.75,
+   "year_3_rate": 118.75,
+   "year_4_rate": 118.75,
+   "year_5_rate": 118.75
+  },
+  {
+   "sin": null,
+   "labor_category_title": "Implementation Specialist",
+   "minimum_education": "Bachelor of Science (BS) degree",
+   "minimum_years_experience": "eight or more years of technical experience.",
+   "site": "Government Site",
+   "year_1_rate": 190.0,
+   "year_2_rate": 190.0,
+   "year_3_rate": 190.0,
+   "year_4_rate": 190.0,
+   "year_5_rate": 190.0
+  }
+ ]
+}

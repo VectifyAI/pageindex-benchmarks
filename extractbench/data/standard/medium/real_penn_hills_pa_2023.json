@@ -1,0 +1,5492 @@
+{
+ "district": "Penn Hills School District",
+ "report_title": "List Of Payments 2023-2024",
+ "report_id": "BAR047",
+ "print_date": "10/11/23",
+ "print_time": "10:53:25",
+ "check_date_from": "09/01/23",
+ "check_date_to": "09/30/23",
+ "check_number_from": "00000001",
+ "check_number_to": "99999999",
+ "checks": [
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340288",
+   "check_date": "09/13/23",
+   "vendor_name": "ACLD TILLOTSON SCHOOL",
+   "lines": [
+    {
+     "account_number": "10-1290-563-521-32-01-000",
+     "description": "2023 ESY TUITION - J.W. (PRORATED)",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$1,195.65"
+    }
+   ],
+   "check_total": "$1,195.65",
+   "source_page": 1
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340289",
+   "check_date": "09/13/23",
+   "vendor_name": "AFSCME COUNCIL 13 AFL-CIO",
+   "lines": [
+    {
+     "account_number": "10-0460-000-825-08-00-000",
+     "description": "AFSCME DUES PAY - PLANT-UD30",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$1,064.21"
+    },
+    {
+     "account_number": "10-0460-000-828-08-00-000",
+     "description": "AFSCME DUES PAY - FOOD SERVICE-UD40",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$63.23"
+    }
+   ],
+   "check_total": "$1,127.44",
+   "source_page": 1
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340290",
+   "check_date": "09/13/23",
+   "vendor_name": "AMAZON CAPITAL SERVICES",
+   "lines": [
+    {
+     "account_number": "10-1110-610-000-10-11-000",
+     "description": "UHU WHITE TACK TWIN PACK - STICKY REUSABLE ADHESIVE",
+     "batch": "331",
+     "po_number": "23000065",
+     "amount": "$3,230.92"
+    },
+    {
+     "account_number": "10-1110-610-000-10-11-000",
+     "description": "SPRINGHILL 8 1/2 X 11 GREEN CARDSTOCK",
+     "batch": "331",
+     "po_number": "23000071",
+     "amount": "$548.40"
+    },
+    {
+     "account_number": "10-1110-610-000-10-11-000",
+     "description": "UHU WHITE TACK TWIN PACK - STICKY REUSABLE ADHESIVE",
+     "batch": "331",
+     "po_number": "23000065",
+     "amount": "$3,620.95"
+    },
+    {
+     "account_number": "10-1110-610-000-10-11-000",
+     "description": "STAPLES 803310 REINFORCED HANGING FILE FOLDERS 5-TAB COLORS",
+     "batch": "331",
+     "po_number": "23000161",
+     "amount": "$444.30"
+    },
+    {
+     "account_number": "10-1110-610-000-20-20-000",
+     "description": "Dry Erase Lapboards HERKKA 32 Pack Double sided",
+     "batch": "331",
+     "po_number": "23000130",
+     "amount": "$4,179.70"
+    },
+    {
+     "account_number": "10-1110-610-000-20-20-000",
+     "description": "Dry Erase Lapboards HERKKA 32 Pack Double sided",
+     "batch": "331",
+     "po_number": "23000130",
+     "amount": "$531.30"
+    },
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "LICHAMP 10 PACK GENERAL PURPOSE MASKING TAPE 1INCH",
+     "batch": "331",
+     "po_number": "23000116",
+     "amount": "$4,875.73"
+    },
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "IPROKKO (2 PACK) 24 INCH COMPUTER PRIVACY SCREEN",
+     "batch": "331",
+     "po_number": "23000136",
+     "amount": "$324.17"
+    },
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "ACDELCO 100-COUNT AAA BATTERIES, MAX POWER SURGE",
+     "batch": "331",
+     "po_number": "23000059",
+     "amount": "$1,081.52"
+    },
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "LICHAMP 10 PACK GENERAL PURPOSE MASKING TAPE 1INCH",
+     "batch": "331",
+     "po_number": "23000116",
+     "amount": "$572.56"
+    },
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "AFMAT EASEL PAD, UPGRADE CHART PAPER FOR TEACHERS, LAST SELF",
+     "batch": "331",
+     "po_number": "23000100",
+     "amount": "$410.70"
+    },
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "RED PAPER 2 POCKET FOLDERS WITH PRONGS 50 PACK",
+     "batch": "331",
+     "po_number": "23000057",
+     "amount": "$393.12"
+    },
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "AFMAT EASEL PAD, UPGRADE CHART PAPER FOR TEACHERS, LAST SELF",
+     "batch": "331",
+     "po_number": "23000100",
+     "amount": "$585.39"
+    },
+    {
+     "account_number": "10-1210-610-000-00-32-000",
+     "description": "AMAZON BASICS EXPANDING FILE POCKET FOLDER ORGANIZER, LETTER",
+     "batch": "331",
+     "po_number": "23000176",
+     "amount": "$106.84"
+    },
+    {
+     "account_number": "10-1210-610-000-00-32-000",
+     "description": "AMAZON BASICS EXPANDING FILE POCKET FOLDER, LETTER SIZE,",
+     "batch": "331",
+     "po_number": "23000150",
+     "amount": "$178.86"
+    },
+    {
+     "account_number": "10-1350-610-000-30-25-175",
+     "description": "HATCHBOX 1.75MM BLACK PLA 3D",
+     "batch": "331",
+     "po_number": "23000106",
+     "amount": "$963.34"
+    },
+    {
+     "account_number": "10-1450-610-190-00-62-000",
+     "description": "B06768YB85 DRY ERASE LAMINATED JUMBO WALL CALENDAR, HUGE 24\"",
+     "batch": "331",
+     "po_number": "23000148",
+     "amount": "$251.71"
+    },
+    {
+     "account_number": "10-2240-610-000-00-42-000",
+     "description": "65w 45w usb c laptop charger for dell latitude 5420 5520",
+     "batch": "331",
+     "po_number": "23000138",
+     "amount": "$749.00"
+    },
+    {
+     "account_number": "10-2240-610-000-00-42-000",
+     "description": "65w 45w usb c laptop charger for dell latitude 5420 5520",
+     "batch": "331",
+     "po_number": "23000138",
+     "amount": "$321.00"
+    },
+    {
+     "account_number": "10-2240-610-000-00-42-000",
+     "description": "AVERY MAILING ADDRESS LABELS, LASER PRINTERS, 15,000 LABELS,",
+     "batch": "331",
+     "po_number": "23000121",
+     "amount": "$449.21"
+    },
+    {
+     "account_number": "10-2660-751-000-00-62-000",
+     "description": "VEVOR CROWN CONTROL STANCHION, SET OF 8 PIECES",
+     "batch": "331",
+     "po_number": "23000189",
+     "amount": "$4,080.15"
+    }
+   ],
+   "check_total": "$27,898.87",
+   "source_page": 1
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340291",
+   "check_date": "09/13/23",
+   "vendor_name": "AP FBO OSA GLOBAL, LLC",
+   "lines": [
+    {
+     "account_number": "10-2660-350-000-00-62-001",
+     "description": "SECURITY WK 8/20-8/26/23-SR HIGH",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$5,001.19"
+    },
+    {
+     "account_number": "10-2660-350-000-00-62-001",
+     "description": "SECURITY WK 8/20-8/26/23-LINTON",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$2,477.64"
+    },
+    {
+     "account_number": "10-2660-350-000-00-62-001",
+     "description": "SECURITY WK 8/20-8/26/23-GATE OFFICERS",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$4,719.05"
+    },
+    {
+     "account_number": "10-2660-350-000-00-62-001",
+     "description": "SECURITY WK 8/20-8/26/23-PHES",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$2,588.04"
+    },
+    {
+     "account_number": "10-2660-350-000-00-62-001",
+     "description": "SECURITY WK 8/20-8/26/23-SCH EVENT",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$92.50"
+    },
+    {
+     "account_number": "10-2660-350-000-00-62-001",
+     "description": "SECURITY WK 8/20-8/26/23- HS SPORTS",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$1,156.25"
+    },
+    {
+     "account_number": "10-2660-350-000-00-62-001",
+     "description": "SECURITY WK 8/20-8/26/23 YESS STAFF",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$11,248.99"
+    }
+   ],
+   "check_total": "$27,283.66",
+   "source_page": 2
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340292",
+   "check_date": "09/13/23",
+   "vendor_name": "APPLE, INC",
+   "lines": [
+    {
+     "account_number": "10-2310-820-000-00-04-000",
+     "description": "13 - INCH MACBOOK AIR WUTH M1 CHIP, SPACE GRAY, 8GB UNIFIED",
+     "batch": "331",
+     "po_number": "23000113",
+     "amount": "$999.00"
+    }
+   ],
+   "check_total": "$999.00",
+   "source_page": 2
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340293",
+   "check_date": "09/13/23",
+   "vendor_name": "ARBOR SCIENTIFIC",
+   "lines": [
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "INCLINE PLANE #P3 3541",
+     "batch": "331",
+     "po_number": "23000070",
+     "amount": "$2,023.20"
+    }
+   ],
+   "check_total": "$2,023.20",
+   "source_page": 3
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340294",
+   "check_date": "09/13/23",
+   "vendor_name": "B & H PHOTO-VIDEO",
+   "lines": [
+    {
+     "account_number": "10-1350-610-000-30-25-175",
+     "description": "kodak pixproaz255 digital camera (red) BH #KOAZ255RD",
+     "batch": "331",
+     "po_number": "23000114",
+     "amount": "$2,959.61"
+    },
+    {
+     "account_number": "10-1350-752-000-30-25-175",
+     "description": "kodak pixproaz255 digital camera (red) BH #KOAZ255RD",
+     "batch": "331",
+     "po_number": "23000114",
+     "amount": "$1,429.45"
+    }
+   ],
+   "check_total": "$4,389.06",
+   "source_page": 3
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340295",
+   "check_date": "09/13/23",
+   "vendor_name": "BALDWIN CROSS COUNTRY CLUB",
+   "lines": [
+    {
+     "account_number": "10-3200-390-000-00-60-311",
+     "description": "2023 RED WHITE & BLUE CLASSIC",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$220.00"
+    }
+   ],
+   "check_total": "$220.00",
+   "source_page": 3
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340296",
+   "check_date": "09/13/23",
+   "vendor_name": "BIG'S SANITATION, INC.",
+   "lines": [
+    {
+     "account_number": "10-2611-430-000-00-46-000",
+     "description": "DUMPSTER RENTAL",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$505.00"
+    },
+    {
+     "account_number": "10-2611-430-000-00-46-000",
+     "description": "DUMPSTER RENTAL",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$505.00"
+    }
+   ],
+   "check_total": "$1,010.00",
+   "source_page": 3
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340297",
+   "check_date": "09/13/23",
+   "vendor_name": "BRIAN BROWN",
+   "lines": [
+    {
+     "account_number": "10-2271-240-000-00-53-000",
+     "description": "CREDIT REIMBURSE (3) POINT PARK UNIV",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$3,006.00"
+    }
+   ],
+   "check_total": "$3,006.00",
+   "source_page": 3
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340298",
+   "check_date": "09/13/23",
+   "vendor_name": "RUSTON BROWN",
+   "lines": [
+    {
+     "account_number": "10-2271-240-000-00-53-000",
+     "description": "TUITION REIMBURSEMENT",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$750.00"
+    }
+   ],
+   "check_total": "$750.00",
+   "source_page": 3
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340299",
+   "check_date": "09/13/23",
+   "vendor_name": "BRUCE E. DICE & ASSOCIATES, P.C.",
+   "lines": [
+    {
+     "account_number": "10-2350-330-000-00-52-000",
+     "description": "AUG 2023 COSTS & RETAINER",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$40,386.91"
+    }
+   ],
+   "check_total": "$40,386.91",
+   "source_page": 3
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340300",
+   "check_date": "09/13/23",
+   "vendor_name": "BSN SPORTS, LLC",
+   "lines": [
+    {
+     "account_number": "10-3200-390-301-26-00-000",
+     "description": "WHITE SOCKET CAPS - 12/SET ITEM NUMBER: MKA103W",
+     "batch": "331",
+     "po_number": "22000656",
+     "amount": "$27.00"
+    }
+   ],
+   "check_total": "$27.00",
+   "source_page": 3
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340301",
+   "check_date": "09/13/23",
+   "vendor_name": "CENTRAL CAMBRIA SCHOOL DISTRICT",
+   "lines": [
+    {
+     "account_number": "10-1290-561-000-00-32-000",
+     "description": "AUG/SEPT 2022 TUITION-A.J. (7 DAYS)",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$1,260.21"
+    }
+   ],
+   "check_total": "$1,260.21",
+   "source_page": 3
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340302",
+   "check_date": "09/13/23",
+   "vendor_name": "CENTURY SPORTS INC",
+   "lines": [
+    {
+     "account_number": "10-3200-580-310-26-00-000",
+     "description": "SCHUTT FOOTBALL HELMET-RED WITH RED FACEMASK ATTACHED",
+     "batch": "331",
+     "po_number": "22000599",
+     "amount": "$1,848.14"
+    },
+    {
+     "account_number": "10-3200-610-333-26-00-000",
+     "description": "SCHUTT FOOTBALL HELMET-RED WITH RED FACEMASK ATTACHED",
+     "batch": "331",
+     "po_number": "22000599",
+     "amount": "$2,682.80"
+    },
+    {
+     "account_number": "10-3200-750-000-26-00-000",
+     "description": "SCHUTT FOOTBALL HELMET-RED WITH RED FACEMASK ATTACHED",
+     "batch": "331",
+     "po_number": "22000599",
+     "amount": "$216.56"
+    }
+   ],
+   "check_total": "$4,747.50",
+   "source_page": 4
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340303",
+   "check_date": "09/13/23",
+   "vendor_name": "COMCAST",
+   "lines": [
+    {
+     "account_number": "10-2611-530-000-00-42-000",
+     "description": "SEPT/OCT 2023 CHRGS",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$10.55"
+    }
+   ],
+   "check_total": "$10.55",
+   "source_page": 4
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340304",
+   "check_date": "09/13/23",
+   "vendor_name": "COMDOC, INC",
+   "lines": [
+    {
+     "account_number": "10-1110-610-000-10-11-000",
+     "description": "#008R13041 STAPLES FOR COPIERS (862918/EQ99266)",
+     "batch": "331",
+     "po_number": "23000079",
+     "amount": "$875.98"
+    }
+   ],
+   "check_total": "$875.98",
+   "source_page": 4
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340305",
+   "check_date": "09/13/23",
+   "vendor_name": "JAQUELINE DORSETT",
+   "lines": [
+    {
+     "account_number": "10-2271-240-000-00-53-000",
+     "description": "CREDIT REIMBURSE (6) PITT UNIV",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$6,018.00"
+    }
+   ],
+   "check_total": "$6,018.00",
+   "source_page": 4
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340306",
+   "check_date": "09/13/23",
+   "vendor_name": "DYNAMIC SYSTEMS",
+   "lines": [
+    {
+     "account_number": "10-2511-610-000-00-55-000",
+     "description": "JR HIGH ACTIVITY FUND CHECKS",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$71.66"
+    }
+   ],
+   "check_total": "$71.66",
+   "source_page": 4
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340307",
+   "check_date": "09/13/23",
+   "vendor_name": "FLINN SCIENTIFIC",
+   "lines": [
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "FLINN BALANCE 0.1 250G #0B2163",
+     "batch": "331",
+     "po_number": "23000080",
+     "amount": "$2,087.15"
+    }
+   ],
+   "check_total": "$2,087.15",
+   "source_page": 4
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340308",
+   "check_date": "09/13/23",
+   "vendor_name": "GATEWAY CROSS COUNTRY",
+   "lines": [
+    {
+     "account_number": "10-3200-390-000-00-60-311",
+     "description": "2023/24 CROSS COUNTRY INVITE",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$150.00"
+    }
+   ],
+   "check_total": "$150.00",
+   "source_page": 4
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340309",
+   "check_date": "09/13/23",
+   "vendor_name": "GOPHER SPORT",
+   "lines": [
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "YOUTH GOPHER COMP 1000 FOOTBALLS GK-61-333",
+     "batch": "331",
+     "po_number": "23000058",
+     "amount": "$1,545.94"
+    }
+   ],
+   "check_total": "$1,545.94",
+   "source_page": 4
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340310",
+   "check_date": "09/13/23",
+   "vendor_name": "GREATER LATROBE SCHOOL",
+   "lines": [
+    {
+     "account_number": "10-1290-561-000-00-32-000",
+     "description": "AUG 2022 TUITION-A.J. (2 DAYS)",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$298.20"
+    },
+    {
+     "account_number": "10-1290-561-000-00-32-000",
+     "description": "FEB 2023 TUITION - G.R. (5 DAYS)",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$745.50"
+    }
+   ],
+   "check_total": "$1,043.70",
+   "source_page": 4
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340311",
+   "check_date": "09/13/23",
+   "vendor_name": "KELLY SERVICES, INC",
+   "lines": [
+    {
+     "account_number": "10-1110-328-000-00-00-020",
+     "description": "WK END 8/31/23 SECT ADMIN",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$271.05"
+    },
+    {
+     "account_number": "10-1110-328-000-00-00-020",
+     "description": "WK END 08/20/23 SECT LIN/ADMIN",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$1,032.08"
+    },
+    {
+     "account_number": "10-1110-328-000-00-00-025",
+     "description": "WK END 08/20/23 SECT SR HIGH",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$145.95"
+    },
+    {
+     "account_number": "10-1110-329-000-00-00-011",
+     "description": "WK END 8/31/23 TCHR PHES",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$1,476.88"
+    },
+    {
+     "account_number": "10-1110-329-000-00-00-011",
+     "description": "06/18/2023 TCHR ESY PROG-PHES",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$-166.80"
+    },
+    {
+     "account_number": "10-1110-329-000-00-00-020",
+     "description": "WK END 8/31/23 TCHR LINTON",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$1,216.25"
+    },
+    {
+     "account_number": "10-1110-329-000-00-00-025",
+     "description": "WK END 8/31/23 TCHR SR HIGH",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$1,615.88"
+    }
+   ],
+   "check_total": "$5,591.29",
+   "source_page": 4
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340312",
+   "check_date": "09/13/23",
+   "vendor_name": "KEYSTONE COLLECTION",
+   "lines": [
+    {
+     "account_number": "10-0460-000-813-08-00-000",
+     "description": "WAGE ATTACH WITHHELD PAYABLE-",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$129.29"
+    }
+   ],
+   "check_total": "$129.29",
+   "source_page": 5
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340313",
+   "check_date": "09/13/23",
+   "vendor_name": "KISKI AREA CROSS COUNTRY",
+   "lines": [
+    {
+     "account_number": "10-3200-390-000-00-60-311",
+     "description": "KISKI CROSS COUNTRY 2023/24",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$150.00"
+    }
+   ],
+   "check_total": "$150.00",
+   "source_page": 5
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340314",
+   "check_date": "09/13/23",
+   "vendor_name": "KRISE TRANSPORTATION, INC",
+   "lines": [
+    {
+     "account_number": "10-2711-513-000-00-43-000",
+     "description": "SEPT 2023 DAILY RUNS - PAY #1",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$282,479.70"
+    }
+   ],
+   "check_total": "$282,479.70",
+   "source_page": 5
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340315",
+   "check_date": "09/13/23",
+   "vendor_name": "MAXIM HEALTHCARE SERVICES,",
+   "lines": [
+    {
+     "account_number": "10-2420-330-000-00-00-000",
+     "description": "RN SERVICES-PHES WK END 08/26/2023",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$469.80"
+    }
+   ],
+   "check_total": "$469.80",
+   "source_page": 5
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340316",
+   "check_date": "09/13/23",
+   "vendor_name": "NCS PEARSON",
+   "lines": [
+    {
+     "account_number": "10-2140-610-000-00-32-000",
+     "description": "BASC-3 Q-GLOBAL SCORING",
+     "batch": "331",
+     "po_number": "23000149",
+     "amount": "$119.40"
+    }
+   ],
+   "check_total": "$119.40",
+   "source_page": 5
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340317",
+   "check_date": "09/13/23",
+   "vendor_name": "OAKMONT WATER AUTHORITY",
+   "lines": [
+    {
+     "account_number": "10-2611-424-000-00-46-020",
+     "description": "AUG 2023 CHRGS - LINTON",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$2,665.87"
+    }
+   ],
+   "check_total": "$2,665.87",
+   "source_page": 5
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340318",
+   "check_date": "09/13/23",
+   "vendor_name": "OFFICE DEPOT",
+   "lines": [
+    {
+     "account_number": "10-1110-610-000-10-11-000",
+     "description": "#433490 OD BRAND 2-POCKET FOLDERS,",
+     "batch": "331",
+     "po_number": "23000063",
+     "amount": "$5,559.87"
+    },
+    {
+     "account_number": "10-1110-610-000-10-11-000",
+     "description": "#839148 XEROX VITALITY YELLOW",
+     "batch": "331",
+     "po_number": "23000072",
+     "amount": "$1,759.43"
+    },
+    {
+     "account_number": "10-1110-610-000-10-11-000",
+     "description": "#839148 XEROX VITALITY YELLOW",
+     "batch": "331",
+     "po_number": "23000072",
+     "amount": "$350.10"
+    },
+    {
+     "account_number": "10-1110-610-000-10-11-000",
+     "description": "#433490 OD BRAND 2-POCKET FOLDERS,",
+     "batch": "331",
+     "po_number": "23000063",
+     "amount": "$52.50"
+    },
+    {
+     "account_number": "10-1210-610-000-00-32-000",
+     "description": "OFFICE DEPOT BRAND MANILA ENVELOPES, 10X13, CLASP CLOSURE,",
+     "batch": "331",
+     "po_number": "23000177",
+     "amount": "$51.14"
+    }
+   ],
+   "check_total": "$7,773.04",
+   "source_page": 5
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340319",
+   "check_date": "09/13/23",
+   "vendor_name": "OFFICE OF CHAPTER 13 STANDING",
+   "lines": [
+    {
+     "account_number": "10-0460-000-813-08-00-000",
+     "description": "WAGE ATTACH WITHHELD PAYABLE- ATT18",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$1,714.24"
+    }
+   ],
+   "check_total": "$1,714.24",
+   "source_page": 6
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340320",
+   "check_date": "09/13/23",
+   "vendor_name": "OPTIMAL PERFORMANCE BY DESIGN, LLC",
+   "lines": [
+    {
+     "account_number": "10-2310-810-000-00-52-000",
+     "description": "BOARD PROFESSIONAL DEVELOPMENT",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$1,239.30"
+    }
+   ],
+   "check_total": "$1,239.30",
+   "source_page": 6
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340321",
+   "check_date": "09/13/23",
+   "vendor_name": "PA DEPT OF TRANSPORTATION",
+   "lines": [
+    {
+     "account_number": "10-2611-430-000-00-46-048",
+     "description": "ADD'L TITLE FEE-2008 CHRYSLER VAN",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$9.00"
+    },
+    {
+     "account_number": "10-2611-430-000-00-46-048",
+     "description": "ADD'L TITLE FEE-2005 CHEVY 3500 VAN",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$9.00"
+    }
+   ],
+   "check_total": "$18.00",
+   "source_page": 6
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340322",
+   "check_date": "09/13/23",
+   "vendor_name": "PEARCE PEST CONTROL",
+   "lines": [
+    {
+     "account_number": "10-2611-430-000-00-46-000",
+     "description": "SPRAYED FRONT ENTR-PHES",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$265.00"
+    },
+    {
+     "account_number": "10-2611-430-000-00-46-000",
+     "description": "SPRAYED FRONT ENT-SR HIGH",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$250.00"
+    },
+    {
+     "account_number": "10-2611-430-000-00-46-000",
+     "description": "EXTRA SERVICE-PHES",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$0.00"
+    },
+    {
+     "account_number": "10-2611-430-000-00-46-000",
+     "description": "SPRAYED FRONT ENTR-SR HIGH",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$350.00"
+    }
+   ],
+   "check_total": "$865.00",
+   "source_page": 6
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340323",
+   "check_date": "09/13/23",
+   "vendor_name": "PENN HILLS SERVICE ASSOCIATION",
+   "lines": [
+    {
+     "account_number": "10-0460-000-812-08-00-000",
+     "description": "PH SERVICE ASSN WITHELD PAYABLE",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$1.00"
+    }
+   ],
+   "check_total": "$1.00",
+   "source_page": 6
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340324",
+   "check_date": "09/13/23",
+   "vendor_name": "PHEA",
+   "lines": [
+    {
+     "account_number": "10-0460-000-826-08-00-000",
+     "description": "PHEA DUES PAY - TEACHERS-UD10",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$38.50"
+    },
+    {
+     "account_number": "10-0460-000-826-08-00-000",
+     "description": "PHEA DUES PAY - TEACHERS-UD10",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$8,210.50"
+    }
+   ],
+   "check_total": "$8,249.00",
+   "source_page": 6
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340325",
+   "check_date": "09/13/23",
+   "vendor_name": "GAIL PIOLE",
+   "lines": [
+    {
+     "account_number": "10-1210-330-000-00-32-000",
+     "description": "CPR/FIRST AID CERTS-REIMBURSE",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$36.00"
+    }
+   ],
+   "check_total": "$36.00",
+   "source_page": 6
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340326",
+   "check_date": "09/13/23",
+   "vendor_name": "PITSCO EDUCATION, LLC",
+   "lines": [
+    {
+     "account_number": "10-1350-610-000-30-25-175",
+     "description": "BALSA WOOD 3/32\" X2\" X 24\", 20 PIECES #W59630",
+     "batch": "331",
+     "po_number": "23000089",
+     "amount": "$3,381.89"
+    }
+   ],
+   "check_total": "$3,381.89",
+   "source_page": 6
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340327",
+   "check_date": "09/13/23",
+   "vendor_name": "PRESSLEY RIDGE",
+   "lines": [
+    {
+     "account_number": "10-1290-567-000-00-32-000",
+     "description": "AUG 2023-JAN 2024 TUITION-M.M.",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$27,300.00"
+    }
+   ],
+   "check_total": "$27,300.00",
+   "source_page": 7
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340328",
+   "check_date": "09/13/23",
+   "vendor_name": "PENNSYLVANIA SCHOOL BOARD ASSOC",
+   "lines": [
+    {
+     "account_number": "10-2310-810-000-00-52-000",
+     "description": "SUPERINTENDENT SEARCH SERVICES",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$2,500.00"
+    }
+   ],
+   "check_total": "$2,500.00",
+   "source_page": 7
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340329",
+   "check_date": "09/13/23",
+   "vendor_name": "PHESPA",
+   "lines": [
+    {
+     "account_number": "10-0460-000-824-08-00-000",
+     "description": "PSSPA DUES PAY - SECRETARIES-UD20, UD23, UD24",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$780.38"
+    }
+   ],
+   "check_total": "$780.38",
+   "source_page": 7
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340330",
+   "check_date": "09/13/23",
+   "vendor_name": "ROCHESTER 100 INC",
+   "lines": [
+    {
+     "account_number": "10-1110-610-000-10-11-000",
+     "description": "NICKY'S RED COMMUNICATION FOLDER - ENGLISH",
+     "batch": "331",
+     "po_number": "23000185",
+     "amount": "$145.00"
+    }
+   ],
+   "check_total": "$145.00",
+   "source_page": 7
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340331",
+   "check_date": "09/13/23",
+   "vendor_name": "SDI INNOVATIONS, INC",
+   "lines": [
+    {
+     "account_number": "10-1110-610-000-10-11-000",
+     "description": "CLASSIC ELEMENTARY MATRIX 8.5 X 11",
+     "batch": "331",
+     "po_number": "23000110",
+     "amount": "$3,891.11"
+    }
+   ],
+   "check_total": "$3,891.11",
+   "source_page": 7
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340332",
+   "check_date": "09/13/23",
+   "vendor_name": "SHERWIN-WILLIAMS",
+   "lines": [
+    {
+     "account_number": "10-2611-430-072-46-00-000",
+     "description": "SUPPLIES TO PAINT THE LINTON GYM WALL, AUDITORIUM STAGE",
+     "batch": "331",
+     "po_number": "22000629",
+     "amount": "$58.13"
+    },
+    {
+     "account_number": "10-2611-430-072-46-00-000",
+     "description": "SUPPLIES TO PAINT THE LINTON GYM WALL, AUDITORIUM STAGE",
+     "batch": "331",
+     "po_number": "22000629",
+     "amount": "$58.32"
+    },
+    {
+     "account_number": "10-2611-430-072-46-00-000",
+     "description": "SUPPLIES TO PAINT THE LINTON GYM WALL, AUDITORIUM STAGE",
+     "batch": "331",
+     "po_number": "22000629",
+     "amount": "$163.67"
+    },
+    {
+     "account_number": "10-2611-430-072-46-00-000",
+     "description": "SUPPLIES TO PAINT THE LINTON GYM WALL, AUDITORIUM STAGE",
+     "batch": "331",
+     "po_number": "22000629",
+     "amount": "$83.30"
+    },
+    {
+     "account_number": "10-2611-430-072-46-00-000",
+     "description": "SUPPLIES TO PAINT THE LINTON GYM WALL, AUDITORIUM STAGE",
+     "batch": "331",
+     "po_number": "22000629",
+     "amount": "$61.86"
+    },
+    {
+     "account_number": "10-2611-430-072-46-00-000",
+     "description": "SUPPLIES TO PAINT THE LINTON GYM WALL, AUDITORIUM STAGE",
+     "batch": "331",
+     "po_number": "22000629",
+     "amount": "$545.20"
+    },
+    {
+     "account_number": "10-2611-430-072-46-00-000",
+     "description": "SUPPLIES TO PAINT THE LINTON GYM WALL, AUDITORIUM STAGE",
+     "batch": "331",
+     "po_number": "22000629",
+     "amount": "$105.36"
+    },
+    {
+     "account_number": "10-2611-430-072-46-00-000",
+     "description": "SUPPLIES TO PAINT THE LINTON GYM WALL, AUDITORIUM STAGE",
+     "batch": "331",
+     "po_number": "22000629",
+     "amount": "$1,396.14"
+    },
+    {
+     "account_number": "10-2611-430-072-46-00-000",
+     "description": "SUPPLIES TO PAINT THE LINTON GYM WALL, AUDITORIUM STAGE",
+     "batch": "331",
+     "po_number": "22000629",
+     "amount": "$583.35"
+    }
+   ],
+   "check_total": "$3,055.33",
+   "source_page": 7
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340333",
+   "check_date": "09/13/23",
+   "vendor_name": "STANTON ELECTRIC SUPPLY CO",
+   "lines": [
+    {
+     "account_number": "10-2611-610-000-00-46-000",
+     "description": "ELECTRIC SUPPLIES",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$1,073.88"
+    }
+   ],
+   "check_total": "$1,073.88",
+   "source_page": 8
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340334",
+   "check_date": "09/13/23",
+   "vendor_name": "THE MARKERBOARD PEOPLE",
+   "lines": [
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "STUDENT WHITE BOARDS WITH MARKERS SET OF 30 #MCO912-2X",
+     "batch": "331",
+     "po_number": "23000077",
+     "amount": "$385.00"
+    }
+   ],
+   "check_total": "$385.00",
+   "source_page": 8
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340335",
+   "check_date": "09/13/23",
+   "vendor_name": "TOTALLY PROMOTIONAL",
+   "lines": [
+    {
+     "account_number": "10-1110-610-000-10-11-000",
+     "description": "#TL615 3/4\" ECONOMY LANYARD/BULLDOG CLIP AND EVENT HOLDER",
+     "batch": "331",
+     "po_number": "23000029",
+     "amount": "$430.50"
+    }
+   ],
+   "check_total": "$430.50",
+   "source_page": 8
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340336",
+   "check_date": "09/13/23",
+   "vendor_name": "TRAVELERS",
+   "lines": [
+    {
+     "account_number": "10-2350-525-000-00-52-000",
+     "description": "PUBLIC OFFICE BOND - C. SZYMANSKY",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$228.00"
+    }
+   ],
+   "check_total": "$228.00",
+   "source_page": 8
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340337",
+   "check_date": "09/13/23",
+   "vendor_name": "TRIONFO SOLUTIONS, LLC",
+   "lines": [
+    {
+     "account_number": "10-1110-280-000-00-00-000",
+     "description": "SEPT 2023 METLIFE-RETIREE",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$11,089.00"
+    },
+    {
+     "account_number": "10-5800-213-000-06-00-000",
+     "description": "SEPT 2023 METLIFE-ACTIVE",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$6,266.05"
+    }
+   ],
+   "check_total": "$17,355.05",
+   "source_page": 8
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340338",
+   "check_date": "09/13/23",
+   "vendor_name": "UGI ENERGY SERVICES, LLC",
+   "lines": [
+    {
+     "account_number": "10-2611-621-000-00-46-011",
+     "description": "JULY/AUG 2023 CHRGS-PHES",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$446.74"
+    }
+   ],
+   "check_total": "$446.74",
+   "source_page": 8
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340339",
+   "check_date": "09/13/23",
+   "vendor_name": "VERIZON WIRELESS",
+   "lines": [
+    {
+     "account_number": "10-2611-530-000-00-42-000",
+     "description": "JULY/AUG 2023 CHRGS-DISTRICT",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$2,373.39"
+    }
+   ],
+   "check_total": "$2,373.39",
+   "source_page": 8
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340340",
+   "check_date": "09/13/23",
+   "vendor_name": "WEX BANK",
+   "lines": [
+    {
+     "account_number": "10-2611-626-000-00-46-000",
+     "description": "AUG 2023 SUNOCO GAS CHRGS-DISTRICT",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$1,118.67"
+    }
+   ],
+   "check_total": "$1,118.67",
+   "source_page": 8
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340341",
+   "check_date": "09/13/23",
+   "vendor_name": "XEROX FINANCIAL SERVICES",
+   "lines": [
+    {
+     "account_number": "10-2240-442-000-00-42-000",
+     "description": "AUG/SEPT 2023 LEASE PAYMENT",
+     "batch": "331",
+     "po_number": null,
+     "amount": "$10,192.51"
+    }
+   ],
+   "check_total": "$10,192.51",
+   "source_page": 8
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340342",
+   "check_date": "09/13/23",
+   "vendor_name": "XYCOM TECHNOLOGY GROUP, INC",
+   "lines": [
+    {
+     "account_number": "10-2240-430-000-00-42-000",
+     "description": "#1415 PHHS press box-fiber repair",
+     "batch": "331",
+     "po_number": "23000208",
+     "amount": "$1,010.00"
+    }
+   ],
+   "check_total": "$1,010.00",
+   "source_page": 9
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340343",
+   "check_date": "09/21/23",
+   "vendor_name": "21ST CENTURY CYBER CHARTER SCHOOL",
+   "lines": [
+    {
+     "account_number": "10-1110-562-000-00-00-000",
+     "description": "JULY-OCT 2023 TUITION-REG ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$8,173.52"
+    }
+   ],
+   "check_total": "$8,173.52",
+   "source_page": 9
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340344",
+   "check_date": "09/21/23",
+   "vendor_name": "ACHIEVE REHAB SERVICES",
+   "lines": [
+    {
+     "account_number": "10-1210-330-000-00-32-000",
+     "description": "DIRECT TREATMENT-J.K.",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$1,194.31"
+    }
+   ],
+   "check_total": "$1,194.31",
+   "source_page": 9
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340345",
+   "check_date": "09/21/23",
+   "vendor_name": "ACHIEVEMENT HOUSE CYBER CHARTER SCH",
+   "lines": [
+    {
+     "account_number": "10-1110-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-REG ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$4,086.77"
+    },
+    {
+     "account_number": "10-1210-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-SP ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$3,005.18"
+    }
+   ],
+   "check_total": "$7,091.95",
+   "source_page": 9
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340346",
+   "check_date": "09/21/23",
+   "vendor_name": "ADVANCED TURF SOLUTIONS",
+   "lines": [
+    {
+     "account_number": "10-2611-610-000-00-46-075",
+     "description": "SUPPLIES - FLD & GROUNDS",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$50.00"
+    }
+   ],
+   "check_total": "$50.00",
+   "source_page": 9
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340347",
+   "check_date": "09/21/23",
+   "vendor_name": "AGORA CYBER CHARTER SCHOOL",
+   "lines": [
+    {
+     "account_number": "10-1110-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-REG ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$14,303.68"
+    },
+    {
+     "account_number": "10-1210-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-SP ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$9,015.52"
+    }
+   ],
+   "check_total": "$23,319.20",
+   "source_page": 9
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340348",
+   "check_date": "09/21/23",
+   "vendor_name": "ALLEGHENY INTERMEDIATE UNIT",
+   "lines": [
+    {
+     "account_number": "10-1110-322-000-00-00-000",
+     "description": "AUG 2023 TRANSPERFECT SERV",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$82.65"
+    },
+    {
+     "account_number": "10-1290-322-000-00-32-000",
+     "description": "ESY SERVICES-1:1, TUITION, VISION",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$21,083.50"
+    }
+   ],
+   "check_total": "$21,166.15",
+   "source_page": 9
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340349",
+   "check_date": "09/21/23",
+   "vendor_name": "AMAZON CAPITAL SERVICES",
+   "lines": [
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "TWO POCKET PRONG FOLDERS - 100 PER BOX",
+     "batch": "332",
+     "po_number": "23000064",
+     "amount": "-$41.04"
+    },
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "TWO POCKET PRONG FOLDERS - 100 PER BOX",
+     "batch": "332",
+     "po_number": "23000064",
+     "amount": "$220.47"
+    },
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "AMAZON BASIC 24PACK 9-VOLT BATTERIES",
+     "batch": "332",
+     "po_number": "23000154",
+     "amount": "$9.47"
+    },
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "AMAZON BASIC 24PACK 9-VOLT BATTERIES",
+     "batch": "332",
+     "po_number": "23000154",
+     "amount": "$259.17"
+    },
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "AMAZON BASIC AA BATTERIES 100 PACK",
+     "batch": "332",
+     "po_number": "23000094",
+     "amount": "$702.05"
+    },
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "TWO POCKET PRONG FOLDERS - 100 PER BOX",
+     "batch": "332",
+     "po_number": "23000064",
+     "amount": "$29.56"
+    },
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "TWO POCKET PRONG FOLDERS - 100 PER BOX",
+     "batch": "332",
+     "po_number": "23000064",
+     "amount": "$535.52"
+    },
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "AMAZON BASIC 24PACK 9-VOLT BATTERIES",
+     "batch": "332",
+     "po_number": "23000154",
+     "amount": "$1,256.30"
+    },
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "AMAZON BASIC AA BATTERIES 100 PACK",
+     "batch": "332",
+     "po_number": "23000094",
+     "amount": "$3,649.79"
+    },
+    {
+     "account_number": "10-1210-610-000-00-32-000",
+     "description": "SAFE HEALTH NITRO-V LATEX FREE, POWDER FREE, BLUE, CASE OF",
+     "batch": "332",
+     "po_number": "23000155",
+     "amount": "$149.28"
+    },
+    {
+     "account_number": "10-2240-430-000-00-42-000",
+     "description": "EAPELE 10 FT FLOOR CABLE COVER PROTECTOR, HEAVY DUTY PVC",
+     "batch": "332",
+     "po_number": "23000152",
+     "amount": "$280.20"
+    },
+    {
+     "account_number": "10-2240-610-000-00-42-000",
+     "description": "Pentel EnerGel 0.7 mm RTX Retractable Liquid Gel Pen, Bulk",
+     "batch": "332",
+     "po_number": "23000210",
+     "amount": "$25.84"
+    },
+    {
+     "account_number": "10-2240-610-000-00-42-000",
+     "description": "65wLaptop chrger for HP Pavilion x360 14 15 17, HP Envy 13",
+     "batch": "332",
+     "po_number": "23000219",
+     "amount": "$960.50"
+    },
+    {
+     "account_number": "10-2240-610-000-00-42-000",
+     "description": "(2M 10PAK) OM4 Fiber LC to LC, Options 7in~500ft,",
+     "batch": "332",
+     "po_number": "23000145",
+     "amount": "$115.62"
+    },
+    {
+     "account_number": "10-2240-610-000-00-42-000",
+     "description": "Apple MD826/MD826ZMA lightning to HDMI Adaptor",
+     "batch": "332",
+     "po_number": "23000151",
+     "amount": "$42.49"
+    },
+    {
+     "account_number": "10-2240-610-000-00-42-000",
+     "description": "BENFEI HDMI to VGA, 20 pack, Gold-Plated HDMI to VGA Adapter",
+     "batch": "332",
+     "po_number": "23000207",
+     "amount": "$148.68"
+    },
+    {
+     "account_number": "10-2240-610-000-00-42-000",
+     "description": "Pentel EnerGel 0.7 mm RTX Retractable Liquid Gel Pen, Bulk",
+     "batch": "332",
+     "po_number": "23000210",
+     "amount": "$135.40"
+    },
+    {
+     "account_number": "10-2611-610-000-00-46-000",
+     "description": "WEN 500-POUND CAPACITY 46 BY 25.5- INCH EXTRA WIDE",
+     "batch": "332",
+     "po_number": "23000199",
+     "amount": "$524.90"
+    },
+    {
+     "account_number": "10-3200-610-000-00-60-310",
+     "description": "10/PACK GSM QUARTERBACK PLAY WRISTBANDS",
+     "batch": "332",
+     "po_number": "23000036",
+     "amount": "$391.85"
+    },
+    {
+     "account_number": "10-3200-610-000-00-60-321",
+     "description": "EXPO BLACK DRY-ERASED MARKERS BULLET TIP BLACK (EXACTLY AS",
+     "batch": "332",
+     "po_number": "23000044",
+     "amount": "$26.25"
+    }
+   ],
+   "check_total": "$9,422.30",
+   "source_page": 9
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340350",
+   "check_date": "09/21/23",
+   "vendor_name": "AMPLIFY EDUCATION, INC",
+   "lines": [
+    {
+     "account_number": "10-2130-120-431-06-11-000",
+     "description": "DESMOS MATH GR 6-8 SUB 23/24 SY- LINTON",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$3,750.00"
+    }
+   ],
+   "check_total": "$3,750.00",
+   "source_page": 11
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340351",
+   "check_date": "09/21/23",
+   "vendor_name": "AP FBO OSA GLOBAL, LLC",
+   "lines": [
+    {
+     "account_number": "10-2660-350-000-00-62-001",
+     "description": "SECURITY WK 8/27-9/2/23 - PHES",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$2,702.70"
+    },
+    {
+     "account_number": "10-2660-350-000-00-62-001",
+     "description": "SECURITY WK 8/27-9/2/23 - SR HIGH",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$4,741.39"
+    },
+    {
+     "account_number": "10-2660-350-000-00-62-001",
+     "description": "SECURITY WK 8/27-9/2/23 YESS STAFF",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$9,868.22"
+    },
+    {
+     "account_number": "10-2660-350-000-00-62-001",
+     "description": "SECURITY WK 8/27-9/2/23 - LINTON",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$2,732.84"
+    },
+    {
+     "account_number": "10-2660-350-000-00-62-001",
+     "description": "SECURITY WK 8/27-9/2/2023 - GATE OFFICERS",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$4,871.38"
+    }
+   ],
+   "check_total": "$24,916.53",
+   "source_page": 11
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340352",
+   "check_date": "09/21/23",
+   "vendor_name": "AUTOGRAPH SIGNS INC.",
+   "lines": [
+    {
+     "account_number": "10-2310-610-000-00-52-000",
+     "description": "10\" X 2\" X .062\" Thick Bronze with White Engraving - Per",
+     "batch": "332",
+     "po_number": "23000237",
+     "amount": "$122.00"
+    }
+   ],
+   "check_total": "$122.00",
+   "source_page": 11
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340353",
+   "check_date": "09/21/23",
+   "vendor_name": "BALLISTIGLASS LLC",
+   "lines": [
+    {
+     "account_number": "10-2660-751-000-00-62-000",
+     "description": "BALLISTISCAN METAL DETECTORS (17)",
+     "batch": "332",
+     "po_number": "23000187",
+     "amount": "$119,850.00"
+    }
+   ],
+   "check_total": "$119,850.00",
+   "source_page": 11
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340354",
+   "check_date": "09/21/23",
+   "vendor_name": "BURNS INDUSTRIAL EQUIPMENT",
+   "lines": [
+    {
+     "account_number": "10-2611-430-000-00-46-000",
+     "description": "MAINTENANCE - FORKLIFTS",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$1,253.20"
+    }
+   ],
+   "check_total": "$1,253.20",
+   "source_page": 11
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340355",
+   "check_date": "09/21/23",
+   "vendor_name": "COMMONWEALTH CHARTER ACADEMY",
+   "lines": [
+    {
+     "account_number": "10-1110-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-REG ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$125,667.97"
+    },
+    {
+     "account_number": "10-1210-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-SP ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$90,155.28"
+    }
+   ],
+   "check_total": "$215,823.25",
+   "source_page": 11
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340356",
+   "check_date": "09/21/23",
+   "vendor_name": "CONSENSUS CLOUD SOLUTIONS, LLC",
+   "lines": [
+    {
+     "account_number": "10-2611-530-000-00-42-000",
+     "description": "AUG 2023 EFAX CHRGS",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$203.70"
+    }
+   ],
+   "check_total": "$203.70",
+   "source_page": 11
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340357",
+   "check_date": "09/21/23",
+   "vendor_name": "DeSANTIS SOLUTIONS",
+   "lines": [
+    {
+     "account_number": "10-2611-610-000-00-46-079",
+     "description": "DEBAZU1LO - SOAP, AZURE FOAM 1 LITER, ORANGE TIP, 6-1LT/CASE",
+     "batch": "332",
+     "po_number": "23000173",
+     "amount": "$932.92"
+    },
+    {
+     "account_number": "10-2611-610-000-00-46-079",
+     "description": "DEBAZU1LO - SOAP, AZURE FORAM, 1 LITER, 6/CASE",
+     "batch": "332",
+     "po_number": "23000172",
+     "amount": "$915.67"
+    }
+   ],
+   "check_total": "$1,848.59",
+   "source_page": 12
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340358",
+   "check_date": "09/21/23",
+   "vendor_name": "DISTRICT VII ATHLETIC DIRECTORS ASSOC",
+   "lines": [
+    {
+     "account_number": "10-3200-810-000-00-60-000",
+     "description": "ATH DIR ASSOC DUES 2023/2024",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$75.00"
+    }
+   ],
+   "check_total": "$75.00",
+   "source_page": 12
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340359",
+   "check_date": "09/21/23",
+   "vendor_name": "DUQUESNE LIGHT CO",
+   "lines": [
+    {
+     "account_number": "10-2611-622-000-00-46-011",
+     "description": "BAL. DUE-FLAG POLE PHES",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$0.39"
+    },
+    {
+     "account_number": "10-2611-622-000-00-46-020",
+     "description": "AUG/SEPT CHRGS-LINTON",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$14,701.04"
+    }
+   ],
+   "check_total": "$14,701.43",
+   "source_page": 12
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340360",
+   "check_date": "09/21/23",
+   "vendor_name": "EAST PENN MANUFACTURING CO.",
+   "lines": [
+    {
+     "account_number": "10-2611-610-000-00-46-075",
+     "description": "REPAIRS-GOLF CART",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$98.62"
+    }
+   ],
+   "check_total": "$98.62",
+   "source_page": 12
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340361",
+   "check_date": "09/21/23",
+   "vendor_name": "ERZEN ASSOCIATES, INC",
+   "lines": [
+    {
+     "account_number": "10-2611-610-000-00-46-079",
+     "description": "CLEANER - PHES",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$578.00"
+    }
+   ],
+   "check_total": "$578.00",
+   "source_page": 12
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340362",
+   "check_date": "09/21/23",
+   "vendor_name": "FIRST ADVANTAGE LNS OCCUPATIONAL HEALTH",
+   "lines": [
+    {
+     "account_number": "10-2340-330-000-00-53-000",
+     "description": "D & A TESTING (AFSCME)",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$63.65"
+    }
+   ],
+   "check_total": "$63.65",
+   "source_page": 12
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340363",
+   "check_date": "09/21/23",
+   "vendor_name": "GPSA/NATALE SPORTING GOODS",
+   "lines": [
+    {
+     "account_number": "10-3200-390-301-26-00-000",
+     "description": "ADIDAS CUSTOM NEXT LEVEL JERSEYS WHITE",
+     "batch": "332",
+     "po_number": "22000661",
+     "amount": "$310.66"
+    },
+    {
+     "account_number": "10-3200-390-326-26-00-000",
+     "description": "ADIDAS CUSTOM NEXT LEVEL JERSEYS WHITE",
+     "batch": "332",
+     "po_number": "22000661",
+     "amount": "$176.15"
+    },
+    {
+     "account_number": "10-3200-580-326-26-00-000",
+     "description": "ADIDAS CUSTOM NEXT LEVEL JERSEYS WHITE",
+     "batch": "332",
+     "po_number": "22000661",
+     "amount": "$1,000.00"
+    },
+    {
+     "account_number": "10-3200-610-000-00-60-310",
+     "description": "CHAMPRO MENS VINYL COATED FOOTBALL KNEE PADS",
+     "batch": "332",
+     "po_number": "23000220",
+     "amount": "$115.00"
+    },
+    {
+     "account_number": "10-3200-610-326-26-00-000",
+     "description": "ADIDAS CUSTOM NEXT LEVEL JERSEYS WHITE",
+     "batch": "332",
+     "po_number": "22000661",
+     "amount": "$53.19"
+    }
+   ],
+   "check_total": "$1,655.00",
+   "source_page": 12
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340364",
+   "check_date": "09/21/23",
+   "vendor_name": "GRAINGER INC",
+   "lines": [
+    {
+     "account_number": "10-2611-610-000-00-46-000",
+     "description": "MISC SUPPLIES",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$153.64"
+    },
+    {
+     "account_number": "10-2611-610-000-00-46-000",
+     "description": "MISC SUPPLIES",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$101.67"
+    },
+    {
+     "account_number": "10-2611-610-000-00-46-000",
+     "description": "MISC SUPPLIES",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$222.00"
+    }
+   ],
+   "check_total": "$477.31",
+   "source_page": 13
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340365",
+   "check_date": "09/21/23",
+   "vendor_name": "HORIZON INFORMATION SERVICES",
+   "lines": [
+    {
+     "account_number": "10-2240-430-000-00-42-000",
+     "description": "REPAIRS - PHES",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$180.00"
+    },
+    {
+     "account_number": "10-2240-430-000-00-42-000",
+     "description": "SERVICE CALL - SR HIGH",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$225.00"
+    }
+   ],
+   "check_total": "$405.00",
+   "source_page": 13
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340366",
+   "check_date": "09/21/23",
+   "vendor_name": "HUCKSTEIN MECHANICAL",
+   "lines": [
+    {
+     "account_number": "10-2611-430-000-00-46-072",
+     "description": "AC REPAIRS-PHES",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$773.50"
+    },
+    {
+     "account_number": "10-2611-430-000-00-46-072",
+     "description": "AC REPAIRS-FR CTR",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$1,419.37"
+    }
+   ],
+   "check_total": "$2,192.87",
+   "source_page": 13
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340367",
+   "check_date": "09/21/23",
+   "vendor_name": "INSIGHT PA CYBER CHARTER SCHOOL",
+   "lines": [
+    {
+     "account_number": "10-1110-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-REG ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$8,173.53"
+    },
+    {
+     "account_number": "10-1210-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-SP ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$3,005.18"
+    }
+   ],
+   "check_total": "$11,178.71",
+   "source_page": 13
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340368",
+   "check_date": "09/21/23",
+   "vendor_name": "J.A. RUTTER",
+   "lines": [
+    {
+     "account_number": "10-2611-610-000-00-46-075",
+     "description": "MULCH - PHES",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$796.86"
+    },
+    {
+     "account_number": "10-2611-610-000-00-46-075",
+     "description": "MULCH - PHES",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$1,327.26"
+    }
+   ],
+   "check_total": "$2,124.12",
+   "source_page": 13
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340369",
+   "check_date": "09/21/23",
+   "vendor_name": "JUNCTION CLIMATE CONTROL",
+   "lines": [
+    {
+     "account_number": "10-2611-430-000-00-46-072",
+     "description": "HVAC REPAIRS-LINTON",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$1,201.58"
+    }
+   ],
+   "check_total": "$1,201.58",
+   "source_page": 13
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340370",
+   "check_date": "09/21/23",
+   "vendor_name": "KELLY SERVICES, INC",
+   "lines": [
+    {
+     "account_number": "10-1110-328-000-00-00-011",
+     "description": "WK END 9/3/23 AIDE-PHES",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$175.14"
+    },
+    {
+     "account_number": "10-1110-328-000-00-00-020",
+     "description": "WK END 9/3/23 AIDE/SECT-LIN/ADMIN",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$761.05"
+    },
+    {
+     "account_number": "10-1110-328-000-00-00-025",
+     "description": "6/26/23-6/29/23 TCHR ESY SR HIGH",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$-708.92"
+    },
+    {
+     "account_number": "10-1110-328-000-00-00-025",
+     "description": "WK END 9/3/23 AIDE/SECT-SR HIGH",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$445.15"
+    },
+    {
+     "account_number": "10-1110-329-000-00-00-011",
+     "description": "WK END 9/3/23 TCHRS-PHES",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$3,892.01"
+    },
+    {
+     "account_number": "10-1110-329-000-00-00-020",
+     "description": "WK END 9/3/23 TCHRS-LINTON",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$3,214.38"
+    },
+    {
+     "account_number": "10-1110-329-000-00-00-025",
+     "description": "WK END 9/3/23 TCHRS-SR HIGH",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$1,390.00"
+    }
+   ],
+   "check_total": "$9,168.81",
+   "source_page": 13
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340371",
+   "check_date": "09/21/23",
+   "vendor_name": "LIBERTY DISTRIBUTORS, INC.",
+   "lines": [
+    {
+     "account_number": "10-2611-610-000-00-46-079",
+     "description": "HEAVY DUTY CLEANER",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$375.00"
+    }
+   ],
+   "check_total": "$375.00",
+   "source_page": 14
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340372",
+   "check_date": "09/21/23",
+   "vendor_name": "LIFE MALE STEAM ACADEMY",
+   "lines": [
+    {
+     "account_number": "10-1110-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-REG ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$2,043.38"
+    },
+    {
+     "account_number": "10-1110-562-000-00-00-000",
+     "description": "22/23 RECONCILIATION-REG ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$-4,503.61"
+    },
+    {
+     "account_number": "10-1210-562-000-00-00-000",
+     "description": "22/23 RECONCILIATION-SP ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$10,602.26"
+    },
+    {
+     "account_number": "10-1210-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-SP ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$15,025.88"
+    }
+   ],
+   "check_total": "$23,167.91",
+   "source_page": 14
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340373",
+   "check_date": "09/21/23",
+   "vendor_name": "MANCHESTER ACADEMIC CHARTER",
+   "lines": [
+    {
+     "account_number": "10-1110-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-REG ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$13,281.98"
+    },
+    {
+     "account_number": "10-1210-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-SP ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$3,005.18"
+    }
+   ],
+   "check_total": "$16,287.16",
+   "source_page": 14
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340374",
+   "check_date": "09/21/23",
+   "vendor_name": "LISA MARTINEZ",
+   "lines": [
+    {
+     "account_number": "10-2511-580-000-00-55-000",
+     "description": "TRAVEL REIMBURSE-COVER PHES",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$4.23"
+    }
+   ],
+   "check_total": "$4.23",
+   "source_page": 14
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340375",
+   "check_date": "09/21/23",
+   "vendor_name": "MAXIM HEALTHCARE SERVICES, INC",
+   "lines": [
+    {
+     "account_number": "10-2420-330-000-00-00-000",
+     "description": "NURSE SERVICES - PHES",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$484.80"
+    },
+    {
+     "account_number": "10-2420-330-000-00-00-000",
+     "description": "6/14-6/23/23 NURSE SERV-ESY PHES",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$1,410.00"
+    },
+    {
+     "account_number": "10-2420-330-000-00-00-000",
+     "description": "NURSE SERVICES 6/26-6/29/23 ESY PHES",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$1,200.00"
+    }
+   ],
+   "check_total": "$3,094.80",
+   "source_page": 14
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340376",
+   "check_date": "09/21/23",
+   "vendor_name": "CAROL MILLER",
+   "lines": [
+    {
+     "account_number": "10-2611-299-058-06-00-000",
+     "description": "WORK SHOE REIMBURSEMENT",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$90.00"
+    }
+   ],
+   "check_total": "$90.00",
+   "source_page": 14
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340377",
+   "check_date": "09/21/23",
+   "vendor_name": "MUNICIPALITY OF PENN HILLS",
+   "lines": [
+    {
+     "account_number": "10-2660-350-000-00-62-000",
+     "description": "ADMIN FEE",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$941.50"
+    },
+    {
+     "account_number": "10-2660-350-000-00-62-000",
+     "description": "AUG 2023 PHP SECURITY",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$18,319.62"
+    },
+    {
+     "account_number": "10-3300-330-000-00-62-000",
+     "description": "AUG 23, 2023 FB GAME SECURITY",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$1,472.45"
+    }
+   ],
+   "check_total": "$20,733.57",
+   "source_page": 14
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340378",
+   "check_date": "09/21/23",
+   "vendor_name": "NATIONAL SCHOOL FORMS",
+   "lines": [
+    {
+     "account_number": "10-1110-610-000-10-11-000",
+     "description": "CUSTOM TAGS - BUS, CAR, WALKER, KINDERGARTEN ASSORTED",
+     "batch": "332",
+     "po_number": "23000030",
+     "amount": "$1,951.74"
+    }
+   ],
+   "check_total": "$1,951.74",
+   "source_page": 15
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340379",
+   "check_date": "09/21/23",
+   "vendor_name": "NEW STORY, LLC.",
+   "lines": [
+    {
+     "account_number": "10-1290-561-000-00-32-000",
+     "description": "AUG/SEPT TUITION-L.W.",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$9,828.00"
+    },
+    {
+     "account_number": "10-1290-561-000-00-32-000",
+     "description": "AUG/SEPT 2023 TUITION-S.B.",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$9,828.00"
+    },
+    {
+     "account_number": "10-1290-561-000-00-32-000",
+     "description": "AUG/SEPT 2023 TUITION-C.E.",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$9,828.00"
+    },
+    {
+     "account_number": "10-1290-561-000-00-32-000",
+     "description": "AUG/SEPT TUITION-S.Y.",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$9,828.00"
+    },
+    {
+     "account_number": "10-1290-561-000-00-32-000",
+     "description": "AUG/SEPT 2023 TUITION-T.A.",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$9,828.00"
+    }
+   ],
+   "check_total": "$49,140.00",
+   "source_page": 15
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340380",
+   "check_date": "09/21/23",
+   "vendor_name": "OVERHEAD DOOR CO OF GREATER",
+   "lines": [
+    {
+     "account_number": "10-2611-430-000-00-46-000",
+     "description": "SERVICE CALL-SR HIGH",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$567.79"
+    },
+    {
+     "account_number": "10-2611-430-000-00-46-000",
+     "description": "SERVICE CALL-LINTON",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$389.18"
+    },
+    {
+     "account_number": "10-2611-430-048-46-00-000",
+     "description": "REPLACE 4 LARGE-C ABOVE MAN DOOR. REPLACE DOUBLE ANGLE BOTTOM",
+     "batch": "332",
+     "po_number": "22000668",
+     "amount": "$3,900.14"
+    }
+   ],
+   "check_total": "$4,857.11",
+   "source_page": 15
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340381",
+   "check_date": "09/21/23",
+   "vendor_name": "PENNSYLVANIA CYBER CHARTER SCHOOL",
+   "lines": [
+    {
+     "account_number": "10-1110-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-REG ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$171,644.06"
+    },
+    {
+     "account_number": "10-1210-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-SP ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$189,326.08"
+    }
+   ],
+   "check_total": "$360,970.14",
+   "source_page": 15
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340382",
+   "check_date": "09/21/23",
+   "vendor_name": "PA DISTANCE LEARNING CHARTER SCHOOL",
+   "lines": [
+    {
+     "account_number": "10-1110-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-REG ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$9,195.22"
+    },
+    {
+     "account_number": "10-1210-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-sp ed",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$9,015.53"
+    }
+   ],
+   "check_total": "$18,210.75",
+   "source_page": 15
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340383",
+   "check_date": "09/21/23",
+   "vendor_name": "PA LEADERSHIP CHARTER SCHOOL",
+   "lines": [
+    {
+     "account_number": "10-1110-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-REG ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$9,195.22"
+    },
+    {
+     "account_number": "10-1210-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-SP ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$9,015.52"
+    }
+   ],
+   "check_total": "$18,210.74",
+   "source_page": 15
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340384",
+   "check_date": "09/21/23",
+   "vendor_name": "PENN HILLS CHARTER SCHOOL OF ENTREPREN",
+   "lines": [
+    {
+     "account_number": "10-1110-562-000-00-00-000",
+     "description": "SEPT 2023 CHRGS-REG ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$302,420.49"
+    },
+    {
+     "account_number": "10-1210-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-SP ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$162,279.50"
+    }
+   ],
+   "check_total": "$464,699.99",
+   "source_page": 16
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340385",
+   "check_date": "09/21/23",
+   "vendor_name": "PENN HILLS FOOD SERVICE",
+   "lines": [
+    {
+     "account_number": "10-1110-610-000-00-00-000",
+     "description": "PRINCIPAL'S ACADEMY-THE FOLD",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$292.89"
+    }
+   ],
+   "check_total": "$292.89",
+   "source_page": 16
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340386",
+   "check_date": "09/21/23",
+   "vendor_name": "PENN HILLS RENTAL CENTER",
+   "lines": [
+    {
+     "account_number": "10-2611-610-000-00-46-075",
+     "description": "SUPPLIES-FLD HOUSE",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$53.99"
+    },
+    {
+     "account_number": "10-2611-610-000-46-00-000",
+     "description": "BLADE REPLACE-CUTTING SHEARS",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$121.46"
+    }
+   ],
+   "check_total": "$175.45",
+   "source_page": 16
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340387",
+   "check_date": "09/21/23",
+   "vendor_name": "PEOPLES NATURAL GAS",
+   "lines": [
+    {
+     "account_number": "10-2611-621-000-00-46-011",
+     "description": "AUG 2023 CHRGS-PHES",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$1,582.72"
+    }
+   ],
+   "check_total": "$1,582.72",
+   "source_page": 16
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340388",
+   "check_date": "09/21/23",
+   "vendor_name": "PEOPLES NATURAL GAS",
+   "lines": [
+    {
+     "account_number": "10-2611-621-000-00-46-005",
+     "description": "AUG 2023 CHRGS-FLD HOUSE",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$29.85"
+    },
+    {
+     "account_number": "10-2611-621-000-00-46-006",
+     "description": "AUG 2023 CHRGS-FR CTR",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$28.95"
+    },
+    {
+     "account_number": "10-2611-621-000-00-46-020",
+     "description": "AUG 2023 CHRGS-LINTON",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$160.12"
+    },
+    {
+     "account_number": "10-2611-621-000-00-46-025",
+     "description": "AUG 2023 CHRGS-SR HIGH",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$1,707.02"
+    }
+   ],
+   "check_total": "$1,925.94",
+   "source_page": 16
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340389",
+   "check_date": "09/21/23",
+   "vendor_name": "GAIL PIOLE",
+   "lines": [
+    {
+     "account_number": "10-2440-330-000-00-00-000",
+     "description": "TRAVEL REIMBURSEMENT",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$25.39"
+    }
+   ],
+   "check_total": "$25.39",
+   "source_page": 16
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340390",
+   "check_date": "09/21/23",
+   "vendor_name": "PITTSBURGH POST GAZETTE",
+   "lines": [
+    {
+     "account_number": "10-2350-549-000-00-52-000",
+     "description": "AUG 31, 2023 LEGAL NOTICE",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$221.65"
+    }
+   ],
+   "check_total": "$221.65",
+   "source_page": 16
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340391",
+   "check_date": "09/21/23",
+   "vendor_name": "PNC BANK",
+   "lines": [
+    {
+     "account_number": "10-1450-610-190-00-62-000",
+     "description": "COMMUNITY DAYS-JUMPING JUMPEROO",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$399.00"
+    },
+    {
+     "account_number": "10-1450-610-190-00-62-000",
+     "description": "COMMUNITY DAYS-YBM BARBER/BRAIDED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$675.00"
+    },
+    {
+     "account_number": "10-2271-324-421-09-00-000",
+     "description": "HERSHEY LDG PDE DATA-J DERVANIK",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$496.17"
+    },
+    {
+     "account_number": "10-2611-440-000-00-46-000",
+     "description": "U-HAUL FB EQUIP-NORWIN",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$86.42"
+    }
+   ],
+   "check_total": "$1,656.59",
+   "source_page": 16
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340392",
+   "check_date": "09/21/23",
+   "vendor_name": "PROPEL C.S. - ANDREW ST.",
+   "lines": [
+    {
+     "account_number": "10-1110-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-REG ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$5,108.45"
+    },
+    {
+     "account_number": "10-1210-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-SP ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$12,020.70"
+    }
+   ],
+   "check_total": "$17,129.15",
+   "source_page": 17
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340393",
+   "check_date": "09/21/23",
+   "vendor_name": "PROPEL CHARTER SCHOOL- BRAD HILLS ELEM",
+   "lines": [
+    {
+     "account_number": "10-1110-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-REG ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$35,759.18"
+    },
+    {
+     "account_number": "10-1210-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-SP ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$18,031.06"
+    }
+   ],
+   "check_total": "$53,790.24",
+   "source_page": 17
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340394",
+   "check_date": "09/21/23",
+   "vendor_name": "PROPEL CHARTER SCHOOL- BRADDOCK HILLS HS",
+   "lines": [
+    {
+     "account_number": "10-1110-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-REG ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$28,607.35"
+    },
+    {
+     "account_number": "10-1210-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-SP ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$18,031.06"
+    }
+   ],
+   "check_total": "$46,638.41",
+   "source_page": 17
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340395",
+   "check_date": "09/21/23",
+   "vendor_name": "PROPEL CHARTER SCHOOL- BRAD HILLS MIDDLE",
+   "lines": [
+    {
+     "account_number": "10-1110-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-REG ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$17,368.74"
+    },
+    {
+     "account_number": "10-1210-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-SP ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$27,046.58"
+    }
+   ],
+   "check_total": "$44,415.32",
+   "source_page": 17
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340396",
+   "check_date": "09/21/23",
+   "vendor_name": "PROPEL CHARTER SCHOOL - EAST",
+   "lines": [
+    {
+     "account_number": "10-1110-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-REG ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$72,540.05"
+    },
+    {
+     "account_number": "10-1210-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-SP ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$6,010.36"
+    }
+   ],
+   "check_total": "$78,550.41",
+   "source_page": 17
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340397",
+   "check_date": "09/21/23",
+   "vendor_name": "PROPEL CHARTER SCHOOL - HAZELWOOD",
+   "lines": [
+    {
+     "account_number": "10-1110-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-REG ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$4,086.76"
+    },
+    {
+     "account_number": "10-1210-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-SP ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$-3,005.17"
+    }
+   ],
+   "check_total": "$1,081.59",
+   "source_page": 17
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340398",
+   "check_date": "09/21/23",
+   "vendor_name": "PROPEL CHARTER SCHOOL - HOMESTEAD",
+   "lines": [
+    {
+     "account_number": "10-1110-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-REG ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$5,108.46"
+    },
+    {
+     "account_number": "10-1210-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-SP ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$6,010.36"
+    }
+   ],
+   "check_total": "$11,118.82",
+   "source_page": 17
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340399",
+   "check_date": "09/21/23",
+   "vendor_name": "PROPEL CHARTER SCHOOL - MCKEESPORT",
+   "lines": [
+    {
+     "account_number": "10-1110-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-REG ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$4,086.76"
+    },
+    {
+     "account_number": "10-1210-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-SP ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$3,005.18"
+    }
+   ],
+   "check_total": "$7,091.94",
+   "source_page": 18
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340400",
+   "check_date": "09/21/23",
+   "vendor_name": "PROPEL CHARTER SCHOOL - NORTHSIDE",
+   "lines": [
+    {
+     "account_number": "10-1110-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-REG ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$4,086.77"
+    },
+    {
+     "account_number": "10-1210-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-SP ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$6,010.36"
+    }
+   ],
+   "check_total": "$10,097.13",
+   "source_page": 18
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340401",
+   "check_date": "09/21/23",
+   "vendor_name": "PROPEL CHARTER SCHOOL -",
+   "lines": [
+    {
+     "account_number": "10-1110-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-REG ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$25,542.27"
+    },
+    {
+     "account_number": "10-1210-562-000-00-00-000",
+     "description": "SEPT 2023 TUTION-SP ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$18,031.06"
+    }
+   ],
+   "check_total": "$43,573.33",
+   "source_page": 18
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340402",
+   "check_date": "09/21/23",
+   "vendor_name": "PROVIDENT CHARTER SCHOOL",
+   "lines": [
+    {
+     "account_number": "10-1110-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-REG ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$21,455.51"
+    },
+    {
+     "account_number": "10-1210-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-SP ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$63,108.69"
+    }
+   ],
+   "check_total": "$84,564.20",
+   "source_page": 18
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340403",
+   "check_date": "09/21/23",
+   "vendor_name": "REACH CYBER CHARTER SCHOOL",
+   "lines": [
+    {
+     "account_number": "10-1110-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-REG ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$33,715.80"
+    },
+    {
+     "account_number": "10-1210-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-SP ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$45,077.64"
+    }
+   ],
+   "check_total": "$78,793.44",
+   "source_page": 18
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340404",
+   "check_date": "09/21/23",
+   "vendor_name": "SCOTT ELECTRIC COMPANY",
+   "lines": [
+    {
+     "account_number": "10-2611-610-000-00-46-073",
+     "description": "PURCHASE OF LED BULBS TO BE USED THROUGHOUT THE BUILDING AND",
+     "batch": "332",
+     "po_number": "23000162",
+     "amount": "$2,016.00"
+    },
+    {
+     "account_number": "10-2611-610-000-00-46-073",
+     "description": "PLUMBING SUPPLIES",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$59.81"
+    },
+    {
+     "account_number": "10-2611-610-000-00-46-073",
+     "description": "PURCHASE OF LED BULBS TO BE USED THROUGHOUT THE BUILDING AND",
+     "batch": "332",
+     "po_number": "23000162",
+     "amount": "$3,659.30"
+    },
+    {
+     "account_number": "10-2611-610-000-00-46-073",
+     "description": "PLUMBING SUPPLIES",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$181.48"
+    },
+    {
+     "account_number": "10-2611-610-000-00-46-073",
+     "description": "PURCHASE OF LED BULBS TO BE USED THROUGHOUT THE BUILDING AND",
+     "batch": "332",
+     "po_number": "23000162",
+     "amount": "$1,134.00"
+    }
+   ],
+   "check_total": "$7,050.59",
+   "source_page": 18
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340405",
+   "check_date": "09/21/23",
+   "vendor_name": "SPECTRUM CHARTER SCHOOL, INC.",
+   "lines": [
+    {
+     "account_number": "10-1110-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-REG ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$3,065.07"
+    },
+    {
+     "account_number": "10-1210-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-SP ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$63,108.69"
+    }
+   ],
+   "check_total": "$66,173.76",
+   "source_page": 19
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340406",
+   "check_date": "09/21/23",
+   "vendor_name": "THE BANK OF NEW YORK MELLON",
+   "lines": [
+    {
+     "account_number": "10-2390-330-000-00-00-000",
+     "description": "ANNUAL PAY AGENT FEE-GEN OBL NOTES SERIES 2015A",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$850.00"
+    }
+   ],
+   "check_total": "$850.00",
+   "source_page": 19
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340407",
+   "check_date": "09/21/23",
+   "vendor_name": "RAY TOTH",
+   "lines": [
+    {
+     "account_number": "10-3200-390-000-00-60-312",
+     "description": "CLOCK/SCOREBOARD KEEPER, 8/18, 8/25/23",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$170.00"
+    }
+   ],
+   "check_total": "$170.00",
+   "source_page": 19
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340408",
+   "check_date": "09/21/23",
+   "vendor_name": "TUSCANO-MAHER ROOFING INC.",
+   "lines": [
+    {
+     "account_number": "10-2611-430-000-00-46-000",
+     "description": "ROOF REPAIRS - LINTON",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$729.94"
+    },
+    {
+     "account_number": "10-2611-430-000-00-46-000",
+     "description": "ROOF REPAIRS-FR CTR",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$693.42"
+    }
+   ],
+   "check_total": "$1,423.36",
+   "source_page": 19
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340409",
+   "check_date": "09/21/23",
+   "vendor_name": "UGI ENERGY SERVICES, LLC",
+   "lines": [
+    {
+     "account_number": "10-2611-621-000-00-46-005",
+     "description": "AUG 2023 CHRGS-FLD HOUSE",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$14.57"
+    },
+    {
+     "account_number": "10-2611-621-000-00-46-006",
+     "description": "AUG 2023 CHRGS-FR CTR",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$14.98"
+    },
+    {
+     "account_number": "10-2611-621-000-00-46-011",
+     "description": "AUG 2023 CHRGS-PHES",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$808.12"
+    },
+    {
+     "account_number": "10-2611-621-000-00-46-020",
+     "description": "AUG 2023 CHRGS-LINTON",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$80.23"
+    },
+    {
+     "account_number": "10-2611-621-000-00-46-025",
+     "description": "AUG 2023 CHRGS-SR HIGH",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$856.30"
+    }
+   ],
+   "check_total": "$1,774.20",
+   "source_page": 19
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340410",
+   "check_date": "09/21/23",
+   "vendor_name": "UNITED REFRIGERATION INC",
+   "lines": [
+    {
+     "account_number": "10-2611-610-000-00-46-072",
+     "description": "HVAC MISC SUPPLIES",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$291.53"
+    }
+   ],
+   "check_total": "$291.53",
+   "source_page": 19
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340411",
+   "check_date": "09/21/23",
+   "vendor_name": "URBAN ACADEMY OF GREATER PITTSBURGH CS",
+   "lines": [
+    {
+     "account_number": "10-1110-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-REG ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$37,802.56"
+    },
+    {
+     "account_number": "10-1210-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-SP ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$36,062.11"
+    }
+   ],
+   "check_total": "$73,864.67",
+   "source_page": 19
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340412",
+   "check_date": "09/21/23",
+   "vendor_name": "URBAN PATHWAYS 6-12 CHARTER SCHOOL",
+   "lines": [
+    {
+     "account_number": "10-1110-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-REG ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$2,043.39"
+    },
+    {
+     "account_number": "10-1210-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-SP ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$9,015.53"
+    }
+   ],
+   "check_total": "$11,058.92",
+   "source_page": 20
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340413",
+   "check_date": "09/21/23",
+   "vendor_name": "UTICA NATIONAL INSURANCE GROUP",
+   "lines": [
+    {
+     "account_number": "10-2611-523-000-00-46-000",
+     "description": "7/2023-7/2024 AUTO-COMM POLICY RENEW",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$20,444.00"
+    }
+   ],
+   "check_total": "$20,444.00",
+   "source_page": 20
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340414",
+   "check_date": "09/21/23",
+   "vendor_name": "VERIZON WIRELESS",
+   "lines": [
+    {
+     "account_number": "10-2611-530-000-00-42-000",
+     "description": "HOT SPOTS",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$60.08"
+    }
+   ],
+   "check_total": "$60.08",
+   "source_page": 20
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340415",
+   "check_date": "09/21/23",
+   "vendor_name": "W P J W A",
+   "lines": [
+    {
+     "account_number": "10-2611-424-000-00-46-006",
+     "description": "AUG/SEPT 2023 CHRGS-FR CTR",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$895.04"
+    },
+    {
+     "account_number": "10-2611-424-000-00-46-006",
+     "description": "AUG/SEPT 2023 CHRGS-FLD HOUSE",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$128.67"
+    }
+   ],
+   "check_total": "$1,023.71",
+   "source_page": 20
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340416",
+   "check_date": "09/21/23",
+   "vendor_name": "WESTINGHOUSE ARTS ACADEMY CHARTER SCH",
+   "lines": [
+    {
+     "account_number": "10-1110-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-REG ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$45,976.08"
+    },
+    {
+     "account_number": "10-1210-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-SP ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$12,020.71"
+    }
+   ],
+   "check_total": "$57,996.79",
+   "source_page": 20
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340417",
+   "check_date": "09/21/23",
+   "vendor_name": "RENEL WILLIAMS",
+   "lines": [
+    {
+     "account_number": "10-2271-240-000-00-53-000",
+     "description": "GANNON UNIV TUITION REIMBURSEMENT",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$3,060.00"
+    }
+   ],
+   "check_total": "$3,060.00",
+   "source_page": 20
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340418",
+   "check_date": "09/21/23",
+   "vendor_name": "WORTH AVE GROUP, LLC",
+   "lines": [
+    {
+     "account_number": "10-2240-442-000-00-42-000",
+     "description": "CHROMEBOOK INSURANCE POLICY",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$28,380.00"
+    }
+   ],
+   "check_total": "$28,380.00",
+   "source_page": 20
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340419",
+   "check_date": "09/21/23",
+   "vendor_name": "YOUNG SCHOLARS OF GREATER ALLEGHENY",
+   "lines": [
+    {
+     "account_number": "10-1110-562-000-00-00-000",
+     "description": "AUG 2023 TUITION-RG ED",
+     "batch": "332",
+     "po_number": null,
+     "amount": "$4,086.76"
+    }
+   ],
+   "check_total": "$4,086.76",
+   "source_page": 20
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340420",
+   "check_date": "09/25/23",
+   "vendor_name": "PA DEPT OF TRANSPORTATION",
+   "lines": [
+    {
+     "account_number": "10-2611-430-000-00-46-048",
+     "description": "TITLE FOR VEHICLE #29",
+     "batch": "333",
+     "po_number": null,
+     "amount": "$67.00"
+    }
+   ],
+   "check_total": "$67.00",
+   "source_page": 21
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340421",
+   "check_date": "09/25/23",
+   "vendor_name": "WPSCA",
+   "lines": [
+    {
+     "account_number": "10-3200-610-000-00-60-313",
+     "description": "2023/24 DUES WEST PA SOCCER COACH ASSOC",
+     "batch": "333",
+     "po_number": null,
+     "amount": "$40.00"
+    }
+   ],
+   "check_total": "$40.00",
+   "source_page": 21
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340422",
+   "check_date": "09/29/23",
+   "vendor_name": "AFLAC GROUP INSURANCE",
+   "lines": [
+    {
+     "account_number": "10-0460-000-832-08-00-000",
+     "description": "AUG 2023 PREMIUM",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$8,108.39"
+    }
+   ],
+   "check_total": "$8,108.39",
+   "source_page": 21
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340423",
+   "check_date": "09/29/23",
+   "vendor_name": "AFSCME COUNCIL 13 AFL-CIO",
+   "lines": [
+    {
+     "account_number": "10-0460-000-825-08-00-000",
+     "description": "AFSCME DUES PAY - PLANT-UD30",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$665.79"
+    },
+    {
+     "account_number": "10-0460-000-828-08-00-000",
+     "description": "AFSCME DUES PAY - FOOD SERVICE-UD40",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$63.23"
+    }
+   ],
+   "check_total": "$729.02",
+   "source_page": 21
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340424",
+   "check_date": "09/29/23",
+   "vendor_name": "ALCO WASHER CENTER",
+   "lines": [
+    {
+     "account_number": "10-2611-430-000-00-46-000",
+     "description": "DRIER REPAIRS",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$405.00"
+    }
+   ],
+   "check_total": "$405.00",
+   "source_page": 21
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340425",
+   "check_date": "09/29/23",
+   "vendor_name": "ALLEGHENY INTERMEDIATE UNIT",
+   "lines": [
+    {
+     "account_number": "10-2240-330-000-42-01-000",
+     "description": "22/2023 TECH POOL LEGAL COUNCIL",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$660.00"
+    },
+    {
+     "account_number": "10-2240-648-000-00-42-001",
+     "description": "DISCOVERY EDUCATION FOR 3041 PENN HILLS SCHOOL DISTRICT",
+     "batch": "334",
+     "po_number": "23000256",
+     "amount": "$5,412.98"
+    },
+    {
+     "account_number": "10-2240-648-000-00-42-001",
+     "description": "KAMI SOFTWARE FOR 3266 STUDENTS FOR THE PENN HILLS SCHOOL",
+     "batch": "334",
+     "po_number": "23000255",
+     "amount": "$7,054.56"
+    },
+    {
+     "account_number": "10-2370-330-000-01-00-000",
+     "description": "MAR 2023 COMMUNICATIONS CONSULT",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$512.50"
+    },
+    {
+     "account_number": "10-2370-330-000-01-00-000",
+     "description": "SEPT 2022 MARKETING & COMMUNICATIONS SERVICES",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$450.00"
+    },
+    {
+     "account_number": "10-2370-330-000-01-00-000",
+     "description": "JAN 2023 COMMUNICATIONS CONSULT",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$315.00"
+    },
+    {
+     "account_number": "10-2370-330-000-01-00-000",
+     "description": "FEB 2023 COMMUNICATIONS CONSULT",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$512.00"
+    },
+    {
+     "account_number": "10-2370-330-000-01-00-000",
+     "description": "NOV 2022 COMMUNICATIONS CONSULT",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$315.00"
+    },
+    {
+     "account_number": "10-2370-330-000-01-00-000",
+     "description": "DEC 2022 COMMUNICATIONS CONSULT",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$315.00"
+    },
+    {
+     "account_number": "10-2370-330-000-01-00-000",
+     "description": "OCT 2022 COMMUNICATIONS CONSULT",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$427.50"
+    }
+   ],
+   "check_total": "$15,974.54",
+   "source_page": 21
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340426",
+   "check_date": "09/29/23",
+   "vendor_name": "ELIJAH ALSTON",
+   "lines": [
+    {
+     "account_number": "10-1450-330-190-00-00-000",
+     "description": "SAFE SPACES WK END 9/21/2023",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$555.00"
+    }
+   ],
+   "check_total": "$555.00",
+   "source_page": 22
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340427",
+   "check_date": "09/29/23",
+   "vendor_name": "AMAZON CAPITAL SERVICES",
+   "lines": [
+    {
+     "account_number": "10-1110-610-000-10-11-000",
+     "description": "VIZ PRO MAGNETIC DRY ERASE",
+     "batch": "334",
+     "po_number": "23000251",
+     "amount": "$65.50"
+    },
+    {
+     "account_number": "10-1110-610-000-10-11-000",
+     "description": "MOBILE WHITEBOARD - 36X24 - PORTABLE MAGNETIC DRY ERASE WITH",
+     "batch": "334",
+     "po_number": "23000240",
+     "amount": "$119.29"
+    },
+    {
+     "account_number": "10-1110-610-000-10-11-000",
+     "description": "LOCKWAYS WHITE BOARD DRY ERASE BOARD 48x36 INCH, MAGNETIC",
+     "batch": "334",
+     "po_number": "23000217",
+     "amount": "$828.33"
+    },
+    {
+     "account_number": "10-1110-610-000-20-20-000",
+     "description": "Seville Classics UltraHD Solid Steel Storage Cabinet (36W x",
+     "batch": "334",
+     "po_number": "23000212",
+     "amount": "$789.74"
+    },
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "FARGO DTC1000 COLOR RIBBON",
+     "batch": "334",
+     "po_number": "23000243",
+     "amount": "$274.98"
+    },
+    {
+     "account_number": "10-1210-610-000-00-32-000",
+     "description": "REGALO EASY STEP EXTRA TALL WALK THRU BABY GATE",
+     "batch": "334",
+     "po_number": "23000216",
+     "amount": "$189.76"
+    },
+    {
+     "account_number": "10-1210-610-000-00-32-000",
+     "description": "AMYLOVE 12 PCS KIDS EAR PROTECTION NOISE CANCELLING",
+     "batch": "334",
+     "po_number": "23000238",
+     "amount": "$94.99"
+    },
+    {
+     "account_number": "10-1350-610-000-30-25-175",
+     "description": "ATARI 50: THE ANNIVERSARY CELEBRATION",
+     "batch": "334",
+     "po_number": "23000153",
+     "amount": "$139.42"
+    },
+    {
+     "account_number": "10-2240-610-000-00-42-000",
+     "description": "Crucial RAM 16GB DDR4 3200MHz CL22 (or 2933MHz or 2666MHz)",
+     "batch": "334",
+     "po_number": "23000245",
+     "amount": "$289.90"
+    },
+    {
+     "account_number": "10-2240-610-000-00-42-000",
+     "description": "30 ft cat6 Outdoor Ethernet Cable, Inground, Heavy Duty",
+     "batch": "334",
+     "po_number": "23000239",
+     "amount": "$19.52"
+    },
+    {
+     "account_number": "10-2271-640-000-00-54-000",
+     "description": "ITEM B09DXSHCMJ 5000 PIECES 1/2 INCH ROUND COLOR CODING",
+     "batch": "334",
+     "po_number": "23000231",
+     "amount": "$229.06"
+    },
+    {
+     "account_number": "10-2271-640-000-00-54-000",
+     "description": "ITEM# 0689835825 SHILOH BY PHYLLIS REYNOLDS NAYLOR -",
+     "batch": "334",
+     "po_number": "23000228",
+     "amount": "$31.46"
+    },
+    {
+     "account_number": "10-2310-820-000-00-02-000",
+     "description": "HP OFFICEJET 8015E WIRELESS COLOR ALL-IN-ONE PRINTER WITH 6",
+     "batch": "334",
+     "po_number": "23000232",
+     "amount": "$99.99"
+    },
+    {
+     "account_number": "10-2310-820-000-00-05-000",
+     "description": "KAILEYOUXIANGONGSI ROTATING ART SUPPLY STORAGE ORGANIZER,",
+     "batch": "334",
+     "po_number": "23000234",
+     "amount": "$514.57"
+    },
+    {
+     "account_number": "10-2611-610-000-00-46-000",
+     "description": "MACARRIE 200 PRECUT TENNIS BALLS, GRAY",
+     "batch": "334",
+     "po_number": "23000142",
+     "amount": "$5,867.91"
+    },
+    {
+     "account_number": "10-2611-610-000-00-46-000",
+     "description": "MACARRIE 100 PCS PRECUT TENNIS BALLS, GRAY",
+     "batch": "334",
+     "po_number": "23000211",
+     "amount": "$203.98"
+    },
+    {
+     "account_number": "10-2611-610-000-00-46-000",
+     "description": "MACARRIE 200 PRECUT TENNIS BALLS, GRAY",
+     "batch": "334",
+     "po_number": "23000142",
+     "amount": "-$345.28"
+    },
+    {
+     "account_number": "10-2611-610-000-00-46-000",
+     "description": "MACARRIE 200 PRECUT TENNIS BALLS, GRAY",
+     "batch": "334",
+     "po_number": "23000142",
+     "amount": "-$583.07"
+    },
+    {
+     "account_number": "10-2611-610-000-00-46-000",
+     "description": "MACARRIE 200 PRECUT TENNIS BALLS, GRAY",
+     "batch": "334",
+     "po_number": "23000142",
+     "amount": "-$10.79"
+    },
+    {
+     "account_number": "10-2611-610-000-00-46-000",
+     "description": "MACARRIE 200 PRECUT TENNIS BALLS, GRAY",
+     "batch": "334",
+     "po_number": "23000142",
+     "amount": "$10.79"
+    },
+    {
+     "account_number": "10-2611-610-000-00-46-000",
+     "description": "MACARRIE 100 PCS PRECUT TENNIS BALLS, GRAY",
+     "batch": "334",
+     "po_number": "23000211",
+     "amount": "$815.92"
+    },
+    {
+     "account_number": "10-3200-752-000-00-60-000",
+     "description": "SONY - HRRCX405 HD VIDEO RECORDING HANDYCAM CAMCORDER",
+     "batch": "334",
+     "po_number": "23000215",
+     "amount": "$218.00"
+    }
+   ],
+   "check_total": "$9,863.97",
+   "source_page": 22
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340428",
+   "check_date": "09/29/23",
+   "vendor_name": "AP FBO OSA GLOBAL, LLC",
+   "lines": [
+    {
+     "account_number": "10-2660-350-000-00-62-001",
+     "description": "SECURITY WK END 9/9/23-LINTON",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$1,895.17"
+    },
+    {
+     "account_number": "10-2660-350-000-00-62-001",
+     "description": "SECURITY WK END 9/9/23-YESS STAFF",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$7,680.60"
+    },
+    {
+     "account_number": "10-2660-350-000-00-62-001",
+     "description": "SECURITY WK END 9/9/23-PHES",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$2,170.35"
+    },
+    {
+     "account_number": "10-2660-350-000-00-62-001",
+     "description": "SECURITY WK END 9/9/23-SR HIGH",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$3,947.47"
+    },
+    {
+     "account_number": "10-2660-350-000-00-62-001",
+     "description": "SECURITY WK END 9/9/23-GATE OFFICERS",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$3,901.66"
+    },
+    {
+     "account_number": "10-2660-350-000-00-62-001",
+     "description": "SECURITY WK END 9/16/23-GATE OFFICERS",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$4,760.28"
+    },
+    {
+     "account_number": "10-2660-350-000-00-62-001",
+     "description": "SECURITY WK END 9/16/23-SR HIGH",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$4,767.36"
+    },
+    {
+     "account_number": "10-2660-350-000-00-62-001",
+     "description": "SECURITY WK END 9/16/23-PHES",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$2,653.56"
+    },
+    {
+     "account_number": "10-2660-350-000-00-62-001",
+     "description": "SECURITY WK END 9/16/23-YESS TEAM",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$10,129.13"
+    },
+    {
+     "account_number": "10-2660-350-000-00-62-001",
+     "description": "SECURITY WK END 9/16/23-SCH EVENT",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$74.00"
+    },
+    {
+     "account_number": "10-2660-350-000-00-62-001",
+     "description": "SEURITY WK END 9/16/23-SR HIGH",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$777.00"
+    },
+    {
+     "account_number": "10-2660-350-000-00-62-001",
+     "description": "SECURITY WK END 9/19/23-LINTON",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$2,694.51"
+    }
+   ],
+   "check_total": "$45,451.09",
+   "source_page": 23
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340429",
+   "check_date": "09/29/23",
+   "vendor_name": "APPLE, INC",
+   "lines": [
+    {
+     "account_number": "10-2310-820-000-00-01-000",
+     "description": "10.9 INCH IPAD WI-FI 64 GB IN THE COLOR PINK. PLEASE ADD",
+     "batch": "334",
+     "po_number": "23000146",
+     "amount": "$478.00"
+    },
+    {
+     "account_number": "10-2310-820-000-00-01-000",
+     "description": "10.9 INCH IPAD WI-FI 64 GB IN THE COLOR PINK. PLEASE ADD",
+     "batch": "334",
+     "po_number": "23000146",
+     "amount": "$249.00"
+    }
+   ],
+   "check_total": "$727.00",
+   "source_page": 24
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340430",
+   "check_date": "09/29/23",
+   "vendor_name": "AUTO CLEAR LLC",
+   "lines": [
+    {
+     "account_number": "10-2380-610-000-20-20-000",
+     "description": "Super Omni Plus Handwand",
+     "batch": "334",
+     "po_number": "22000218",
+     "amount": "$395.00"
+    }
+   ],
+   "check_total": "$395.00",
+   "source_page": 24
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340431",
+   "check_date": "09/29/23",
+   "vendor_name": "ROBERT RIZZO",
+   "lines": [
+    {
+     "account_number": "10-2611-430-000-00-46-000",
+     "description": "REPAIR FORK LIFT GATE-LINTON",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$325.00"
+    },
+    {
+     "account_number": "10-2611-430-000-00-46-000",
+     "description": "REPAIR GATES-LINTON & SR HIGH",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$1,327.50"
+    }
+   ],
+   "check_total": "$1,652.50",
+   "source_page": 24
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340432",
+   "check_date": "09/29/23",
+   "vendor_name": "BIG'S SANITATION, INC.",
+   "lines": [
+    {
+     "account_number": "10-2611-430-000-00-46-000",
+     "description": "DUMPSTER RENTAL",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$505.00"
+    }
+   ],
+   "check_total": "$505.00",
+   "source_page": 24
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340433",
+   "check_date": "09/29/23",
+   "vendor_name": "BSN SPORTS, LLC",
+   "lines": [
+    {
+     "account_number": "10-3200-610-000-00-60-300",
+     "description": "PACK ALUMAGOAL SOCCER NET CLIP TWIST",
+     "batch": "334",
+     "po_number": "23000035",
+     "amount": "$489.62"
+    },
+    {
+     "account_number": "10-3200-610-000-00-60-310",
+     "description": "PACK ALUMAGOAL SOCCER NET CLIP TWIST",
+     "batch": "334",
+     "po_number": "23000035",
+     "amount": "$3,136.70"
+    },
+    {
+     "account_number": "10-3200-610-000-00-60-313",
+     "description": "PACK ALUMAGOAL SOCCER NET CLIP TWIST",
+     "batch": "334",
+     "po_number": "23000035",
+     "amount": "$100.16"
+    },
+    {
+     "account_number": "10-3200-610-000-00-60-318",
+     "description": "PACK ALUMAGOAL SOCCER NET CLIP TWIST",
+     "batch": "334",
+     "po_number": "23000035",
+     "amount": "$100.16"
+    },
+    {
+     "account_number": "10-3200-610-000-00-60-321",
+     "description": "BASKETBALL HOOP REPLACEMENT NETS (HIGH QUALITY)",
+     "batch": "334",
+     "po_number": "23000042",
+     "amount": "$32.60"
+    },
+    {
+     "account_number": "10-3200-610-000-00-60-323",
+     "description": "BASKETBALL HOOP REPLACEMENT NETS (HIGH QUALITY)",
+     "batch": "334",
+     "po_number": "23000042",
+     "amount": "$5.34"
+    },
+    {
+     "account_number": "10-3200-610-000-00-60-339",
+     "description": "PACK ALUMAGOAL SOCCER NET CLIP TWIST",
+     "batch": "334",
+     "po_number": "23000035",
+     "amount": "$317.92"
+    },
+    {
+     "account_number": "10-3200-610-333-26-00-000",
+     "description": "NIKE ZOOM ROTATIONAL 6 ITEM NUMBER- NSPFWADT",
+     "batch": "334",
+     "po_number": "22000552",
+     "amount": "$137.50"
+    },
+    {
+     "account_number": "10-3200-610-338-26-00-000",
+     "description": "NIKE ZOOM ROTATIONAL 6 ITEM NUMBER- NSPFWADT",
+     "batch": "334",
+     "po_number": "22000552",
+     "amount": "$467.50"
+    }
+   ],
+   "check_total": "$4,787.50",
+   "source_page": 24
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340434",
+   "check_date": "09/29/23",
+   "vendor_name": "CATALYST ACADEMY CHARTER SCHOOL",
+   "lines": [
+    {
+     "account_number": "10-1110-562-000-07-00-000",
+     "description": "2022/23 RECONCILIATION-REG ED",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$18,292.89"
+    },
+    {
+     "account_number": "10-1210-562-000-07-00-000",
+     "description": "2022/23 RECONCILIATION-SP ED",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$48,082.27"
+    }
+   ],
+   "check_total": "$66,375.16",
+   "source_page": 25
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340435",
+   "check_date": "09/29/23",
+   "vendor_name": "CENTURY SPORTS INC",
+   "lines": [
+    {
+     "account_number": "10-3200-610-000-00-60-300",
+     "description": "32/UNIT JOHNSON AND JOHNSON COACH TAPE, 1.5 INCH X 15 YARDS,",
+     "batch": "334",
+     "po_number": "23000032",
+     "amount": "$2,966.28"
+    },
+    {
+     "account_number": "10-3200-610-000-00-60-310",
+     "description": "SELECT NUMERO 10 SOCCERBALLS, WHITE/BLACK (MS PRACTICE",
+     "batch": "334",
+     "po_number": "23000031",
+     "amount": "$2,388.85"
+    },
+    {
+     "account_number": "10-3200-610-000-00-60-313",
+     "description": "SELECT NUMERO 10 SOCCERBALLS, WHITE/BLACK (MS PRACTICE",
+     "batch": "334",
+     "po_number": "23000031",
+     "amount": "$375.21"
+    },
+    {
+     "account_number": "10-3200-610-000-00-60-333",
+     "description": "JUMP ROPES (WEIGHTED HANDLES)",
+     "batch": "334",
+     "po_number": "23000047",
+     "amount": "$187.03"
+    },
+    {
+     "account_number": "10-3200-610-000-00-60-336",
+     "description": "JUMP ROPES (WEIGHTED HANDLES)",
+     "batch": "334",
+     "po_number": "23000047",
+     "amount": "$33.60"
+    },
+    {
+     "account_number": "10-3200-610-000-00-60-337",
+     "description": "SELECT NUMERO 10 SOCCERBALLS, WHITE/BLACK (MS PRACTICE",
+     "batch": "334",
+     "po_number": "23000031",
+     "amount": "$323.76"
+    },
+    {
+     "account_number": "10-3200-610-000-00-60-338",
+     "description": "JUMP ROPES (WEIGHTED HANDLES)",
+     "batch": "334",
+     "po_number": "23000047",
+     "amount": "$187.02"
+    }
+   ],
+   "check_total": "$6,461.75",
+   "source_page": 25
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340436",
+   "check_date": "09/29/23",
+   "vendor_name": "CHLIC",
+   "lines": [
+    {
+     "account_number": "10-1110-280-000-00-00-000",
+     "description": "OCT 2023 CIGNA DENTAL-RETIREE",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$7,814.33"
+    },
+    {
+     "account_number": "10-5800-212-000-06-00-000",
+     "description": "OCT 2023 CIGNA DENTAL-ACTIVE",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$19,648.31"
+    }
+   ],
+   "check_total": "$27,462.64",
+   "source_page": 25
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340437",
+   "check_date": "09/29/23",
+   "vendor_name": "LORI CHRISTIAN",
+   "lines": [
+    {
+     "account_number": "10-1450-330-190-00-00-000",
+     "description": "SAFE SPACES WK END 9/21/23",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$360.00"
+    }
+   ],
+   "check_total": "$360.00",
+   "source_page": 25
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340438",
+   "check_date": "09/29/23",
+   "vendor_name": "CITY CHARTER HIGH SCHOOL",
+   "lines": [
+    {
+     "account_number": "10-1110-562-000-07-00-000",
+     "description": "2022/23 RECONCILIATION-REG ED",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$16,866.08"
+    },
+    {
+     "account_number": "10-1210-562-000-07-00-000",
+     "description": "2022/23 RECONCILIATION-SP ED",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$6,010.35"
+    }
+   ],
+   "check_total": "$22,876.43",
+   "source_page": 25
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340439",
+   "check_date": "09/29/23",
+   "vendor_name": "DeSANTIS SOLUTIONS",
+   "lines": [
+    {
+     "account_number": "10-2611-610-000-00-46-079",
+     "description": "DEBAZU1LO - SOAP, AZURE FOAM 1 LITER, ORANGE TIP, 6-1LT/CASE",
+     "batch": "334",
+     "po_number": "23000174",
+     "amount": "$1,963.59"
+    }
+   ],
+   "check_total": "$1,963.59",
+   "source_page": 26
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340440",
+   "check_date": "09/29/23",
+   "vendor_name": "DICK BLICK",
+   "lines": [
+    {
+     "account_number": "10-1110-610-000-20-20-000",
+     "description": "6 Color Student Tempra Gallons",
+     "batch": "334",
+     "po_number": "23000127",
+     "amount": "$1,948.60"
+    },
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "SARGENT ART ART-TIME WASHABLE TEMPERA 1 GALLON (BLACK)",
+     "batch": "334",
+     "po_number": "23000119",
+     "amount": "$694.65"
+    },
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "CRAFT PLIET SET #B33064-1069",
+     "batch": "334",
+     "po_number": "23000125",
+     "amount": "$2,497.56"
+    },
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "CRAFT PLIET SET #B33064-1069",
+     "batch": "334",
+     "po_number": "23000125",
+     "amount": "$104.28"
+    },
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "TRU-RAY CONSTRUCTION PAPER (BLACK) #B11406-2007",
+     "batch": "334",
+     "po_number": "23000226",
+     "amount": "$978.06"
+    },
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "SARGENT ART ART-TIME WASHABLE TEMPERA 1 GALLON (BLACK)",
+     "batch": "334",
+     "po_number": "23000119",
+     "amount": "$177.11"
+    },
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "PRIMACOLOR PENCIL (PEACOCK GREEN ) #B20508-7531",
+     "batch": "334",
+     "po_number": "23000236",
+     "amount": "$1,221.66"
+    },
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "SARGENT ART ART-TIME WASHABLE TEMPERA 1 GALLON (BLACK)",
+     "batch": "334",
+     "po_number": "23000119",
+     "amount": "$18.36"
+    },
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "#B22220-2061 DRAWING PENCILS (6B)",
+     "batch": "334",
+     "po_number": "23000202",
+     "amount": "$750.11"
+    }
+   ],
+   "check_total": "$8,390.39",
+   "source_page": 26
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340441",
+   "check_date": "09/29/23",
+   "vendor_name": "DUQUESNE LIGHT CO",
+   "lines": [
+    {
+     "account_number": "10-2611-622-000-00-46-005",
+     "description": "AUG/SEPT 2023 CHRGS-FLD HOUSE",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$1,274.50"
+    },
+    {
+     "account_number": "10-2611-622-000-00-46-006",
+     "description": "AUG/SEPT 2023 CHRGS-FR CTR",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$380.08"
+    },
+    {
+     "account_number": "10-2611-622-000-00-46-011",
+     "description": "AUG/SEPT 2023 CHRGS-PHES",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$19,706.19"
+    },
+    {
+     "account_number": "10-2611-622-000-00-46-011",
+     "description": "AUG/SEPT 2023 CHRGS-GRD SHACK",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$33.65"
+    },
+    {
+     "account_number": "10-2611-622-000-00-46-020",
+     "description": "AUG/SEPT 2023 CHRGS-MAINT.",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$55.15"
+    },
+    {
+     "account_number": "10-2611-622-000-00-46-025",
+     "description": null,
+     "batch": null,
+     "po_number": null,
+     "amount": "$1,172.77"
+    },
+    {
+     "account_number": "10-2611-622-000-00-46-025",
+     "description": null,
+     "batch": null,
+     "po_number": null,
+     "amount": "$39,937.13"
+    }
+   ],
+   "check_total": "$62,559.47",
+   "source_page": 26
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340442",
+   "check_date": "09/29/23",
+   "vendor_name": "JODY DiMICELI",
+   "lines": [
+    {
+     "account_number": "10-1210-580-000-00-32-000",
+     "description": "TRAVEL REIMBURSEMENT",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$61.71"
+    }
+   ],
+   "check_total": "$61.71",
+   "source_page": 26
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340443",
+   "check_date": "09/29/23",
+   "vendor_name": "EMOTIONAL ABC'S, INC",
+   "lines": [
+    {
+     "account_number": "10-1210-610-000-00-32-000",
+     "description": "COMP PROG-30 STUDENT, 2 EDUCATORS",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$864.00"
+    }
+   ],
+   "check_total": "$864.00",
+   "source_page": 27
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340444",
+   "check_date": "09/29/23",
+   "vendor_name": "ENVIRONMENTAL CHARTER",
+   "lines": [
+    {
+     "account_number": "10-1110-562-000-07-00-000",
+     "description": "2022/23 RECONCILIATION-REG ED SCHOOL",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$34,733.40"
+    },
+    {
+     "account_number": "10-1210-562-000-07-00-000",
+     "description": "2022/23 RECONCILIATION-SP ED",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$15,963.49"
+    }
+   ],
+   "check_total": "$50,696.89",
+   "source_page": 27
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340445",
+   "check_date": "09/29/23",
+   "vendor_name": "ERZEN ASSOCIATES, INC",
+   "lines": [
+    {
+     "account_number": "10-2611-610-079-46-00-000",
+     "description": "FILMOP FRED KIT INCLUDES: FRED BUCKET-TELESCOPIC HANDLE",
+     "batch": "334",
+     "po_number": "22000663",
+     "amount": "$2,620.49"
+    }
+   ],
+   "check_total": "$2,620.49",
+   "source_page": 27
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340446",
+   "check_date": "09/29/23",
+   "vendor_name": "RICHARD FAULKNER, JR.",
+   "lines": [
+    {
+     "account_number": "10-1450-330-190-00-00-000",
+     "description": "SAFE SPACES WK END 9/21/23",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$490.50"
+    }
+   ],
+   "check_total": "$490.50",
+   "source_page": 27
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340447",
+   "check_date": "09/29/23",
+   "vendor_name": "FISHER SCIENTIFIC",
+   "lines": [
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "VINEGAR - WHITE #S25623A",
+     "batch": "334",
+     "po_number": "23000084",
+     "amount": "$572.91"
+    },
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "EISCO 3 IN 1 WEATHER STATION #S27651",
+     "batch": "334",
+     "po_number": "23000083",
+     "amount": "$2,699.35"
+    },
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "VINEGAR - WHITE #S25623A",
+     "batch": "334",
+     "po_number": "23000084",
+     "amount": "$60.15"
+    },
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "EISCO 3 IN 1 WEATHER STATION #S27651",
+     "batch": "334",
+     "po_number": "23000083",
+     "amount": "$97.80"
+    },
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "EISCO 3 IN 1 WEATHER STATION #S27651",
+     "batch": "334",
+     "po_number": "23000083",
+     "amount": "$107.20"
+    },
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "EISCO 3 IN 1 WEATHER STATION #S27651",
+     "batch": "334",
+     "po_number": "23000083",
+     "amount": "$31.50"
+    },
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "VINEGAR - WHITE #S25623A",
+     "batch": "334",
+     "po_number": "23000084",
+     "amount": "$38.46"
+    },
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "EISCO 3 IN 1 WEATHER STATION #S27651",
+     "batch": "334",
+     "po_number": "23000083",
+     "amount": "$32.46"
+    },
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "VINEGAR - WHITE #S25623A",
+     "batch": "334",
+     "po_number": "23000084",
+     "amount": "$20.27"
+    },
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "VINEGAR - WHITE #S25623A",
+     "batch": "334",
+     "po_number": "23000084",
+     "amount": "$32.56"
+    },
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "EISCO 3 IN 1 WEATHER STATION #S27651",
+     "batch": "334",
+     "po_number": "23000083",
+     "amount": "$176.20"
+    },
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "EISCO 3 IN 1 WEATHER STATION #S27651",
+     "batch": "334",
+     "po_number": "23000083",
+     "amount": "$56.79"
+    }
+   ],
+   "check_total": "$3,925.65",
+   "source_page": 27
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340448",
+   "check_date": "09/29/23",
+   "vendor_name": "GPSA",
+   "lines": [
+    {
+     "account_number": "10-3200-610-000-00-60-337",
+     "description": "TENNIS EMBROIDERY",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$90.00"
+    }
+   ],
+   "check_total": "$90.00",
+   "source_page": 27
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340449",
+   "check_date": "09/29/23",
+   "vendor_name": "INTELLIGENT ELECTRONIC SYSTEMS, INC",
+   "lines": [
+    {
+     "account_number": "10-2611-430-000-00-46-000",
+     "description": "POWE SUPPLY REPLACE-LINTON",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$2,532.46"
+    }
+   ],
+   "check_total": "$2,532.46",
+   "source_page": 28
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340450",
+   "check_date": "09/29/23",
+   "vendor_name": "KELLY SERVICES, INC",
+   "lines": [
+    {
+     "account_number": "10-1110-328-000-00-00-011",
+     "description": "WK END 9/17/23 AIDE-PHES",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$175.14"
+    },
+    {
+     "account_number": "10-1110-328-000-00-00-011",
+     "description": "WK END 9/10/23 AIDE/SECT-PHES",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$652.61"
+    },
+    {
+     "account_number": "10-1110-328-000-00-00-020",
+     "description": "WK END 9/17/23 SECT-ADMIN",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$562.96"
+    },
+    {
+     "account_number": "10-1110-328-000-00-00-020",
+     "description": "WK END 9/10/23 AIDE/SECT-LINTON",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$617.16"
+    },
+    {
+     "account_number": "10-1110-328-000-00-00-025",
+     "description": "WK END 9/17/23 SECT-SR HIGH",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$489.98"
+    },
+    {
+     "account_number": "10-1110-328-000-00-00-025",
+     "description": "WK END 9/10/23 AIDE/SECT-SR HIGH",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$733.93"
+    },
+    {
+     "account_number": "10-1110-329-000-00-00-011",
+     "description": "WK END 9/17/23 TCHRS-PHES",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$3,266.52"
+    },
+    {
+     "account_number": "10-1110-329-000-00-00-011",
+     "description": "WK END 9/10/23 TCHRS-PHES",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$3,005.88"
+    },
+    {
+     "account_number": "10-1110-329-000-00-00-020",
+     "description": "WK END 9/17/23 TCHRS-LINTON",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$2,224.01"
+    },
+    {
+     "account_number": "10-1110-329-000-00-00-020",
+     "description": "WK END 9/10/23 TCHRS-LINTON",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$2,901.62"
+    },
+    {
+     "account_number": "10-1110-329-000-00-00-025",
+     "description": "WK END 9/17/23 TCHRS-SR HIGH",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$2,919.00"
+    },
+    {
+     "account_number": "10-1110-329-000-00-00-025",
+     "description": "WK END 9/10/23 TCHRS-SR HIGH",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$1,216.25"
+    }
+   ],
+   "check_total": "$18,765.06",
+   "source_page": 28
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340451",
+   "check_date": "09/29/23",
+   "vendor_name": "KEYSTONE COLLECTION GROUP",
+   "lines": [
+    {
+     "account_number": "10-0460-000-813-08-00-000",
+     "description": "WAGE ATTACH WITHHELD PAYABLE-ATT19",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$60.19"
+    }
+   ],
+   "check_total": "$60.19",
+   "source_page": 28
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340452",
+   "check_date": "09/29/23",
+   "vendor_name": "ROBERT KOLLAR",
+   "lines": [
+    {
+     "account_number": "10-1110-610-000-00-00-000",
+     "description": "PRICIPALS ACADEMY REIMBURSEMENT",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$15.87"
+    },
+    {
+     "account_number": "10-1110-610-000-00-00-000",
+     "description": "PRICIPALS ACADEMY REIMBURSEMENT",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$46.00"
+    }
+   ],
+   "check_total": "$61.87",
+   "source_page": 28
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340453",
+   "check_date": "09/29/23",
+   "vendor_name": "LEXIA VOYAGER SOPRIS INC",
+   "lines": [
+    {
+     "account_number": "10-2271-640-000-00-54-000",
+     "description": "ITEM# 348322 TRANSMATH 3RD ED. LEVEL 1 DEVELOPING NUMBER",
+     "batch": "334",
+     "po_number": "23000222",
+     "amount": "$3,750.00"
+    }
+   ],
+   "check_total": "$3,750.00",
+   "source_page": 28
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340454",
+   "check_date": "09/29/23",
+   "vendor_name": "HERBERT MATTHIE",
+   "lines": [
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "SEWING MACHINE REPAIRS-SR HIGH",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$950.00"
+    }
+   ],
+   "check_total": "$950.00",
+   "source_page": 28
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340455",
+   "check_date": "09/29/23",
+   "vendor_name": "MAXIM HEALTHCARE SERVICES, INC",
+   "lines": [
+    {
+     "account_number": "10-2420-330-000-00-00-000",
+     "description": "WK END 9/23/23 NURSE SERV-PHES",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$1,470.00"
+    },
+    {
+     "account_number": "10-2420-330-000-00-00-000",
+     "description": "WK END 9/16/23 NURSE SERVICES-PHES",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$1,750.45"
+    }
+   ],
+   "check_total": "$3,220.45",
+   "source_page": 29
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340456",
+   "check_date": "09/29/23",
+   "vendor_name": "MCGRAW HILL LLC",
+   "lines": [
+    {
+     "account_number": "10-2271-640-000-00-54-000",
+     "description": "ISBN 9780079022899 MHID# 0079022898 REMY EL AL / UNITED",
+     "batch": "334",
+     "po_number": "23000223",
+     "amount": "$5,550.10"
+    }
+   ],
+   "check_total": "$5,550.10",
+   "source_page": 29
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340457",
+   "check_date": "09/29/23",
+   "vendor_name": "MINIPCR",
+   "lines": [
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "MICROPIPETTING PRACTICE CARDS, 20 #KT-1510-12",
+     "batch": "334",
+     "po_number": "23000078",
+     "amount": "$325.50"
+    }
+   ],
+   "check_total": "$325.50",
+   "source_page": 29
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340458",
+   "check_date": "09/29/23",
+   "vendor_name": "CHARLES MORRIS",
+   "lines": [
+    {
+     "account_number": "10-3200-610-000-00-60-310",
+     "description": "23/24 USA FB MEMBERSHIP",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$40.00"
+    }
+   ],
+   "check_total": "$40.00",
+   "source_page": 29
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340459",
+   "check_date": "09/29/23",
+   "vendor_name": "NCS PEARSON",
+   "lines": [
+    {
+     "account_number": "10-2140-610-000-00-32-000",
+     "description": "BASC-3 Q-GLOBAL ADMINISTRATION/REPORT QTY 1 (DIGITAL)",
+     "batch": "334",
+     "po_number": "23000227",
+     "amount": "$350.00"
+    },
+    {
+     "account_number": "10-2140-610-000-06-00-000",
+     "description": "SHIPPING - PO 22000660",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$62.64"
+    }
+   ],
+   "check_total": "$412.64",
+   "source_page": 29
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340460",
+   "check_date": "09/29/23",
+   "vendor_name": "OFFICE DEPOT",
+   "lines": [
+    {
+     "account_number": "10-1110-610-000-20-20-000",
+     "description": "Bostitch Desktop Stapler- Black",
+     "batch": "334",
+     "po_number": "23000108",
+     "amount": "$148.60"
+    },
+    {
+     "account_number": "10-1110-610-000-20-20-000",
+     "description": "Bostitch Desktop Stapler- Black",
+     "batch": "334",
+     "po_number": "23000108",
+     "amount": "$97.98"
+    },
+    {
+     "account_number": "10-1110-610-000-20-20-000",
+     "description": "Bostitch Desktop Stapler- Black",
+     "batch": "334",
+     "po_number": "23000108",
+     "amount": "$2,986.83"
+    },
+    {
+     "account_number": "10-1110-610-000-20-20-000",
+     "description": "Dymo Lables (1-1/8 x 3-1/2\") 2 rolls of 350",
+     "batch": "334",
+     "po_number": "23000214",
+     "amount": "$116.96"
+    },
+    {
+     "account_number": "10-1110-610-000-20-20-000",
+     "description": "Dymo Lables (1-1/8 x 3-1/2\") 2 rolls of 350",
+     "batch": "334",
+     "po_number": "23000214",
+     "amount": "$11.98"
+    },
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "VELLIUM BRISTOL COVER STOCK #348243",
+     "batch": "334",
+     "po_number": "23000143",
+     "amount": "$77.00"
+    },
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "VELLIUM BRISTOL COVER STOCK #348243",
+     "batch": "334",
+     "po_number": "23000143",
+     "amount": "$875.78"
+    },
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "VELLIUM BRISTOL COVER STOCK #348243",
+     "batch": "334",
+     "po_number": "23000143",
+     "amount": "$324.47"
+    },
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "VELLIUM BRISTOL COVER STOCK #348243",
+     "batch": "334",
+     "po_number": "23000143",
+     "amount": "$37.32"
+    },
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "VELLIUM BRISTOL COVER STOCK #348243",
+     "batch": "334",
+     "po_number": "23000143",
+     "amount": "$215.48"
+    },
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "VELLIUM BRISTOL COVER STOCK #348243",
+     "batch": "334",
+     "po_number": "23000143",
+     "amount": "$10.47"
+    },
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "VELLIUM BRISTOL COVER STOCK #348243",
+     "batch": "334",
+     "po_number": "23000143",
+     "amount": "$112.70"
+    },
+    {
+     "account_number": "10-1210-610-000-00-32-000",
+     "description": "36 COUNT EXPO DRY ERASE MARKERS. ITEM# 806864",
+     "batch": "334",
+     "po_number": "23000205",
+     "amount": "$94.55"
+    }
+   ],
+   "check_total": "$5,110.12",
+   "source_page": 29
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340461",
+   "check_date": "09/29/23",
+   "vendor_name": "OFFICE OF CHAPTER 13",
+   "lines": [
+    {
+     "account_number": "10-0460-000-813-08-00-000",
+     "description": "WAGE ATTACH WITHHELD PAYABLE-",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$1,714.24"
+    }
+   ],
+   "check_total": "$1,714.24",
+   "source_page": 30
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340462",
+   "check_date": "09/29/23",
+   "vendor_name": "PENNSYLVANIA CYBER CHARTER SCHOOL",
+   "lines": [
+    {
+     "account_number": "10-1110-562-000-07-00-000",
+     "description": "2022/23 RECONCILIATION-REG ED",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$16,608.61"
+    },
+    {
+     "account_number": "10-1210-562-000-07-00-000",
+     "description": "2022/23 RECONCILIATION-SP ED",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$32,455.90"
+    }
+   ],
+   "check_total": "$49,064.51",
+   "source_page": 30
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340463",
+   "check_date": "09/29/23",
+   "vendor_name": "PASA",
+   "lines": [
+    {
+     "account_number": "10-2360-610-000-01-00-000",
+     "description": "MEMBER DUES-D GOLDEN-ID 8114",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$1,161.00"
+    }
+   ],
+   "check_total": "$1,161.00",
+   "source_page": 30
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340464",
+   "check_date": "09/29/23",
+   "vendor_name": "PENN HILLS LOCK & DOOR",
+   "lines": [
+    {
+     "account_number": "10-2611-610-000-00-46-000",
+     "description": "keys",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$88.40"
+    },
+    {
+     "account_number": "10-2611-610-000-00-46-000",
+     "description": "KEYS",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$80.69"
+    }
+   ],
+   "check_total": "$169.09",
+   "source_page": 30
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340465",
+   "check_date": "09/29/23",
+   "vendor_name": "PENN HILLS SERVICE ASSOCIATION",
+   "lines": [
+    {
+     "account_number": "10-0460-000-812-08-00-000",
+     "description": "PH SERVICE ASSN WITHELD PAYABLE",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$1.00"
+    }
+   ],
+   "check_total": "$1.00",
+   "source_page": 30
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340466",
+   "check_date": "09/29/23",
+   "vendor_name": "PENNSYLVANIA VIRTUAL CHARTER SCHOOL",
+   "lines": [
+    {
+     "account_number": "10-1110-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-REG ED",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$18,390.44"
+    },
+    {
+     "account_number": "10-1210-562-000-00-00-000",
+     "description": "SEPT 2023 TUITION-SP ED",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$3,005.18"
+    }
+   ],
+   "check_total": "$21,395.62",
+   "source_page": 30
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340467",
+   "check_date": "09/29/23",
+   "vendor_name": "PHEA",
+   "lines": [
+    {
+     "account_number": "10-0460-000-826-08-00-000",
+     "description": "PHEA DUES PAY - TEACHERS-UD10",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$8,210.50"
+    }
+   ],
+   "check_total": "$8,210.50",
+   "source_page": 30
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340468",
+   "check_date": "09/29/23",
+   "vendor_name": "PORTA PHONE COMPANY",
+   "lines": [
+    {
+     "account_number": "10-3200-390-000-00-60-310",
+     "description": "TD900 WIRELESS SERVICE - YEARLY RECONDITIONING OF 13",
+     "batch": "334",
+     "po_number": "23000147",
+     "amount": "$949.00"
+    }
+   ],
+   "check_total": "$949.00",
+   "source_page": 30
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340469",
+   "check_date": "09/29/23",
+   "vendor_name": "PRESTWICK HOUSE, INC",
+   "lines": [
+    {
+     "account_number": "10-1110-610-000-30-25-000",
+     "description": "THE ALCHEMIST - A DOWNLOADABLE ACTIVITY PACK #302731",
+     "batch": "334",
+     "po_number": "23000068",
+     "amount": "$630.45"
+    }
+   ],
+   "check_total": "$630.45",
+   "source_page": 31
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340470",
+   "check_date": "09/29/23",
+   "vendor_name": "PROPEL C.S. - ANDREW ST.",
+   "lines": [
+    {
+     "account_number": "10-1110-562-000-07-00-000",
+     "description": "2022/23 RECONCILIATION-REG ED",
+     "batch": "334",
+     "po_number": null,
+     "amount": "-$1,021.69"
+    },
+    {
+     "account_number": "10-1210-562-000-07-00-000",
+     "description": "2022/23 RECONCILIATION-SP ED",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$3,005.18"
+    }
+   ],
+   "check_total": "$1,983.49",
+   "source_page": 31
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340471",
+   "check_date": "09/29/23",
+   "vendor_name": "PROPEL CHARTER SCHOOL- BRAD HILLS ELEM",
+   "lines": [
+    {
+     "account_number": "10-1110-562-000-07-00-000",
+     "description": "2022/23 RECONCILIATION-REG ED",
+     "batch": "334",
+     "po_number": null,
+     "amount": "-$989.00"
+    },
+    {
+     "account_number": "10-1210-562-000-07-00-000",
+     "description": "2022/23 RECONCILIATION-SP ED",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$11,203.29"
+    }
+   ],
+   "check_total": "$10,214.29",
+   "source_page": 31
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340472",
+   "check_date": "09/29/23",
+   "vendor_name": "PROPEL CHARTER SCHOOL -",
+   "lines": [
+    {
+     "account_number": "10-1110-562-000-07-00-000",
+     "description": "2022/23 RECONCILIATIN-RG ED",
+     "batch": "334",
+     "po_number": null,
+     "amount": "-$10,670.54"
+    },
+    {
+     "account_number": "10-1210-562-000-07-00-000",
+     "description": "2022/23 RECONCILIATION-SP ED",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$50,042.19"
+    }
+   ],
+   "check_total": "$39,371.65",
+   "source_page": 31
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340473",
+   "check_date": "09/29/23",
+   "vendor_name": "PROPEL CHARTER SCHOOL - HAZELWOOD",
+   "lines": [
+    {
+     "account_number": "10-1110-562-000-07-00-000",
+     "description": "2022/23 RECONCILIATION-REG ED",
+     "batch": "334",
+     "po_number": null,
+     "amount": "-$1,254.63"
+    },
+    {
+     "account_number": "10-1210-562-000-07-00-000",
+     "description": "2022/23 RECONCILIATION-SP ED",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$3,654.29"
+    }
+   ],
+   "check_total": "$2,399.66",
+   "source_page": 31
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340474",
+   "check_date": "09/29/23",
+   "vendor_name": "PROPEL CHARTER SCHOOL- MONTOUR M.S.",
+   "lines": [
+    {
+     "account_number": "10-1110-562-000-07-00-000",
+     "description": "2022/23 RECONCILIATION-REG ED",
+     "batch": "334",
+     "po_number": null,
+     "amount": "-$1,021.69"
+    },
+    {
+     "account_number": "10-1210-562-000-07-00-000",
+     "description": "2022/23 RECONCILIATION-SP ED",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$4,411.59"
+    }
+   ],
+   "check_total": "$3,389.90",
+   "source_page": 31
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340475",
+   "check_date": "09/29/23",
+   "vendor_name": "PROPEL CHARTER SCHOOL - NORTHSIDE",
+   "lines": [
+    {
+     "account_number": "10-1110-562-000-07-00-000",
+     "description": "22/23 RECONCILIATION-REG ED",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$0.01"
+    }
+   ],
+   "check_total": "$0.01",
+   "source_page": 31
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340476",
+   "check_date": "09/29/23",
+   "vendor_name": "PHESPA",
+   "lines": [
+    {
+     "account_number": "10-0460-000-824-08-00-000",
+     "description": "PSSPA DUES PAY - SECRETARIES-UD20, UD23, UD24",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$823.73"
+    }
+   ],
+   "check_total": "$823.73",
+   "source_page": 31
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340477",
+   "check_date": "09/29/23",
+   "vendor_name": "PUBLISHING HOLDCO, INC.",
+   "lines": [
+    {
+     "account_number": "10-1110-610-000-20-20-000",
+     "description": "Atlas of World Geography Grades 6-12 (Set of 30)",
+     "batch": "334",
+     "po_number": "23000133",
+     "amount": "$398.00"
+    }
+   ],
+   "check_total": "$398.00",
+   "source_page": 32
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340478",
+   "check_date": "09/29/23",
+   "vendor_name": "RENT THE CHICKEN",
+   "lines": [
+    {
+     "account_number": "10-1110-610-000-20-20-000",
+     "description": "Hatch The Chicken-Rental includes incubator, 7 eggs,",
+     "batch": "334",
+     "po_number": "23000097",
+     "amount": "$210.00"
+    }
+   ],
+   "check_total": "$210.00",
+   "source_page": 32
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340479",
+   "check_date": "09/29/23",
+   "vendor_name": "RIVERSIDE INSIGHTS",
+   "lines": [
+    {
+     "account_number": "10-2140-610-000-00-32-000",
+     "description": "WJ IV ACHIEVEMENT TEST BOOKLETS",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$1,137.40"
+    }
+   ],
+   "check_total": "$1,137.40",
+   "source_page": 32
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340480",
+   "check_date": "09/29/23",
+   "vendor_name": "SAVVAS LEARNING COMPANY LLC",
+   "lines": [
+    {
+     "account_number": "10-2271-640-000-00-54-000",
+     "description": "ITEM# 9780133135480 MYLAB MATH FOR SCHOOL 1-YEAR ACCESS - AP",
+     "batch": "334",
+     "po_number": "23000196",
+     "amount": "$472.23"
+    }
+   ],
+   "check_total": "$472.23",
+   "source_page": 32
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340481",
+   "check_date": "09/29/23",
+   "vendor_name": "SCHOOL NURSE SUPPLY",
+   "lines": [
+    {
+     "account_number": "10-2420-610-000-10-11-000",
+     "description": "#18197 CALLERGY - CLEAR",
+     "batch": "334",
+     "po_number": "23000086",
+     "amount": "$1,673.12"
+    }
+   ],
+   "check_total": "$1,673.12",
+   "source_page": 32
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340482",
+   "check_date": "09/29/23",
+   "vendor_name": "SCHOOL SPECIALTY LLC",
+   "lines": [
+    {
+     "account_number": "10-1110-610-000-10-11-000",
+     "description": "#2001951 SPIRE LEVEL 1 STUDENT WORKBOOK 4TH EDITION",
+     "batch": "334",
+     "po_number": "23000221",
+     "amount": "$3,629.17"
+    }
+   ],
+   "check_total": "$3,629.17",
+   "source_page": 32
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340483",
+   "check_date": "09/29/23",
+   "vendor_name": "SCOTT ELECTRIC COMPANY",
+   "lines": [
+    {
+     "account_number": "10-2611-430-072-46-00-000",
+     "description": "ITEM # 762139 QUANTITY OF 60 LEDV LED54HIDR8SC2MOG AND ITEM",
+     "batch": "334",
+     "po_number": "22000635",
+     "amount": "$1,237.80"
+    }
+   ],
+   "check_total": "$1,237.80",
+   "source_page": 32
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340484",
+   "check_date": "09/29/23",
+   "vendor_name": "THE BANK OF NEW YORK MELLON",
+   "lines": [
+    {
+     "account_number": "10-2390-330-000-00-00-000",
+     "description": "PHSD SERIES 2015-PAYING AGENT FEE",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$750.00"
+    },
+    {
+     "account_number": "10-2390-330-000-00-00-000",
+     "description": "PHSD GOV OBL NOTES SERIES 2017A- PAY AGENT FEE",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$750.00"
+    },
+    {
+     "account_number": "10-2390-330-000-00-00-000",
+     "description": "PHSD GEN OBL BONDS SERIES B OF 2012- ADMIN FEES",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$750.00"
+    }
+   ],
+   "check_total": "$2,250.00",
+   "source_page": 32
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340485",
+   "check_date": "09/29/23",
+   "vendor_name": "THE PITTSBURGH CONTINGENCY, INC",
+   "lines": [
+    {
+     "account_number": "10-1450-330-190-00-00-000",
+     "description": "SAFE SPACES WK END 9/21/2023",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$555.00"
+    }
+   ],
+   "check_total": "$555.00",
+   "source_page": 33
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340486",
+   "check_date": "09/29/23",
+   "vendor_name": "MARK C. TURNLEY",
+   "lines": [
+    {
+     "account_number": "10-2511-330-000-00-55-000",
+     "description": "2nd PROGRESS BILLING YR END 6/30/23",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$5,000.00"
+    }
+   ],
+   "check_total": "$5,000.00",
+   "source_page": 33
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340487",
+   "check_date": "09/29/23",
+   "vendor_name": "ULTIMATESLP",
+   "lines": [
+    {
+     "account_number": "10-1210-610-000-00-32-000",
+     "description": "ANNUAL SUBSCRIPTION TO ULTIMATESLP.COM FOR 6 USERS",
+     "batch": "334",
+     "po_number": "23000105",
+     "amount": "$797.75"
+    }
+   ],
+   "check_total": "$797.75",
+   "source_page": 33
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340488",
+   "check_date": "09/29/23",
+   "vendor_name": "UNITED ART & EDUCATION, INC",
+   "lines": [
+    {
+     "account_number": "10-1110-610-000-20-20-000",
+     "description": "Royal Grip Stencil Brush (3/8\") pg51",
+     "batch": "334",
+     "po_number": "23000137",
+     "amount": "$191.92"
+    },
+    {
+     "account_number": "10-1110-610-000-20-20-000",
+     "description": "Royal Grip Stencil Brush (3/8\") pg51",
+     "batch": "334",
+     "po_number": "23000137",
+     "amount": "$4,790.92"
+    }
+   ],
+   "check_total": "$4,982.84",
+   "source_page": 33
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340489",
+   "check_date": "09/29/23",
+   "vendor_name": "W P J W A",
+   "lines": [
+    {
+     "account_number": "10-2611-424-000-00-46-011",
+     "description": "JUN-SEPT 2023 PR FIRE SERV-PHES",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$300.04"
+    },
+    {
+     "account_number": "10-2611-424-000-00-46-011",
+     "description": "AUG/SEPT 2023 CHRGS-PHES",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$3,350.03"
+    },
+    {
+     "account_number": "10-2611-424-000-00-46-025",
+     "description": "JUN-SEPT 2023 PR FIRE SERV-SR HIGH",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$300.04"
+    },
+    {
+     "account_number": "10-2611-424-000-00-46-025",
+     "description": "AUG/SEPT 2023 CHRGS-SR HIGH",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$2,469.42"
+    }
+   ],
+   "check_total": "$6,419.53",
+   "source_page": 33
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "00340490",
+   "check_date": "09/29/23",
+   "vendor_name": "THERONE WADE-WHITE",
+   "lines": [
+    {
+     "account_number": "10-1110-580-000-00-00-000",
+     "description": "AUG 2023 TRAVEL REIMBURSEMENT",
+     "batch": "334",
+     "po_number": null,
+     "amount": "$27.00"
+    }
+   ],
+   "check_total": "$27.00",
+   "source_page": 33
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "99999960",
+   "check_date": "09/22/23",
+   "vendor_name": "PA DEPT OF REVENUE",
+   "lines": [
+    {
+     "account_number": "10-0460-000-804-08-00-000",
+     "description": "EMPLOYEE - State Income Tax - 09/22/23",
+     "batch": "100",
+     "po_number": null,
+     "amount": "$32,872.79"
+    }
+   ],
+   "check_total": "$32,872.79",
+   "source_page": 33
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "99999961",
+   "check_date": "09/08/23",
+   "vendor_name": "PA DEPT OF REVENUE",
+   "lines": [
+    {
+     "account_number": "10-0460-000-804-08-00-000",
+     "description": "VOID #00314458 EMPLOYEE - State Income Tax - 09/08/23",
+     "batch": "100",
+     "po_number": null,
+     "amount": "-$1.23"
+    }
+   ],
+   "check_total": "-$1.23",
+   "source_page": 33
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "99999962",
+   "check_date": "09/08/23",
+   "vendor_name": "PA DEPT OF REVENUE",
+   "lines": [
+    {
+     "account_number": "10-0460-000-804-08-00-000",
+     "description": "EMPLOYEE - State Income Tax - 09/08/23",
+     "batch": "100",
+     "po_number": null,
+     "amount": "$211.10"
+    }
+   ],
+   "check_total": "$211.10",
+   "source_page": 33
+  },
+  {
+   "bank_account": "10-0101-000-000-07-00-000 General Fund",
+   "check_number": "99999963",
+   "check_date": "09/08/23",
+   "vendor_name": "PA DEPT OF REVENUE",
+   "lines": [
+    {
+     "account_number": "10-0460-000-804-08-00-000",
+     "description": "EMPLOYEE - State Income Tax - 09/08/23",
+     "batch": "100",
+     "po_number": null,
+     "amount": "$33,186.59"
+    }
+   ],
+   "check_total": "$33,186.59",
+   "source_page": 34
+  }
+ ],
+ "bank_subtotals": [],
+ "grand_total": "$3,361,402.08",
+ "invoice_buckets": {
+  "no_invoices_2023_2024": "66,269.25",
+  "invoices_2022_2023": "278,616.86",
+  "invoices_2023_2024": "3,016,515.97"
+ }
+}

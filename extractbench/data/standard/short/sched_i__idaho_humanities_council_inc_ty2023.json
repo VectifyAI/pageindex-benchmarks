@@ -1,0 +1,59 @@
+{
+ "filer_ein": "820315902",
+ "filer_name": "IDAHO HUMANITIES COUNCIL INC",
+ "tax_year": 2023,
+ "tax_period_end_date": "2024-10-31",
+ "grant_records_maintained": true,
+ "total_501c3_org_count": 3,
+ "total_other_org_count": 0,
+ "grants": [
+  {
+   "recipient_name": "CITY CLUB OF BOISE",
+   "address_line1": "PO BOX 6521",
+   "city": "BOISE",
+   "state": "ID",
+   "zip_code": "83707",
+   "recipient_ein": "820478972",
+   "cash_grant_amount": 5500,
+   "noncash_assistance_description": "CITY OF CLUB OF BOISE 2025 FORUM SERIES: NONPARTISAN, INCLUSIVE COMMUNITY CO",
+   "purpose_of_grant": "THE WOOD RIVER MUSEUM'S SHOSHONE-BANNOCK TRIBES OUTREACH INITIATIVE",
+   "recipient_name_continuation": null,
+   "address_line2": null,
+   "irc_section": "501(C)(3)",
+   "noncash_assistance_amount": 0,
+   "valuation_method": null
+  },
+  {
+   "recipient_name": "TERRAGRAPHICS INTERNATIONAL FOUNDATION",
+   "address_line1": "121 S JACKSON ST",
+   "city": "MOSCOW",
+   "state": "ID",
+   "zip_code": "83843",
+   "recipient_ein": "454007725",
+   "cash_grant_amount": 6000,
+   "noncash_assistance_description": "DIGGING FOR THE UNTOLD STORY IN THE TRAGEDY AT BUNKER HILL: ARCHIVE ORGANIZA",
+   "purpose_of_grant": "WESTERN LITERATURE ASSOCIATION CONFERENCE: HOME ON THE REZ: SOVEREIGNTY AND SUSTAINABILITY",
+   "recipient_name_continuation": null,
+   "address_line2": null,
+   "irc_section": "501(C)(3)",
+   "noncash_assistance_amount": 0,
+   "valuation_method": null
+  },
+  {
+   "recipient_name": "FRIENDS OF IDAHO STATE PARKS",
+   "address_line1": "11544 W JENILYN CT",
+   "city": "BOISE",
+   "state": "ID",
+   "zip_code": "83713",
+   "recipient_ein": "461911747",
+   "cash_grant_amount": 7000,
+   "noncash_assistance_description": "TACTILE MODEL AT THREE ISLAND CROSSING STATE PARK",
+   "purpose_of_grant": "WASSMUTH CENTER EXPANSION STRATEGIC PLANNING PROJECT",
+   "recipient_name_continuation": null,
+   "address_line2": null,
+   "irc_section": "501(C)(3)",
+   "noncash_assistance_amount": 0,
+   "valuation_method": null
+  }
+ ]
+}

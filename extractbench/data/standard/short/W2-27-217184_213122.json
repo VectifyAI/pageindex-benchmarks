@@ -1,0 +1,138 @@
+{
+ "api_no": "169-32634",
+ "rrc_district_no": "8A",
+ "rrc_lease_no": "66448",
+ "field_name": "IDA SUE STRAWN",
+ "lease_name": "MARALO-CONNELL",
+ "well_no": "3",
+ "operator_name": "ICA ENERGY OPERATING LLC",
+ "rrc_operator_no": "421777",
+ "county": "GARZA",
+ "operator_address": "P O BOX 2712, ODESSA TX 79760",
+ "producers_initial_potential": true,
+ "producers_retest": false,
+ "producers_reclass": true,
+ "producers_well_record_only": false,
+ "location_section_block_survey": "73-5-59 H&GN RR CO",
+ "well_located_miles": "9",
+ "well_located_direction": "NE",
+ "well_located_nearest_town": "JUSTICRBURG",
+ "logs_run": "CHL (+) CCL",
+ "test_date": "08/22/07",
+ "test_no_hours_tested": "22",
+ "test_production_method": "2 1/1 X 1 1/2 X 20 60 PA",
+ "test_choke_size": "-NA-",
+ "prod_oil_bbls": "67",
+ "prod_gas_mcf": "N/A/",
+ "prod_water_bbls": "231",
+ "prod_gas_oil_ratio": "N/A",
+ "prod_flowing_tubing_pressure": "N/A",
+ "rate_oil_bbls": "73",
+ "rate_gas_mcf": "N/A/",
+ "rate_water_bbls": "252",
+ "rate_oil_gravity": "38",
+ "rate_casing_pressure": "10#",
+ "swab_used_yes": false,
+ "swab_used_no": true,
+ "oil_produced_prior_to_test": "21 BBLS SWABBED",
+ "completion_new_well": false,
+ "completion_deepening": false,
+ "completion_plug_back": false,
+ "completion_other": true,
+ "notice_filed_in_name_of": "ICA ENERGY OPERATING LLC",
+ "permit_drill_plugback_deepen_date": "06-28-07",
+ "permit_drill_plugback_deepen_no": "640804",
+ "rule37_exception_case_no": "0252414",
+ "number_producing_wells_lease_field": "1",
+ "total_acres_in_lease": "80",
+ "date_plugback_recompletion_drilling_commenced": "07-09-07",
+ "date_plugback_recompletion_drilling_ended": "07-23-07",
+ "distance_nearest_well_lease_reservoir": "0±0",
+ "elevation": "2375'",
+ "directional_survey_yes": true,
+ "directional_survey_no": false,
+ "total_depth_md": "7648",
+ "plug_back_depth_md": "7576",
+ "cementing_affidavit_yes": true,
+ "cementing_affidavit_no": false,
+ "signature_present": true,
+ "certification_title": "OPERATIONS MANAGER",
+ "certification_area_code": "432",
+ "certification_number": "580-5722",
+ "certification_printed_name": "BRAD CARPENTER",
+ "certification_date": "09 / 17 / 07",
+ "amount_and_kind_of_material_used": "8 HOLES 3 1/8 SLICKGUN",
+ "casing_record": [
+  {
+   "casing_size": "8 5/8",
+   "weight_per_ft": "24#",
+   "setting_depth": "1830",
+   "multistage_tool_depth": "NA",
+   "cement_amount": "900 SXS",
+   "hole_size": "9 1/2",
+   "top_of_cement": "SURF",
+   "slurry_volume": "1188"
+  },
+  {
+   "casing_size": "5 1/2",
+   "weight_per_ft": "15.5",
+   "setting_depth": "7648",
+   "cement_class": "\"H\"",
+   "cement_amount": "570 SXS",
+   "hole_size": "7 7/8",
+   "top_of_cement": "5630",
+   "top_of_cement_determined_by": "CBL",
+   "slurry_volume": "684"
+  }
+ ],
+ "liner_record": [],
+ "tubing_record": [
+  {
+   "size": "2 7/8",
+   "depth_set": "7523",
+   "packer_depth_type": "NA"
+  }
+ ],
+ "producing_injection_disposal_intervals": [
+  {
+   "from_depth": "7648",
+   "to_depth": "7472"
+  }
+ ],
+ "operation_depth_intervals": [
+  {
+   "from_depth": "7468",
+   "to_depth": "7472"
+  },
+  {
+   "from_depth": "7468",
+   "to_depth": "7472"
+  }
+ ],
+ "formation_record": [
+  {
+   "markers_formation_tops": "YATES",
+   "depth_md": "730"
+  },
+  {
+   "markers_formation_tops": "SAN ANDRES",
+   "depth_md": "1827"
+  },
+  {
+   "markers_formation_tops": "GLORIETTA",
+   "depth_md": "2595"
+  },
+  {
+   "markers_formation_tops": "STRAWN",
+   "depth_md": "7232"
+  },
+  {
+   "markers_formation_tops": "MISS",
+   "depth_md": "7610"
+  },
+  {
+   "markers_formation_tops": "ELLENBURGER",
+   "depth_md": "7870"
+  }
+ ]
+}

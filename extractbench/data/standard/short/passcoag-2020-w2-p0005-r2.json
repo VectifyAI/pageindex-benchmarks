@@ -1,0 +1,51 @@
+{
+ "employee_ssn": "XXX-XX-XXXX",
+ "employer_ein": "05-0517079",
+ "employer_name": "PASCOAG UTILITY DISTRICT",
+ "employer_address": "PO BOX 107, PASCOAG RI 02859",
+ "void": false,
+ "employee_name": "LINDA ANN A LA PORTE",
+ "employee_address": "124 LAUREL HILL AVE, PASCOAG RI 02859",
+ "box_1_wages": 3088.19,
+ "box_2_federal_income_tax_withheld": 560.17,
+ "box_3_social_security_wages": 3125.44,
+ "box_4_social_security_tax_withheld": 193.78,
+ "box_5_medicare_wages_and_tips": 3125.44,
+ "box_6_medicare_tax_withheld": 45.32,
+ "box_7_social_security_tips": null,
+ "box_8_allocated_tips": null,
+ "box_10_dependent_care_benefits": null,
+ "box_11_nonqualified_plans": null,
+ "box_12": [
+  {
+   "code": "C",
+   "amount": 14.07
+  },
+  {
+   "code": "D",
+   "amount": 37.25
+  }
+ ],
+ "box_13_statutory_employee": false,
+ "box_13_retirement_plan": true,
+ "box_13_third_party_sick_pay": false,
+ "box_13_subtotal": false,
+ "box_14_other": [
+  {
+   "description": "RISDI",
+   "amount": 39.97
+  }
+ ],
+ "state_local_row_1": {
+  "state": "RI",
+  "employer_state_id": "05051707900",
+  "state_wages": 3088.19,
+  "state_income_tax": 130.9,
+  "local_wages": null,
+  "local_income_tax": null,
+  "locality_name": null
+ },
+ "state_local_row_2": null,
+ "control_number_line1": "0012-0012N426",
+ "control_number_line2": "0000000136-ELECTR"
+}

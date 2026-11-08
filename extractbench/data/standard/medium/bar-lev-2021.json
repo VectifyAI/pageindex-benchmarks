@@ -1,0 +1,312 @@
+{
+ "taxpayer_first_name_mi": "NAOMI BAR-LEV",
+ "filing_status": "Single",
+ "digital_assets_yes": true,
+ "line_8_additional_income": -244076,
+ "line_9_total_income": -244076,
+ "line_10_adjustments_to_income": 195,
+ "line_11_adjusted_gross_income": -244271,
+ "line_12a_standard_or_itemized_deductions": 12550,
+ "line_12c_add_12a_12b": 12550,
+ "line_14_lines_12c_plus_13": 12550,
+ "line_15_taxable_income": 0,
+ "line_16_tax": 0,
+ "line_18_lines_16_plus_17": 0,
+ "line_21_lines_19_plus_20": 0,
+ "line_22_subtract_21_from_18": 0,
+ "line_23_other_taxes": 389,
+ "line_24_total_tax": 389,
+ "line_27a_eic": 394,
+ "line_32_total_other_payments": 394,
+ "line_33_total_payments": 394,
+ "line_34_overpaid": 5,
+ "line_35a_refund_amount": 5,
+ "third_party_designee_yes": true,
+ "designee_name": "MICHAEL SHAPIRO, CPA",
+ "designee_phone": "(619) 280-9400",
+ "your_occupation": "REAL ESTATE BROKER",
+ "preparer_name": "MICHAEL SHAPIRO, CPA",
+ "preparer_signature_date": "9/07/22",
+ "firm_name": "MICHAEL SHAPIRO, CPA, INC.",
+ "presidential_campaign_you_box": false,
+ "presidential_campaign_spouse_box": false,
+ "someone_can_claim_you_box": false,
+ "someone_can_claim_spouse_box": false,
+ "spouse_itemizes_box": false,
+ "you_born_before_jan2_1958_box": false,
+ "you_blind_box": false,
+ "spouse_born_before_jan2_1958_box": false,
+ "spouse_blind_box": false,
+ "more_than_four_dependents_box": false,
+ "line_7_schedule_d_not_required_box": false,
+ "line_16_form_8814_box": false,
+ "line_16_form_4972_box": false,
+ "line_16_other_form_box": false,
+ "line_27a_special_eic_election_box": false,
+ "line_35a_form_8888_box": false,
+ "preparer_self_employed_box": false,
+ "schedule_1": {
+  "names_shown": "NAOMI BAR-LEV",
+  "line_3_business_income": 3146,
+  "line_5_rental_royalties_partnerships": -25000,
+  "line_8a_net_operating_loss": -221828,
+  "line_9_total_other_income": -221828,
+  "line_10_additional_income": -243682,
+  "line_15_deductible_se_tax": 222,
+  "line_26_total_adjustments": 222
+ },
+ "schedule_2": {
+  "names_shown": "NAOMI BAR-LEV",
+  "line_1_amt": 0,
+  "line_3_part1_total": 0,
+  "line_4_se_tax": 444,
+  "line_8_form_5329_not_required_box": false,
+  "line_21_total_other_taxes": 444
+ },
+ "schedule_c": {
+  "proprietor_name": "NAOMI BAR-LEV",
+  "line_a_business_profession": "REAL ESTATE AGENT/MANAGER",
+  "line_b_code": "531210",
+  "line_c_business_name": "BLUE SKY REALTY",
+  "line_f_accounting_method": "Cash",
+  "line_g_material_participation": true,
+  "line_h_started_or_acquired_box": false,
+  "line_i_payments_requiring_1099": false,
+  "line_j_filed_required_1099": false,
+  "line_1_statutory_employee_box": false,
+  "line_1_gross_receipts": 8549,
+  "line_3_subtract_line_2_from_1": 8549,
+  "line_4_cost_of_goods_sold": 4790,
+  "line_5_gross_profit": 3759,
+  "line_7_gross_income": 3759,
+  "line_27a_other_expenses": 613,
+  "line_28_total_expenses": 613,
+  "line_29_tentative_profit_or_loss": 3146,
+  "line_31_net_profit_or_loss": 3146,
+  "line_34_inventory_change_explanation": false,
+  "line_39_other_costs": 4790,
+  "line_40_add_lines_35_through_39": 4790,
+  "line_42_cost_of_goods_sold": 4790,
+  "line_45_vehicle_available_personal_use": false,
+  "line_46_another_vehicle_available": false,
+  "line_47a_evidence_to_support_deduction": false,
+  "line_47b_evidence_written": false,
+  "other_expenses": [
+   {
+    "description": "POSTAGE",
+    "amount": 613
+   }
+  ],
+  "line_48_total_other_expenses": 613
+ },
+ "schedule_se": {
+  "name_of_person_with_se_income": "NAOMI BAR-LEV",
+  "line_a_minister_form_4361_box": false,
+  "line_2_net_nonfarm_profit": 3146,
+  "line_3_combine_1a_1b_2": 3146,
+  "line_4a_net_earnings_92_35_pct": 2905,
+  "line_4c_combine_4a_4b": 2905,
+  "line_5b_church_employee_income_92_35_pct": 0,
+  "line_6_add_4c_5b": 2905,
+  "line_9_subtract_8d_from_7": 142800,
+  "line_10_smaller_of_6_or_9_times_12_4_pct": 360,
+  "line_11_line_6_times_2_9_pct": 84,
+  "line_12_self_employment_tax": 444,
+  "line_13_deduction_half_se_tax": 222
+ },
+ "schedule_e": {
+  "names_shown": "NAOMI BAR-LEV",
+  "line_a_1099_required_box": true,
+  "line_a_1099_required_no_box": false,
+  "line_b_1099_filed_box": false,
+  "line_b_1099_filed_no_box": true,
+  "properties": [
+   {
+    "property_label": "A",
+    "physical_address": "2244 2ND AVE #39, SAN DIEGO, CA 92101",
+    "type_of_property_code": "1",
+    "qjv_box": false,
+    "line_12_mortgage_interest_banks": 6116,
+    "line_16_taxes": 6093,
+    "line_18_depreciation_or_depletion": 10608,
+    "line_20_total_expenses": 22817,
+    "line_21_income_or_loss": -22817,
+    "line_22_deductible_rental_loss": -7190
+   },
+   {
+    "property_label": "B",
+    "physical_address": "2440 ALBATROSS ST, SAN DIEGO, CA 92101",
+    "type_of_property_code": "1",
+    "fair_rental_days": 10,
+    "qjv_box": false,
+    "line_3_rents_received": 2440,
+    "line_16_taxes": 2408,
+    "line_17_utilities": 768,
+    "line_18_depreciation_or_depletion": 28064,
+    "line_20_total_expenses": 31240,
+    "line_21_income_or_loss": -28800,
+    "line_22_deductible_rental_loss": -17810
+   }
+  ],
+  "line_23a_total_rents_all_properties": 2440,
+  "line_23c_total_mortgage_interest_all_properties": 6116,
+  "line_23d_total_depreciation_all_properties": 38672,
+  "line_23e_total_expenses_all_properties": 54057,
+  "line_25_losses": -25000,
+  "line_26_total_rental_royalty_income_or_loss": -25000
+ },
+ "form_1116": {
+  "name": "NAOMI BAR-LEV",
+  "category_section_951a_box": false,
+  "category_foreign_branch_box": false,
+  "category_passive_box": true,
+  "category_general_box": false,
+  "category_section_901j_box": false,
+  "category_resourced_by_treaty_box": false,
+  "category_lump_sum_distributions_box": false,
+  "resident_of_country": "USA",
+  "line_1b_compensation_alternative_basis_box": false,
+  "countries": [
+   {
+    "column_label": "A",
+    "country_name": "VARIOUS",
+    "line_3a_itemized_or_standard_deduction": 12550,
+    "line_3c_add_3a_3b": 12550,
+    "line_3e_gross_income_all_sources": 6199
+   }
+  ]
+ },
+ "form_4952": {
+  "names_shown": "NAOMI BAR-LEV",
+  "line_2_disallowed_carryover_prior_year": 244473,
+  "line_3_total_investment_interest_expense": 244473,
+  "line_4h_investment_income": 0,
+  "line_6_net_investment_income": 0,
+  "line_7_disallowed_carryforward_to_2022": 244473,
+  "line_8_investment_interest_expense_deduction": 0
+ },
+ "form_8995": {
+  "names_shown": "NAOMI BAR-LEV",
+  "businesses": [
+   {
+    "name_of_business": "BLUE SKY REALTY",
+    "qbi_amount": 2924
+   }
+  ],
+  "line_2_total_qbi": 2924,
+  "line_3_qbi_loss_carryforward_prior_year": 0,
+  "line_4_total_qbi_combined": 2924,
+  "line_5_qbi_component": 585,
+  "line_6_qualified_reit_ptp_income": 0,
+  "line_7_reit_ptp_loss_carryforward_prior_year": 0,
+  "line_8_total_reit_ptp_income": 0,
+  "line_9_reit_ptp_component": 0,
+  "line_10_qbi_deduction_before_income_limitation": 585,
+  "line_11_taxable_income_before_qbi_deduction": 0,
+  "line_12_net_capital_gain": 0,
+  "line_13_subtract_12_from_11": 0,
+  "line_14_income_limitation": 0,
+  "line_15_qbi_deduction": 0,
+  "line_16_total_qbi_loss_carryforward": 0,
+  "line_17_total_reit_ptp_loss_carryforward": 0
+ },
+ "form_8582": {
+  "names_shown_on_return": "NAOMI BAR-LEV",
+  "line_1b_activities_with_net_loss": -51617,
+  "line_1c_prior_years_unallowed_losses": -171663,
+  "line_1d_combine_1a_1b_1c": -223280,
+  "line_3_combine_1d_2d": -223280,
+  "line_4_smaller_of_1d_or_3_loss": 223280,
+  "line_5_150000_or_mfs_amount": 150000,
+  "line_7_subtract_6_from_5": 150000,
+  "line_8_multiply_line_7_by_50_pct": 25000,
+  "line_9_smaller_of_4_or_8": 25000,
+  "line_11_total_losses_allowed": 25000,
+  "part_iv_total_current_year_net_loss": 51617,
+  "part_iv_total_prior_years_unallowed_loss": 171663,
+  "part_vi_total_loss": 223280,
+  "part_vi_total_ratio": 1.0,
+  "part_vi_total_special_allowance": 25000,
+  "part_vi_total_subtract_c_from_a": 198280,
+  "part_vii_total_loss": 198280,
+  "part_vii_total_ratio": 1.0,
+  "part_vii_total_unallowed_loss": 198280,
+  "part_viii_total_loss": 223280,
+  "part_viii_total_unallowed_loss": 198280,
+  "part_viii_total_allowed_loss": 25000,
+  "part_ix_total_col_b": 0,
+  "part_ix_total_ratio": 1.0,
+  "part_ix_total_unallowed_loss": 0,
+  "part_ix_total_allowed_loss": 0,
+  "part_iv_activities": [
+   {
+    "name_of_activity": "RESIDENTAL RENTAL-2ND AVE #39",
+    "current_year_net_income": null,
+    "current_year_net_loss": 22817,
+    "prior_years_unallowed_loss": 41399,
+    "overall_gain": null,
+    "overall_loss": 64216
+   },
+   {
+    "name_of_activity": "RENTAL PROPERTY- 100% RENTAL",
+    "current_year_net_income": null,
+    "current_year_net_loss": 28800,
+    "prior_years_unallowed_loss": 130264,
+    "overall_gain": null,
+    "overall_loss": 159064
+   }
+  ],
+  "part_vi_allowances": [
+   {
+    "name_of_activity": "RESIDENTAL RENTAL-2ND AVE #39",
+    "form_or_schedule_line": "SH E LN 22",
+    "loss": 64216,
+    "ratio": 0.287603,
+    "special_allowance": 7190,
+    "subtract_c_from_a": 57026
+   },
+   {
+    "name_of_activity": "RENTAL PROPERTY- 100% RENTAL",
+    "form_or_schedule_line": "SH E LN 22",
+    "loss": 159064,
+    "ratio": 0.712397,
+    "special_allowance": 17810,
+    "subtract_c_from_a": 141254
+   }
+  ],
+  "part_vii_allocations": [
+   {
+    "name_of_activity": "RESIDENTAL RENTAL-2ND AVE #39",
+    "form_or_schedule_line": "SCH E LN 22",
+    "loss": 57026,
+    "ratio": 0.287603,
+    "unallowed_loss": 57026
+   },
+   {
+    "name_of_activity": "RENTAL PROPERTY- 100% RENTAL",
+    "form_or_schedule_line": "SCH E LN 22",
+    "loss": 141254,
+    "ratio": 0.712397,
+    "unallowed_loss": 141254
+   }
+  ],
+  "part_viii_allowed_losses": [
+   {
+    "name_of_activity": "RESIDENTAL RENTAL-2ND AVE #39",
+    "form_or_schedule_line": "SCH E LN 22",
+    "loss": 64216,
+    "unallowed_loss": 57026,
+    "allowed_loss": 7190
+   },
+   {
+    "name_of_activity": "RENTAL PROPERTY- 100% RENTAL",
+    "form_or_schedule_line": "SCH E LN 22",
+    "loss": 159064,
+    "unallowed_loss": 141254,
+    "allowed_loss": 17810
+   }
+  ]
+ },
+ "line_35b_routing_number": "XXXXXXXXXX",
+ "line_35d_account_number": "XXXXXXXXXXXXXXXXXXXXXXXX"
+}

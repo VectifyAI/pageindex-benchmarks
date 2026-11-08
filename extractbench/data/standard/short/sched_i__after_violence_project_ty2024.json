@@ -1,0 +1,59 @@
+{
+ "filer_ein": "800294810",
+ "filer_name": "After Violence Project",
+ "tax_year": 2024,
+ "tax_period_end_date": "2024-12-31",
+ "grant_records_maintained": true,
+ "total_501c3_org_count": 1,
+ "total_other_org_count": 2,
+ "grants": [
+  {
+   "recipient_name": "SAADA",
+   "recipient_name_continuation": null,
+   "address_line1": "1650 Arch St Ste 2130",
+   "address_line2": null,
+   "city": "Philadelphia",
+   "state": "PA",
+   "zip_code": "19103",
+   "recipient_ein": "263001212",
+   "irc_section": null,
+   "cash_grant_amount": 75651,
+   "noncash_assistance_amount": 0,
+   "valuation_method": null,
+   "noncash_assistance_description": null,
+   "purpose_of_grant": "Sub-award: IMLS grant"
+  },
+  {
+   "recipient_name": "TexCHEP",
+   "recipient_name_continuation": null,
+   "address_line1": "350 S Buckner Blvd",
+   "address_line2": null,
+   "city": "Dallas",
+   "state": "TX",
+   "zip_code": "75217",
+   "recipient_ein": null,
+   "irc_section": null,
+   "cash_grant_amount": 6087,
+   "noncash_assistance_amount": 0,
+   "valuation_method": null,
+   "noncash_assistance_description": null,
+   "purpose_of_grant": "Fiscally sponsored by organization"
+  },
+  {
+   "recipient_name": "UC Regents",
+   "recipient_name_continuation": null,
+   "address_line1": "1111 Franklin St 8th Floor",
+   "address_line2": null,
+   "city": "Oakland",
+   "state": "CA",
+   "zip_code": "94607",
+   "recipient_ein": "943067788",
+   "irc_section": null,
+   "cash_grant_amount": 85625,
+   "noncash_assistance_amount": 0,
+   "valuation_method": null,
+   "noncash_assistance_description": null,
+   "purpose_of_grant": "Sub-award: IMLS grant"
+  }
+ ]
+}

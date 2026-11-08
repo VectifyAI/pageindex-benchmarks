@@ -1,0 +1,3836 @@
+{
+ "organization": "Franklin County Board of Education",
+ "report_title": "CHECK REGISTER ACCOUNTABILITY REPORT",
+ "period_start": "09/01/2025",
+ "period_end": "09/30/2025",
+ "checks": [
+  {
+   "check_number": "117164",
+   "vendor_name": "ALABAMA ASSOC OF SCHOOL BDS",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$135.00",
+   "description": "ASSOCIATION DUES",
+   "source_page": 1
+  },
+  {
+   "check_number": "117165",
+   "vendor_name": "AMAZON CAPITAL SERVICES",
+   "state_fund_amount": "$417.95",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "STUDENT CLASSRM SUPP",
+   "source_page": 1
+  },
+  {
+   "check_number": "117166",
+   "vendor_name": "BARRY LASTER",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$215.60",
+   "description": "LOCAL DISTRICT",
+   "source_page": 1
+  },
+  {
+   "check_number": "117167",
+   "vendor_name": "CALHOUN COMMUNITY COLLEGE",
+   "state_fund_amount": "$1,250.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "STAFF ED SERVICES",
+   "source_page": 1
+  },
+  {
+   "check_number": "117168",
+   "vendor_name": "CHAD GREEN",
+   "state_fund_amount": "$67.74",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "IN-STATE",
+   "source_page": 1
+  },
+  {
+   "check_number": "117169",
+   "vendor_name": "CINDY PEPPERS",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$712.99",
+   "local_fund_amount": "$0.00",
+   "description": "IN-STATE",
+   "source_page": 1
+  },
+  {
+   "check_number": "117170",
+   "vendor_name": "CLEAR WINDS TECHNOLOGIES",
+   "state_fund_amount": "$1,232.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER NONCAP EQUIPMT",
+   "source_page": 1
+  },
+  {
+   "check_number": "117171",
+   "vendor_name": "CURRIE SYSTEMS INC",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$19,950.00",
+   "description": "PRINTING AND BINDING",
+   "source_page": 1
+  },
+  {
+   "check_number": "117172",
+   "vendor_name": "Emerson Garage Doors",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$200.00",
+   "description": "LAND & BLDG REPAIR/M",
+   "source_page": 1
+  },
+  {
+   "check_number": "117173",
+   "vendor_name": "GARRETT DEAN",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$63.00",
+   "description": "LOCAL DISTRICT",
+   "source_page": 1
+  },
+  {
+   "check_number": "117174",
+   "vendor_name": "GLENWOOD",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$1,360.00",
+   "description": "OTHER PURCHASED SERV",
+   "source_page": 1
+  },
+  {
+   "check_number": "117175",
+   "vendor_name": "GREG HAMILTON",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$409.50",
+   "description": "LOCAL DISTRICT",
+   "source_page": 1
+  },
+  {
+   "check_number": "117176",
+   "vendor_name": "JAMIE JOHNSON",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$1,633.17",
+   "description": "STUDENT EDUCATIONAL",
+   "source_page": 1
+  },
+  {
+   "check_number": "117177",
+   "vendor_name": "JAMIE MCNEIL",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$162.40",
+   "local_fund_amount": "$0.00",
+   "description": "LOCAL DISTRICT",
+   "source_page": 1
+  },
+  {
+   "check_number": "117178",
+   "vendor_name": "JAMIE WELLS",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$840.00",
+   "description": "STUDENT EDUCATIONAL",
+   "source_page": 1
+  },
+  {
+   "check_number": "117179",
+   "vendor_name": "JENNIFER COOK",
+   "state_fund_amount": "$57.84",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "LOCAL DISTRICT",
+   "source_page": 1
+  },
+  {
+   "check_number": "117180",
+   "vendor_name": "JONATHAN JONES",
+   "state_fund_amount": "$77.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "IN-STATE",
+   "source_page": 1
+  },
+  {
+   "check_number": "117181",
+   "vendor_name": "LORI HARDIN",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$1,645.74",
+   "local_fund_amount": "$0.00",
+   "description": "IN-STATE",
+   "source_page": 1
+  },
+  {
+   "check_number": "117182",
+   "vendor_name": "RHETA HARRISON",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$1,365.00",
+   "description": "STUDENT EDUCATIONAL",
+   "source_page": 1
+  },
+  {
+   "check_number": "117183",
+   "vendor_name": "SCHOOL OUTLET",
+   "state_fund_amount": "$2,788.54",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER INST SUPPLIES",
+   "source_page": 1
+  },
+  {
+   "check_number": "117184",
+   "vendor_name": "SIGN LANGUAGE INTERPRETING",
+   "state_fund_amount": "$8,963.96",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER PROF SERVICES",
+   "source_page": 1
+  },
+  {
+   "check_number": "117185",
+   "vendor_name": "SOUTHERN PRIDE PEST CONTROL",
+   "state_fund_amount": "$40.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$85.00",
+   "description": "OTHER PROPERTY SERV;LAND & BLDG REPAIR/M",
+   "source_page": 1
+  },
+  {
+   "check_number": "117186",
+   "vendor_name": "TONY WELCH",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$2,500.00",
+   "description": "LAND & BLDG REPAIR/M",
+   "source_page": 1
+  },
+  {
+   "check_number": "117187",
+   "vendor_name": "UNA CAREER CENTER",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$100.00",
+   "local_fund_amount": "$0.00",
+   "description": "REGISTRATION FEES",
+   "source_page": 1
+  },
+  {
+   "check_number": "117188",
+   "vendor_name": "WILLIAMS SCOTSMAN, INC.",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$1,735.33",
+   "description": "LEASES",
+   "source_page": 1
+  },
+  {
+   "check_number": "117189",
+   "vendor_name": "CHONDRA RUSSELL",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$450.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER PURCHASED SERV",
+   "source_page": 1
+  },
+  {
+   "check_number": "117190",
+   "vendor_name": "AMBIT SOLUTIONS LLC",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$800.22",
+   "description": "TELEPHONE",
+   "source_page": 1
+  },
+  {
+   "check_number": "117191",
+   "vendor_name": "AMBIT SOLUTIONS LLC",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$2,356.10",
+   "description": "TELEPHONE",
+   "source_page": 1
+  },
+  {
+   "check_number": "117192",
+   "vendor_name": "APPLE INC",
+   "state_fund_amount": "$3,290.00",
+   "federal_fund_amount": "$13,014.00",
+   "local_fund_amount": "$0.00",
+   "description": "NON-CAP. COMP HRDWR",
+   "source_page": 1
+  },
+  {
+   "check_number": "117193",
+   "vendor_name": "AT&T MOBILITY",
+   "state_fund_amount": "$188.17",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$1,459.33",
+   "description": "TELEPHONE",
+   "source_page": 1
+  },
+  {
+   "check_number": "117194",
+   "vendor_name": "BIG STAR",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$641.05",
+   "description": "OTHER INST SUPPLIES",
+   "source_page": 1
+  },
+  {
+   "check_number": "117195",
+   "vendor_name": "BLUE CROSS BLUE SHIELD OF AL",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$3,616.59",
+   "description": "OTHER EMPLOYEE BENEF",
+   "source_page": 1
+  },
+  {
+   "check_number": "117196",
+   "vendor_name": "CLEAR WINDS TECHNOLOGIES",
+   "state_fund_amount": "$7,958.90",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "NON-CAP. COMP HRDWR",
+   "source_page": 1
+  },
+  {
+   "check_number": "117197",
+   "vendor_name": "DIANE BAKER",
+   "state_fund_amount": "$392.34",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTH NONINST SUPPLIES",
+   "source_page": 2
+  },
+  {
+   "check_number": "117198",
+   "vendor_name": "EDMENTUM, INC.",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$93.00",
+   "local_fund_amount": "$0.00",
+   "description": "INSTRUCT. SOFTWARE",
+   "source_page": 2
+  },
+  {
+   "check_number": "117199",
+   "vendor_name": "FAMILY REHAB SERVICES INC.",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$2,149.50",
+   "description": "OTHER PURCHASED SERV",
+   "source_page": 2
+  },
+  {
+   "check_number": "117200",
+   "vendor_name": "FILTER PRO USA",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$4,107.81",
+   "description": "MAINTENANCE SUPPLIES",
+   "source_page": 2
+  },
+  {
+   "check_number": "117201",
+   "vendor_name": "JAMES MATTHEW WILEMON",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$485.10",
+   "description": "LOCAL DISTRICT",
+   "source_page": 2
+  },
+  {
+   "check_number": "117202",
+   "vendor_name": "JOHNNY CLEVELAND",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$180.60",
+   "description": "LOCAL DISTRICT",
+   "source_page": 2
+  },
+  {
+   "check_number": "117203",
+   "vendor_name": "LOWES CREDIT SERVICES",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$587.10",
+   "description": "OTHER MAINT. & OPER.",
+   "source_page": 2
+  },
+  {
+   "check_number": "117204",
+   "vendor_name": "MCDOWELL, BEASON & HAMILTON PC",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$200.00",
+   "description": "LEGAL FEES",
+   "source_page": 2
+  },
+  {
+   "check_number": "117205",
+   "vendor_name": "MCKEE & ASSOCIATES",
+   "state_fund_amount": "$51,185.40",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "LAND IMPROVEMENT",
+   "source_page": 2
+  },
+  {
+   "check_number": "117206",
+   "vendor_name": "MOLLY KING",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$591.30",
+   "description": "ASSOCIATION DUES;LOCAL DISTRICT",
+   "source_page": 2
+  },
+  {
+   "check_number": "117207",
+   "vendor_name": "MOWREY ELEVATOR CO OF FL, INC.",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$157.57",
+   "description": "LAND & BLDG REPAIR/M",
+   "source_page": 2
+  },
+  {
+   "check_number": "117208",
+   "vendor_name": "ONESTEP ALLIANCE LLC",
+   "state_fund_amount": "$760.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "DRUG TESTING SERV",
+   "source_page": 2
+  },
+  {
+   "check_number": "117209",
+   "vendor_name": "RED BAY WATER AND GAS BOARD",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$3,303.57",
+   "description": "WATER AND SEWAGE;NATURAL GAS;GARBAGE AND WASTE",
+   "source_page": 2
+  },
+  {
+   "check_number": "117210",
+   "vendor_name": "RUSSELLVILLE DEPT OF UTILITIES",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$1,837.76",
+   "description": "ELECTRICITY;WATER AND SEWAGE;NATURAL GAS;GARBAGE AND WASTE",
+   "source_page": 2
+  },
+  {
+   "check_number": "117211",
+   "vendor_name": "SUSAN ALLEN, LLC",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$7,746.90",
+   "description": "OTHER PURCHASED SERV",
+   "source_page": 2
+  },
+  {
+   "check_number": "117212",
+   "vendor_name": "THE UNIVERSITY OF ALABAMA",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$300.00",
+   "description": "OTHER DUES AND FEES",
+   "source_page": 2
+  },
+  {
+   "check_number": "117213",
+   "vendor_name": "THOMAS RINER JR.",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$428.00",
+   "description": "OTHER PROPERTY SERV",
+   "source_page": 2
+  },
+  {
+   "check_number": "117214",
+   "vendor_name": "VINA GAS AND WATER BOARD",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$3,783.44",
+   "description": "WATER AND SEWAGE;NATURAL GAS",
+   "source_page": 2
+  },
+  {
+   "check_number": "117215",
+   "vendor_name": "WEST LAWRENCE WATER CO-OP",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$487.64",
+   "description": "WATER AND SEWAGE",
+   "source_page": 2
+  },
+  {
+   "check_number": "117216",
+   "vendor_name": "ALABAMA HEALTHCARE EQUPMENT",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$1,189.28",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER GEN SUPPLIES",
+   "source_page": 2
+  },
+  {
+   "check_number": "117217",
+   "vendor_name": "Alabama School Nutrition Assoc",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$100.00",
+   "local_fund_amount": "$0.00",
+   "description": "REGISTRATION FEES",
+   "source_page": 2
+  },
+  {
+   "check_number": "117218",
+   "vendor_name": "AMERICAN PAPER & TWINE CO.",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$11,351.22",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER EQUIPMENT;OTHER GEN SUPPLIES;FOOD PROCESSING SUPP;OFFICE SUPPLIES;PURCHASED FOOD;FOOD SERV SUPPLIES",
+   "source_page": 2
+  },
+  {
+   "check_number": "117219",
+   "vendor_name": "Auto-Chlor Services, LLC",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$684.00",
+   "local_fund_amount": "$0.00",
+   "description": "FOOD SERV SUPPLIES",
+   "source_page": 2
+  },
+  {
+   "check_number": "117220",
+   "vendor_name": "AVERY HARPER",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$47.60",
+   "local_fund_amount": "$0.00",
+   "description": "IN-STATE",
+   "source_page": 2
+  },
+  {
+   "check_number": "117221",
+   "vendor_name": "CDW GOVERNMENT, INC.",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$1,790.45",
+   "local_fund_amount": "$0.00",
+   "description": "OFFICE SUPPLIES",
+   "source_page": 2
+  },
+  {
+   "check_number": "117222",
+   "vendor_name": "CERTIFIED ALARM CO. OF AL INC.",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$180.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER PROPERTY SERV",
+   "source_page": 2
+  },
+  {
+   "check_number": "117223",
+   "vendor_name": "CLARRISA PATTERSON",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$161.00",
+   "local_fund_amount": "$0.00",
+   "description": "LOCAL DISTRICT",
+   "source_page": 2
+  },
+  {
+   "check_number": "117224",
+   "vendor_name": "DONNA HORTON",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$129.48",
+   "local_fund_amount": "$0.00",
+   "description": "LOCAL DISTRICT",
+   "source_page": 2
+  },
+  {
+   "check_number": "117225",
+   "vendor_name": "FAYRENE MORGAN",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$46.20",
+   "local_fund_amount": "$0.00",
+   "description": "LOCAL DISTRICT",
+   "source_page": 2
+  },
+  {
+   "check_number": "117226",
+   "vendor_name": "FILTER PRO USA",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$511.76",
+   "local_fund_amount": "$0.00",
+   "description": "FOOD SERV SUPPLIES",
+   "source_page": 2
+  },
+  {
+   "check_number": "117227",
+   "vendor_name": "FLOWERS BAKING CO.-TUSCALOOSA",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$2,622.36",
+   "local_fund_amount": "$0.00",
+   "description": "PURCHASED FOOD",
+   "source_page": 2
+  },
+  {
+   "check_number": "117228",
+   "vendor_name": "HOPE FULLER",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$47.60",
+   "local_fund_amount": "$0.00",
+   "description": "LOCAL DISTRICT",
+   "source_page": 2
+  },
+  {
+   "check_number": "117229",
+   "vendor_name": "JADE KEETON",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$29,332.86",
+   "local_fund_amount": "$0.00",
+   "description": "PURCHASED FOOD",
+   "source_page": 2
+  },
+  {
+   "check_number": "117230",
+   "vendor_name": "KATHRINA WILLINGHAM",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$98.00",
+   "local_fund_amount": "$0.00",
+   "description": "LOCAL DISTRICT",
+   "source_page": 2
+  },
+  {
+   "check_number": "117231",
+   "vendor_name": "KELLY VINSON",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$128.80",
+   "local_fund_amount": "$0.00",
+   "description": "IN-STATE",
+   "source_page": 2
+  },
+  {
+   "check_number": "117232",
+   "vendor_name": "KRISTI GARGIS",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$212.80",
+   "local_fund_amount": "$0.00",
+   "description": "LOCAL DISTRICT",
+   "source_page": 2
+  },
+  {
+   "check_number": "117233",
+   "vendor_name": "LEWIS ELECTRIC SUPPLY CO INC",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$85.50",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER GEN SUPPLIES",
+   "source_page": 3
+  },
+  {
+   "check_number": "117234",
+   "vendor_name": "LORA GRAVITT",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$177.80",
+   "local_fund_amount": "$0.00",
+   "description": "LOCAL DISTRICT;IN-STATE",
+   "source_page": 3
+  },
+  {
+   "check_number": "117235",
+   "vendor_name": "LORI JOHNSON",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$74.20",
+   "local_fund_amount": "$0.00",
+   "description": "IN-STATE",
+   "source_page": 3
+  },
+  {
+   "check_number": "117236",
+   "vendor_name": "LUCINDA BARNES",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$56.00",
+   "local_fund_amount": "$0.00",
+   "description": "LOCAL DISTRICT",
+   "source_page": 3
+  },
+  {
+   "check_number": "117237",
+   "vendor_name": "MALLORIE SOUTHERN",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$44.80",
+   "local_fund_amount": "$0.00",
+   "description": "LOCAL DISTRICT",
+   "source_page": 3
+  },
+  {
+   "check_number": "117238",
+   "vendor_name": "MARTI PAGE",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$188.30",
+   "local_fund_amount": "$0.00",
+   "description": "LOCAL DISTRICT",
+   "source_page": 3
+  },
+  {
+   "check_number": "117239",
+   "vendor_name": "MATTHEW STANCIL",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$70.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER PROPERTY SERV",
+   "source_page": 3
+  },
+  {
+   "check_number": "117240",
+   "vendor_name": "MINMOR INDUSTRIES LLC",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$177.71",
+   "local_fund_amount": "$0.00",
+   "description": "FOOD PROCESSING SUPP",
+   "source_page": 3
+  },
+  {
+   "check_number": "117241",
+   "vendor_name": "MPE SERVICES-RUSSELLVILLE",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$2,602.22",
+   "local_fund_amount": "$0.00",
+   "description": "EQUIP REPAIR & MAINT",
+   "source_page": 3
+  },
+  {
+   "check_number": "117242",
+   "vendor_name": "MURFREESBORO PURE MILK CO, INC",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$3,735.60",
+   "local_fund_amount": "$0.00",
+   "description": "PURCHASED FOOD",
+   "source_page": 3
+  },
+  {
+   "check_number": "117243",
+   "vendor_name": "MYRA COATS",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$58.80",
+   "local_fund_amount": "$0.00",
+   "description": "LOCAL DISTRICT",
+   "source_page": 3
+  },
+  {
+   "check_number": "117244",
+   "vendor_name": "NIKKI WILSON",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$58.80",
+   "local_fund_amount": "$0.00",
+   "description": "IN-STATE",
+   "source_page": 3
+  },
+  {
+   "check_number": "117245",
+   "vendor_name": "OSBORN FOODSERVICE",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$26,507.93",
+   "local_fund_amount": "$0.00",
+   "description": "PURCHASED FOOD;FOOD SERV SUPPLIES",
+   "source_page": 3
+  },
+  {
+   "check_number": "117246",
+   "vendor_name": "PENNY HUGHES",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$37.80",
+   "local_fund_amount": "$0.00",
+   "description": "LOCAL DISTRICT",
+   "source_page": 3
+  },
+  {
+   "check_number": "117247",
+   "vendor_name": "PIGGLY WIGGLY-PHIL CAMPBELL",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$50.16",
+   "local_fund_amount": "$0.00",
+   "description": "FOOD SERV SUPPLIES;PURCHASED FOOD",
+   "source_page": 3
+  },
+  {
+   "check_number": "117248",
+   "vendor_name": "PIGGLY WIGGLY",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$155.14",
+   "local_fund_amount": "$0.00",
+   "description": "FOOD SERV SUPPLIES;PURCHASED FOOD",
+   "source_page": 3
+  },
+  {
+   "check_number": "117249",
+   "vendor_name": "PRECISION GLASS MIRROR & DOOR",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$360.00",
+   "local_fund_amount": "$0.00",
+   "description": "LAND & BLDG REPAIR/M",
+   "source_page": 3
+  },
+  {
+   "check_number": "117250",
+   "vendor_name": "PURITY DAIRIES-MILK",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$20,064.92",
+   "local_fund_amount": "$0.00",
+   "description": "PURCHASED FOOD",
+   "source_page": 3
+  },
+  {
+   "check_number": "117251",
+   "vendor_name": "ROBYNN BRAGWELL",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$324.80",
+   "local_fund_amount": "$0.00",
+   "description": "LOCAL DISTRICT;IN-STATE",
+   "source_page": 3
+  },
+  {
+   "check_number": "117252",
+   "vendor_name": "Russellville Hospital",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$150.00",
+   "local_fund_amount": "$0.00",
+   "description": "PURCHASED FOOD",
+   "source_page": 3
+  },
+  {
+   "check_number": "117253",
+   "vendor_name": "SAMS CLUB MC/SYNCB",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$1,728.59",
+   "local_fund_amount": "$0.00",
+   "description": "PURCHASED FOOD;OTHER GEN SUPPLIES;FOOD PROCESSING SUPP",
+   "source_page": 3
+  },
+  {
+   "check_number": "117254",
+   "vendor_name": "SHERRY JOHNSON",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$35.00",
+   "local_fund_amount": "$0.00",
+   "description": "LOCAL DISTRICT",
+   "source_page": 3
+  },
+  {
+   "check_number": "117255",
+   "vendor_name": "Singer H&R",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$5,250.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER EQUIPMENT",
+   "source_page": 3
+  },
+  {
+   "check_number": "117256",
+   "vendor_name": "SOUTHERN PRIDE PEST CONTROL",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$240.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER PROPERTY SERV",
+   "source_page": 3
+  },
+  {
+   "check_number": "117257",
+   "vendor_name": "TABITHA FROST",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$224.00",
+   "local_fund_amount": "$0.00",
+   "description": "LOCAL DISTRICT",
+   "source_page": 3
+  },
+  {
+   "check_number": "117258",
+   "vendor_name": "TREVIPAY-WALMART",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$99.20",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER GEN SUPPLIES;OFFICE SUPPLIES",
+   "source_page": 3
+  },
+  {
+   "check_number": "117259",
+   "vendor_name": "ULINE",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$1,742.68",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER GEN SUPPLIES;NON-CAP FURN & FIXT;FREIGHT AND SHIPPING",
+   "source_page": 3
+  },
+  {
+   "check_number": "117260",
+   "vendor_name": "WALMART PAYMENTS",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$1,277.33",
+   "local_fund_amount": "$0.00",
+   "description": "OFFICE SUPPLIES;FOOD SERV SUPPLIES;OTH TRAVEL AND TRNG;OTHER GEN SUPPLIES;NON-CAP FURN & FIXT;PURCHASED FOOD",
+   "source_page": 3
+  },
+  {
+   "check_number": "117261",
+   "vendor_name": "WENDY ERGLE",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$81.20",
+   "local_fund_amount": "$0.00",
+   "description": "LOCAL DISTRICT",
+   "source_page": 3
+  },
+  {
+   "check_number": "117262",
+   "vendor_name": "WOOD-FRUITTICHER GROC CO., INC",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$169,065.09",
+   "local_fund_amount": "$0.00",
+   "description": "PURCHASED FOOD;FOOD PROCESSING SUPP;FOOD SERV SUPPLIES;FREIGHT AND SHIPPING",
+   "source_page": 3
+  },
+  {
+   "check_number": "117263",
+   "vendor_name": "AT&T",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$2,639.75",
+   "description": "TELEPHONE",
+   "source_page": 3
+  },
+  {
+   "check_number": "117264",
+   "vendor_name": "BRIGHTSPEED",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$565.85",
+   "description": "TELEPHONE",
+   "source_page": 3
+  },
+  {
+   "check_number": "117265",
+   "vendor_name": "CDW GOVERNMENT, INC.",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$7,599.92",
+   "local_fund_amount": "$0.00",
+   "description": "NON-CAP. COMP HRDWR",
+   "source_page": 3
+  },
+  {
+   "check_number": "117266",
+   "vendor_name": "CERTIFIED ALARM CO. OF AL INC.",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$235.00",
+   "description": "EQUIP MAINT AGREEMTS",
+   "source_page": 3
+  },
+  {
+   "check_number": "117267",
+   "vendor_name": "CLAS",
+   "state_fund_amount": "$275.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER DUES AND FEES",
+   "source_page": 3
+  },
+  {
+   "check_number": "117268",
+   "vendor_name": "FRANKLIN CO. SOLID WASTE DEPT",
+   "state_fund_amount": "$180.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$2,870.00",
+   "description": "GARBAGE AND WASTE",
+   "source_page": 4
+  },
+  {
+   "check_number": "117269",
+   "vendor_name": "FRANKLIN CO. WATER AUTHORITY",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$735.82",
+   "description": "WATER AND SEWAGE",
+   "source_page": 4
+  },
+  {
+   "check_number": "117270",
+   "vendor_name": "FRANKLIN ELECTRIC COOPERATIVE",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$29,739.14",
+   "description": "ELECTRICITY",
+   "source_page": 4
+  },
+  {
+   "check_number": "117271",
+   "vendor_name": "GAULT SIGNS",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$2,000.00",
+   "description": "OTHER PROPERTY SERV",
+   "source_page": 4
+  },
+  {
+   "check_number": "117272",
+   "vendor_name": "PHIL CAMPBELL WATER WORKS",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$3,029.46",
+   "description": "WATER AND SEWAGE;GARBAGE AND WASTE",
+   "source_page": 4
+  },
+  {
+   "check_number": "117273",
+   "vendor_name": "SIGN LANGUAGE INTERPRETING",
+   "state_fund_amount": "$7,069.14",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER PROF SERVICES",
+   "source_page": 4
+  },
+  {
+   "check_number": "117274",
+   "vendor_name": "ALABAMA ASSOC OF SCHOOL BDS",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$39.00",
+   "description": "REGISTRATION FEES",
+   "source_page": 4
+  },
+  {
+   "check_number": "117275",
+   "vendor_name": "AMAZON CAPITAL SERVICES",
+   "state_fund_amount": "$478.21",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "STUDENT CLASSRM SUPP",
+   "source_page": 4
+  },
+  {
+   "check_number": "117276",
+   "vendor_name": "AMERICAN PAPER & TWINE CO.",
+   "state_fund_amount": "$130.80",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "STUDENT CLASSRM SUPP",
+   "source_page": 4
+  },
+  {
+   "check_number": "117277",
+   "vendor_name": "ATBE",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$11,175.00",
+   "description": "ASSOCIATION DUES",
+   "source_page": 4
+  },
+  {
+   "check_number": "117278",
+   "vendor_name": "BLUUM OF TEXAS, LLC",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$3,452.20",
+   "local_fund_amount": "$0.00",
+   "description": "NON-CAP. COMP HRDWR",
+   "source_page": 4
+  },
+  {
+   "check_number": "117279",
+   "vendor_name": "BOARDMAN, CARR, PETELOS,",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$100.00",
+   "description": "LEGAL FEES",
+   "source_page": 4
+  },
+  {
+   "check_number": "117280",
+   "vendor_name": "CLAS",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$324.00",
+   "description": "ASSOCIATION DUES",
+   "source_page": 4
+  },
+  {
+   "check_number": "117281",
+   "vendor_name": "COOK S PEST CONTROL",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$447.00",
+   "description": "OTHER PROPERTY SERV",
+   "source_page": 4
+  },
+  {
+   "check_number": "117282",
+   "vendor_name": "CORPORATE BILLING, INC.",
+   "state_fund_amount": "$1,664.51",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "VEHICLE PARTS",
+   "source_page": 4
+  },
+  {
+   "check_number": "117283",
+   "vendor_name": "DIANE BAKER",
+   "state_fund_amount": "$1,442.56",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "STAFF ED SERVICES",
+   "source_page": 4
+  },
+  {
+   "check_number": "117284",
+   "vendor_name": "ENGINEERS OF THE SOUTH",
+   "state_fund_amount": "$760.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER PURCHASED SERV",
+   "source_page": 4
+  },
+  {
+   "check_number": "117285",
+   "vendor_name": "FRANKLIN COUNTY COMMISSION",
+   "state_fund_amount": "$6,663.65",
+   "federal_fund_amount": "$4,928.01",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER PURCHASED SERV;OTHER PROF SERVICES",
+   "source_page": 4
+  },
+  {
+   "check_number": "117286",
+   "vendor_name": "FRANKLIN ELECTRIC COOPERATIVE",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$21,929.21",
+   "description": "ELECTRICITY",
+   "source_page": 4
+  },
+  {
+   "check_number": "117287",
+   "vendor_name": "GLOBAL FIRE SPRINKLERS",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$70.00",
+   "description": "OTHER PROPERTY SERV",
+   "source_page": 4
+  },
+  {
+   "check_number": "117288",
+   "vendor_name": "HARDIN HEATING AND COOLING INC",
+   "state_fund_amount": "$4,985.10",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER NONCAP EQUIPMT",
+   "source_page": 4
+  },
+  {
+   "check_number": "117290",
+   "vendor_name": "KENNEDY SERVICES LLC",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$950.00",
+   "description": "MAINTENANCE SUPPLIES",
+   "source_page": 4
+  },
+  {
+   "check_number": "117291",
+   "vendor_name": "KIMBALL MIDWEST",
+   "state_fund_amount": "$845.85",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "VEHICLE PARTS",
+   "source_page": 4
+  },
+  {
+   "check_number": "117292",
+   "vendor_name": "LEWIS ELECTRIC",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$502.22",
+   "description": "MAINTENANCE SUPPLIES",
+   "source_page": 4
+  },
+  {
+   "check_number": "117293",
+   "vendor_name": "MCWANE SCIENCE CENTER",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$1,421.60",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER DUES AND FEES",
+   "source_page": 4
+  },
+  {
+   "check_number": "117294",
+   "vendor_name": "MOORE AUTO SUPPLY",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$14.90",
+   "description": "MAINTENANCE SUPPLIES",
+   "source_page": 4
+  },
+  {
+   "check_number": "117295",
+   "vendor_name": "OFFICE DEPOT",
+   "state_fund_amount": "$884.50",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "STUDENT CLASSRM SUPP;OTH VEHICLE SUPPLIES;OFFICE SUPPLIES",
+   "source_page": 4
+  },
+  {
+   "check_number": "117296",
+   "vendor_name": "PAM OZBIRN",
+   "state_fund_amount": "$1,095.01",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "LOCAL DISTRICT;REGISTRATION FEES;IN-STATE",
+   "source_page": 4
+  },
+  {
+   "check_number": "117297",
+   "vendor_name": "R & B MECHANICAL SERVICES LLC",
+   "state_fund_amount": "$25,399.01",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$21,979.18",
+   "description": "OTHER EQUIPMENT;EQUIP REPAIR & MAINT",
+   "source_page": 4
+  },
+  {
+   "check_number": "117298",
+   "vendor_name": "ROMANS LOCK SERVICE",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$397.00",
+   "description": "MAINTENANCE SUPPLIES",
+   "source_page": 4
+  },
+  {
+   "check_number": "117299",
+   "vendor_name": "RUSSELLVILLE DEPT OF UTILITIES",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$207.80",
+   "description": "NATURAL GAS",
+   "source_page": 4
+  },
+  {
+   "check_number": "117300",
+   "vendor_name": "S & S BUILDING SUPPLY",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$327.25",
+   "description": "MAINTENANCE SUPPLIES",
+   "source_page": 4
+  },
+  {
+   "check_number": "117301",
+   "vendor_name": "SILVER DOLLAR SALES, INC.",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$596.00",
+   "description": "MAINTENANCE SUPPLIES",
+   "source_page": 4
+  },
+  {
+   "check_number": "117302",
+   "vendor_name": "SLOW ROOTS LLC",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$600.00",
+   "description": "OTHER PROPERTY SERV",
+   "source_page": 4
+  },
+  {
+   "check_number": "117303",
+   "vendor_name": "SOUTHERN ENVIRONMENTAL TESTING",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$510.00",
+   "description": "OTHER PROPERTY SERV",
+   "source_page": 4
+  },
+  {
+   "check_number": "117304",
+   "vendor_name": "SOUTHLAND INTERNATIONAL TRUCKS",
+   "state_fund_amount": "$10,150.61",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "VEHICLE PARTS",
+   "source_page": 4
+  },
+  {
+   "check_number": "117305",
+   "vendor_name": "SUBURBAN PROPANE-7521",
+   "state_fund_amount": "$5,959.16",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "FUEL-OTHER",
+   "source_page": 4
+  },
+  {
+   "check_number": "117306",
+   "vendor_name": "THE LEARNING TREE",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$1,681.53",
+   "description": "OTHER PURCHASED SERV",
+   "source_page": 5
+  },
+  {
+   "check_number": "117307",
+   "vendor_name": "TRANSPORTATION SOUTH",
+   "state_fund_amount": "$450.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTH VEHICLE SUPPLIES",
+   "source_page": 5
+  },
+  {
+   "check_number": "117308",
+   "vendor_name": "VESTIS",
+   "state_fund_amount": "$256.24",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$350.78",
+   "description": "MAINTENANCE SUPPLIES;JANITORIAL SUPPLIES",
+   "source_page": 5
+  },
+  {
+   "check_number": "117309",
+   "vendor_name": "WESLEY C. THIGPEN",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$317.20",
+   "description": "LOCAL DISTRICT",
+   "source_page": 5
+  },
+  {
+   "check_number": "117310",
+   "vendor_name": "O REILLY AUTOMOTIVE INC",
+   "state_fund_amount": "$1,312.01",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$1,118.54",
+   "description": "VEHICLE PARTS;OTH VEHICLE SUPPLIES;OIL AND LUBRICANTS",
+   "source_page": 5
+  },
+  {
+   "check_number": "117311",
+   "vendor_name": "ADVANTAGE FORM & LABEL, INC",
+   "state_fund_amount": "$81.95",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "OFFICE SUPPLIES",
+   "source_page": 5
+  },
+  {
+   "check_number": "117312",
+   "vendor_name": "ALABAMA A&M UNIVERSITY",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$75.00",
+   "local_fund_amount": "$0.00",
+   "description": "REGISTRATION FEES",
+   "source_page": 5
+  },
+  {
+   "check_number": "117313",
+   "vendor_name": "ALABAMA DEPT OF REVENUE",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$45.00",
+   "description": "OTHER DUES AND FEES",
+   "source_page": 5
+  },
+  {
+   "check_number": "117314",
+   "vendor_name": "ALABAMA POWER COMPANY",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$13,384.55",
+   "description": "ELECTRICITY",
+   "source_page": 5
+  },
+  {
+   "check_number": "117315",
+   "vendor_name": "AMAZON CAPITAL SERVICES",
+   "state_fund_amount": "$3,338.56",
+   "federal_fund_amount": "$367.84",
+   "local_fund_amount": "$0.00",
+   "description": "STUDENT CLASSRM SUPP;OTHER INST SUPPLIES",
+   "source_page": 5
+  },
+  {
+   "check_number": "117316",
+   "vendor_name": "AUTOZONE",
+   "state_fund_amount": "$739.97",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "VEHICLE PARTS",
+   "source_page": 5
+  },
+  {
+   "check_number": "117317",
+   "vendor_name": "BARNETT PLUMBING LLC",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$4,617.00",
+   "description": "OTHER PROPERTY SERV",
+   "source_page": 5
+  },
+  {
+   "check_number": "117318",
+   "vendor_name": "Belgreen High School",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$2,240.84",
+   "description": "OTHER PURCHASED SERV",
+   "source_page": 5
+  },
+  {
+   "check_number": "117319",
+   "vendor_name": "BUILDING SPECIALTIES CO.",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$770.23",
+   "description": "MAINTENANCE SUPPLIES",
+   "source_page": 5
+  },
+  {
+   "check_number": "117320",
+   "vendor_name": "CLEAR WINDS TECHNOLOGIES",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$21,620.30",
+   "local_fund_amount": "$0.00",
+   "description": "NON-CAP. COMP HRDWR",
+   "source_page": 5
+  },
+  {
+   "check_number": "117321",
+   "vendor_name": "CONTINENTAL PRESS INC",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$12,048.62",
+   "local_fund_amount": "$0.00",
+   "description": "STUDENT CLASSRM SUPP",
+   "source_page": 5
+  },
+  {
+   "check_number": "117322",
+   "vendor_name": "FRANKLIN COUNTY XCHANGE",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$85.25",
+   "description": "OTHER MAINT. & OPER.",
+   "source_page": 5
+  },
+  {
+   "check_number": "117323",
+   "vendor_name": "GREAT SOUTHERN RECREATION",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$7,597.00",
+   "description": "ATH AND PHYSICAL ED",
+   "source_page": 5
+  },
+  {
+   "check_number": "117324",
+   "vendor_name": "GREENS DEPENDABLE HARDWARE",
+   "state_fund_amount": "$4.78",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$415.56",
+   "description": "MAINTENANCE SUPPLIES;OTH VEHICLE SUPPLIES",
+   "source_page": 5
+  },
+  {
+   "check_number": "117325",
+   "vendor_name": "HENDRIX GLASS SERVICE,INC.",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$85.00",
+   "description": "MAINTENANCE SUPPLIES",
+   "source_page": 5
+  },
+  {
+   "check_number": "117326",
+   "vendor_name": "HIBBETT SPORTS",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$5,000.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTH NONINST SUPPLIES",
+   "source_page": 5
+  },
+  {
+   "check_number": "117327",
+   "vendor_name": "JT RAY COMPANY",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$569.94",
+   "description": "OFFICE SUPPLIES;OTHER PURCHASED SERV",
+   "source_page": 5
+  },
+  {
+   "check_number": "117328",
+   "vendor_name": "KIEL EQUIPMENT",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$169.85",
+   "description": "OTHER MAINT. & OPER.",
+   "source_page": 5
+  },
+  {
+   "check_number": "117329",
+   "vendor_name": "LEARNING WITHOUT TEARS",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$38.06",
+   "local_fund_amount": "$0.00",
+   "description": "STUDENT CLASSRM SUPP",
+   "source_page": 5
+  },
+  {
+   "check_number": "117330",
+   "vendor_name": "MCDOWELL, BEASON & HAMILTON PC",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$850.00",
+   "description": "LEGAL FEES",
+   "source_page": 5
+  },
+  {
+   "check_number": "117331",
+   "vendor_name": "MINGLEDORFFS",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$795.81",
+   "description": "MAINTENANCE SUPPLIES",
+   "source_page": 5
+  },
+  {
+   "check_number": "117332",
+   "vendor_name": "MURRAY S TIRE & ALIGNMENT",
+   "state_fund_amount": "$920.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$1,000.00",
+   "description": "TIRES",
+   "source_page": 5
+  },
+  {
+   "check_number": "117333",
+   "vendor_name": "NORTHWEST ALABAMA GAS DISTRICT",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$268.77",
+   "description": "NATURAL GAS",
+   "source_page": 5
+  },
+  {
+   "check_number": "117334",
+   "vendor_name": "ONE 4 CUSTOM GRAPHICS",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$1,600.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER PURCHASED SERV",
+   "source_page": 5
+  },
+  {
+   "check_number": "117335",
+   "vendor_name": "PHIL CAMPBELL HIGH SCHOOL",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$657.00",
+   "description": "NON-CAP INST EQUIP",
+   "source_page": 5
+  },
+  {
+   "check_number": "117336",
+   "vendor_name": "PIGGLY WIGGLY",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$2,843.63",
+   "description": "MAINTENANCE SUPPLIES;STUDENT CLASSRM SUPP",
+   "source_page": 5
+  },
+  {
+   "check_number": "117337",
+   "vendor_name": "SOUTHERN FOOD SERVICE",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$514.19",
+   "description": "OTHER PROPERTY SERV",
+   "source_page": 5
+  },
+  {
+   "check_number": "117338",
+   "vendor_name": "STEMFINITY LLC",
+   "state_fund_amount": "$25,502.95",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "STUDENT CLASSRM SUPP",
+   "source_page": 5
+  },
+  {
+   "check_number": "117339",
+   "vendor_name": "TALLMAN CO",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$906.55",
+   "description": "MAINTENANCE SUPPLIES",
+   "source_page": 5
+  },
+  {
+   "check_number": "117340",
+   "vendor_name": "TATUM OIL INC",
+   "state_fund_amount": "$9,960.88",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "FUEL-DIESEL",
+   "source_page": 5
+  },
+  {
+   "check_number": "117341",
+   "vendor_name": "TONY WELCH",
+   "state_fund_amount": "$8,500.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER PROPERTY SERV",
+   "source_page": 5
+  },
+  {
+   "check_number": "117342",
+   "vendor_name": "UNITY SCHOOL BUS PARTS",
+   "state_fund_amount": "$874.74",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "VEHICLE PARTS",
+   "source_page": 5
+  },
+  {
+   "check_number": "117343",
+   "vendor_name": "VINA HIGH SCHOOL",
+   "state_fund_amount": "$4,000.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "OPERAT TRANSFERS OUT",
+   "source_page": 6
+  },
+  {
+   "check_number": "117344",
+   "vendor_name": "A&G SAFETY SOLUTIONS, LLC",
+   "state_fund_amount": "$1,195.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER INST SUPPLIES",
+   "source_page": 6
+  },
+  {
+   "check_number": "117345",
+   "vendor_name": "ALABAMA POWER COMPANY",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$36,200.44",
+   "description": "ELECTRICITY",
+   "source_page": 6
+  },
+  {
+   "check_number": "117346",
+   "vendor_name": "ALCDA-ALABAMA CAREER",
+   "state_fund_amount": "$750.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "STAFF ED SERVICES",
+   "source_page": 6
+  },
+  {
+   "check_number": "117347",
+   "vendor_name": "AMAZON CAPITAL SERVICES",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$2,591.25",
+   "local_fund_amount": "$546.10",
+   "description": "STUDENT CLASSRM SUPP;PARENT INST SUPPLIES;OTHER INST SUPPLIES;MAINTENANCE SUPPLIES",
+   "source_page": 6
+  },
+  {
+   "check_number": "117348",
+   "vendor_name": "AMY HAMILTON",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$62.59",
+   "local_fund_amount": "$0.00",
+   "description": "IN-STATE",
+   "source_page": 6
+  },
+  {
+   "check_number": "117349",
+   "vendor_name": "APPLE INC",
+   "state_fund_amount": "$1,267.00",
+   "federal_fund_amount": "$99.00",
+   "local_fund_amount": "$329.00",
+   "description": "NON-CAP. COMP HRDWR;NON-CAP INST EQUIP",
+   "source_page": 6
+  },
+  {
+   "check_number": "117350",
+   "vendor_name": "BAILEY WILKINSON",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$19.29",
+   "local_fund_amount": "$0.00",
+   "description": "IN-STATE",
+   "source_page": 6
+  },
+  {
+   "check_number": "117351",
+   "vendor_name": "BELGREEN COATINGS LLC",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$2,921.55",
+   "local_fund_amount": "$0.00",
+   "description": "NON-CAP INST EQUIP",
+   "source_page": 6
+  },
+  {
+   "check_number": "117352",
+   "vendor_name": "BRYAN JIMENEZ",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$70.99",
+   "local_fund_amount": "$0.00",
+   "description": "IN-STATE",
+   "source_page": 6
+  },
+  {
+   "check_number": "117353",
+   "vendor_name": "CASTROS FENCE LLC",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$3,900.00",
+   "description": "EXHAUSTIBLE LAND IMP",
+   "source_page": 6
+  },
+  {
+   "check_number": "117354",
+   "vendor_name": "CDW GOVERNMENT, INC.",
+   "state_fund_amount": "$2,032.98",
+   "federal_fund_amount": "$8,092.70",
+   "local_fund_amount": "$0.00",
+   "description": "NON-CAP. COMP HRDWR;NON-CAP INST EQUIP;STUDENT CLASSRM SUPP;OTHER INST SUPPLIES",
+   "source_page": 6
+  },
+  {
+   "check_number": "117355",
+   "vendor_name": "CEV",
+   "state_fund_amount": "$2,510.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "INSTRUCT. SOFTWARE",
+   "source_page": 6
+  },
+  {
+   "check_number": "117356",
+   "vendor_name": "CHONDRA RUSSELL",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$150.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER PURCHASED SERV",
+   "source_page": 6
+  },
+  {
+   "check_number": "117357",
+   "vendor_name": "CLAS",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$334.00",
+   "description": "ASSOCIATION DUES",
+   "source_page": 6
+  },
+  {
+   "check_number": "117358",
+   "vendor_name": "CLEAR WINDS TECHNOLOGIES",
+   "state_fund_amount": "$4,682.11",
+   "federal_fund_amount": "$8,315.50",
+   "local_fund_amount": "$2,968.15",
+   "description": "NON-CAP. COMP HRDWR;STUDENT CLASSRM SUPP",
+   "source_page": 6
+  },
+  {
+   "check_number": "117359",
+   "vendor_name": "COMPTIA INC",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$2,200.00",
+   "local_fund_amount": "$0.00",
+   "description": "STUDENT CLASSRM SUPP",
+   "source_page": 6
+  },
+  {
+   "check_number": "117360",
+   "vendor_name": "DANMARK COMMUNICATIONS",
+   "state_fund_amount": "$12,725.64",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$1,665.61",
+   "description": "NON-CAP NON-INST EQU;EQUIP REPAIR & MAINT",
+   "source_page": 6
+  },
+  {
+   "check_number": "117361",
+   "vendor_name": "DOMINOS PIZZA",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$135.86",
+   "description": "OTHER OBJECTS",
+   "source_page": 6
+  },
+  {
+   "check_number": "117362",
+   "vendor_name": "FRANKLIN CO CAREER/TECH CENTER",
+   "state_fund_amount": "$768.79",
+   "federal_fund_amount": "$2,342.97",
+   "local_fund_amount": "$1,373.29",
+   "description": "NON-CAP INST EQUIP;STUDENT CLASSRM SUPP;OTHER INST SUPPLIES",
+   "source_page": 6
+  },
+  {
+   "check_number": "117363",
+   "vendor_name": "FRANKLIN CO. BOARD OF ED.",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$118.61",
+   "local_fund_amount": "$0.00",
+   "description": "INDIRECT COSTS",
+   "source_page": 6
+  },
+  {
+   "check_number": "117364",
+   "vendor_name": "GINA MEADOWS",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$47.59",
+   "local_fund_amount": "$0.00",
+   "description": "IN-STATE",
+   "source_page": 6
+  },
+  {
+   "check_number": "117365",
+   "vendor_name": "GLOBAL FIRE SPRINKLERS",
+   "state_fund_amount": "$2,190.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "EQUIP REPAIR & MAINT",
+   "source_page": 6
+  },
+  {
+   "check_number": "117366",
+   "vendor_name": "HARDIN HEATING AND COOLING INC",
+   "state_fund_amount": "$22,656.24",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER EQUIPMENT;EQUIP REPAIR & MAINT",
+   "source_page": 6
+  },
+  {
+   "check_number": "117367",
+   "vendor_name": "HARRY MATTOX",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$2,083.33",
+   "description": "STUDENT EDUCATIONAL",
+   "source_page": 6
+  },
+  {
+   "check_number": "117368",
+   "vendor_name": "HEATHER M GODWIN",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$750.00",
+   "local_fund_amount": "$0.00",
+   "description": "STAFF ED SERVICES",
+   "source_page": 6
+  },
+  {
+   "check_number": "117369",
+   "vendor_name": "ITEM INC",
+   "state_fund_amount": "$720.20",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER INST SUPPLIES",
+   "source_page": 6
+  },
+  {
+   "check_number": "117370",
+   "vendor_name": "JAMIE MCNEIL",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$80.79",
+   "local_fund_amount": "$0.00",
+   "description": "IN-STATE",
+   "source_page": 6
+  },
+  {
+   "check_number": "117371",
+   "vendor_name": "KEN S SEWING CENTER",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$1,797.00",
+   "local_fund_amount": "$0.00",
+   "description": "NON-CAP INST EQUIP",
+   "source_page": 6
+  },
+  {
+   "check_number": "117372",
+   "vendor_name": "LORI HARDIN",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$831.67",
+   "local_fund_amount": "$0.00",
+   "description": "LOCAL DISTRICT;IN-STATE",
+   "source_page": 6
+  },
+  {
+   "check_number": "117373",
+   "vendor_name": "MELISSA MCHENRY",
+   "state_fund_amount": "$325.91",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "LOCAL DISTRICT",
+   "source_page": 6
+  },
+  {
+   "check_number": "117374",
+   "vendor_name": "MOLLY KING",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$55.98",
+   "local_fund_amount": "$0.00",
+   "description": "IN-STATE",
+   "source_page": 6
+  },
+  {
+   "check_number": "117375",
+   "vendor_name": "O REILLY AUTOMOTIVE INC",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$499.91",
+   "description": "STUDENT CLASSRM SUPP",
+   "source_page": 6
+  },
+  {
+   "check_number": "117376",
+   "vendor_name": "PHIL CAMPBELL ELEMENTARY SCH.",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$15.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER DUES AND FEES",
+   "source_page": 6
+  },
+  {
+   "check_number": "117377",
+   "vendor_name": "PITNEY BOWES INC",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$163.83",
+   "description": "POSTAGE",
+   "source_page": 6
+  },
+  {
+   "check_number": "117378",
+   "vendor_name": "PUBLISHERS WAREHOUSE",
+   "state_fund_amount": "$3,716.26",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "TEXTBOOKS",
+   "source_page": 6
+  },
+  {
+   "check_number": "117379",
+   "vendor_name": "RIDGE CONNECT",
+   "state_fund_amount": "$9,115.61",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER NONCAP EQUIPMT",
+   "source_page": 7
+  },
+  {
+   "check_number": "117380",
+   "vendor_name": "ROCHESTER 100 INC.",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$918.00",
+   "local_fund_amount": "$0.00",
+   "description": "PARENT INST SUPPLIES",
+   "source_page": 7
+  },
+  {
+   "check_number": "117381",
+   "vendor_name": "SOUTHERN FLOORING INC",
+   "state_fund_amount": "$51,800.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "FURNITURE & FIXTURES",
+   "source_page": 7
+  },
+  {
+   "check_number": "117382",
+   "vendor_name": "SOUTHERN TIRE MART",
+   "state_fund_amount": "$3,500.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "TIRES",
+   "source_page": 7
+  },
+  {
+   "check_number": "117383",
+   "vendor_name": "TEXTBOOK WAREHOUSE",
+   "state_fund_amount": "$259.20",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "TEXTBOOKS",
+   "source_page": 7
+  },
+  {
+   "check_number": "117384",
+   "vendor_name": "TIFFIN SUPPLY COMPANY",
+   "state_fund_amount": "$3,014.13",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$5,764.90",
+   "description": "MAINTENANCE SUPPLIES;OTHER PROPERTY SERV;STUDENT CLASSRM SUPP;OTHER MAINT. & OPER.",
+   "source_page": 7
+  },
+  {
+   "check_number": "117385",
+   "vendor_name": "WITTICHEN SUPPLY CO",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$2,511.08",
+   "description": "NON-CAP NON-INST EQU",
+   "source_page": 7
+  },
+  {
+   "check_number": "117386",
+   "vendor_name": "WR LAWN CARE SERVICES LLC",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$5,000.00",
+   "description": "OTHER PROPERTY SERV",
+   "source_page": 7
+  },
+  {
+   "check_number": "117387",
+   "vendor_name": "YOUNG WELDING SUPPLY INC",
+   "state_fund_amount": "$549.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$614.00",
+   "description": "STUDENT CLASSRM SUPP;OTHER INST SUPPLIES",
+   "source_page": 7
+  },
+  {
+   "check_number": "117388",
+   "vendor_name": "ALABAMA ASSOC OF SCHOOL BDS",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$299.00",
+   "description": "REGISTRATION FEES",
+   "source_page": 7
+  },
+  {
+   "check_number": "117389",
+   "vendor_name": "AMAZON CAPITAL SERVICES",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$5,650.42",
+   "local_fund_amount": "$0.00",
+   "description": "STUDENT CLASSRM SUPP",
+   "source_page": 7
+  },
+  {
+   "check_number": "117390",
+   "vendor_name": "AMERICAN PAPER & TWINE CO.",
+   "state_fund_amount": "$305.20",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "STUDENT CLASSRM SUPP",
+   "source_page": 7
+  },
+  {
+   "check_number": "117391",
+   "vendor_name": "ASHLEY GRIMES",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$140.00",
+   "description": "LOCAL DISTRICT",
+   "source_page": 7
+  },
+  {
+   "check_number": "117392",
+   "vendor_name": "AT&T",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$1.00",
+   "description": "TELEPHONE",
+   "source_page": 7
+  },
+  {
+   "check_number": "117393",
+   "vendor_name": "BELGREEN COATINGS LLC",
+   "state_fund_amount": "$573.44",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "NON-CAP INST EQUIP",
+   "source_page": 7
+  },
+  {
+   "check_number": "117394",
+   "vendor_name": "BSN SPORTS",
+   "state_fund_amount": "$679.99",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "MAINTENANCE SUPPLIES",
+   "source_page": 7
+  },
+  {
+   "check_number": "117395",
+   "vendor_name": "CAPITAL ONE",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$1,771.96",
+   "local_fund_amount": "$0.00",
+   "description": "OTH NONINST SUPPLIES;STUDENT CLASSRM SUPP",
+   "source_page": 7
+  },
+  {
+   "check_number": "117396",
+   "vendor_name": "CYNTHIA FORSYTHE",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$174.09",
+   "description": "IN-STATE",
+   "source_page": 7
+  },
+  {
+   "check_number": "117397",
+   "vendor_name": "DARA SULLIVAN",
+   "state_fund_amount": "$7,500.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "MEDICAL/HEALTH SERVI",
+   "source_page": 7
+  },
+  {
+   "check_number": "117398",
+   "vendor_name": "DONIREA BLACKBURN",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$750.00",
+   "description": "CUSTODIAL SERVICES",
+   "source_page": 7
+  },
+  {
+   "check_number": "117399",
+   "vendor_name": "FRANKLIN CO CAREER/TECH CENTER",
+   "state_fund_amount": "$860.19",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "OFFICE SUPPLIES",
+   "source_page": 7
+  },
+  {
+   "check_number": "117400",
+   "vendor_name": "FRANKLIN CO. BOARD OF ED.",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$732.69",
+   "local_fund_amount": "$0.00",
+   "description": "INDIRECT COSTS",
+   "source_page": 7
+  },
+  {
+   "check_number": "117401",
+   "vendor_name": "GORESCUE BRANDS, LLC",
+   "state_fund_amount": "$2,289.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTH NONINST SUPPLIES",
+   "source_page": 7
+  },
+  {
+   "check_number": "117402",
+   "vendor_name": "JT RAY COMPANY",
+   "state_fund_amount": "$129.66",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER PURCHASED SERV",
+   "source_page": 7
+  },
+  {
+   "check_number": "117403",
+   "vendor_name": "MID-AMERICA ROOFING",
+   "state_fund_amount": "$97,885.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "BLDGS-CONSTRUCTED;BUILDING IMPROVEMENT",
+   "source_page": 7
+  },
+  {
+   "check_number": "117404",
+   "vendor_name": "MIMI WOOD",
+   "state_fund_amount": "$577.23",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "IN-STATE;STUDENT CLASSRM SUPP",
+   "source_page": 7
+  },
+  {
+   "check_number": "117405",
+   "vendor_name": "OFFICE DEPOT",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$611.48",
+   "description": "STUDENT CLASSRM SUPP",
+   "source_page": 7
+  },
+  {
+   "check_number": "117406",
+   "vendor_name": "PAUL HUMPHRES",
+   "state_fund_amount": "$305.98",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "VEHICLE PARTS",
+   "source_page": 7
+  },
+  {
+   "check_number": "117407",
+   "vendor_name": "PERMA BOUND",
+   "state_fund_amount": "$655.66",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "LIBRARY/MEDIA BOOKS",
+   "source_page": 7
+  },
+  {
+   "check_number": "117408",
+   "vendor_name": "RED BAY HIGH SCHOOL",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$501.66",
+   "description": "OTHER PURCHASED SERV",
+   "source_page": 7
+  },
+  {
+   "check_number": "117409",
+   "vendor_name": "REED GARAGE DOOR CO",
+   "state_fund_amount": "$6,450.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "LAND & BLDG REPAIR/M",
+   "source_page": 7
+  },
+  {
+   "check_number": "117410",
+   "vendor_name": "SILVER DOLLAR SALES, INC.",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$1,423.00",
+   "description": "MAINTENANCE SUPPLIES",
+   "source_page": 7
+  },
+  {
+   "check_number": "117411",
+   "vendor_name": "SUBURBAN PROPANE-7521",
+   "state_fund_amount": "$10,453.64",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "FUEL-OTHER",
+   "source_page": 7
+  },
+  {
+   "check_number": "117412",
+   "vendor_name": "TATUM OIL INC",
+   "state_fund_amount": "$474.24",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "OIL AND LUBRICANTS",
+   "source_page": 7
+  },
+  {
+   "check_number": "117413",
+   "vendor_name": "TRANSPORTATION SOUTH",
+   "state_fund_amount": "$2,076.44",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "VEHICLE PARTS",
+   "source_page": 7
+  },
+  {
+   "check_number": "117414",
+   "vendor_name": "JOHNNY MASON",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$1,900.00",
+   "description": "BUILDING IMPROVEMENT",
+   "source_page": 7
+  },
+  {
+   "check_number": "117415",
+   "vendor_name": "Alabama School Nutrition Assoc",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$300.00",
+   "local_fund_amount": "$0.00",
+   "description": "REGISTRATION FEES",
+   "source_page": 7
+  },
+  {
+   "check_number": "117416",
+   "vendor_name": "BARNETT PLUMBING LLC",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$410.00",
+   "local_fund_amount": "$0.00",
+   "description": "LAND & BLDG REPAIR/M",
+   "source_page": 8
+  },
+  {
+   "check_number": "117417",
+   "vendor_name": "CDW GOVERNMENT, INC.",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$239.01",
+   "local_fund_amount": "$0.00",
+   "description": "OFFICE SUPPLIES",
+   "source_page": 8
+  },
+  {
+   "check_number": "117418",
+   "vendor_name": "FRANKLIN CO BD OF EDUCATION",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$34,723.92",
+   "local_fund_amount": "$0.00",
+   "description": "INDIRECT COSTS",
+   "source_page": 8
+  },
+  {
+   "check_number": "117419",
+   "vendor_name": "KAITLYN BRAGWELL DBA",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$925.00",
+   "local_fund_amount": "$0.00",
+   "description": "ADVERTISING",
+   "source_page": 8
+  },
+  {
+   "check_number": "117420",
+   "vendor_name": "LEWIS ELECTRIC",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$278.78",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER GEN SUPPLIES",
+   "source_page": 8
+  },
+  {
+   "check_number": "117421",
+   "vendor_name": "LORA GRAVITT",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$249.12",
+   "local_fund_amount": "$0.00",
+   "description": "IN-STATE;LOCAL DISTRICT",
+   "source_page": 8
+  },
+  {
+   "check_number": "117422",
+   "vendor_name": "MATTHEW STANCIL",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$70.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER PROPERTY SERV",
+   "source_page": 8
+  },
+  {
+   "check_number": "117423",
+   "vendor_name": "MID-AMERICA ROOFING",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$608.88",
+   "local_fund_amount": "$0.00",
+   "description": "LAND & BLDG REPAIR/M",
+   "source_page": 8
+  },
+  {
+   "check_number": "117424",
+   "vendor_name": "MPE SERVICES-RUSSELLVILLE",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$4,208.29",
+   "local_fund_amount": "$0.00",
+   "description": "EQUIP REPAIR & MAINT",
+   "source_page": 8
+  },
+  {
+   "check_number": "117425",
+   "vendor_name": "ROBYNN BRAGWELL",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$380.57",
+   "local_fund_amount": "$0.00",
+   "description": "IN-STATE;LOCAL DISTRICT",
+   "source_page": 8
+  },
+  {
+   "check_number": "117426",
+   "vendor_name": "SHEILA CROWN",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$127.40",
+   "local_fund_amount": "$0.00",
+   "description": "IN-STATE",
+   "source_page": 8
+  },
+  {
+   "check_number": "117427",
+   "vendor_name": "Singer H&R",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$37,814.71",
+   "local_fund_amount": "$0.00",
+   "description": "FOOD PROCESSING SUPP",
+   "source_page": 8
+  },
+  {
+   "check_number": "117428",
+   "vendor_name": "TREVIPAY-WALMART",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$384.70",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER GEN SUPPLIES;OFFICE SUPPLIES",
+   "source_page": 8
+  },
+  {
+   "check_number": "117429",
+   "vendor_name": "ULINE",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$718.42",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER GEN SUPPLIES;FREIGHT AND SHIPPING;FOOD PROCESSING SUPP",
+   "source_page": 8
+  },
+  {
+   "check_number": "117430",
+   "vendor_name": "WALMART PAYMENTS",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$272.76",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER GEN SUPPLIES;FOOD SERV SUPPLIES",
+   "source_page": 8
+  },
+  {
+   "check_number": "117431",
+   "vendor_name": "US SPACE & ROCKET CENTER",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$634.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER DUES AND FEES",
+   "source_page": 8
+  },
+  {
+   "check_number": "117432",
+   "vendor_name": "AMAZON CAPITAL SERVICES",
+   "state_fund_amount": "$2,104.40",
+   "federal_fund_amount": "$2,151.83",
+   "local_fund_amount": "$0.00",
+   "description": "STUDENT CLASSRM SUPP",
+   "source_page": 8
+  },
+  {
+   "check_number": "117433",
+   "vendor_name": "BARRY LASTER",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$161.70",
+   "description": "LOCAL DISTRICT",
+   "source_page": 8
+  },
+  {
+   "check_number": "117434",
+   "vendor_name": "BREANNA RIKARD",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$1,117.54",
+   "local_fund_amount": "$0.00",
+   "description": "IN-STATE",
+   "source_page": 8
+  },
+  {
+   "check_number": "117435",
+   "vendor_name": "CALVERYS BOONEVILLE CABINET CO",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$5,212.42",
+   "description": "BUILDING IMPROVEMENT",
+   "source_page": 8
+  },
+  {
+   "check_number": "117436",
+   "vendor_name": "CARLA KNIGHT",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$337.45",
+   "description": "IN-STATE",
+   "source_page": 8
+  },
+  {
+   "check_number": "117437",
+   "vendor_name": "CHEVRON WITH TECHRON",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$1,096.12",
+   "description": "FUEL-GASOLINE",
+   "source_page": 8
+  },
+  {
+   "check_number": "117438",
+   "vendor_name": "CLEAR WINDS TECHNOLOGIES",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$5,321.92",
+   "local_fund_amount": "$0.00",
+   "description": "NON-CAP. COMP HRDWR",
+   "source_page": 8
+  },
+  {
+   "check_number": "117439",
+   "vendor_name": "DIXIE PAVING AND SEALING",
+   "state_fund_amount": "$19,500.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "EXHAUSTIBLE LAND IMP",
+   "source_page": 8
+  },
+  {
+   "check_number": "117440",
+   "vendor_name": "DONIREA BLACKBURN",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$164.09",
+   "description": "JANITORIAL SUPPLIES",
+   "source_page": 8
+  },
+  {
+   "check_number": "117441",
+   "vendor_name": "FAMILY REHAB SERVICES INC.",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$2,071.20",
+   "description": "OTHER PURCHASED SERV",
+   "source_page": 8
+  },
+  {
+   "check_number": "117442",
+   "vendor_name": "FRANKLIN FREE PRESS",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$575.00",
+   "description": "ADVERTISING",
+   "source_page": 8
+  },
+  {
+   "check_number": "117443",
+   "vendor_name": "GARRETT DEAN",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$176.40",
+   "description": "LOCAL DISTRICT",
+   "source_page": 8
+  },
+  {
+   "check_number": "117444",
+   "vendor_name": "GLOBAL FIRE SPRINKLERS",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$640.00",
+   "description": "OTHER PROPERTY SERV",
+   "source_page": 8
+  },
+  {
+   "check_number": "117445",
+   "vendor_name": "GREENER EXPECTATIONS, INC",
+   "state_fund_amount": "$10,800.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER PROPERTY SERV",
+   "source_page": 8
+  },
+  {
+   "check_number": "117446",
+   "vendor_name": "GREG HAMILTON",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$520.10",
+   "description": "LOCAL DISTRICT",
+   "source_page": 8
+  },
+  {
+   "check_number": "117447",
+   "vendor_name": "HARDIN HEATING AND COOLING INC",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$3,475.00",
+   "description": "EQUIP REPAIR & MAINT",
+   "source_page": 8
+  },
+  {
+   "check_number": "117448",
+   "vendor_name": "HESTER PRINTING AND GRAPHICS",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$82.00",
+   "description": "OFFICE SUPPLIES",
+   "source_page": 8
+  },
+  {
+   "check_number": "117449",
+   "vendor_name": "INCARE K12, LLC",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$3,215.00",
+   "local_fund_amount": "$0.00",
+   "description": "NON-CAP INST EQUIP",
+   "source_page": 8
+  },
+  {
+   "check_number": "117450",
+   "vendor_name": "JAMES MATTHEW WILEMON",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$353.50",
+   "description": "LOCAL DISTRICT",
+   "source_page": 8
+  },
+  {
+   "check_number": "117451",
+   "vendor_name": "JAMIE JOHNSON",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$1,399.86",
+   "description": "STUDENT EDUCATIONAL",
+   "source_page": 8
+  },
+  {
+   "check_number": "117452",
+   "vendor_name": "JAMIE WELLS",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$1,470.00",
+   "description": "STUDENT EDUCATIONAL",
+   "source_page": 8
+  },
+  {
+   "check_number": "117453",
+   "vendor_name": "JOHNNY CLEVELAND",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$265.30",
+   "description": "LOCAL DISTRICT",
+   "source_page": 9
+  },
+  {
+   "check_number": "117454",
+   "vendor_name": "JONATHAN KING",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$435.55",
+   "local_fund_amount": "$0.00",
+   "description": "IN-STATE",
+   "source_page": 9
+  },
+  {
+   "check_number": "117455",
+   "vendor_name": "KESLIE GARRETT",
+   "state_fund_amount": "$305.63",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "LOCAL DISTRICT",
+   "source_page": 9
+  },
+  {
+   "check_number": "117456",
+   "vendor_name": "LUANNE VICKERY",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$112.70",
+   "description": "LOCAL DISTRICT",
+   "source_page": 9
+  },
+  {
+   "check_number": "117457",
+   "vendor_name": "MELISSA MCHENRY",
+   "state_fund_amount": "$106.40",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "LOCAL DISTRICT",
+   "source_page": 9
+  },
+  {
+   "check_number": "117458",
+   "vendor_name": "MICHELLE MARBUTT",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$331.10",
+   "description": "LOCAL DISTRICT",
+   "source_page": 9
+  },
+  {
+   "check_number": "117459",
+   "vendor_name": "MOLLY KING",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$449.02",
+   "description": "ASSOCIATION DUES;IN-STATE",
+   "source_page": 9
+  },
+  {
+   "check_number": "117460",
+   "vendor_name": "OFFICE DEPOT",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$167.37",
+   "description": "OFFICE SUPPLIES",
+   "source_page": 9
+  },
+  {
+   "check_number": "117461",
+   "vendor_name": "PAR, INC.",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$748.14",
+   "description": "TESTING SUPPLIES",
+   "source_page": 9
+  },
+  {
+   "check_number": "117462",
+   "vendor_name": "RALPH BRATCHER",
+   "state_fund_amount": "$4,760.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER PROPERTY SERV",
+   "source_page": 9
+  },
+  {
+   "check_number": "117463",
+   "vendor_name": "READY MIX USA",
+   "state_fund_amount": "$11,100.64",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER PROPERTY SERV",
+   "source_page": 9
+  },
+  {
+   "check_number": "117464",
+   "vendor_name": "S&G WALDROP ELECTRIC",
+   "state_fund_amount": "$5,681.50",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER PROPERTY SERV",
+   "source_page": 9
+  },
+  {
+   "check_number": "117465",
+   "vendor_name": "SANDRA GUINN",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$2,049.17",
+   "description": "IN-STATE;LOCAL DISTRICT",
+   "source_page": 9
+  },
+  {
+   "check_number": "117466",
+   "vendor_name": "SCHOOL NURSE SUPPLY INC.",
+   "state_fund_amount": "$1,356.79",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTH NONINST SUPPLIES",
+   "source_page": 9
+  },
+  {
+   "check_number": "117467",
+   "vendor_name": "SIGN LANGUAGE INTERPRETING",
+   "state_fund_amount": "$15,901.92",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER PROF SERVICES",
+   "source_page": 9
+  },
+  {
+   "check_number": "117468",
+   "vendor_name": "SOUTHERN PRIDE PEST CONTROL",
+   "state_fund_amount": "$40.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$85.00",
+   "description": "OTHER PROPERTY SERV;LAND & BLDG REPAIR/M",
+   "source_page": 9
+  },
+  {
+   "check_number": "117469",
+   "vendor_name": "SUBURBAN PROPANE-7521",
+   "state_fund_amount": "$3,571.75",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "FUEL-OTHER",
+   "source_page": 9
+  },
+  {
+   "check_number": "117471",
+   "vendor_name": "TALLMAN CO",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$131.42",
+   "description": "MAINTENANCE SUPPLIES",
+   "source_page": 9
+  },
+  {
+   "check_number": "117472",
+   "vendor_name": "TN VALLEY MEDIA",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$155.00",
+   "description": "ADVERTISING",
+   "source_page": 9
+  },
+  {
+   "check_number": "117473",
+   "vendor_name": "USI EDUCATION & GOVERNMENT",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$379.40",
+   "local_fund_amount": "$0.00",
+   "description": "STUDENT CLASSRM SUPP",
+   "source_page": 9
+  },
+  {
+   "check_number": "117474",
+   "vendor_name": "VENTRIS LEARNING LLC",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$1,505.00",
+   "local_fund_amount": "$0.00",
+   "description": "STUDENT CLASSRM SUPP",
+   "source_page": 9
+  },
+  {
+   "check_number": "117475",
+   "vendor_name": "WESLEY C. THIGPEN",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$105.70",
+   "description": "LOCAL DISTRICT",
+   "source_page": 9
+  },
+  {
+   "check_number": "117476",
+   "vendor_name": "WILLIAMS SCOTSMAN, INC.",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$1,735.33",
+   "description": "LEASES",
+   "source_page": 9
+  },
+  {
+   "check_number": "117477",
+   "vendor_name": "WM J REDMOND & SON, INC.",
+   "state_fund_amount": "$31,957.67",
+   "federal_fund_amount": "$3,214.99",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER EQUIPMENT;NON-CAP INST EQUIP",
+   "source_page": 9
+  },
+  {
+   "check_number": "117478",
+   "vendor_name": "ALABAMA HEALTHCARE EQUPMENT",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$228.78",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER GEN SUPPLIES",
+   "source_page": 9
+  },
+  {
+   "check_number": "117479",
+   "vendor_name": "AMERICAN PAPER & TWINE CO.",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$4,492.84",
+   "local_fund_amount": "$0.00",
+   "description": "FOOD SERV SUPPLIES;FOOD PROCESSING SUPP;PURCHASED FOOD;EQUIP REPAIR & MAINT;OTHER GEN SUPPLIES",
+   "source_page": 9
+  },
+  {
+   "check_number": "117480",
+   "vendor_name": "CLARRISA PATTERSON",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$52.39",
+   "local_fund_amount": "$0.00",
+   "description": "LOCAL DISTRICT;IN-STATE",
+   "source_page": 9
+  },
+  {
+   "check_number": "117481",
+   "vendor_name": "EKON-O-PAC, INC",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$627.00",
+   "local_fund_amount": "$0.00",
+   "description": "FOOD PROCESSING SUPP",
+   "source_page": 9
+  },
+  {
+   "check_number": "117482",
+   "vendor_name": "FLOWERS BAKING CO.-TUSCALOOSA",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$2,771.98",
+   "local_fund_amount": "$0.00",
+   "description": "PURCHASED FOOD",
+   "source_page": 9
+  },
+  {
+   "check_number": "117483",
+   "vendor_name": "GLOAT DESIGNS LLC",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$959.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER GEN SUPPLIES",
+   "source_page": 9
+  },
+  {
+   "check_number": "117484",
+   "vendor_name": "JADE KEETON",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$24,825.41",
+   "local_fund_amount": "$0.00",
+   "description": "PURCHASED FOOD",
+   "source_page": 9
+  },
+  {
+   "check_number": "117485",
+   "vendor_name": "KATHRINA WILLINGHAM",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$42.00",
+   "local_fund_amount": "$0.00",
+   "description": "LOCAL DISTRICT",
+   "source_page": 9
+  },
+  {
+   "check_number": "117486",
+   "vendor_name": "KRISTI GARGIS",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$330.54",
+   "local_fund_amount": "$0.00",
+   "description": "LOCAL DISTRICT;IN-STATE",
+   "source_page": 9
+  },
+  {
+   "check_number": "117487",
+   "vendor_name": "LISA PRIEST",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$14.52",
+   "local_fund_amount": "$0.00",
+   "description": "LOCAL DISTRICT",
+   "source_page": 9
+  },
+  {
+   "check_number": "117488",
+   "vendor_name": "LUCINDA BARNES",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$70.00",
+   "local_fund_amount": "$0.00",
+   "description": "LOCAL DISTRICT",
+   "source_page": 9
+  },
+  {
+   "check_number": "117489",
+   "vendor_name": "MARTI PAGE",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$14.00",
+   "local_fund_amount": "$0.00",
+   "description": "LOCAL DISTRICT",
+   "source_page": 9
+  },
+  {
+   "check_number": "117490",
+   "vendor_name": "MPE SERVICES-RUSSELLVILLE",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$24,758.52",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER MAINT. & OPER.;EQUIP REPAIR & MAINT",
+   "source_page": 9
+  },
+  {
+   "check_number": "117491",
+   "vendor_name": "MURFREESBORO PURE MILK CO, INC",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$3,173.60",
+   "local_fund_amount": "$0.00",
+   "description": "PURCHASED FOOD",
+   "source_page": 10
+  },
+  {
+   "check_number": "117492",
+   "vendor_name": "OSBORN FOODSERVICE",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$13,606.83",
+   "local_fund_amount": "$0.00",
+   "description": "PURCHASED FOOD",
+   "source_page": 10
+  },
+  {
+   "check_number": "117493",
+   "vendor_name": "PIGGLY WIGGLY-PHIL CAMPBELL",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$41.94",
+   "local_fund_amount": "$0.00",
+   "description": "FOOD PROCESSING SUPP",
+   "source_page": 10
+  },
+  {
+   "check_number": "117494",
+   "vendor_name": "PIGGLY WIGGLY",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$271.74",
+   "local_fund_amount": "$0.00",
+   "description": "PURCHASED FOOD;OTHER GEN SUPPLIES",
+   "source_page": 10
+  },
+  {
+   "check_number": "117495",
+   "vendor_name": "PURITY DAIRIES-MILK",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$22,171.23",
+   "local_fund_amount": "$0.00",
+   "description": "PURCHASED FOOD",
+   "source_page": 10
+  },
+  {
+   "check_number": "117496",
+   "vendor_name": "SAMS CLUB MC/SYNCB",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$699.50",
+   "local_fund_amount": "$0.00",
+   "description": "FOOD SERV SUPPLIES;OTHER GEN SUPPLIES;PURCHASED",
+   "source_page": 10
+  },
+  {
+   "check_number": "117497",
+   "vendor_name": "SHERRY JOHNSON",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$18.68",
+   "local_fund_amount": "$0.00",
+   "description": "IN-STATE",
+   "source_page": 10
+  },
+  {
+   "check_number": "117498",
+   "vendor_name": "Singer H&R",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$2,274.76",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER GEN SUPPLIES",
+   "source_page": 10
+  },
+  {
+   "check_number": "117499",
+   "vendor_name": "SOUTHERN PRIDE PEST CONTROL",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$240.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER PROPERTY SERV",
+   "source_page": 10
+  },
+  {
+   "check_number": "117500",
+   "vendor_name": "TABITHA FROST",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$252.00",
+   "local_fund_amount": "$0.00",
+   "description": "LOCAL DISTRICT",
+   "source_page": 10
+  },
+  {
+   "check_number": "117501",
+   "vendor_name": "WALMART PAYMENTS",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$202.14",
+   "local_fund_amount": "$0.00",
+   "description": "PURCHASED FOOD",
+   "source_page": 10
+  },
+  {
+   "check_number": "117502",
+   "vendor_name": "WENDY ERGLE",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$14.28",
+   "local_fund_amount": "$0.00",
+   "description": "IN-STATE",
+   "source_page": 10
+  },
+  {
+   "check_number": "117503",
+   "vendor_name": "WOOD-FRUITTICHER GROC CO., INC",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$178,090.48",
+   "local_fund_amount": "$0.00",
+   "description": "PURCHASED FOOD;FOOD PROCESSING SUPP;FOOD SERV SUPPLIES;FREIGHT AND SHIPPING",
+   "source_page": 10
+  },
+  {
+   "check_number": "117504",
+   "vendor_name": "AT&T",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$4,203.93",
+   "description": "TELEPHONE",
+   "source_page": 10
+  },
+  {
+   "check_number": "117505",
+   "vendor_name": "ALABAMA CTE LEADERSHIP COUNCIL",
+   "state_fund_amount": "$60.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "REGISTRATION FEES",
+   "source_page": 10
+  },
+  {
+   "check_number": "117506",
+   "vendor_name": "AMAZON CAPITAL SERVICES",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$1,299.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTH NONINST SUPPLIES",
+   "source_page": 10
+  },
+  {
+   "check_number": "117507",
+   "vendor_name": "ASHLEY GRIMES",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$112.00",
+   "description": "LOCAL DISTRICT",
+   "source_page": 10
+  },
+  {
+   "check_number": "117508",
+   "vendor_name": "AT&T MOBILITY",
+   "state_fund_amount": "$192.41",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$1,359.14",
+   "description": "TELEPHONE",
+   "source_page": 10
+  },
+  {
+   "check_number": "117509",
+   "vendor_name": "BRIGHTSPEED",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$565.85",
+   "description": "TELEPHONE",
+   "source_page": 10
+  },
+  {
+   "check_number": "117510",
+   "vendor_name": "CDW GOVERNMENT, INC.",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$31,618.36",
+   "local_fund_amount": "$0.00",
+   "description": "NON-CAP INST EQUIP;NON-CAP. COMP HRDWR",
+   "source_page": 10
+  },
+  {
+   "check_number": "117511",
+   "vendor_name": "CLEAR WINDS TECHNOLOGIES",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$5,226.00",
+   "local_fund_amount": "$0.00",
+   "description": "NON-CAP. COMP HRDWR",
+   "source_page": 10
+  },
+  {
+   "check_number": "117512",
+   "vendor_name": "FRANKLIN COUNTY XCHANGE",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$161.62",
+   "description": "OTHER MAINT. & OPER.",
+   "source_page": 10
+  },
+  {
+   "check_number": "117513",
+   "vendor_name": "FRANKLIN ELECTRIC COOPERATIVE",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$11,427.23",
+   "description": "ELECTRICITY",
+   "source_page": 10
+  },
+  {
+   "check_number": "117514",
+   "vendor_name": "GREENS DEPENDABLE HARDWARE",
+   "state_fund_amount": "$35.88",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$517.67",
+   "description": "MAINTENANCE SUPPLIES;OTH VEHICLE SUPPLIES",
+   "source_page": 10
+  },
+  {
+   "check_number": "117515",
+   "vendor_name": "HARDIN HEATING AND COOLING INC",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$335.00",
+   "description": "OTHER PROPERTY SERV",
+   "source_page": 10
+  },
+  {
+   "check_number": "117516",
+   "vendor_name": "KIM FRANKS",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$722.40",
+   "description": "STUDENT EDUCATIONAL",
+   "source_page": 10
+  },
+  {
+   "check_number": "117517",
+   "vendor_name": "LAMBERT EZELL DURHAM",
+   "state_fund_amount": "$6,240.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "BLDGS-CONSTRUCTED",
+   "source_page": 10
+  },
+  {
+   "check_number": "117518",
+   "vendor_name": "LEWIS ELECTRIC",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$576.33",
+   "description": "MAINTENANCE SUPPLIES",
+   "source_page": 10
+  },
+  {
+   "check_number": "117519",
+   "vendor_name": "LYNDSIE GARGIS HALL",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$377.09",
+   "description": "LOCAL DISTRICT",
+   "source_page": 10
+  },
+  {
+   "check_number": "117520",
+   "vendor_name": "MCDOWELL, BEASON & HAMILTON PC",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$200.00",
+   "description": "LEGAL FEES",
+   "source_page": 10
+  },
+  {
+   "check_number": "117521",
+   "vendor_name": "OFFICE DEPOT",
+   "state_fund_amount": "$1,027.33",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "STUDENT CLASSRM SUPP",
+   "source_page": 10
+  },
+  {
+   "check_number": "117522",
+   "vendor_name": "ONE 4 CUSTOM GRAPHICS",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$675.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER PURCHASED SERV",
+   "source_page": 10
+  },
+  {
+   "check_number": "117523",
+   "vendor_name": "PIGGLY WIGGLY",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$848.51",
+   "description": "MAINTENANCE SUPPLIES",
+   "source_page": 10
+  },
+  {
+   "check_number": "117524",
+   "vendor_name": "PRECISION GLASS MIRROR & DOOR",
+   "state_fund_amount": "$10,650.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "LAND & BLDG REPAIR/M",
+   "source_page": 10
+  },
+  {
+   "check_number": "117525",
+   "vendor_name": "RACHEL HAMMOND",
+   "state_fund_amount": "$217.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "STAFF ED SERVICES",
+   "source_page": 10
+  },
+  {
+   "check_number": "117526",
+   "vendor_name": "RALPH BRATCHER",
+   "state_fund_amount": "$5,185.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER PROPERTY SERV",
+   "source_page": 10
+  },
+  {
+   "check_number": "117527",
+   "vendor_name": "RIGHT SOLUTIONS",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$360.33",
+   "local_fund_amount": "$0.00",
+   "description": "NON-CAP NON-INST EQU",
+   "source_page": 10
+  },
+  {
+   "check_number": "117528",
+   "vendor_name": "RUSSELLVILLE DEPT OF UTILITIES",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$1,748.56",
+   "description": "ELECTRICITY;WATER AND SEWAGE;NATURAL GAS;GARBAGE AND WASTE",
+   "source_page": 11
+  },
+  {
+   "check_number": "117529",
+   "vendor_name": "THERESA GARRARD",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$287.00",
+   "description": "LOCAL DISTRICT",
+   "source_page": 11
+  },
+  {
+   "check_number": "117530",
+   "vendor_name": "VENTRIS LEARNING LLC",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$903.00",
+   "local_fund_amount": "$0.00",
+   "description": "STUDENT CLASSRM SUPP",
+   "source_page": 11
+  },
+  {
+   "check_number": "117531",
+   "vendor_name": "VINA GAS AND WATER BOARD",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$841.56",
+   "description": "WATER AND SEWAGE;NATURAL GAS",
+   "source_page": 11
+  },
+  {
+   "check_number": "117532",
+   "vendor_name": "WEST LAWRENCE WATER CO-OP",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$2,798.30",
+   "description": "WATER AND SEWAGE",
+   "source_page": 11
+  },
+  {
+   "check_number": "117533",
+   "vendor_name": "AMAZON CAPITAL SERVICES",
+   "state_fund_amount": "$1,257.13",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "STUDENT CLASSRM SUPP",
+   "source_page": 11
+  },
+  {
+   "check_number": "117534",
+   "vendor_name": "AUTOZONE",
+   "state_fund_amount": "$257.43",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "VEHICLE PARTS",
+   "source_page": 11
+  },
+  {
+   "check_number": "117535",
+   "vendor_name": "BARNETT PLUMBING LLC",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$850.00",
+   "description": "OTHER PROPERTY SERV",
+   "source_page": 11
+  },
+  {
+   "check_number": "117536",
+   "vendor_name": "FRANKLIN ELECTRIC COOPERATIVE",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$26,927.80",
+   "description": "ELECTRICITY",
+   "source_page": 11
+  },
+  {
+   "check_number": "117537",
+   "vendor_name": "KIMBALL MIDWEST",
+   "state_fund_amount": "$102.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "VEHICLE PARTS",
+   "source_page": 11
+  },
+  {
+   "check_number": "117538",
+   "vendor_name": "MCPHERSON OIL",
+   "state_fund_amount": "$390.45",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTH VEHICLE SUPPLIES",
+   "source_page": 11
+  },
+  {
+   "check_number": "117539",
+   "vendor_name": "MINGLEDORFFS",
+   "state_fund_amount": "$28.40",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "VEHICLE PARTS",
+   "source_page": 11
+  },
+  {
+   "check_number": "117540",
+   "vendor_name": "O REILLY AUTOMOTIVE INC",
+   "state_fund_amount": "$706.29",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$1,700.13",
+   "description": "VEHICLE PARTS;OTH VEHICLE SUPPLIES;MAINTENANCE SUPPLIES",
+   "source_page": 11
+  },
+  {
+   "check_number": "117541",
+   "vendor_name": "R & B MECHANICAL SERVICES LLC",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$14,369.94",
+   "description": "EQUIP REPAIR & MAINT",
+   "source_page": 11
+  },
+  {
+   "check_number": "117542",
+   "vendor_name": "RED BAY WATER AND GAS BOARD",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$3,747.89",
+   "description": "WATER AND SEWAGE;NATURAL GAS;GARBAGE AND WASTE",
+   "source_page": 11
+  },
+  {
+   "check_number": "117543",
+   "vendor_name": "ROMANS LOCK SERVICE",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$52.00",
+   "description": "MAINTENANCE SUPPLIES",
+   "source_page": 11
+  },
+  {
+   "check_number": "117544",
+   "vendor_name": "RUSSELLVILLE DEPT OF UTILITIES",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$233.93",
+   "description": "NATURAL GAS",
+   "source_page": 11
+  },
+  {
+   "check_number": "117545",
+   "vendor_name": "S & S BUILDING SUPPLY",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$141.43",
+   "description": "MAINTENANCE SUPPLIES",
+   "source_page": 11
+  },
+  {
+   "check_number": "117546",
+   "vendor_name": "SOUTHLAND INTERNATIONAL TRUCKS",
+   "state_fund_amount": "$8,331.63",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "VEHICLE PARTS",
+   "source_page": 11
+  },
+  {
+   "check_number": "117547",
+   "vendor_name": "TIFFIN SUPPLY COMPANY",
+   "state_fund_amount": "$1,496.47",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$3,370.87",
+   "description": "MAINTENANCE SUPPLIES;OTHER PROPERTY SERV",
+   "source_page": 11
+  },
+  {
+   "check_number": "117548",
+   "vendor_name": "TRANSPORTATION SOUTH",
+   "state_fund_amount": "$2,470.19",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "VEHICLE PARTS;OTH VEHICLE SUPPLIES",
+   "source_page": 11
+  },
+  {
+   "check_number": "117549",
+   "vendor_name": "TRI CITIES TRUCK PARTS",
+   "state_fund_amount": "$335.50",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTH VEHICLE SUPPLIES;VEHICLE PARTS",
+   "source_page": 11
+  },
+  {
+   "check_number": "117550",
+   "vendor_name": "UNITY SCHOOL BUS PARTS",
+   "state_fund_amount": "$651.52",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "VEHICLE PARTS",
+   "source_page": 11
+  },
+  {
+   "check_number": "117551",
+   "vendor_name": "VESTIS",
+   "state_fund_amount": "$248.72",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$271.52",
+   "description": "MAINTENANCE SUPPLIES;JANITORIAL SUPPLIES",
+   "source_page": 11
+  },
+  {
+   "check_number": "117557",
+   "vendor_name": "PURITY DAIRIES-MILK",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$1,061.66",
+   "local_fund_amount": "$0.00",
+   "description": "PURCHASED FOOD",
+   "source_page": 11
+  },
+  {
+   "check_number": "117558",
+   "vendor_name": "FRANKLIN CO BD OF EDUCATION",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$18,801.08",
+   "local_fund_amount": "$0.00",
+   "description": "INDIRECT COSTS",
+   "source_page": 11
+  },
+  {
+   "check_number": "117564",
+   "vendor_name": "AMAZON CAPITAL SERVICES",
+   "state_fund_amount": "$443.89",
+   "federal_fund_amount": "$205.72",
+   "local_fund_amount": "$0.00",
+   "description": "STUDENT CLASSRM SUPP",
+   "source_page": 11
+  },
+  {
+   "check_number": "117565",
+   "vendor_name": "ANCHOR TOURS",
+   "state_fund_amount": "$1,925.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "OUT-OF-STATE",
+   "source_page": 11
+  },
+  {
+   "check_number": "117567",
+   "vendor_name": "CDW GOVERNMENT, INC.",
+   "state_fund_amount": "$2,367.06",
+   "federal_fund_amount": "$6,347.52",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER INST SUPPLIES;NON-CAP NON-INST EQU",
+   "source_page": 11
+  },
+  {
+   "check_number": "117568",
+   "vendor_name": "CLEAR WINDS TECHNOLOGIES",
+   "state_fund_amount": "$1,007.50",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "NON-CAP NON-INST EQU",
+   "source_page": 11
+  },
+  {
+   "check_number": "117569",
+   "vendor_name": "COOK S PEST CONTROL",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$591.00",
+   "description": "OTHER PROPERTY SERV",
+   "source_page": 11
+  },
+  {
+   "check_number": "117570",
+   "vendor_name": "CSI",
+   "state_fund_amount": "$18,388.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER EQUIPMENT",
+   "source_page": 11
+  },
+  {
+   "check_number": "117571",
+   "vendor_name": "DANMARK COMMUNICATIONS",
+   "state_fund_amount": "$34,680.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$250.00",
+   "description": "OTHER NONCAP EQUIPMT;LAND & BLDG REPAIR/M",
+   "source_page": 11
+  },
+  {
+   "check_number": "117572",
+   "vendor_name": "ELONDA COX",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$32.00",
+   "description": "IN-STATE",
+   "source_page": 11
+  },
+  {
+   "check_number": "117573",
+   "vendor_name": "FRANKLIN CO CAREER/TECH CENTER",
+   "state_fund_amount": "$4,118.78",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER INST SUPPLIES",
+   "source_page": 11
+  },
+  {
+   "check_number": "117574",
+   "vendor_name": "FRANKLIN CO. BOARD OF ED.",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$191.04",
+   "local_fund_amount": "$0.00",
+   "description": "INDIRECT COSTS",
+   "source_page": 11
+  },
+  {
+   "check_number": "117575",
+   "vendor_name": "FRANKLIN ELECTRIC COOPERATIVE",
+   "state_fund_amount": "$2,500.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER PROPERTY SERV",
+   "source_page": 11
+  },
+  {
+   "check_number": "117576",
+   "vendor_name": "HENDRIX GLASS SERVICE,INC.",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$620.00",
+   "description": "MAINTENANCE SUPPLIES",
+   "source_page": 12
+  },
+  {
+   "check_number": "117577",
+   "vendor_name": "HOLCOMB TIRE SERVICE",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$230.00",
+   "description": "TIRES",
+   "source_page": 12
+  },
+  {
+   "check_number": "117578",
+   "vendor_name": "JENNIFER L. WHITFIELD",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$342.71",
+   "description": "LOCAL DISTRICT",
+   "source_page": 12
+  },
+  {
+   "check_number": "117579",
+   "vendor_name": "POWERUP EDU",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$97,550.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER INST SUPPLIES",
+   "source_page": 12
+  },
+  {
+   "check_number": "117580",
+   "vendor_name": "RED BAY HIGH SCHOOL",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$869.30",
+   "description": "FUEL-GASOLINE",
+   "source_page": 12
+  },
+  {
+   "check_number": "117581",
+   "vendor_name": "THE LEARNING TREE",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$1,638.08",
+   "description": "OTHER PURCHASED SERV",
+   "source_page": 12
+  },
+  {
+   "check_number": "117582",
+   "vendor_name": "TINA E. KING",
+   "state_fund_amount": "$702.06",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "IN-STATE",
+   "source_page": 12
+  },
+  {
+   "check_number": "117583",
+   "vendor_name": "CASSIDY KUYKENDALL",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$306.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTHER PURCHASED SERV",
+   "source_page": 12
+  },
+  {
+   "check_number": "117584",
+   "vendor_name": "SUSAN ALLEN, LLC",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$9,917.20",
+   "description": "OTHER PURCHASED SERV",
+   "source_page": 12
+  },
+  {
+   "check_number": "117591",
+   "vendor_name": "AMAZON CAPITAL SERVICES",
+   "state_fund_amount": "$1,657.31",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "STUDENT CLASSRM SUPP",
+   "source_page": 12
+  },
+  {
+   "check_number": "117592",
+   "vendor_name": "AMAZON CAPITAL SERVICES",
+   "state_fund_amount": "$1,552.34",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "NON-CAP INST EQUIP",
+   "source_page": 12
+  },
+  {
+   "check_number": "117593",
+   "vendor_name": "CAPITAL ONE",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$1,000.00",
+   "local_fund_amount": "$0.00",
+   "description": "OTH NONINST SUPPLIES",
+   "source_page": 12
+  },
+  {
+   "check_number": "117594",
+   "vendor_name": "CENGAGE LEARNING INC",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$2,400.00",
+   "local_fund_amount": "$0.00",
+   "description": "STUDENT CLASSRM SUPP",
+   "source_page": 12
+  },
+  {
+   "check_number": "117595",
+   "vendor_name": "CURRICULUM ASSOCIATES, LLC",
+   "state_fund_amount": "$214,887.50",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "INSTRUCT. SOFTWARE",
+   "source_page": 12
+  },
+  {
+   "check_number": "117596",
+   "vendor_name": "EPS OPERATIONS, LLC",
+   "state_fund_amount": "$1,814.65",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "TEXTBOOKS",
+   "source_page": 12
+  },
+  {
+   "check_number": "117597",
+   "vendor_name": "HEROES WILL RISE INC",
+   "state_fund_amount": "$25,936.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "STUDENT CLASSRM SUPP",
+   "source_page": 12
+  },
+  {
+   "check_number": "117598",
+   "vendor_name": "OFFICE DEPOT",
+   "state_fund_amount": "$806.43",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "STUDENT CLASSRM SUPP;OTHER INST SUPPLIES",
+   "source_page": 12
+  },
+  {
+   "check_number": "117599",
+   "vendor_name": "PAM OZBIRN",
+   "state_fund_amount": "$1,491.05",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "IN-STATE;LOCAL DISTRICT",
+   "source_page": 12
+  },
+  {
+   "check_number": "117600",
+   "vendor_name": "PUBLISHERS WAREHOUSE",
+   "state_fund_amount": "$56,573.45",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "INSTRUCT. SOFTWARE",
+   "source_page": 12
+  },
+  {
+   "check_number": "117601",
+   "vendor_name": "RHETA HARRISON",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$562.50",
+   "description": "STUDENT EDUCATIONAL",
+   "source_page": 12
+  },
+  {
+   "check_number": "117602",
+   "vendor_name": "SOUTHERN PRIDE PEST CONTROL",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$200.00",
+   "description": "OTHER PROPERTY SERV",
+   "source_page": 12
+  },
+  {
+   "check_number": "117603",
+   "vendor_name": "UNITI FIBER",
+   "state_fund_amount": "$19,190.67",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "EQUIP REPAIR & MAINT",
+   "source_page": 12
+  },
+  {
+   "check_number": "117604",
+   "vendor_name": "AMAZON CAPITAL SERVICES",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$397.99",
+   "description": "STUDENT CLASSRM SUPP",
+   "source_page": 12
+  },
+  {
+   "check_number": "117605",
+   "vendor_name": "EDMENTUM, INC.",
+   "state_fund_amount": "$40,127.10",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$0.00",
+   "description": "COMPUTER SOFTWARE",
+   "source_page": 12
+  },
+  {
+   "check_number": "117606",
+   "vendor_name": "EVERWAY HOLDCO, LLC",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$830.99",
+   "description": "INSTRUCT. SOFTWARE",
+   "source_page": 12
+  },
+  {
+   "check_number": "117607",
+   "vendor_name": "GREENHOUSE MEGASTORE",
+   "state_fund_amount": "$0.00",
+   "federal_fund_amount": "$0.00",
+   "local_fund_amount": "$166.56",
+   "description": "STUDENT CLASSRM SUPP",
+   "source_page": 12
+  }
+ ],
+ "state_fund_total": "$1,034,827.61",
+ "federal_fund_total": "$945,197.87",
+ "local_fund_total": "$398,334.83"
+}

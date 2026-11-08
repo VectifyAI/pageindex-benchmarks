@@ -1,0 +1,4200 @@
+{
+ "fund_name": "BlackRock Private Investments Fund",
+ "as_of": "March 31, 2026",
+ "total_investments": 469946358,
+ "net_assets": 467929479,
+ "holdings": [
+  {
+   "security_name": "Sierra Space Corp. Series A Preferred Shares",
+   "parent_company": "Sierra Space Corp.",
+   "industry": "Aerospace & Defense",
+   "acquired_date": "12/01/21",
+   "cost_usd": 1582425,
+   "shares_par_thousands": 157964,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 2142403,
+   "source_page": 1
+  },
+  {
+   "security_name": "Sierra Space Corp. Series B Preferred Shares",
+   "parent_company": "Sierra Space Corp.",
+   "industry": "Aerospace & Defense",
+   "acquired_date": "09/22/23",
+   "cost_usd": 64891,
+   "shares_par_thousands": 5768,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 78229,
+   "source_page": 1
+  },
+  {
+   "security_name": "PACP Carta Co-Invest, LP",
+   "parent_company": null,
+   "industry": "Automobile Components",
+   "acquired_date": "05/24/24",
+   "cost_usd": 42967,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "d"
+   ],
+   "value_usd": 3346470,
+   "source_page": 1
+  },
+  {
+   "security_name": "Lotus Co-Invest LP",
+   "parent_company": null,
+   "industry": "Biotechnology",
+   "acquired_date": "10/31/22",
+   "cost_usd": 2659796,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "c",
+    "d"
+   ],
+   "value_usd": 4125434,
+   "source_page": 1
+  },
+  {
+   "security_name": "Aquiline Madonna Co-Invest LP",
+   "parent_company": null,
+   "industry": "Capital Markets",
+   "acquired_date": "10/18/24",
+   "cost_usd": 5964588,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "d"
+   ],
+   "value_usd": 6745746,
+   "source_page": 1
+  },
+  {
+   "security_name": "NC Harp Co-Invest Beta, LP",
+   "parent_company": null,
+   "industry": "Capital Markets",
+   "acquired_date": "03/17/25",
+   "cost_usd": 12021383,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "d"
+   ],
+   "value_usd": 16392201,
+   "source_page": 1
+  },
+  {
+   "security_name": "PSP AGFS Co-Investment Fund III, LP",
+   "parent_company": null,
+   "industry": "Chemicals",
+   "acquired_date": "11/22/23",
+   "cost_usd": 5708731,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "c",
+    "d"
+   ],
+   "value_usd": 7165326,
+   "source_page": 1
+  },
+  {
+   "security_name": "Horizon Co-Investment, LP",
+   "parent_company": null,
+   "industry": "Commercial Services & Supplies",
+   "acquired_date": "06/10/22",
+   "cost_usd": 1786032,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "e",
+    "d"
+   ],
+   "value_usd": 2003318,
+   "source_page": 1
+  },
+  {
+   "security_name": "NP Salon Co-Investment LP I",
+   "parent_company": null,
+   "industry": "Commercial Services & Supplies",
+   "acquired_date": "04/08/21",
+   "cost_usd": 2000000,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "d"
+   ],
+   "value_usd": 1144712,
+   "source_page": 1
+  },
+  {
+   "security_name": "STAR Victor Co-investment LP",
+   "parent_company": null,
+   "industry": "Commercial Services & Supplies",
+   "acquired_date": "09/13/24",
+   "cost_usd": 5298224,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "d"
+   ],
+   "value_usd": 6234993,
+   "source_page": 1
+  },
+  {
+   "security_name": "Lindsay Goldberg-Torrey Co-Inv. LP",
+   "parent_company": null,
+   "industry": "Construction & Engineering",
+   "acquired_date": "08/28/24",
+   "cost_usd": 4775866,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "c",
+    "d"
+   ],
+   "value_usd": 5553692,
+   "source_page": 1
+  },
+  {
+   "security_name": "Campus Co-Investment, LP",
+   "parent_company": null,
+   "industry": "Consumer Finance",
+   "acquired_date": "03/12/24",
+   "cost_usd": 2611850,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "c",
+    "d"
+   ],
+   "value_usd": 3839127,
+   "source_page": 1
+  },
+  {
+   "security_name": "Sycamore Partners Wing Co-Invest LP",
+   "parent_company": null,
+   "industry": "Consumer Staples Distribution & Retail",
+   "acquired_date": "08/08/25",
+   "cost_usd": 9084023,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "c",
+    "d"
+   ],
+   "value_usd": 9324783,
+   "source_page": 1
+  },
+  {
+   "security_name": "TPG Eternal Co-Invest II, LP",
+   "parent_company": null,
+   "industry": "Diversified Consumer Services",
+   "acquired_date": "11/14/23",
+   "cost_usd": 4122016,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "e",
+    "d"
+   ],
+   "value_usd": 5783905,
+   "source_page": 1
+  },
+  {
+   "security_name": "Vistria Soliant Holdings, LP",
+   "parent_company": null,
+   "industry": "Diversified Consumer Services",
+   "acquired_date": "07/17/24",
+   "cost_usd": 4372048,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "d"
+   ],
+   "value_usd": 4124297,
+   "source_page": 1
+  },
+  {
+   "security_name": "Aleph Infinity Investors 2 LP",
+   "parent_company": null,
+   "industry": "Entertainment",
+   "acquired_date": "04/28/22",
+   "cost_usd": 4792321,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "c",
+    "d"
+   ],
+   "value_usd": 1967909,
+   "source_page": 1
+  },
+  {
+   "security_name": "IK IX Luxco 15 Sàrl Interest Free Shareholder Loan",
+   "parent_company": "IK IX Luxco 15 Sàrl",
+   "industry": "Food Products",
+   "acquired_date": "10/20/23",
+   "cost_usd": 15170,
+   "shares_par_thousands": null,
+   "par_text": "EUR 24",
+   "footnotes": [],
+   "value_usd": 22877,
+   "source_page": 1
+  },
+  {
+   "security_name": "IK IX Luxco 15 Sàrl Preference Shares",
+   "parent_company": "IK IX Luxco 15 Sàrl",
+   "industry": "Food Products",
+   "acquired_date": "10/20/23",
+   "cost_usd": 3710476,
+   "shares_par_thousands": 342950,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 5254381,
+   "source_page": 1
+  },
+  {
+   "security_name": "Atlas Co-Investment Fund 2 LP",
+   "parent_company": null,
+   "industry": "Health Care Providers & Services",
+   "acquired_date": "06/30/21",
+   "cost_usd": 946674,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "d"
+   ],
+   "value_usd": 1223247,
+   "source_page": 1
+  },
+  {
+   "security_name": "C-Bridge Investment Yaneng Ltd",
+   "parent_company": null,
+   "industry": "Health Care Providers & Services",
+   "acquired_date": "12/16/21",
+   "cost_usd": 3183687,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "d"
+   ],
+   "value_usd": 2397938,
+   "source_page": 1
+  },
+  {
+   "security_name": "Charme-Animalia Coinvestment Fund",
+   "parent_company": null,
+   "industry": "Health Care Providers & Services",
+   "acquired_date": "06/27/24",
+   "cost_usd": 4620192,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "d"
+   ],
+   "value_usd": 5308224,
+   "source_page": 1
+  },
+  {
+   "security_name": "Romulus Intermediate Holdings 1, Inc., Series A Preferred Shares",
+   "parent_company": null,
+   "industry": "Health Care Providers & Services",
+   "acquired_date": "11/15/23",
+   "cost_usd": 11760000,
+   "shares_par_thousands": 12000,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 16487164,
+   "source_page": 1
+  },
+  {
+   "security_name": "Better Life Health Inc., Common Shares",
+   "parent_company": null,
+   "industry": "Health Care Technology",
+   "acquired_date": "11/01/25",
+   "cost_usd": 2038241,
+   "shares_par_thousands": 19663,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 4384259,
+   "source_page": 1
+  },
+  {
+   "security_name": "VCF Compass Co-Investor Holdings II LP",
+   "parent_company": null,
+   "industry": "Health Care Technology",
+   "acquired_date": "03/19/25",
+   "cost_usd": 1641051,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "d"
+   ],
+   "value_usd": 2189172,
+   "source_page": 1
+  },
+  {
+   "security_name": "VCF Compass Co-Investor Holdings LP",
+   "parent_company": null,
+   "industry": "Health Care Technology",
+   "acquired_date": "04/25/24",
+   "cost_usd": 12448882,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "d"
+   ],
+   "value_usd": 16580427,
+   "source_page": 1
+  },
+  {
+   "security_name": "Auric Bloom, LP",
+   "parent_company": null,
+   "industry": "Hotels, Restaurants & Leisure",
+   "acquired_date": "03/18/26",
+   "cost_usd": 7061203,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "d"
+   ],
+   "value_usd": 7061201,
+   "source_page": 1
+  },
+  {
+   "security_name": "RB Rouge Co-Invest B LP",
+   "parent_company": null,
+   "industry": "Hotels, Restaurants & Leisure",
+   "acquired_date": "03/30/21",
+   "cost_usd": 2995956,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "d"
+   ],
+   "value_usd": 5260001,
+   "source_page": 1
+  },
+  {
+   "security_name": "SL Riviera Investors 2021 LP",
+   "parent_company": null,
+   "industry": "Household Durables",
+   "acquired_date": "04/14/21",
+   "cost_usd": 2078007,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "c",
+    "d"
+   ],
+   "value_usd": 2262514,
+   "source_page": 1
+  },
+  {
+   "security_name": "TPG Arkady Co-Invest, LP",
+   "parent_company": null,
+   "industry": "IT Services",
+   "acquired_date": "08/23/24",
+   "cost_usd": 3332518,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "c",
+    "e",
+    "d"
+   ],
+   "value_usd": 3500687,
+   "source_page": 1
+  },
+  {
+   "security_name": "Bluegem III Co-Invest A, SCSp",
+   "parent_company": null,
+   "industry": "Personal Care Products",
+   "acquired_date": "06/26/24",
+   "cost_usd": 1096935,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "d"
+   ],
+   "value_usd": 1179516,
+   "source_page": 1
+  },
+  {
+   "security_name": "PAI MMF Master Sàrl SICAV-RAIF",
+   "parent_company": null,
+   "industry": "Personal Care Products",
+   "acquired_date": "06/18/24",
+   "cost_usd": 3332377,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "d"
+   ],
+   "value_usd": 3735892,
+   "source_page": 2
+  },
+  {
+   "security_name": "CD&R Opal Co-Investor, LP",
+   "parent_company": null,
+   "industry": "Pharmaceuticals",
+   "acquired_date": "04/15/25",
+   "cost_usd": 5931331,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "d"
+   ],
+   "value_usd": 6341077,
+   "source_page": 2
+  },
+  {
+   "security_name": "Epione Co-Investment LP",
+   "parent_company": null,
+   "industry": "Pharmaceuticals",
+   "acquired_date": "10/10/24",
+   "cost_usd": 3599894,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "d"
+   ],
+   "value_usd": 3254964,
+   "source_page": 2
+  },
+  {
+   "security_name": "Groq, Inc., Series D Preferred Shares",
+   "parent_company": null,
+   "industry": "Semiconductors & Semiconductor Equipment",
+   "acquired_date": "08/01/24",
+   "cost_usd": 651331,
+   "shares_par_thousands": 40425,
+   "par_text": null,
+   "footnotes": [
+    "c"
+   ],
+   "value_usd": 2502261,
+   "source_page": 2
+  },
+  {
+   "security_name": "Aestas Management Company LLC",
+   "parent_company": null,
+   "industry": "Software",
+   "acquired_date": "10/06/25",
+   "cost_usd": 3000540,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "d"
+   ],
+   "value_usd": 4798701,
+   "source_page": 2
+  },
+  {
+   "security_name": "Angel Lux Holdco II Sàrl",
+   "parent_company": null,
+   "industry": "Software",
+   "acquired_date": "05/15/25",
+   "cost_usd": 845343,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "d"
+   ],
+   "value_usd": 981798,
+   "source_page": 2
+  },
+  {
+   "security_name": "Anthropic, PBC, Series G Preferred Shares",
+   "parent_company": null,
+   "industry": "Software",
+   "acquired_date": "02/12/26",
+   "cost_usd": 7573261,
+   "shares_par_thousands": 29225,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 8275643,
+   "source_page": 2
+  },
+  {
+   "security_name": "Attentive Mobile, Inc. Common Shares",
+   "parent_company": "Attentive Mobile, Inc.",
+   "industry": "Software",
+   "acquired_date": "04/16/21",
+   "cost_usd": 2181218,
+   "shares_par_thousands": 74536,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 2221173,
+   "source_page": 2
+  },
+  {
+   "security_name": "Attentive Mobile, Inc. Series A1 Preferred Shares",
+   "parent_company": "Attentive Mobile, Inc.",
+   "industry": "Software",
+   "acquired_date": "04/16/21",
+   "cost_usd": 595026,
+   "shares_par_thousands": 13033,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 388383,
+   "source_page": 2
+  },
+  {
+   "security_name": "Attentive Mobile, Inc. Series B Preferred Shares",
+   "parent_company": "Attentive Mobile, Inc.",
+   "industry": "Software",
+   "acquired_date": "04/16/21",
+   "cost_usd": 94643,
+   "shares_par_thousands": 2073,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 61775,
+   "source_page": 2
+  },
+  {
+   "security_name": "BCP VI Central Co-Invest LP",
+   "parent_company": null,
+   "industry": "Software",
+   "acquired_date": "07/05/23",
+   "cost_usd": 7902975,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "d"
+   ],
+   "value_usd": 10824889,
+   "source_page": 2
+  },
+  {
+   "security_name": "Databricks, Inc., Series J Preferred Shares",
+   "parent_company": null,
+   "industry": "Software",
+   "acquired_date": "01/21/25",
+   "cost_usd": 7843908,
+   "shares_par_thousands": 84799,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 13694191,
+   "source_page": 2
+  },
+  {
+   "security_name": "Ecovadis S.A.S. Ordinary Shares",
+   "parent_company": "Ecovadis S.A.S.",
+   "industry": "Software",
+   "acquired_date": "10/04/22",
+   "cost_usd": 1517650,
+   "shares_par_thousands": 6350,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 3066738,
+   "source_page": 2
+  },
+  {
+   "security_name": "Ecovadis S.A.S. Series A Preferred Shares",
+   "parent_company": "Ecovadis S.A.S.",
+   "industry": "Software",
+   "acquired_date": "10/04/22",
+   "cost_usd": 568820,
+   "shares_par_thousands": 2380,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 1149423,
+   "source_page": 2
+  },
+  {
+   "security_name": "Ecovadis S.A.S. Series B Preferred Shares",
+   "parent_company": "Ecovadis S.A.S.",
+   "industry": "Software",
+   "acquired_date": "10/04/22",
+   "cost_usd": 186420,
+   "shares_par_thousands": 780,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 376703,
+   "source_page": 2
+  },
+  {
+   "security_name": "Flexe, Inc., Series D Preferred Shares",
+   "parent_company": null,
+   "industry": "Software",
+   "acquired_date": "06/14/22",
+   "cost_usd": 1719347,
+   "shares_par_thousands": 84056,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 1457332,
+   "source_page": 2
+  },
+  {
+   "security_name": "Project CS Co-Invest Fund, LP",
+   "parent_company": null,
+   "industry": "Software",
+   "acquired_date": "02/24/23",
+   "cost_usd": 2855405,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "d"
+   ],
+   "value_usd": 3804912,
+   "source_page": 2
+  },
+  {
+   "security_name": "Stripe, Inc., Series I Preferred Shares",
+   "parent_company": null,
+   "industry": "Software",
+   "acquired_date": "03/20/23",
+   "cost_usd": 1028251,
+   "shares_par_thousands": 51070,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 3217410,
+   "source_page": 2
+  },
+  {
+   "security_name": "Synthesia Limited Series A Preferred Shares",
+   "parent_company": "Synthesia Limited",
+   "industry": "Software",
+   "acquired_date": "02/19/26",
+   "cost_usd": 8310007,
+   "shares_par_thousands": 52333,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 8289770,
+   "source_page": 2
+  },
+  {
+   "security_name": "Synthesia Limited Series B Preferred Shares",
+   "parent_company": "Synthesia Limited",
+   "industry": "Software",
+   "acquired_date": "02/19/26",
+   "cost_usd": 1714468,
+   "shares_par_thousands": 10797,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 1710290,
+   "source_page": 2
+  },
+  {
+   "security_name": "Themis Solutions Inc., Series F-1 Preferred Shares",
+   "parent_company": null,
+   "industry": "Software",
+   "acquired_date": "06/18/24",
+   "cost_usd": 3348624,
+   "shares_par_thousands": 95986,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 4354802,
+   "source_page": 2
+  },
+  {
+   "security_name": "AI Robin & Cy S.C.A., Common Shares",
+   "parent_company": null,
+   "industry": "Trading Companies & Distributors",
+   "acquired_date": "10/07/25",
+   "cost_usd": 11786571,
+   "shares_par_thousands": 4056633,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 13093365,
+   "source_page": 2
+  },
+  {
+   "security_name": "Truelink Sapphire, LP",
+   "parent_company": null,
+   "industry": "Trading Companies & Distributors",
+   "acquired_date": "02/27/26",
+   "cost_usd": 10000000,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "f",
+    "d"
+   ],
+   "value_usd": 10000000,
+   "source_page": 2
+  },
+  {
+   "security_name": "BW Phoenix Co-Invest, LP",
+   "parent_company": null,
+   "industry": "Transportation Infrastructure",
+   "acquired_date": "05/17/24",
+   "cost_usd": 2933116,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "c",
+    "d"
+   ],
+   "value_usd": 5398641,
+   "source_page": 2
+  },
+  {
+   "security_name": "Grotech Ventures IV, LP",
+   "parent_company": null,
+   "industry": "Diversified",
+   "acquired_date": "10/11/22",
+   "cost_usd": 213642,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "c",
+    "d"
+   ],
+   "value_usd": 162521,
+   "source_page": 2
+  },
+  {
+   "security_name": "Providence Equity Partners IX-A S.C.Sp",
+   "parent_company": null,
+   "industry": "Diversified",
+   "acquired_date": "01/26/24",
+   "cost_usd": 2204987,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "d"
+   ],
+   "value_usd": 2420907,
+   "source_page": 2
+  },
+  {
+   "security_name": "Amberjack Capital Feeder Fund B LP",
+   "parent_company": null,
+   "industry": "Commercial Services & Supplies",
+   "acquired_date": "12/01/21",
+   "cost_usd": 17014,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "d"
+   ],
+   "value_usd": 80187,
+   "source_page": 2
+  },
+  {
+   "security_name": "Amberjack Capital Feeder Fund Cayman LP",
+   "parent_company": null,
+   "industry": "Commercial Services & Supplies",
+   "acquired_date": "12/01/21",
+   "cost_usd": 72623,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "d"
+   ],
+   "value_usd": 50159,
+   "source_page": 2
+  },
+  {
+   "security_name": "Platinum Equity Continuation Fund LP",
+   "parent_company": null,
+   "industry": "Commercial Services & Supplies",
+   "acquired_date": "12/16/21",
+   "cost_usd": 1717529,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "c",
+    "d"
+   ],
+   "value_usd": 0,
+   "source_page": 2
+  },
+  {
+   "security_name": "GA Atlas, LP",
+   "parent_company": null,
+   "industry": "Diversified",
+   "acquired_date": "03/22/22",
+   "cost_usd": 2948686,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "d"
+   ],
+   "value_usd": 2378448,
+   "source_page": 2
+  },
+  {
+   "security_name": "Grotech Ventures III, LP",
+   "parent_company": null,
+   "industry": "Diversified",
+   "acquired_date": "09/30/22",
+   "cost_usd": 1366654,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "c",
+    "d"
+   ],
+   "value_usd": 883689,
+   "source_page": 2
+  },
+  {
+   "security_name": "Inovia Continuity Fund I, LP",
+   "parent_company": null,
+   "industry": "Diversified",
+   "acquired_date": "09/17/21",
+   "cost_usd": 2089671,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "c",
+    "d"
+   ],
+   "value_usd": 2402434,
+   "source_page": 2
+  },
+  {
+   "security_name": "Palladium Equity Partners IV CF LP",
+   "parent_company": null,
+   "industry": "Diversified",
+   "acquired_date": "12/12/23",
+   "cost_usd": 3868745,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "d"
+   ],
+   "value_usd": 5402377,
+   "source_page": 2
+  },
+  {
+   "security_name": "Pamlico Capital III Continuation Fund, LP",
+   "parent_company": null,
+   "industry": "Diversified",
+   "acquired_date": "01/27/23",
+   "cost_usd": 3074708,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "d"
+   ],
+   "value_usd": 4149909,
+   "source_page": 2
+  },
+  {
+   "security_name": "Providence Equity Partners VII LP",
+   "parent_company": null,
+   "industry": "Diversified",
+   "acquired_date": "09/28/23",
+   "cost_usd": 2540904,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "d"
+   ],
+   "value_usd": 1160971,
+   "source_page": 3
+  },
+  {
+   "security_name": "Providence Equity Partners VII-A LP",
+   "parent_company": null,
+   "industry": "Diversified",
+   "acquired_date": "09/28/23",
+   "cost_usd": 2648637,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "d"
+   ],
+   "value_usd": 1208668,
+   "source_page": 3
+  },
+  {
+   "security_name": "Roark Capital Partners CF LP",
+   "parent_company": null,
+   "industry": "Diversified",
+   "acquired_date": "08/26/22",
+   "cost_usd": 2629400,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "d"
+   ],
+   "value_usd": 4434485,
+   "source_page": 3
+  },
+  {
+   "security_name": "STG Alternative Investments SCA SICAV RAIF Sub Fund E",
+   "parent_company": null,
+   "industry": "Diversified",
+   "acquired_date": "10/01/21",
+   "cost_usd": 2636543,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "c",
+    "d"
+   ],
+   "value_usd": 4881864,
+   "source_page": 3
+  },
+  {
+   "security_name": "Behrman Capital Micross CF LP",
+   "parent_company": null,
+   "industry": "Electronic Equipment, Instruments & Components",
+   "acquired_date": "02/24/22",
+   "cost_usd": 2707702,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "c",
+    "d"
+   ],
+   "value_usd": 6228941,
+   "source_page": 3
+  },
+  {
+   "security_name": "CREO Capital Partners V-A LP",
+   "parent_company": null,
+   "industry": "Food Products",
+   "acquired_date": "09/20/21",
+   "cost_usd": 2829787,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "d"
+   ],
+   "value_usd": 2631569,
+   "source_page": 3
+  },
+  {
+   "security_name": "Kohlberg TE Investors VII CV LP",
+   "parent_company": null,
+   "industry": "Food Products",
+   "acquired_date": "07/13/21",
+   "cost_usd": 3136994,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "d"
+   ],
+   "value_usd": 3056019,
+   "source_page": 3
+  },
+  {
+   "security_name": "Pacific Avenue Emerald Continuation Fund (A) LP",
+   "parent_company": null,
+   "industry": "Health Care Providers & Services",
+   "acquired_date": "07/30/21",
+   "cost_usd": 9703,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "d"
+   ],
+   "value_usd": 112246,
+   "source_page": 3
+  },
+  {
+   "security_name": "Zenyth Partners Continuation Fund, LP",
+   "parent_company": null,
+   "industry": "Health Care Providers & Services",
+   "acquired_date": "09/29/22",
+   "cost_usd": 5081584,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "d"
+   ],
+   "value_usd": 8550346,
+   "source_page": 3
+  },
+  {
+   "security_name": "Vestar Capital Partners Rainforest, LP",
+   "parent_company": null,
+   "industry": "IT Services",
+   "acquired_date": "04/09/24",
+   "cost_usd": 6186182,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "d"
+   ],
+   "value_usd": 7599997,
+   "source_page": 3
+  },
+  {
+   "security_name": "Rubicon Continuation Fund LP",
+   "parent_company": null,
+   "industry": "Software",
+   "acquired_date": "11/12/24",
+   "cost_usd": 2769169,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "d"
+   ],
+   "value_usd": 3686203,
+   "source_page": 3
+  },
+  {
+   "security_name": "Vista Equity Partners Hubble, LP",
+   "parent_company": null,
+   "industry": "Software",
+   "acquired_date": "03/31/25",
+   "cost_usd": 13499736,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "d"
+   ],
+   "value_usd": 22020000,
+   "source_page": 3
+  },
+  {
+   "security_name": "Bain Capital Empire Holdings, LP",
+   "parent_company": null,
+   "industry": "Trading Companies & Distributors",
+   "acquired_date": "10/27/22",
+   "cost_usd": 3440577,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "c",
+    "d"
+   ],
+   "value_usd": 3548793,
+   "source_page": 3
+  },
+  {
+   "security_name": "AGL CLO Ltd., Series 2025-43A, Class A1, (3-mo. CME Term SOFR + 1.26%), 5.12%, 09/10/38",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 1500,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 1498800,
+   "source_page": 3
+  },
+  {
+   "security_name": "AIMCO CLO Ltd., Series 2024-21A, Class A1, (3-mo. CME Term SOFR + 1.50%), 5.17%, 04/18/37",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 1409,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 1409000,
+   "source_page": 3
+  },
+  {
+   "security_name": "Anchorage Capital CLO Ltd., Series 2020-15A, Class A1R2, (3-mo. CME Term SOFR + 1.41%), 5.08%, 07/20/38",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 750,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 750275,
+   "source_page": 3
+  },
+  {
+   "security_name": "Apidos CLO LI Ltd., Series 2024-51A, Class B, (3-mo. CME Term SOFR + 1.55%), 5.22%, 01/20/38",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 1000,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 999656,
+   "source_page": 3
+  },
+  {
+   "security_name": "APIDOS CLO XLVIII Ltd., Series 2024-48A, Class A1, (3-mo. CME Term SOFR + 1.44%), 5.11%, 07/25/37",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 3000,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 3002507,
+   "source_page": 3
+  },
+  {
+   "security_name": "Apidos CLO XXXVII, Series 2021-37A, Class A, (3-mo. CME Term SOFR + 1.39%), 5.06%, 10/22/34",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 1000,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 1000134,
+   "source_page": 3
+  },
+  {
+   "security_name": "Ares Loan Funding IX Ltd., Series 2025-ALF9A, Class A1, (3-mo. CME Term SOFR + 1.18%), 4.85%, 03/31/38",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 3500,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 3492887,
+   "source_page": 3
+  },
+  {
+   "security_name": "Ares LVI CLO Ltd., Series 2020-56A, Class A1R2, (3-mo. CME Term SOFR + 1.25%), 4.92%, 01/25/38",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 1000,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 999343,
+   "source_page": 3
+  },
+  {
+   "security_name": "ARES LXVII CLO Ltd., Series 2022-67A, Class A1R, (3-mo. CME Term SOFR + 1.19%), 4.86%, 01/25/38",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 1601,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 1597956,
+   "source_page": 3
+  },
+  {
+   "security_name": "Ballyrock CLO Ltd., Series 2024-22A, Class A2, (3-mo. CME Term SOFR + 1.95%), 5.62%, 04/15/37",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 1000,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 1000251,
+   "source_page": 3
+  },
+  {
+   "security_name": "BBAM U.S. CLO VI Ltd., Series 2025-6A, Class A1, (3-mo. CME Term SOFR + 1.25%), 5.06%, 01/27/39",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 2000,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 1999153,
+   "source_page": 3
+  },
+  {
+   "security_name": "Benefit Street Partners CLO XV Ltd., Series 2018-15A, Class BR, (3-mo. CME Term SOFR + 1.75%), 5.42%, 07/15/37",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 1000,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 1000262,
+   "source_page": 3
+  },
+  {
+   "security_name": "Benefit Street Partners CLO XXV Ltd., Series 2021-25A, Class A1R, (3-mo. CME Term SOFR + 1.00%), 4.67%, 01/15/35",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 3000,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 2992449,
+   "source_page": 3
+  },
+  {
+   "security_name": "Bridge Street CLO VI Ltd., Series 2025-2A, Class A1, (3-mo. CME Term SOFR + 1.28%), 5.07%, 01/15/39",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 1000,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 999710,
+   "source_page": 3
+  },
+  {
+   "security_name": "CARLYLE US CLO 2021-6 Ltd., Series 2021-6A, Class A1R, (3-mo. CME Term SOFR + 1.29%), 4.96%, 01/15/38",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 1000,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 999776,
+   "source_page": 3
+  },
+  {
+   "security_name": "Carval Clo VIII-C Ltd., Series 2022-2A, Class A1R, (3-mo. CME Term SOFR + 1.42%), 5.09%, 10/22/37",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 1000,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 1000902,
+   "source_page": 3
+  },
+  {
+   "security_name": "CarVal CLO XI C Ltd., Series 2024-3A, Class A1, (3-mo. CME Term SOFR + 1.39%), 5.06%, 10/20/37",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 1000,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 1000686,
+   "source_page": 3
+  },
+  {
+   "security_name": "CIFC Funding 2017-III Ltd., Series 2017-3A, Class AR, (3-mo. CME Term SOFR + 1.54%), 5.21%, 04/20/37",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 750,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 750333,
+   "source_page": 3
+  },
+  {
+   "security_name": "CIFC Funding Ltd., Series 2021-6A, Class A, (3-mo. CME Term SOFR + 1.40%), 5.07%, 10/15/34",
+   "parent_company": "CIFC Funding Ltd.",
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 1000,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 1000153,
+   "source_page": 4
+  },
+  {
+   "security_name": "CIFC Funding Ltd., Series 2022-1A, Class A, (3-mo. CME Term SOFR + 1.32%), 4.99%, 04/17/35",
+   "parent_company": "CIFC Funding Ltd.",
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 1500,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 1499989,
+   "source_page": 4
+  },
+  {
+   "security_name": "CIFC Funding VII Ltd., Series 2019-7A, Class A1R, (3-mo. CME Term SOFR + 1.28%), 4.95%, 10/19/38",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 1000,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 1000000,
+   "source_page": 4
+  },
+  {
+   "security_name": "Diameter Capital CLO 4 Ltd., Series 2022-4A, Class BRR, (3-mo. CME Term SOFR + 1.55%), 5.22%, 01/15/39",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 1500,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 1498973,
+   "source_page": 4
+  },
+  {
+   "security_name": "Diameter Capital CLO 5 Ltd., Series 2023-5A, Class A1R, (3-mo. CME Term SOFR + 1.24%), 4.91%, 01/15/39",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 2905,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 2903513,
+   "source_page": 4
+  },
+  {
+   "security_name": "Diameter Capital CLO Ltd., Series 2021-1A, Class A1R, (3-mo. CME Term SOFR + 1.39%), 5.06%, 10/15/37",
+   "parent_company": "Diameter Capital CLO Ltd.",
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 1000,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 1000913,
+   "source_page": 4
+  },
+  {
+   "security_name": "Diameter Capital CLO Ltd., Series 2025-10A, Class A, (3-mo. CME Term SOFR + 1.31%), 4.98%, 04/20/38",
+   "parent_company": "Diameter Capital CLO Ltd.",
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 1000,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 1000151,
+   "source_page": 4
+  },
+  {
+   "security_name": "Dryden CLO Ltd., Series 2022-108A, Class A1R, (3-mo. CME Term SOFR + 1.36%), 5.03%, 07/18/37",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 2000,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 2001000,
+   "source_page": 4
+  },
+  {
+   "security_name": "Elmwood CLO 14 Ltd., Series 2022-1A, Class A1R, (3-mo. CME Term SOFR + 1.30%), 4.97%, 10/20/38",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 2000,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 2000937,
+   "source_page": 4
+  },
+  {
+   "security_name": "Elmwood CLO 29 Ltd., Series 2024-5A, Class AR1, (3-mo. CME Term SOFR + 1.52%), 5.19%, 04/20/37",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 1000,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 1000286,
+   "source_page": 4
+  },
+  {
+   "security_name": "Elmwood CLO 30 Ltd., Series 2024-6A, Class B, (3-mo. CME Term SOFR + 1.75%), 5.42%, 07/17/37",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 1000,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 1001654,
+   "source_page": 4
+  },
+  {
+   "security_name": "Elmwood CLO 38 Ltd., Series 2025-1A, Class A, (3-mo. CME Term SOFR + 1.15%), 4.82%, 04/22/38",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 1000,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 997010,
+   "source_page": 4
+  },
+  {
+   "security_name": "Golub Capital Partners CLO Ltd., Series 2021-55A, Class C1R, (3-mo. CME Term SOFR + 1.90%), 5.57%, 10/20/38",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 1500,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 1502016,
+   "source_page": 4
+  },
+  {
+   "security_name": "Kennedy Lewis CLO Ltd., Series 7A, Class A1R, (3-mo. CME Term SOFR + 1.62%), 5.29%, 04/22/37",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 1000,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 1000331,
+   "source_page": 4
+  },
+  {
+   "security_name": "Midocean Credit CLO XV Ltd., Series 2024-15A, Class A1, (3-mo. CME Term SOFR + 1.53%), 5.20%, 07/21/37",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 1000,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 999692,
+   "source_page": 4
+  },
+  {
+   "security_name": "Neuberger Berman CLO XXI Ltd., Series 2016-21A, Class A1R3, (3-mo. CME Term SOFR + 1.32%), 4.99%, 01/20/39",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 2280,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 2280673,
+   "source_page": 4
+  },
+  {
+   "security_name": "Oak Hill Credit Partners X-R Ltd., Series 2014-10RA, Class AR2, (3-mo. CME Term SOFR + 1.13%), 4.80%, 04/20/38",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 3500,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 3488781,
+   "source_page": 4
+  },
+  {
+   "security_name": "OCP CLO 2021-22 Ltd., Series 2021-22A, Class AR, (3-mo. CME Term SOFR + 1.35%), 5.02%, 10/20/37",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 1000,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 1000156,
+   "source_page": 4
+  },
+  {
+   "security_name": "OCP CLO Ltd., Series 2021-21A, Class AR, (3-mo. CME Term SOFR + 1.18%), 4.85%, 01/20/38",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 3000,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 2994135,
+   "source_page": 4
+  },
+  {
+   "security_name": "Pikes Peak CLO Ltd., Series 2022-10A, Class A1R, (3-mo. CME Term SOFR + 1.36%), 5.03%, 01/22/38",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 1000,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 1000599,
+   "source_page": 4
+  },
+  {
+   "security_name": "Polen Capital CLO Ltd., Series 2025-2A, Class A1, (3-mo. CME Term SOFR + 1.33%), 5.04%, 01/20/39",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 1000,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 1000545,
+   "source_page": 4
+  },
+  {
+   "security_name": "Post CLO VI Ltd., Series 2024-2A, Class B, (3-mo. CME Term SOFR + 1.80%), 5.47%, 01/20/38",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 1500,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 1500857,
+   "source_page": 4
+  },
+  {
+   "security_name": "Regatta 30 Funding Ltd., Series 2024-4A, Class B, (3-mo. CME Term SOFR + 1.65%), 5.32%, 01/25/38",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 2500,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 2498150,
+   "source_page": 4
+  },
+  {
+   "security_name": "Regatta 35 Funding Ltd., Series 2025-5A, Class A1, (3-mo. CME Term SOFR + 1.29%), 4.96%, 10/15/38",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 750,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 750087,
+   "source_page": 4
+  },
+  {
+   "security_name": "Regatta XIX Funding Ltd., Series 2022-1A, Class A1R, (3-mo. CME Term SOFR + 1.24%), 4.91%, 10/20/38",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 1000,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 999703,
+   "source_page": 4
+  },
+  {
+   "security_name": "Regatta XX Funding Ltd., Series 2021-2A, Class AR, (3-mo. CME Term SOFR + 1.18%), 4.85%, 01/15/38",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 2500,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 2495024,
+   "source_page": 4
+  },
+  {
+   "security_name": "RR 33 Ltd., Series 2024-33A, Class A2, (3-mo. CME Term SOFR + 1.70%), 5.37%, 10/15/39",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 940,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 941893,
+   "source_page": 4
+  },
+  {
+   "security_name": "Silver Point CLO Ltd., Series 2024-41A, Class C, (3-mo. CME Term SOFR + 1.63%), 5.30%, 04/15/37",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 1000,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 1000386,
+   "source_page": 4
+  },
+  {
+   "security_name": "Sixth Street CLO XXII Ltd., Series 2023-22A, Class AR, (3-mo. CME Term SOFR + 1.13%), 4.80%, 04/21/38",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 3000,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 2992432,
+   "source_page": 4
+  },
+  {
+   "security_name": "Sycamore Tree CLO Ltd., Series 2023-3A, Class A1R, (3-mo. CME Term SOFR + 1.65%), 5.32%, 04/20/37",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 1000,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 1000694,
+   "source_page": 4
+  },
+  {
+   "security_name": "Symphony CLO Ltd., Series 2024-41A, Class C, (3-mo. CME Term SOFR + 1.90%), 5.57%, 07/20/37",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 1000,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 1001189,
+   "source_page": 4
+  },
+  {
+   "security_name": "Trestles CLO IX Ltd., Series 2025-9A, Class A1, (3-mo. CME Term SOFR + 1.26%), 5.13%, 01/15/39",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 1000,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 999731,
+   "source_page": 4
+  },
+  {
+   "security_name": "Trestles CLO VI Ltd., Series 2023-6A, Class A1R, (3-mo. CME Term SOFR + 1.18%), 4.85%, 04/25/38",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 2500,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 2494887,
+   "source_page": 4
+  },
+  {
+   "security_name": "Voya CLO Ltd., Series 2021-2A, Class A1R, (3-mo. CME Term SOFR + 1.17%), 4.84%, 04/20/38",
+   "parent_company": "Voya CLO Ltd.",
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 750,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 748544,
+   "source_page": 4
+  },
+  {
+   "security_name": "Voya CLO Ltd., Series 2024-1A, Class B, (3-mo. CME Term SOFR + 2.00%), 5.67%, 04/15/37",
+   "parent_company": "Voya CLO Ltd.",
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 1000,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 1001091,
+   "source_page": 4
+  },
+  {
+   "security_name": "Voya CLO Ltd., Series 2024-4A, Class A1, (3-mo. CME Term SOFR + 1.35%), 5.02%, 07/20/37",
+   "parent_company": "Voya CLO Ltd.",
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 2000,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 2000522,
+   "source_page": 4
+  },
+  {
+   "security_name": "Whitebox CLO II Ltd., Series 2020-2A, Class BR2, (3-mo. CME Term SOFR + 1.75%), 5.42%, 10/24/37",
+   "parent_company": null,
+   "industry": "Asset-Backed Securities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 2500,
+   "par_text": null,
+   "footnotes": [
+    "g",
+    "h"
+   ],
+   "value_usd": 2499487,
+   "source_page": 5
+  },
+  {
+   "security_name": "York Space Systems, Inc.",
+   "parent_company": null,
+   "industry": "Aerospace & Defense",
+   "acquired_date": "01/29/26",
+   "cost_usd": 5095913,
+   "shares_par_thousands": 416852,
+   "par_text": null,
+   "footnotes": [
+    "b",
+    "c"
+   ],
+   "value_usd": 9241609,
+   "source_page": 5
+  },
+  {
+   "security_name": "Standard Industries, Inc., 4.75%, 01/15/28",
+   "parent_company": null,
+   "industry": "Building Materials",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 324,
+   "par_text": null,
+   "footnotes": [
+    "h"
+   ],
+   "value_usd": 320268,
+   "source_page": 5
+  },
+  {
+   "security_name": "Clarivate Science Holdings Corp., 3.88%, 07/01/28",
+   "parent_company": null,
+   "industry": "Commercial Services & Supplies",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 82,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 77385,
+   "source_page": 5
+  },
+  {
+   "security_name": "Prime Security Services Borrower LLC/Prime Finance, Inc., 5.75%, 04/15/26",
+   "parent_company": null,
+   "industry": "Commercial Services & Supplies",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 10,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 10012,
+   "source_page": 5
+  },
+  {
+   "security_name": "United Rentals North America, Inc., 6.00%, 12/15/29",
+   "parent_company": null,
+   "industry": "Commercial Services & Supplies",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 132,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 134205,
+   "source_page": 5
+  },
+  {
+   "security_name": "Block, Inc., 2.75%, 06/01/26",
+   "parent_company": null,
+   "industry": "Consumer Finance",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 210,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 209043,
+   "source_page": 5
+  },
+  {
+   "security_name": "Iron Mountain, Inc., 7.00%, 02/15/29",
+   "parent_company": null,
+   "industry": "Diversified REITs",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 162,
+   "par_text": null,
+   "footnotes": [
+    "h"
+   ],
+   "value_usd": 165112,
+   "source_page": 5
+  },
+  {
+   "security_name": "SBA Communications Corp., 3.13%, 02/01/29",
+   "parent_company": null,
+   "industry": "Diversified REITs",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 225,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 213204,
+   "source_page": 5
+  },
+  {
+   "security_name": "Pattern Energy Operations LP/Pattern Energy Operations, Inc., 4.50%, 08/15/28",
+   "parent_company": null,
+   "industry": "Electric Utilities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 163,
+   "par_text": null,
+   "footnotes": [
+    "h"
+   ],
+   "value_usd": 159162,
+   "source_page": 5
+  },
+  {
+   "security_name": "Rocket Mortgage LLC/Rocket Mortgage Co-Issuer, Inc., 2.88%, 10/15/26",
+   "parent_company": null,
+   "industry": "Financial Services",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 154,
+   "par_text": null,
+   "footnotes": [
+    "h"
+   ],
+   "value_usd": 152334,
+   "source_page": 5
+  },
+  {
+   "security_name": "Lamb Weston Holdings, Inc., 4.13%, 01/31/30",
+   "parent_company": null,
+   "industry": "Food Products",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 133,
+   "par_text": null,
+   "footnotes": [
+    "h"
+   ],
+   "value_usd": 126622,
+   "source_page": 5
+  },
+  {
+   "security_name": "Avantor Funding, Inc., 4.63%, 07/15/28",
+   "parent_company": null,
+   "industry": "Health Care Equipment & Supplies",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 163,
+   "par_text": null,
+   "footnotes": [
+    "h"
+   ],
+   "value_usd": 159090,
+   "source_page": 5
+  },
+  {
+   "security_name": "IQVIA, Inc., 5.00%, 10/15/26",
+   "parent_company": null,
+   "industry": "Health Care Providers & Services",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 208,
+   "par_text": null,
+   "footnotes": [
+    "h"
+   ],
+   "value_usd": 207775,
+   "source_page": 5
+  },
+  {
+   "security_name": "RHP Hotel Properties LP/RHP Finance Corp., 4.50%, 02/15/29",
+   "parent_company": null,
+   "industry": "Hotel & Resort REITs",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 81,
+   "par_text": null,
+   "footnotes": [
+    "h"
+   ],
+   "value_usd": 78521,
+   "source_page": 5
+  },
+  {
+   "security_name": "Clearway Energy Operating LLC, 4.75%, 03/15/28",
+   "parent_company": null,
+   "industry": "Independent Power and Renewable Electricity Producers",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 347,
+   "par_text": null,
+   "footnotes": [
+    "h"
+   ],
+   "value_usd": 340860,
+   "source_page": 5
+  },
+  {
+   "security_name": "Entegris, Inc., 4.75%, 04/15/29",
+   "parent_company": null,
+   "industry": "Industrial Conglomerates",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 218,
+   "par_text": null,
+   "footnotes": [
+    "h"
+   ],
+   "value_usd": 215500,
+   "source_page": 5
+  },
+  {
+   "security_name": "Go Daddy Operating Co. LLC/GD Finance Co., Inc., 5.25%, 12/01/27",
+   "parent_company": null,
+   "industry": "Internet Software & Services",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 118,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 117519,
+   "source_page": 5
+  },
+  {
+   "security_name": "Match Group Holdings II LLC, 4.63%, 06/01/28",
+   "parent_company": null,
+   "industry": "Internet Software & Services",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 333,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 325553,
+   "source_page": 5
+  },
+  {
+   "security_name": "Regal Rexnord Corp., 6.05%, 04/15/28",
+   "parent_company": null,
+   "industry": "Machinery",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 135,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 138463,
+   "source_page": 5
+  },
+  {
+   "security_name": "CCO Holdings LLC/CCO Holdings Capital Corp., 5.00%, 02/01/28",
+   "parent_company": null,
+   "industry": "Media",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 291,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 288611,
+   "source_page": 5
+  },
+  {
+   "security_name": "Sirius XM Radio LLC, 5.00%, 08/01/27",
+   "parent_company": null,
+   "industry": "Media",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 123,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 122828,
+   "source_page": 5
+  },
+  {
+   "security_name": "Big River Steel LLC/BRS Finance Corp., 6.63%, 01/31/29",
+   "parent_company": null,
+   "industry": "Metals & Mining",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 165,
+   "par_text": null,
+   "footnotes": [
+    "h"
+   ],
+   "value_usd": 164618,
+   "source_page": 5
+  },
+  {
+   "security_name": "American Airlines, Inc./AAdvantage Loyalty IP Ltd., 5.50%, 04/20/26",
+   "parent_company": null,
+   "industry": "Passenger Airlines",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 6,
+   "par_text": null,
+   "footnotes": [
+    "h"
+   ],
+   "value_usd": 5585,
+   "source_page": 5
+  },
+  {
+   "security_name": "Seagate Data Storage Technology Pte. Ltd., 8.25%, 12/15/29",
+   "parent_company": null,
+   "industry": "Technology Hardware, Storage & Peripherals",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 150,
+   "par_text": null,
+   "footnotes": [
+    "h"
+   ],
+   "value_usd": 157528,
+   "source_page": 5
+  },
+  {
+   "security_name": "Outfront Media Capital LLC, 2025 Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 2.00%), 5.68%, 09/24/32",
+   "parent_company": null,
+   "industry": "Advertising Agencies",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 64,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 64040,
+   "source_page": 5
+  },
+  {
+   "security_name": "Dynasty Acquisition Co., Inc., 2024 1st Lien Term Loan B1, (1-mo. CME Term SOFR at 0.00% Floor + 2.00%), 5.67%, 10/31/31",
+   "parent_company": "Dynasty Acquisition Co., Inc.",
+   "industry": "Aerospace & Defense",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 97,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 96702,
+   "source_page": 5
+  },
+  {
+   "security_name": "Dynasty Acquisition Co., Inc., 2024 1st Lien Term Loan B2, (1-mo. CME Term SOFR at 0.00% Floor + 2.00%), 5.67%, 10/31/31",
+   "parent_company": "Dynasty Acquisition Co., Inc.",
+   "industry": "Aerospace & Defense",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 37,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 37448,
+   "source_page": 5
+  },
+  {
+   "security_name": "Setanta Aircraft Leasing DAC, 2024 Term Loan B, (3-mo. CME Term SOFR at 0.00% Floor + 1.75%), 5.45%, 11/05/28",
+   "parent_company": null,
+   "industry": "Aerospace & Defense",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 49,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 48810,
+   "source_page": 6
+  },
+  {
+   "security_name": "TransDigm, Inc., 2023 Term Loan J, (1-mo. CME Term SOFR at 0.00% Floor + 2.50%), 6.17%, 02/28/31",
+   "parent_company": "TransDigm, Inc.",
+   "industry": "Aerospace & Defense",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 261,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 260469,
+   "source_page": 6
+  },
+  {
+   "security_name": "TransDigm, Inc., 2024 Term Loan L, (1-mo. CME Term SOFR at 0.00% Floor + 2.50%), 6.17%, 01/19/32",
+   "parent_company": "TransDigm, Inc.",
+   "industry": "Aerospace & Defense",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 36,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 36433,
+   "source_page": 6
+  },
+  {
+   "security_name": "TransDigm, Inc., 2025 Term Loan M, (1-mo. CME Term SOFR at 0.00% Floor + 2.50%), 6.17%, 08/19/32",
+   "parent_company": "TransDigm, Inc.",
+   "industry": "Aerospace & Defense",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 24,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 23874,
+   "source_page": 6
+  },
+  {
+   "security_name": "TransDigm, Inc., 2026 Term Loan N, (1-mo. CME Term SOFR at 0.00% Floor + 2.50%), 6.17%, 02/13/33",
+   "parent_company": "TransDigm, Inc.",
+   "industry": "Aerospace & Defense",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 18,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 18003,
+   "source_page": 6
+  },
+  {
+   "security_name": "Allison Transmission, Inc., 2025 Incremental Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 1.75%), 5.42%, 01/02/33",
+   "parent_company": null,
+   "industry": "Automobile Components",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 52,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 52130,
+   "source_page": 6
+  },
+  {
+   "security_name": "Clarios Global LP, 2024 USD Term Loan B, (1-mo. CME Term SOFR + 2.50%), 6.17%, 05/06/30",
+   "parent_company": "Clarios Global LP",
+   "industry": "Automobile Components",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 96,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 95399,
+   "source_page": 6
+  },
+  {
+   "security_name": "Clarios Global LP, 2025 USD Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 2.75%), 6.42%, 01/28/32",
+   "parent_company": "Clarios Global LP",
+   "industry": "Automobile Components",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 25,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 24788,
+   "source_page": 6
+  },
+  {
+   "security_name": "Garrett LX I SARL, 2025 USD Term Loan B, (3-mo. CME Term SOFR at 0.50% Floor + 2.00%), 5.67%, 01/30/32",
+   "parent_company": null,
+   "industry": "Automobile Components",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 11,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 11022,
+   "source_page": 6
+  },
+  {
+   "security_name": "Gates Corp., 2022 Term Loan B4, (1-mo. CME Term SOFR + 1.75%), 5.42%, 11/16/29",
+   "parent_company": "Gates Corp.",
+   "industry": "Automobile Components",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 59,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 59178,
+   "source_page": 6
+  },
+  {
+   "security_name": "Gates Corp., 2024 Term Loan B5, (1-mo. CME Term SOFR + 1.75%), 5.42%, 06/04/31",
+   "parent_company": "Gates Corp.",
+   "industry": "Automobile Components",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 97,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 96350,
+   "source_page": 6
+  },
+  {
+   "security_name": "Allison Transmission, Inc., 2024 Term Loan, (1-mo. CME Term SOFR at 0.00% Floor + 1.75%), 5.42%, 03/13/31",
+   "parent_company": null,
+   "industry": "Automobiles",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 47,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 47466,
+   "source_page": 6
+  },
+  {
+   "security_name": "Primo Brands Corporation, 2026 Term Loan B, (3-mo. CME Term SOFR at 0.50% Floor + 2.75%), 6.43%, 03/31/31",
+   "parent_company": null,
+   "industry": "Beverages",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 99,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 99108,
+   "source_page": 6
+  },
+  {
+   "security_name": "Sazerac Co., Inc., Repriced Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 2.00%), 5.67%, 07/09/32",
+   "parent_company": null,
+   "industry": "Beverages",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 66,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 65743,
+   "source_page": 6
+  },
+  {
+   "security_name": "BioMarin Pharmaceutical, Inc., Term Loan B, 01/28/33",
+   "parent_company": null,
+   "industry": "Biotechnology",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 82,
+   "par_text": null,
+   "footnotes": [
+    "i"
+   ],
+   "value_usd": 81744,
+   "source_page": 6
+  },
+  {
+   "security_name": "AZZ, Inc., Term Loan B, (1-mo. CME Term SOFR + 1.75%), 5.42%, 05/13/29",
+   "parent_company": null,
+   "industry": "Building Products",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 15,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 15068,
+   "source_page": 6
+  },
+  {
+   "security_name": "EMRLD Borrower LP, 2024 Term Loan B, (3-mo. CME Term SOFR at 0.00% Floor + 2.25%), 5.95%, 08/04/31",
+   "parent_company": "EMRLD Borrower LP",
+   "industry": "Building Products",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 53,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 53060,
+   "source_page": 6
+  },
+  {
+   "security_name": "EMRLD Borrower LP, Term Loan B, (3-mo. CME Term SOFR at 0.00% Floor + 2.25%), 5.92%, 05/31/30",
+   "parent_company": "EMRLD Borrower LP",
+   "industry": "Building Products",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 108,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 107402,
+   "source_page": 6
+  },
+  {
+   "security_name": "Gibraltar Industries, Inc., 2026 Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 2.25%), 5.92%, 02/02/33",
+   "parent_company": null,
+   "industry": "Building Products",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 28,
+   "par_text": null,
+   "footnotes": [
+    "a"
+   ],
+   "value_usd": 27519,
+   "source_page": 6
+  },
+  {
+   "security_name": "Quikrete Holdings, Inc., 2024 Term Loan B2, (1-mo. CME Term SOFR + 2.25%), 5.92%, 03/19/29",
+   "parent_company": "Quikrete Holdings, Inc.",
+   "industry": "Building Products",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 82,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 81994,
+   "source_page": 6
+  },
+  {
+   "security_name": "Quikrete Holdings, Inc., 2025 Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 2.25%), 5.92%, 02/10/32",
+   "parent_company": "Quikrete Holdings, Inc.",
+   "industry": "Building Products",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 168,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 167879,
+   "source_page": 6
+  },
+  {
+   "security_name": "QXO Building Products, Inc., 2025 Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 2.00%), 5.67%, 04/30/32",
+   "parent_company": null,
+   "industry": "Building Products",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 50,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 49869,
+   "source_page": 6
+  },
+  {
+   "security_name": "Zurn LLC, 2021 Term Loan B, (1-mo. CME Term SOFR + 2.11%), 5.78%, 10/04/28",
+   "parent_company": null,
+   "industry": "Building Products",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 48,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 48493,
+   "source_page": 6
+  },
+  {
+   "security_name": "Allspring Buyer LLC, 2024 Term Loan B, (3-mo. CME Term SOFR at 0.00% Floor + 3.00%), 6.75%, 11/01/30",
+   "parent_company": null,
+   "industry": "Capital Markets",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 29,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 28782,
+   "source_page": 6
+  },
+  {
+   "security_name": "Axalta Coating Systems U.S. Holdings, Inc., 2024 Term Loan B7, (3-mo. CME Term SOFR at 0.50% Floor + 1.75%), 5.45%, 12/20/29",
+   "parent_company": null,
+   "industry": "Capital Markets",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 66,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 66049,
+   "source_page": 6
+  },
+  {
+   "security_name": "Citadel Securities LP, 2024 First Lien Term Loan, (3-mo. CME Term SOFR at 0.00% Floor + 2.00%), 5.70%, 10/31/31",
+   "parent_company": null,
+   "industry": "Capital Markets",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 69,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 69561,
+   "source_page": 6
+  },
+  {
+   "security_name": "Hudson River Trading LLC, 2026 Repriced Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 2.50%), 6.18%, 03/18/30",
+   "parent_company": null,
+   "industry": "Capital Markets",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 82,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 81375,
+   "source_page": 6
+  },
+  {
+   "security_name": "Jane Street Group LLC, 2024 Term Loan B1, (3-mo. CME Term SOFR at 0.00% Floor + 2.00%), 5.67%, 12/15/31",
+   "parent_company": null,
+   "industry": "Capital Markets",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 233,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 228515,
+   "source_page": 6
+  },
+  {
+   "security_name": "Jupiter Borrower, Inc., Term Loan B, 03/25/33",
+   "parent_company": null,
+   "industry": "Capital Markets",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 70,
+   "par_text": null,
+   "footnotes": [
+    "a",
+    "i"
+   ],
+   "value_usd": 69825,
+   "source_page": 6
+  },
+  {
+   "security_name": "Chemours Co., 2025 USD Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 3.50%), 7.17%, 10/15/32",
+   "parent_company": null,
+   "industry": "Chemicals",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 54,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 53394,
+   "source_page": 6
+  },
+  {
+   "security_name": "Ecovyst Catalyst Technologies LLC, 2024 Term Loan B, (3-mo. CME Term SOFR at 0.00% Floor + 2.00%), 5.67%, 06/12/31",
+   "parent_company": null,
+   "industry": "Chemicals",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 19,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 18570,
+   "source_page": 6
+  },
+  {
+   "security_name": "Element Solutions, Inc., 2026 Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 1.75%), 5.42%, 12/18/30",
+   "parent_company": null,
+   "industry": "Chemicals",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 86,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 86227,
+   "source_page": 7
+  },
+  {
+   "security_name": "HB Fuller Co., 2025 Term Loan B, (1-mo. CME Term SOFR at 0.50% Floor + 1.86%), 5.53%, 02/15/30",
+   "parent_company": null,
+   "industry": "Chemicals",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 35,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 35257,
+   "source_page": 7
+  },
+  {
+   "security_name": "Minerals Technologies, Inc., 2024 Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 2.00%), 5.67%, 11/26/31",
+   "parent_company": null,
+   "industry": "Chemicals",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 44,
+   "par_text": null,
+   "footnotes": [
+    "a"
+   ],
+   "value_usd": 44493,
+   "source_page": 7
+  },
+  {
+   "security_name": "Solstice Advanced Materials, Inc., Term Loan B, (3-mo. CME Term SOFR at 0.00% Floor + 1.75%), 5.42%, 10/29/32",
+   "parent_company": null,
+   "industry": "Chemicals",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 31,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 31129,
+   "source_page": 7
+  },
+  {
+   "security_name": "Aramark Services, Inc., 2025 Term Loan, (1-mo. CME Term SOFR at 0.00% Floor + 1.75%), 5.42%, 06/22/30",
+   "parent_company": null,
+   "industry": "Commercial Services & Supplies",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 161,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 161496,
+   "source_page": 7
+  },
+  {
+   "security_name": "Asplundh Tree Expert LLC, 2021 Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 1.85%), 5.52%, 09/07/27",
+   "parent_company": null,
+   "industry": "Commercial Services & Supplies",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 89,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 89108,
+   "source_page": 7
+  },
+  {
+   "security_name": "Clean Harbors, Inc., 2025 Term Loan, (1-mo. CME Term SOFR at 0.00% Floor + 1.50%), 5.17%, 10/08/32",
+   "parent_company": null,
+   "industry": "Commercial Services & Supplies",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 26,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 26091,
+   "source_page": 7
+  },
+  {
+   "security_name": "MX Holdings U.S., Inc., 2025 USD Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 2.00%), 5.67%, 03/17/32",
+   "parent_company": null,
+   "industry": "Commercial Services & Supplies",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 15,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 14888,
+   "source_page": 7
+  },
+  {
+   "security_name": "Novelis Holdings, Inc., 2025 Term Loan B, (3-mo. CME Term SOFR at 0.00% Floor + 1.75%), 5.45%, 03/11/32",
+   "parent_company": null,
+   "industry": "Commercial Services & Supplies",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 46,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 46510,
+   "source_page": 7
+  },
+  {
+   "security_name": "Prime Security Services Borrower LLC, 2024 1st Lien Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 2.00%), 5.66%, 10/13/30",
+   "parent_company": "Prime Security Services Borrower LLC",
+   "industry": "Commercial Services & Supplies",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 48,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 47387,
+   "source_page": 7
+  },
+  {
+   "security_name": "Prime Security Services Borrower LLC, 2025 Incremental Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 1.75%), 5.41%, 03/07/32",
+   "parent_company": "Prime Security Services Borrower LLC",
+   "industry": "Commercial Services & Supplies",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 35,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 34151,
+   "source_page": 7
+  },
+  {
+   "security_name": "Reworld Holding Corp., 2025 1st Lien Term Loan C, (1-mo. CME Term SOFR at 0.50% Floor + 2.25%), 5.93%, 01/15/31",
+   "parent_company": "Reworld Holding Corp.",
+   "industry": "Commercial Services & Supplies",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 7,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 6638,
+   "source_page": 7
+  },
+  {
+   "security_name": "Reworld Holding Corp., 2025 Term Loan B1, (1-mo. CME Term SOFR at 0.50% Floor + 2.25%), 5.93%, 01/15/31",
+   "parent_company": "Reworld Holding Corp.",
+   "industry": "Commercial Services & Supplies",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 41,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 40850,
+   "source_page": 7
+  },
+  {
+   "security_name": "Reworld Holding Corp., Term Loan B, (1-mo. CME Term SOFR at 0.50% Floor + 2.25%), 5.92%, 11/30/28",
+   "parent_company": "Reworld Holding Corp.",
+   "industry": "Commercial Services & Supplies",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 59,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 59107,
+   "source_page": 7
+  },
+  {
+   "security_name": "Ciena Corp., 2025 Repriced Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 1.75%), 5.43%, 10/24/30",
+   "parent_company": null,
+   "industry": "Communications Equipment",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 90,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 89764,
+   "source_page": 7
+  },
+  {
+   "security_name": "Dycom Investments, Inc., 2026 Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 1.75%), 5.42%, 01/27/33",
+   "parent_company": null,
+   "industry": "Construction & Engineering",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 25,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 25073,
+   "source_page": 7
+  },
+  {
+   "security_name": "U.S. Foods, Inc., 2024 1st Lien Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 1.75%), 5.42%, 10/03/31",
+   "parent_company": null,
+   "industry": "Consumer Staples Distribution & Retail",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 92,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 92475,
+   "source_page": 7
+  },
+  {
+   "security_name": "Colossus Acquireco LLC, Term Loan B, (3-mo. SOFR + 1.75%), 5.38%, 07/30/32",
+   "parent_company": null,
+   "industry": "Containers & Packaging",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 109,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 109038,
+   "source_page": 7
+  },
+  {
+   "security_name": "Reynolds Consumer Products LLC, 2025 Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 1.75%), 5.42%, 03/04/32",
+   "parent_company": null,
+   "industry": "Containers & Packaging",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 19,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 18735,
+   "source_page": 7
+  },
+  {
+   "security_name": "Core & Main LP, 2024 Term Loan E, (1-mo. CME Term SOFR at 0.00% Floor + 2.00%), 5.68%, 02/09/31",
+   "parent_company": null,
+   "industry": "Distributors",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 82,
+   "par_text": null,
+   "footnotes": [
+    "a"
+   ],
+   "value_usd": 82402,
+   "source_page": 7
+  },
+  {
+   "security_name": "Herc Holdings, Inc., 2026 Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 1.75%), 5.43%, 06/02/32",
+   "parent_company": null,
+   "industry": "Distributors",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 38,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 37921,
+   "source_page": 7
+  },
+  {
+   "security_name": "Bright Horizons Family Solutions LLC, 2025 Term Loan B, (1-mo. CME Term SOFR at 0.50% Floor + 1.75%), 5.42%, 08/23/32",
+   "parent_company": null,
+   "industry": "Diversified Consumer Services",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 34,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 33416,
+   "source_page": 7
+  },
+  {
+   "security_name": "RHP Hotel Properties LP, 2024 1st Lien Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 1.75%), 5.42%, 05/20/30",
+   "parent_company": null,
+   "industry": "Diversified REITs",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 58,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 57680,
+   "source_page": 7
+  },
+  {
+   "security_name": "NRG Energy, Inc., 2024 Term Loan, (3-mo. CME Term SOFR at 0.00% Floor + 1.85%), 5.52%, 04/16/31",
+   "parent_company": null,
+   "industry": "Electric Utilities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 130,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 129965,
+   "source_page": 7
+  },
+  {
+   "security_name": "Talen Energy Supply LLC, 2024-1 Incremental Term Loan, (3-mo. CME Term SOFR at 0.00% Floor + 2.50%), 6.15%, 12/15/31",
+   "parent_company": null,
+   "industry": "Electric Utilities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 72,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 72147,
+   "source_page": 7
+  },
+  {
+   "security_name": "Vistra Operations Co. LLC, 1st Lien Term Loan B3, (1-mo. CME Term SOFR + 1.75%), 5.42%, 12/20/30",
+   "parent_company": null,
+   "industry": "Electric Utilities",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 29,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 29574,
+   "source_page": 7
+  },
+  {
+   "security_name": "Celestica, Inc., 2024 Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 1.75%), 5.43%, 06/20/31",
+   "parent_company": null,
+   "industry": "Electronic Equipment, Instruments & Components",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 35,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 35326,
+   "source_page": 7
+  },
+  {
+   "security_name": "Sanmina Corp., Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 2.00%), 5.67%, 10/27/32",
+   "parent_company": null,
+   "industry": "Electronic Equipment, Instruments & Components",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 47,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 46941,
+   "source_page": 7
+  },
+  {
+   "security_name": "Deep Blue Operating I LLC, Term Loan, (1-mo. CME Term SOFR at 0.00% Floor + 2.75%), 6.42%, 10/01/32",
+   "parent_company": null,
+   "industry": "Energy Equipment & Services",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 40,
+   "par_text": null,
+   "footnotes": [
+    "a"
+   ],
+   "value_usd": 40100,
+   "source_page": 8
+  },
+  {
+   "security_name": "Cinemark USA, Inc., 2025 Term Loan B, (1-mo. CME Term SOFR at 0.50% Floor + 2.25%), 5.93%, 05/24/30",
+   "parent_company": null,
+   "industry": "Entertainment",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 15,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 14916,
+   "source_page": 8
+  },
+  {
+   "security_name": "Delta 2 Lux SARL, 2024 Term Loan B1, (3-mo. CME Term SOFR at 0.50% Floor + 1.75%), 5.45%, 09/30/31",
+   "parent_company": null,
+   "industry": "Entertainment",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 99,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 98562,
+   "source_page": 8
+  },
+  {
+   "security_name": "DK Crown Holdings, Inc., 2025 Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 1.75%), 5.42%, 03/04/32",
+   "parent_company": null,
+   "industry": "Entertainment",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 44,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 44467,
+   "source_page": 8
+  },
+  {
+   "security_name": "Electronic Arts, Inc., USD Term Loan B, 03/24/33",
+   "parent_company": null,
+   "industry": "Entertainment",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 240,
+   "par_text": null,
+   "footnotes": [
+    "i"
+   ],
+   "value_usd": 238500,
+   "source_page": 8
+  },
+  {
+   "security_name": "GVC Holdings Gibraltar Ltd., 2025 Term Loan B5 (2032), (3-mo. CME Term SOFR at 0.00% Floor + 2.25%), 5.95%, 07/31/32",
+   "parent_company": null,
+   "industry": "Entertainment",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 27,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 26814,
+   "source_page": 8
+  },
+  {
+   "security_name": "Live Nation Entertainment, Inc., 2025 Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 2.00%), 5.67%, 10/21/32",
+   "parent_company": null,
+   "industry": "Entertainment",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 59,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 58779,
+   "source_page": 8
+  },
+  {
+   "security_name": "TKO Worldwide Holdings LLC, 2025 Term Loan, (3-mo. CME Term SOFR at 0.00% Floor + 2.00%), 5.66%, 11/21/31",
+   "parent_company": null,
+   "industry": "Entertainment",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 146,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 146295,
+   "source_page": 8
+  },
+  {
+   "security_name": "Reworld Holding Corp., 2025 1st Lien Term Loan B, (1-mo. CME Term SOFR at 0.50% Floor + 2.25%), 5.93%, 01/15/31",
+   "parent_company": null,
+   "industry": "Environmental, Maintenance & Security Service",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 23,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 22871,
+   "source_page": 8
+  },
+  {
+   "security_name": "Aggreko Holdings, Inc., 2025 USD Term Loan, (3-mo. CME Term SOFR at 0.50% Floor + 3.00%), 6.66%, 05/21/31",
+   "parent_company": null,
+   "industry": "Financial Services",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 31,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 30413,
+   "source_page": 8
+  },
+  {
+   "security_name": "APi Group DE, Inc., 2025 Term Loan, (1-mo. CME Term SOFR at 0.00% Floor + 1.75%), 5.42%, 01/03/29",
+   "parent_company": null,
+   "industry": "Financial Services",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 106,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 106299,
+   "source_page": 8
+  },
+  {
+   "security_name": "Citco Funding LLC, 2026 Term Loan B, (3-mo. CME Term SOFR at 0.50% Floor + 2.00%), 5.67%, 01/30/33",
+   "parent_company": null,
+   "industry": "Financial Services",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 14,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 13899,
+   "source_page": 8
+  },
+  {
+   "security_name": "CPI Holdco B LLC, 2025 Add-on Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 2.00%), 5.67%, 05/19/31",
+   "parent_company": null,
+   "industry": "Financial Services",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 169,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 167853,
+   "source_page": 8
+  },
+  {
+   "security_name": "WEX, Inc. 2024 Term Loan B2, (1-mo. CME Term SOFR at 0.00% Floor + 1.75%), 5.42%, 03/31/28",
+   "parent_company": "WEX, Inc.",
+   "industry": "Financial Services",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 59,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 58792,
+   "source_page": 8
+  },
+  {
+   "security_name": "WEX, Inc. 2025 Incremental Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 1.75%), 5.42%, 03/05/32",
+   "parent_company": "WEX, Inc.",
+   "industry": "Financial Services",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 25,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 24502,
+   "source_page": 8
+  },
+  {
+   "security_name": "Froneri U.S., Inc. 2024 USD Term Loan B4, (6-mo. CME Term SOFR at 0.00% Floor + 2.25%), 5.88%, 09/30/31",
+   "parent_company": "Froneri U.S., Inc.",
+   "industry": "Food Products",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 162,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 158114,
+   "source_page": 8
+  },
+  {
+   "security_name": "Froneri U.S., Inc. 2025 USD Term Loan B6, (6-mo. CME Term SOFR at 0.00% Floor + 2.25%), 5.88%, 09/30/32",
+   "parent_company": "Froneri U.S., Inc.",
+   "industry": "Food Products",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 29,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 28412,
+   "source_page": 8
+  },
+  {
+   "security_name": "Avis Budget Car Rental LLC, 2025 Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 2.50%), 6.17%, 07/16/32",
+   "parent_company": null,
+   "industry": "Ground Transportation",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 46,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 44903,
+   "source_page": 8
+  },
+  {
+   "security_name": "Genesee & Wyoming, Inc., 2024 Term Loan, (3-mo. CME Term SOFR at 0.00% Floor + 1.75%), 5.45%, 04/10/31",
+   "parent_company": null,
+   "industry": "Ground Transportation",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 164,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 163587,
+   "source_page": 8
+  },
+  {
+   "security_name": "Insulet Corp., 2025 Term Loan, (1-mo. CME Term SOFR at 0.00% Floor + 2.00%), 5.67%, 08/01/31",
+   "parent_company": null,
+   "industry": "Health Care Equipment & Supplies",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 26,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 26749,
+   "source_page": 8
+  },
+  {
+   "security_name": "Waystar Technologies, Inc., 2025 Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 2.00%), 5.67%, 10/22/29",
+   "parent_company": null,
+   "industry": "Health Care Equipment & Supplies",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 59,
+   "par_text": null,
+   "footnotes": [
+    "a"
+   ],
+   "value_usd": 58474,
+   "source_page": 8
+  },
+  {
+   "security_name": "AHP Health Partners, Inc., 2025 Term Loan B, (1-mo. CME Term SOFR at 0.50% Floor + 2.25%), 5.92%, 09/20/32",
+   "parent_company": null,
+   "industry": "Health Care Providers & Services",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 31,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 30592,
+   "source_page": 8
+  },
+  {
+   "security_name": "Concentra Health Services, Inc., 2025 Repriced Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 2.00%), 5.67%, 07/26/31",
+   "parent_company": null,
+   "industry": "Health Care Providers & Services",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 53,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 53460,
+   "source_page": 8
+  },
+  {
+   "security_name": "ICON Luxembourg SARL, 2024 LUX Term Loan B, (3-mo. CME Term SOFR at 0.50% Floor + 2.00%), 5.70%, 07/03/28",
+   "parent_company": null,
+   "industry": "Health Care Providers & Services",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 35,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 35003,
+   "source_page": 8
+  },
+  {
+   "security_name": "Medline Borrower LP 2025 Incremental Term Loan B, (1-mo. CME Term SOFR at 0.50% Floor + 1.75%), 5.42%, 10/23/30",
+   "parent_company": "Medline Borrower LP",
+   "industry": "Health Care Providers & Services",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 77,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 77472,
+   "source_page": 8
+  },
+  {
+   "security_name": "Medline Borrower LP 2025 Term Loan B, (1-mo. CME Term SOFR at 0.50% Floor + 1.75%), 5.42%, 10/23/28",
+   "parent_company": "Medline Borrower LP",
+   "industry": "Health Care Providers & Services",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 46,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 46332,
+   "source_page": 8
+  },
+  {
+   "security_name": "Option Care Health, Inc., 2025 Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 1.75%), 5.42%, 09/22/32",
+   "parent_company": null,
+   "industry": "Health Care Providers & Services",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 86,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 85811,
+   "source_page": 8
+  },
+  {
+   "security_name": "Vizient, Inc., 2024 Term Loan B, (1-mo. CME Term SOFR at 0.50% Floor + 1.75%), 5.42%, 08/01/31",
+   "parent_company": null,
+   "industry": "Health Care Providers & Services",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 35,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 35149,
+   "source_page": 8
+  },
+  {
+   "security_name": "Burger King (Restaurant Brands International, Inc.)/New Red Finance, Inc., 2024 Term Loan B6, (1-mo. CME Term SOFR at 0.00% Floor + 1.75%), 5.42%, 09/20/30",
+   "parent_company": null,
+   "industry": "Hotels, Restaurants & Leisure",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 141,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 140902,
+   "source_page": 9
+  },
+  {
+   "security_name": "Caesars Entertainment, Inc., 2024 Term Loan B1, (1-mo. CME Term SOFR + 2.25%), 5.92%, 02/06/31",
+   "parent_company": "Caesars Entertainment, Inc.",
+   "industry": "Hotels, Restaurants & Leisure",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 67,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 64557,
+   "source_page": 9
+  },
+  {
+   "security_name": "Caesars Entertainment, Inc., Term Loan B, (1-mo. CME Term SOFR + 2.25%), 5.92%, 02/06/30",
+   "parent_company": "Caesars Entertainment, Inc.",
+   "industry": "Hotels, Restaurants & Leisure",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 122,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 118252,
+   "source_page": 9
+  },
+  {
+   "security_name": "Flutter Financing BV, 2024 Term Loan B, (3-mo. CME Term SOFR at 0.50% Floor + 1.75%), 5.45%, 11/30/30",
+   "parent_company": "Flutter Financing BV",
+   "industry": "Hotels, Restaurants & Leisure",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 66,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 65778,
+   "source_page": 9
+  },
+  {
+   "security_name": "Flutter Financing BV, 2025 Term Loan B, (3-mo. CME Term SOFR at 0.50% Floor + 2.00%), 5.70%, 06/04/32",
+   "parent_company": "Flutter Financing BV",
+   "industry": "Hotels, Restaurants & Leisure",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 48,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 47045,
+   "source_page": 9
+  },
+  {
+   "security_name": "Four Seasons Hotels Ltd., 2025 Term Loan B, (1-mo. CME Term SOFR at 0.50% Floor + 1.75%), 5.42%, 09/22/32",
+   "parent_company": null,
+   "industry": "Hotels, Restaurants & Leisure",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 78,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 78093,
+   "source_page": 9
+  },
+  {
+   "security_name": "Hilton Domestic Operating Co., Inc., 2023 Term Loan B4, (1-mo. CME Term SOFR + 1.75%), 5.43%, 11/08/30",
+   "parent_company": null,
+   "industry": "Hotels, Restaurants & Leisure",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 201,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 201251,
+   "source_page": 9
+  },
+  {
+   "security_name": "Life Time, Inc., 2025 Term Loan, (1-mo. CME Term SOFR at 0.00% Floor + 2.00%), 5.67%, 11/05/31",
+   "parent_company": null,
+   "industry": "Hotels, Restaurants & Leisure",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 18,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 17829,
+   "source_page": 9
+  },
+  {
+   "security_name": "Light & Wonder International, Inc., 2026 Term Loan B, (1-mo. CME Term SOFR at 0.50% Floor + 2.00%), 5.67%, 04/16/29",
+   "parent_company": null,
+   "industry": "Hotels, Restaurants & Leisure",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 106,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 105567,
+   "source_page": 9
+  },
+  {
+   "security_name": "Penn Entertainment, Inc., 2022 Term Loan B, (1-mo. CME Term SOFR at 0.50% Floor + 2.50%), 6.17%, 05/03/29",
+   "parent_company": null,
+   "industry": "Hotels, Restaurants & Leisure",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 44,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 44031,
+   "source_page": 9
+  },
+  {
+   "security_name": "Raising Cane’s Restaurants LLC, 2025 Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 2.00%), 5.67%, 11/03/32",
+   "parent_company": null,
+   "industry": "Hotels, Restaurants & Leisure",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 45,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 44579,
+   "source_page": 9
+  },
+  {
+   "security_name": "SeaWorld Parks & Entertainment, Inc., 2024 Term Loan B3, (1-mo. CME Term SOFR at 0.50% Floor + 2.00%), 5.67%, 12/04/31",
+   "parent_company": null,
+   "industry": "Hotels, Restaurants & Leisure",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 72,
+   "par_text": null,
+   "footnotes": [
+    "a"
+   ],
+   "value_usd": 70969,
+   "source_page": 9
+  },
+  {
+   "security_name": "Six Flags Entertainment Corp., 2024 Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 2.00%), 5.67%, 05/01/31",
+   "parent_company": null,
+   "industry": "Hotels, Restaurants & Leisure",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 21,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 21264,
+   "source_page": 9
+  },
+  {
+   "security_name": "Station Casinos LLC, 2024 Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 2.00%), 5.67%, 03/14/31",
+   "parent_company": null,
+   "industry": "Hotels, Restaurants & Leisure",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 112,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 111595,
+   "source_page": 9
+  },
+  {
+   "security_name": "Wyndham Hotels & Resorts, Inc., 2024 Term Loan, (1-mo. CME Term SOFR at 0.00% Floor + 1.75%), 5.42%, 05/24/30",
+   "parent_company": null,
+   "industry": "Hotels, Restaurants & Leisure",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 179,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 180038,
+   "source_page": 9
+  },
+  {
+   "security_name": "Somnigroup International, Inc., Term Loan B, (1-mo. SOFR + 2.25%), 5.88%, 10/24/31",
+   "parent_company": null,
+   "industry": "Household Durables",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 5,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 4946,
+   "source_page": 9
+  },
+  {
+   "security_name": "Energizer Holdings, Inc., 2025 Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 2.00%), 5.67%, 03/19/32",
+   "parent_company": null,
+   "industry": "Household Products",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 11,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 10614,
+   "source_page": 9
+  },
+  {
+   "security_name": "Calpine Construction Finance Co. LP, 2025 Repriced Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 1.75%), 5.42%, 07/31/30",
+   "parent_company": null,
+   "industry": "Independent Power and Renewable Electricity Producers",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 141,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 140567,
+   "source_page": 9
+  },
+  {
+   "security_name": "Talen Energy Supply LLC, 2025 Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 2.00%), 5.67%, 11/25/32",
+   "parent_company": null,
+   "industry": "Independent Power and Renewable Electricity Producers",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 28,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 27925,
+   "source_page": 9
+  },
+  {
+   "security_name": "Beach Acquisition Bidco LLC, USD Term Loan B, (3-mo. CME Term SOFR at 0.00% Floor + 3.25%), 6.95%, 09/12/32",
+   "parent_company": null,
+   "industry": "Industrial Conglomerates",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 31,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 30961,
+   "source_page": 9
+  },
+  {
+   "security_name": "Resideo Funding, Inc., 2025 Incremental Term Loan, (3-mo. CME Term SOFR at 0.00% Floor + 2.00%), 5.67%, 08/13/32",
+   "parent_company": null,
+   "industry": "Industrial Conglomerates",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 50,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 49564,
+   "source_page": 9
+  },
+  {
+   "security_name": "Asurion LLC, 2025 Term Loan B13, (1-mo. CME Term SOFR at 0.00% Floor + 4.25%), 7.92%, 09/19/30",
+   "parent_company": null,
+   "industry": "Insurance",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 55,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 54412,
+   "source_page": 9
+  },
+  {
+   "security_name": "Ryan Specialty LLC, 2024 USD Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 2.00%), 5.67%, 09/15/31",
+   "parent_company": null,
+   "industry": "Insurance",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 99,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 98503,
+   "source_page": 9
+  },
+  {
+   "security_name": "Gen Digital, Inc., 2025 Term Loan B, (1-mo. CME Term SOFR at 0.50% Floor + 1.75%), 5.42%, 04/16/32",
+   "parent_company": null,
+   "industry": "Internet Software & Services",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 21,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 20491,
+   "source_page": 9
+  },
+  {
+   "security_name": "ASGN, Inc., 2024 Term Loan B, (1-mo. CME Term SOFR + 1.75%), 5.42%, 08/30/30",
+   "parent_company": null,
+   "industry": "IT Services",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 12,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 11680,
+   "source_page": 9
+  },
+  {
+   "security_name": "Asurion LLC, 2023 Term Loan B11, (1-mo. CME Term SOFR at 0.00% Floor + 4.35%), 8.02%, 08/19/28",
+   "parent_company": "Asurion LLC",
+   "industry": "IT Services",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 14,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 13490,
+   "source_page": 9
+  },
+  {
+   "security_name": "Asurion LLC, 2024 Term Loan B12, (1-mo. CME Term SOFR at 0.00% Floor + 4.25%), 7.92%, 09/19/30",
+   "parent_company": "Asurion LLC",
+   "industry": "IT Services",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 69,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 68504,
+   "source_page": 9
+  },
+  {
+   "security_name": "Go Daddy Operating Co. LLC, 2024 Term Loan B7, (1-mo. CME Term SOFR + 1.75%), 5.42%, 05/30/31",
+   "parent_company": "Go Daddy Operating Co. LLC",
+   "industry": "IT Services",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 28,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 27938,
+   "source_page": 9
+  },
+  {
+   "security_name": "Go Daddy Operating Co. LLC, 2024 Term Loan B8, (1-mo. CME Term SOFR at 0.00% Floor + 1.75%), 5.42%, 11/09/29",
+   "parent_company": "Go Daddy Operating Co. LLC",
+   "industry": "IT Services",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 138,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 136101,
+   "source_page": 9
+  },
+  {
+   "security_name": "Iron Mountain, Inc., 2023 Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 2.00%), 5.67%, 01/31/31",
+   "parent_company": null,
+   "industry": "IT Services",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 35,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 34611,
+   "source_page": 9
+  },
+  {
+   "security_name": "Shift4 Payments, LLC, 2025 Repriced Term Loan B, (3-mo. CME Term SOFR at 0.00% Floor + 2.00%), 5.65%, 07/03/32",
+   "parent_company": null,
+   "industry": "IT Services",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 56,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 55686,
+   "source_page": 10
+  },
+  {
+   "security_name": "Bombardier Recreational Products, Inc., 2024 Term Loan B4, (1-mo. CME Term SOFR at 0.00% Floor + 2.25%), 5.92%, 01/22/31",
+   "parent_company": null,
+   "industry": "Leisure Products",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 52,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 51732,
+   "source_page": 10
+  },
+  {
+   "security_name": "Chart Industries, Inc., 2024 Term Loan B, (3-mo. CME Term SOFR + 2.50%), 6.16%, 03/15/30",
+   "parent_company": null,
+   "industry": "Machinery",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 48,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 48530,
+   "source_page": 10
+  },
+  {
+   "security_name": "Generac Power Systems, Inc., 2024 Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 1.75%), 5.42%, 07/03/31",
+   "parent_company": null,
+   "industry": "Machinery",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 33,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 32927,
+   "source_page": 10
+  },
+  {
+   "security_name": "Charter Communications Operating LLC, 2023 Term Loan B4, (3-mo. CME Term SOFR at 0.00% Floor + 2.00%), 5.66%, 12/07/30",
+   "parent_company": "Charter Communications Operating LLC",
+   "industry": "Media",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 35,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 35009,
+   "source_page": 10
+  },
+  {
+   "security_name": "Charter Communications Operating LLC, 2024 Term Loan B5, (3-mo. CME Term SOFR at 0.00% Floor + 2.25%), 5.91%, 12/15/31",
+   "parent_company": "Charter Communications Operating LLC",
+   "industry": "Media",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 25,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 24674,
+   "source_page": 10
+  },
+  {
+   "security_name": "Nexstar Broadcasting, Inc., 2026 Term Loan B7, (1-mo. CME Term SOFR at 0.00% Floor + 2.75%), 6.40%, 03/18/33",
+   "parent_company": null,
+   "industry": "Media",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 77,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 76070,
+   "source_page": 10
+  },
+  {
+   "security_name": "Telenet Financing USD LLC, 2020 USD Term Loan AR, (1-mo. CME Term SOFR at 0.00% Floor + 2.11%), 5.79%, 04/28/28",
+   "parent_company": null,
+   "industry": "Media",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 60,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 59187,
+   "source_page": 10
+  },
+  {
+   "security_name": "Blackfin Pipeline LLC, Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 3.00%), 6.67%, 09/29/32",
+   "parent_company": null,
+   "industry": "Oil, Gas & Consumable Fuels",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 40,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 40062,
+   "source_page": 10
+  },
+  {
+   "security_name": "Buckeye Partners LP, 2025 Term Loan B7, (1-mo. CME Term SOFR at 0.00% Floor + 1.75%), 5.42%, 11/22/32",
+   "parent_company": null,
+   "industry": "Oil, Gas & Consumable Fuels",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 12,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 11953,
+   "source_page": 10
+  },
+  {
+   "security_name": "GIP Pilot Acquisition Partners LP, 2025 Term Loan B, (3-mo. CME Term SOFR at 0.00% Floor + 2.00%), 5.65%, 10/04/30",
+   "parent_company": null,
+   "industry": "Oil, Gas & Consumable Fuels",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 28,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 27993,
+   "source_page": 10
+  },
+  {
+   "security_name": "Hilcorp Energy I LP, Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 1.75%), 5.43%, 02/11/30",
+   "parent_company": null,
+   "industry": "Oil, Gas & Consumable Fuels",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 23,
+   "par_text": null,
+   "footnotes": [
+    "a"
+   ],
+   "value_usd": 22742,
+   "source_page": 10
+  },
+  {
+   "security_name": "Meade Pipeline Co. LLC, Term Loan B, (3-mo. CME Term SOFR at 0.00% Floor + 2.00%), 5.69%, 09/22/32",
+   "parent_company": null,
+   "industry": "Oil, Gas & Consumable Fuels",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 25,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 24958,
+   "source_page": 10
+  },
+  {
+   "security_name": "Murphy USA, Inc., Term Loan B, (1-mo. CME Term SOFR at 0.50% Floor + 1.75%), 5.42%, 04/07/32",
+   "parent_company": null,
+   "industry": "Oil, Gas & Consumable Fuels",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 43,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 43228,
+   "source_page": 10
+  },
+  {
+   "security_name": "Oryx Midstream Services Permian Basin LLC, 2025 Term Loan B, (1-mo. CME Term SOFR at 0.50% Floor + 2.25%), 5.93%, 10/05/28",
+   "parent_company": null,
+   "industry": "Oil, Gas & Consumable Fuels",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 84,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 83724,
+   "source_page": 10
+  },
+  {
+   "security_name": "WhiteWater DBR HoldCo LLC, 1st Lien Term Loan B, (3-mo. CME Term SOFR at 0.00% Floor + 2.25%), 5.95%, 03/03/31",
+   "parent_company": null,
+   "industry": "Oil, Gas & Consumable Fuels",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 26,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 26623,
+   "source_page": 10
+  },
+  {
+   "security_name": "Whitewater Matterhorn Holdings LLC, 2026 Term Loan B, (3-mo. CME Term SOFR at 0.00% Floor + 1.75%), 5.45%, 06/16/32",
+   "parent_company": null,
+   "industry": "Oil, Gas & Consumable Fuels",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 36,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 35735,
+   "source_page": 10
+  },
+  {
+   "security_name": "Whitewater Whistler Holdings LLC, 2024 Refinancing Term Loan, (3-mo. CME Term SOFR at 0.00% Floor + 1.75%), 5.45%, 02/15/30",
+   "parent_company": null,
+   "industry": "Oil, Gas & Consumable Fuels",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 46,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 46472,
+   "source_page": 10
+  },
+  {
+   "security_name": "Air Canada, 2024 Term Loan B, (3-mo. CME Term SOFR at 0.00% Floor + 1.75%), 5.42%, 03/21/31",
+   "parent_company": null,
+   "industry": "Passenger Airlines",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 104,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 102915,
+   "source_page": 10
+  },
+  {
+   "security_name": "American Airlines, Inc., 2023 1st Lien Term Loan, (3-mo. CME Term SOFR at 0.00% Floor + 2.25%), 5.91%, 06/04/29",
+   "parent_company": null,
+   "industry": "Passenger Airlines",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 85,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 82553,
+   "source_page": 10
+  },
+  {
+   "security_name": "Stonepeak Nile Parent LLC, 2025 Term Loan B, (3-mo. CME Term SOFR at 0.00% Floor + 2.25%), 5.92%, 04/09/32",
+   "parent_company": null,
+   "industry": "Passenger Airlines",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 13,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 12903,
+   "source_page": 10
+  },
+  {
+   "security_name": "United Airlines, Inc., 2026 Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 1.75%), 5.43%, 02/22/31",
+   "parent_company": null,
+   "industry": "Passenger Airlines",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 81,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 80244,
+   "source_page": 10
+  },
+  {
+   "security_name": "Elanco Animal Health, Inc., 2025 Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 1.75%), 5.42%, 10/31/32",
+   "parent_company": null,
+   "industry": "Pharmaceuticals",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 80,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 80556,
+   "source_page": 10
+  },
+  {
+   "security_name": "Jazz Financing Lux SARL, 2024 1st Lien Term Loan B2, (1-mo. CME Term SOFR + 2.25%), 5.92%, 05/05/28",
+   "parent_company": null,
+   "industry": "Pharmaceuticals",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 120,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 120515,
+   "source_page": 10
+  },
+  {
+   "security_name": "Perrigo Investments LLC, 2024 Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 2.00%), 5.67%, 04/20/29",
+   "parent_company": null,
+   "industry": "Pharmaceuticals",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 53,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 52219,
+   "source_page": 10
+  },
+  {
+   "security_name": "PRA Health Sciences, Inc., 2024 US Term Loan B, (3-mo. CME Term SOFR at 0.50% Floor + 2.00%), 5.70%, 07/03/28",
+   "parent_company": null,
+   "industry": "Pharmaceuticals",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 9,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 8721,
+   "source_page": 10
+  },
+  {
+   "security_name": "Amentum Holdings, Inc., 2024 Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 2.00%), 5.67%, 09/29/31",
+   "parent_company": null,
+   "industry": "Professional Services",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 86,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 85789,
+   "source_page": 10
+  },
+  {
+   "security_name": "CACI International, Inc., Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 1.75%), 5.42%, 10/30/31",
+   "parent_company": null,
+   "industry": "Professional Services",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 20,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 19742,
+   "source_page": 10
+  },
+  {
+   "security_name": "Corpay Technologies Operating Co. LLC, Term Loan B5, (1-mo. CME Term SOFR at 0.00% Floor + 1.75%), 5.42%, 04/28/28",
+   "parent_company": null,
+   "industry": "Professional Services",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 85,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 85236,
+   "source_page": 10
+  },
+  {
+   "security_name": "Trans Union LLC, 2024 Term Loan B8, (3-mo. CME Term SOFR at 0.00% Floor + 1.75%), 5.45%, 06/24/31",
+   "parent_company": null,
+   "industry": "Professional Services",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 230,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 228820,
+   "source_page": 11
+  },
+  {
+   "security_name": "Cushman & Wakefield U.S. Borrower LLC, 2025 Term Loan B3, (1-mo. CME Term SOFR at 0.50% Floor + 2.75%), 6.42%, 01/31/30",
+   "parent_company": null,
+   "industry": "Real Estate Management & Development",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 14,
+   "par_text": null,
+   "footnotes": [
+    "a"
+   ],
+   "value_usd": 13594,
+   "source_page": 11
+  },
+  {
+   "security_name": "Entegris, Inc., 2023 Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 1.75%), 5.43%, 07/06/29",
+   "parent_company": null,
+   "industry": "Semiconductors & Semiconductor Equipment",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 10,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 10480,
+   "source_page": 11
+  },
+  {
+   "security_name": "Qnity Electronics, Inc., Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 2.00%), 5.67%, 11/01/32",
+   "parent_company": null,
+   "industry": "Semiconductors & Semiconductor Equipment",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 88,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 87560,
+   "source_page": 11
+  },
+  {
+   "security_name": "CCC Intelligent Solutions, Inc., Term Loan, (1-mo. CME Term SOFR + 2.00%), 5.67%, 01/23/32",
+   "parent_company": null,
+   "industry": "Software",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 55,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 54971,
+   "source_page": 11
+  },
+  {
+   "security_name": "Gen Digital, Inc., 2024 Term Loan B, (1-mo. CME Term SOFR + 1.75%), 5.42%, 09/12/29",
+   "parent_company": null,
+   "industry": "Software",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 161,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 159432,
+   "source_page": 11
+  },
+  {
+   "security_name": "MKS Instruments, Inc., 2026 USD Term Loan B, (1-mo. CME Term SOFR at 0.50% Floor + 1.75%), 5.41%, 02/04/33",
+   "parent_company": null,
+   "industry": "Software",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 78,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 78024,
+   "source_page": 11
+  },
+  {
+   "security_name": "SS&C Technologies, Inc., 2024 Term Loan B8, (1-mo. CME Term SOFR at 0.00% Floor + 2.00%), 5.67%, 05/09/31",
+   "parent_company": null,
+   "industry": "Software",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 110,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 109300,
+   "source_page": 11
+  },
+  {
+   "security_name": "ZoomInfo LLC, 2024 Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 1.75%), 5.42%, 02/28/30",
+   "parent_company": null,
+   "industry": "Software",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 10,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 9002,
+   "source_page": 11
+  },
+  {
+   "security_name": "Belron Finance 2019 LLC, 2026 Repriced Term Loan B, (3-mo. CME Term SOFR at 0.50% Floor + 2.00%), 5.66%, 10/16/31",
+   "parent_company": null,
+   "industry": "Specialty Retail",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 193,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 193115,
+   "source_page": 11
+  },
+  {
+   "security_name": "Crocs, Inc., 2024 Term Loan, (3-mo. CME Term SOFR at 0.50% Floor + 2.25%), 5.95%, 02/19/29",
+   "parent_company": null,
+   "industry": "Textiles, Apparel & Luxury Goods",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 48,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 47808,
+   "source_page": 11
+  },
+  {
+   "security_name": "Rand Parent LLC, 2025 Term Loan B, (3-mo. CME Term SOFR at 0.00% Floor + 3.00%), 6.70%, 03/18/30",
+   "parent_company": null,
+   "industry": "Transportation Infrastructure",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 44,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 43562,
+   "source_page": 11
+  },
+  {
+   "security_name": "SBA Senior Finance II LLC, 2024 Term Loan B, (1-mo. CME Term SOFR at 0.00% Floor + 1.75%), 5.42%, 01/25/31",
+   "parent_company": null,
+   "industry": "Wireless Telecommunication Services",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 118,
+   "par_text": null,
+   "footnotes": [],
+   "value_usd": 118404,
+   "source_page": 11
+  },
+  {
+   "security_name": "York Space Systems, Inc.",
+   "parent_company": null,
+   "industry": "Aerospace & Defense",
+   "acquired_date": "01/29/26",
+   "cost_usd": 0,
+   "shares_par_thousands": null,
+   "par_text": null,
+   "footnotes": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "value_usd": 155272,
+   "source_page": 11
+  },
+  {
+   "security_name": "BlackRock Liquidity Funds, T-Fund, Institutional Shares, 3.55%",
+   "parent_company": null,
+   "industry": "Money Market Funds",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 2436801,
+   "par_text": null,
+   "footnotes": [
+    "f",
+    "j"
+   ],
+   "value_usd": 2436801,
+   "source_page": 11
+  },
+  {
+   "security_name": "U.S. Treasury Bills, 3.65%, 07/30/26",
+   "parent_company": null,
+   "industry": "U.S. Treasury Obligations",
+   "acquired_date": null,
+   "cost_usd": null,
+   "shares_par_thousands": 7000,
+   "par_text": null,
+   "footnotes": [
+    "k"
+   ],
+   "value_usd": 6915797,
+   "source_page": 11
+  }
+ ]
+}

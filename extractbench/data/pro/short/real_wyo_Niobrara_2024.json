@@ -1,0 +1,555 @@
+{
+ "jurisdiction": "Niobrara County",
+ "election_title": "Official Precinct-by-Precinct Summary",
+ "election_date": "November 5, 2024",
+ "contests": [
+  {
+   "office": "United States President",
+   "columns": [
+    "Donald J. Trump and JD Vance (R)",
+    "Kamala D. Harris and Tim Walz (D)",
+    "Chase Oliver and Mike ter Maat (L)",
+    "Write-Ins",
+    "Overvotes",
+    "Undervotes"
+   ]
+  },
+  {
+   "office": "United States Senator",
+   "columns": [
+    "John Barrasso (R)",
+    "Scott D Morrow (D)",
+    "Write-Ins",
+    "Overvotes",
+    "Undervotes"
+   ]
+  },
+  {
+   "office": "Supreme Court Justice, Wyoming Supreme Court John G. Fenn",
+   "columns": [
+    "Yes",
+    "No",
+    "Overvotes",
+    "Undervotes"
+   ]
+  },
+  {
+   "office": "Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",
+   "columns": [
+    "Yes",
+    "No",
+    "Overvotes",
+    "Undervotes"
+   ]
+  },
+  {
+   "office": "District Court Judge, Eighth Judicial District F. Scott Peasley",
+   "columns": [
+    "Yes",
+    "No",
+    "Overvotes",
+    "Undervotes"
+   ]
+  },
+  {
+   "office": "Circuit Court Judge, Eighth Judicial District Nathaniel Scott Hibben",
+   "columns": [
+    "Yes",
+    "No",
+    "Overvotes",
+    "Undervotes"
+   ]
+  },
+  {
+   "office": "Constitutional Amendment A Separate Residential Property Class for Tax Assessment",
+   "columns": [
+    "For",
+    "Against",
+    "Overvotes",
+    "Undervotes"
+   ]
+  }
+ ],
+ "precinct_results": [
+  {
+   "office": "United States President",
+   "precinct": "1-2",
+   "votes": [
+    59,
+    1,
+    0,
+    0,
+    0,
+    1
+   ],
+   "source_page": 1
+  },
+  {
+   "office": "United States President",
+   "precinct": "3-2",
+   "votes": [
+    78,
+    1,
+    1,
+    0,
+    0,
+    0
+   ],
+   "source_page": 1
+  },
+  {
+   "office": "United States President",
+   "precinct": "4-1",
+   "votes": [
+    91,
+    2,
+    0,
+    1,
+    1,
+    1
+   ],
+   "source_page": 1
+  },
+  {
+   "office": "United States President",
+   "precinct": "6-1",
+   "votes": [
+    277,
+    29,
+    2,
+    3,
+    0,
+    3
+   ],
+   "source_page": 1
+  },
+  {
+   "office": "United States President",
+   "precinct": "6-2",
+   "votes": [
+    481,
+    69,
+    6,
+    0,
+    0,
+    3
+   ],
+   "source_page": 1
+  },
+  {
+   "office": "United States President",
+   "precinct": "7-1",
+   "votes": [
+    122,
+    10,
+    1,
+    0,
+    1,
+    0
+   ],
+   "source_page": 1
+  },
+  {
+   "office": "United States Senator",
+   "precinct": "1-2",
+   "votes": [
+    60,
+    0,
+    0,
+    0,
+    1
+   ],
+   "source_page": 2
+  },
+  {
+   "office": "United States Senator",
+   "precinct": "3-2",
+   "votes": [
+    76,
+    2,
+    0,
+    0,
+    2
+   ],
+   "source_page": 2
+  },
+  {
+   "office": "United States Senator",
+   "precinct": "4-1",
+   "votes": [
+    83,
+    4,
+    1,
+    0,
+    8
+   ],
+   "source_page": 2
+  },
+  {
+   "office": "United States Senator",
+   "precinct": "6-1",
+   "votes": [
+    267,
+    36,
+    0,
+    0,
+    11
+   ],
+   "source_page": 2
+  },
+  {
+   "office": "United States Senator",
+   "precinct": "6-2",
+   "votes": [
+    468,
+    65,
+    0,
+    0,
+    26
+   ],
+   "source_page": 2
+  },
+  {
+   "office": "United States Senator",
+   "precinct": "7-1",
+   "votes": [
+    119,
+    11,
+    1,
+    0,
+    3
+   ],
+   "source_page": 2
+  },
+  {
+   "office": "Supreme Court Justice, Wyoming Supreme Court John G. Fenn",
+   "precinct": "1-2",
+   "votes": [
+    41,
+    9,
+    0,
+    11
+   ],
+   "source_page": 3
+  },
+  {
+   "office": "Supreme Court Justice, Wyoming Supreme Court John G. Fenn",
+   "precinct": "3-2",
+   "votes": [
+    49,
+    19,
+    0,
+    12
+   ],
+   "source_page": 3
+  },
+  {
+   "office": "Supreme Court Justice, Wyoming Supreme Court John G. Fenn",
+   "precinct": "4-1",
+   "votes": [
+    46,
+    25,
+    0,
+    25
+   ],
+   "source_page": 3
+  },
+  {
+   "office": "Supreme Court Justice, Wyoming Supreme Court John G. Fenn",
+   "precinct": "6-1",
+   "votes": [
+    206,
+    55,
+    0,
+    53
+   ],
+   "source_page": 3
+  },
+  {
+   "office": "Supreme Court Justice, Wyoming Supreme Court John G. Fenn",
+   "precinct": "6-2",
+   "votes": [
+    386,
+    89,
+    0,
+    84
+   ],
+   "source_page": 3
+  },
+  {
+   "office": "Supreme Court Justice, Wyoming Supreme Court John G. Fenn",
+   "precinct": "7-1",
+   "votes": [
+    87,
+    28,
+    0,
+    19
+   ],
+   "source_page": 3
+  },
+  {
+   "office": "Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",
+   "precinct": "1-2",
+   "votes": [
+    42,
+    8,
+    0,
+    11
+   ],
+   "source_page": 4
+  },
+  {
+   "office": "Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",
+   "precinct": "3-2",
+   "votes": [
+    49,
+    17,
+    0,
+    14
+   ],
+   "source_page": 4
+  },
+  {
+   "office": "Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",
+   "precinct": "4-1",
+   "votes": [
+    50,
+    23,
+    0,
+    23
+   ],
+   "source_page": 4
+  },
+  {
+   "office": "Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",
+   "precinct": "6-1",
+   "votes": [
+    211,
+    50,
+    0,
+    53
+   ],
+   "source_page": 4
+  },
+  {
+   "office": "Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",
+   "precinct": "6-2",
+   "votes": [
+    383,
+    92,
+    0,
+    84
+   ],
+   "source_page": 4
+  },
+  {
+   "office": "Supreme Court Justice, Wyoming Supreme Court Kate M. Fox",
+   "precinct": "7-1",
+   "votes": [
+    84,
+    31,
+    0,
+    19
+   ],
+   "source_page": 4
+  },
+  {
+   "office": "District Court Judge, Eighth Judicial District F. Scott Peasley",
+   "precinct": "1-2",
+   "votes": [
+    42,
+    10,
+    1,
+    8
+   ],
+   "source_page": 5
+  },
+  {
+   "office": "District Court Judge, Eighth Judicial District F. Scott Peasley",
+   "precinct": "3-2",
+   "votes": [
+    49,
+    19,
+    0,
+    12
+   ],
+   "source_page": 5
+  },
+  {
+   "office": "District Court Judge, Eighth Judicial District F. Scott Peasley",
+   "precinct": "4-1",
+   "votes": [
+    53,
+    24,
+    0,
+    19
+   ],
+   "source_page": 5
+  },
+  {
+   "office": "District Court Judge, Eighth Judicial District F. Scott Peasley",
+   "precinct": "6-1",
+   "votes": [
+    215,
+    54,
+    0,
+    45
+   ],
+   "source_page": 5
+  },
+  {
+   "office": "District Court Judge, Eighth Judicial District F. Scott Peasley",
+   "precinct": "6-2",
+   "votes": [
+    398,
+    79,
+    0,
+    82
+   ],
+   "source_page": 5
+  },
+  {
+   "office": "District Court Judge, Eighth Judicial District F. Scott Peasley",
+   "precinct": "7-1",
+   "votes": [
+    81,
+    36,
+    0,
+    17
+   ],
+   "source_page": 5
+  },
+  {
+   "office": "Circuit Court Judge, Eighth Judicial District Nathaniel Scott Hibben",
+   "precinct": "1-2",
+   "votes": [
+    43,
+    9,
+    0,
+    9
+   ],
+   "source_page": 6
+  },
+  {
+   "office": "Circuit Court Judge, Eighth Judicial District Nathaniel Scott Hibben",
+   "precinct": "3-2",
+   "votes": [
+    47,
+    18,
+    0,
+    15
+   ],
+   "source_page": 6
+  },
+  {
+   "office": "Circuit Court Judge, Eighth Judicial District Nathaniel Scott Hibben",
+   "precinct": "4-1",
+   "votes": [
+    49,
+    26,
+    0,
+    21
+   ],
+   "source_page": 6
+  },
+  {
+   "office": "Circuit Court Judge, Eighth Judicial District Nathaniel Scott Hibben",
+   "precinct": "6-1",
+   "votes": [
+    218,
+    47,
+    0,
+    49
+   ],
+   "source_page": 6
+  },
+  {
+   "office": "Circuit Court Judge, Eighth Judicial District Nathaniel Scott Hibben",
+   "precinct": "6-2",
+   "votes": [
+    394,
+    81,
+    0,
+    84
+   ],
+   "source_page": 6
+  },
+  {
+   "office": "Circuit Court Judge, Eighth Judicial District Nathaniel Scott Hibben",
+   "precinct": "7-1",
+   "votes": [
+    83,
+    31,
+    0,
+    20
+   ],
+   "source_page": 6
+  },
+  {
+   "office": "Constitutional Amendment A Separate Residential Property Class for Tax Assessment",
+   "precinct": "1-2",
+   "votes": [
+    22,
+    32,
+    0,
+    7
+   ],
+   "source_page": 7
+  },
+  {
+   "office": "Constitutional Amendment A Separate Residential Property Class for Tax Assessment",
+   "precinct": "3-2",
+   "votes": [
+    16,
+    52,
+    0,
+    12
+   ],
+   "source_page": 7
+  },
+  {
+   "office": "Constitutional Amendment A Separate Residential Property Class for Tax Assessment",
+   "precinct": "4-1",
+   "votes": [
+    20,
+    61,
+    0,
+    15
+   ],
+   "source_page": 7
+  },
+  {
+   "office": "Constitutional Amendment A Separate Residential Property Class for Tax Assessment",
+   "precinct": "6-1",
+   "votes": [
+    132,
+    138,
+    0,
+    44
+   ],
+   "source_page": 7
+  },
+  {
+   "office": "Constitutional Amendment A Separate Residential Property Class for Tax Assessment",
+   "precinct": "6-2",
+   "votes": [
+    211,
+    284,
+    0,
+    64
+   ],
+   "source_page": 7
+  },
+  {
+   "office": "Constitutional Amendment A Separate Residential Property Class for Tax Assessment",
+   "precinct": "7-1",
+   "votes": [
+    42,
+    77,
+    0,
+    15
+   ],
+   "source_page": 7
+  }
+ ]
+}

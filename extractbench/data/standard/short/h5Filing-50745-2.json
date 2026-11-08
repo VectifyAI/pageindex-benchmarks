@@ -1,0 +1,102 @@
+{
+ "uic_no": "000084395",
+ "filing_no": "50745",
+ "submittal_date": "05/03/2023",
+ "version": "2",
+ "evaluation": "05/13/2024",
+ "test_status": "Inconclusive",
+ "preparer": "Robbie Grigg",
+ "preparer_phone": "817-917-5341",
+ "preparer_email": "rgrigg@overtonpark.com",
+ "operator_name": "OVERTON PARK OIL & GAS LP",
+ "operator_no": "628656",
+ "operator_address_line_1": "777 MAIN ST",
+ "operator_address_line_2": "STE 3600",
+ "operator_city": "FORT WORTH",
+ "operator_state": "TX",
+ "operator_postal_code": "76102",
+ "api": "42700223",
+ "injection_well": "Disposal into a Productive Zone",
+ "district": "04",
+ "lease_no": "046191",
+ "well_no": "211D",
+ "lease_name": "MCGILL BROS.",
+ "field_number": "48630030",
+ "field_name": "KELSEY (FRIO CONSOL.)",
+ "county": "STARR",
+ "reason_for": "Annual Test as Required by Permit",
+ "date_test_performed": "02/01/2023",
+ "retest": "No",
+ "retest_date_of_previous_test": null,
+ "remedial_actions_prior_to": null,
+ "well_completion_casing": [
+  {
+   "string_type": "Long String Casing",
+   "casing_tubing_size": "5 1/2",
+   "depth_set": "7238",
+   "top_of_cement": "0"
+  },
+  {
+   "string_type": "Surface Casing",
+   "casing_tubing_size": "9 5/8",
+   "depth_set": "1555",
+   "top_of_cement": "0"
+  },
+  {
+   "string_type": "Tubing or Hanging String",
+   "casing_tubing_size": "2 3/8",
+   "depth_set": "4628",
+   "top_of_cement": null
+  }
+ ],
+ "packer_make_model": "Packer - Baker Lok",
+ "depth_packer": "4628",
+ "no_packer_injection_down_casing": false,
+ "injection_intervals": [
+  {
+   "interval_type": "Permitted Injection",
+   "top": "4723",
+   "bottom": "5893"
+  },
+  {
+   "interval_type": "Completed Injection",
+   "top": "5190",
+   "bottom": "5890"
+  },
+  {
+   "interval_type": "Authorized Liquid Injection",
+   "top": "2350",
+   "bottom": null
+  }
+ ],
+ "no_completed_intervals": false,
+ "well_status": "Active",
+ "well_did_not_pressure_up": false,
+ "digital_recorder_attached": false,
+ "test_pressures": [
+  {
+   "time_point": "INITIAL",
+   "tubing_or_hanging_string": "0",
+   "casing": "501",
+   "surface_casing": "110"
+  },
+  {
+   "time_point": "After 15 minutes",
+   "tubing_or_hanging_string": "0",
+   "casing": "502",
+   "surface_casing": "110"
+  },
+  {
+   "time_point": "After 30 minutes",
+   "tubing_or_hanging_string": "0",
+   "casing": "503",
+   "surface_casing": "110"
+  }
+ ],
+ "test_witnessed_by_rrc": "No",
+ "name_of_rrc": null,
+ "injection_fluid_description": "Produced",
+ "annulus_fluid_description": "Liqui",
+ "other_tests_surveys_performed": null,
+ "operator_comments_on_test": null
+}

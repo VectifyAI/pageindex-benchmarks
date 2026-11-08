@@ -1,0 +1,17 @@
+{
+ "period": "Q1 FY2026",
+ "currency": "USD",
+ "fiscal_period_end_date": "2026-03-31",
+ "total_revenue": 5603,
+ "revenue_growth_yoy": 0.95,
+ "gross_profit": null,
+ "operating_income": null,
+ "net_income": 805,
+ "adjusted_ebitda": null,
+ "gaap_eps_diluted": 2.27,
+ "adjusted_eps_diluted": null,
+ "gross_margin": null,
+ "operating_margin": null,
+ "free_cash_flow": null,
+ "segments": []
+}
