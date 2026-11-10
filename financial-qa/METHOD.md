@@ -41,7 +41,7 @@ verified candidates.
 
 ## Configurations
 
-A configuration is a model at one reasoning level (`models.py`): 38 configurations of 22 models, 12 of them at two
+A configuration is a model at one reasoning level (`models.py`): 39 configurations of 23 models, 12 of them at two
 or more levels.
 
 - **Route**: OpenRouter, each model pinned to one provider with fallbacks off, at its standard tier (no flex, fast or
@@ -50,9 +50,9 @@ or more levels.
   price, and the reasoning setting (`data/preflight/`).
 - **Reasoning levels**: a level other than the default is sent as `reasoning.effort`. At the default level no
   reasoning setting is sent, and the level named is the vendor's default, confirmed by runs with that level set
-  explicitly. MiniMax M3.1 Flash and Kimi K3.1 Pro run at max, GPT-6.1 Terra at medium and Hy4 at high, their
-  defaults, with those levels sent. MiMo models have no levels; Muse Wonder's default is a level the model picks
-  for itself, labeled "adaptive".
+  explicitly. MiniMax M3.1 Flash, Kimi K3.1 Pro and Muse Ember run at max, GPT-6.1 Terra at medium and Hy4 at high,
+  their defaults, with those levels sent. MiMo models have no levels; Muse Wonder's default is a level the model
+  picks for itself, labeled "adaptive".
 
 ## Runs
 
@@ -104,16 +104,18 @@ anchors that show it grades on the same scale.
 | round9 | the same, runs 2–3 | 80 / 80 | 0 | 199 / 200 |
 | round10 | Hy4 (high), run 1 | 299 / 300 | 1 | 198 / 200 |
 | round11 | the same, runs 2–3 | 394 / 400 | 5 | 199 / 200 |
-| fh32 | every answer in the results to fh-32, graded again | 8 / 120 | 112 | – |
+| round12 | Muse Ember (max), run 1 | 295 / 300 | 3 | 197 / 200 |
+| round13 | the same, runs 2–3 | 399 / 400 | 1 | 198 / 200 |
+| fh32 | every answer to fh-32 in round1–11's results, graded again | 8 / 120 | 112 | – |
 
 Graders of different rounds judged fh-32's extra causes (most often a third-quarter charge-off in Asset & Wealth
-Management) differently, some as contradictions and some not, so every answer to it in the results was graded again
-in one round, fh32 (`grade.py regrade`), with a check grader on every answer and a third grader on each
-disagreement; these grades replace the earlier ones. The first two graders read the extras in opposite ways, alike on
-8 of the 120 answers; the third found no contradiction in any of the 112 they disagreed on. The earlier rounds'
-grades of fh-32 still count in the table: round6's 4, round8's 2 and round11's 1 disagreements over its extras
-(round6's and round11's not adjudicated), and one anchor answer to it in each of round3, round4, round6, round8 and
-round10 graded otherwise than in the fh32 round.
+Management) differently, some as contradictions and some not, so every answer to it in the results of round1–11 was
+graded again in one round, fh32 (`grade.py regrade`), with a check grader on every answer and a third grader on each
+disagreement; these grades replace the earlier ones. The first two graders read the extras in opposite ways, alike
+on 8 of the 120 answers; the third found no contradiction in any of the 112 they disagreed on. The earlier rounds'
+grades of fh-32 still count in the table: round6's 4, round8's 2, round11's 1 and round12's 2 disagreements over its
+extras (round6's, round11's and round12's not adjudicated), and one anchor answer to it in each of round3, round4,
+round6, round8 and round10 graded otherwise than in the fh32 round.
 
 One reading settled where graders split is applied to every round's grades (`grade.py` `KEY_POINT_RULINGS`), so
 that every round reads it alike: in fh-21, a note's amount with its maturity date covers its key point without the
@@ -128,9 +130,10 @@ turns 17 answers, graded in round1 to round3, from wrong to right.
 - A run's cost is the sum over its questions of the attempt whose answer stands; attempts retried after an error or
   replaced by an answer asked again are not counted (`results/runs.csv` also gives each run's full bill,
   `billed_usd`). The cost per run in the results is the mean over runs.
-- Prices are those of the pinned providers from 2026-10-22 to 2026-11-05, when the runs were made. Gemini 4 Argon,
+- Prices are those of the pinned providers from 2026-10-22 to 2026-11-10, when the runs were made. Gemini 4 Argon,
   Gemini 3.8 Flash and Hy4 ran at their makers' launch prices, half the later ones, until 2026-11-30, 2026-12-31
-  and 2026-12-31; their costs are as billed.
+  and 2026-12-31; their costs are as billed. Meta bills Muse Ember's requests over 200K input tokens at three times
+  its base rate; OpenRouter billed them at the base rate.
 
 ## Statistics
 

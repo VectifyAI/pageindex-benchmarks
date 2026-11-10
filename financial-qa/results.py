@@ -8,7 +8,7 @@ and comparisons.
 The PNG is the SVG rendered by a headless browser, e.g.:
     google-chrome --headless --hide-scrollbars --window-size=1280,860 --force-device-scale-factor=2 \
         --screenshot=results/accuracy_vs_cost.png results/accuracy_vs_cost.svg
-and the leaderboard the same way at --window-size=1280,1246.
+and the leaderboard the same way at --window-size=1280,1272.
 """
 import base64
 import csv

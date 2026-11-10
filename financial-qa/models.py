@@ -1,4 +1,4 @@
-"""The 38 configurations benchmarked: a model on OpenRouter, the provider it is pinned to, and a reasoning level."""
+"""The 39 configurations benchmarked: a model on OpenRouter, the provider it is pinned to, and a reasoning level."""
 
 # key: (name, vendor, OpenRouter model, provider, level, effort). `effort` is the reasoning.effort sent; None sends
 # no reasoning setting, so the model runs at its default level, which is `level` (METHOD.md, "Reasoning levels").
@@ -25,6 +25,7 @@ CONFIGS = {
     "muse-wonder-adaptive": ("Muse Wonder", "Meta", "meta/muse-wonder", "Meta", "adaptive", None),
     # no first-party endpoint; Together serves it at Meta's list price, unquantized
     "muse-spark-open-xhigh": ("Muse Spark Open", "Meta", "meta/muse-spark-open", "Together", "xhigh", None),
+    "muse-ember-max": ("Muse Ember", "Meta", "meta/muse-ember", "Meta", "max", "max"),
     "grok-4.7-xhigh": ("Grok 4.7", "SpaceXAI", "x-ai/grok-4.7", "xAI", "xhigh", "xhigh"),
     "grok-4.7-high": ("Grok 4.7", "SpaceXAI", "x-ai/grok-4.7", "xAI", "high", None),
     # Together serves this snapshot at DeepSeek's list price

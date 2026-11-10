@@ -80,17 +80,19 @@
 <text x="1240.0" y="796.0" font-size="13" fill="#666666" text-anchor="middle" font-weight="400" >$200</text>
 <text x="662.0" y="828.0" font-size="15" fill="#000000" text-anchor="middle" font-weight="400" >Cost per 100-question run (USD, log scale)</text>
 <g transform="translate(26 468.0) rotate(-90)"><text x="0.0" y="0.0" font-size="15" fill="#000000" text-anchor="middle" font-weight="400" >Accuracy (%, mean of 3 runs)</text></g>
-<path d="M168.0,494.8 L294.0,454.6 L336.7,313.6 L601.8,186.1" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M168.0,494.8 L180.5,414.3 L336.7,313.6 L601.8,186.1" fill="none" stroke="#2563eb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 <circle cx="168.0" cy="494.8" r="9" fill="#ffffff" stroke="#2563eb" stroke-width="1.5"/>
 <g><title>MiMo-V2.6-Flash: 83.7% (82/84/85), $1.47 per run</title><circle cx="168.0" cy="494.8" r="12" fill="transparent"/><circle cx="168.0" cy="494.8" r="6.5" fill="#ff6903" stroke="#ffffff" stroke-width="1"/></g>
 <text x="179.0" y="503.8" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">MiMo-V2.6-Flash</text>
+<circle cx="180.5" cy="414.3" r="9" fill="#ffffff" stroke="#2563eb" stroke-width="1.5"/>
+<g><title>Muse Ember (max): 87.7% (85/90/88), $1.56 per run</title><circle cx="180.5" cy="414.3" r="12" fill="transparent"/><circle cx="180.5" cy="414.3" r="6.5" fill="#0489f3" stroke="#ffffff" stroke-width="1"/></g>
+<text x="191.5" y="418.3" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">Muse Ember (max)</text>
 <g><title>GLM-5.3-Flash (max): 78.3% (80/79/76), $1.86 per run</title><circle cx="219.5" cy="602.2" r="12" fill="transparent"/><circle cx="219.5" cy="602.2" r="6.5" fill="#1880f6" stroke="#ffffff" stroke-width="1"/></g>
 <text x="210.5" y="593.2" font-size="13" fill="#464646" text-anchor="end" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">GLM-5.3-Flash (max)</text>
 <g><title>GPT-6 Luna (max): 79.0% (78/79/80), $2.27 per run</title><circle cx="262.5" cy="588.8" r="12" fill="transparent"/><circle cx="262.5" cy="588.8" r="6.5" fill="#1f1f1f" stroke="#ffffff" stroke-width="1"/></g>
 <text x="273.5" y="592.8" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">GPT-6 Luna (max)</text>
 <g><title>DeepSeek V4.1 Flash (high): 79.7% (79/79/81), $2.47 per run</title><circle cx="281.3" cy="575.4" r="12" fill="transparent"/><circle cx="281.3" cy="575.4" r="6.5" fill="#2243e5" stroke="#ffffff" stroke-width="1"/></g>
 <text x="281.3" y="563.4" font-size="13" fill="#464646" text-anchor="middle" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">DeepSeek V4.1 Flash (high)</text>
-<circle cx="294.0" cy="454.6" r="9" fill="#ffffff" stroke="#2563eb" stroke-width="1.5"/>
 <g><title>MiniMax M3.1 Flash (medium): 85.7% (85/84/88), $2.62 per run</title><circle cx="294.0" cy="454.6" r="12" fill="transparent"/><circle cx="294.0" cy="454.6" r="6.5" fill="#ed3769" stroke="#ffffff" stroke-width="1"/></g>
 <text x="302.0" y="478.6" font-size="13" fill="#464646" text-anchor="start" font-weight="400"  stroke="#ffffff" stroke-width="4" stroke-linejoin="round" paint-order="stroke">MiniMax M3.1 Flash (medium)</text>
 <circle cx="336.7" cy="313.6" r="9" fill="#ffffff" stroke="#2563eb" stroke-width="1.5"/>

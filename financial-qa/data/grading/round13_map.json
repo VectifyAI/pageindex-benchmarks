@@ -1,0 +1,602 @@
+{
+ "fh-01": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "muse-ember-max r3",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "muse-ember-max r2"
+ },
+ "fh-02": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "muse-ember-max r2",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "muse-ember-max r3"
+ },
+ "fh-03": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "muse-ember-max r2",
+  "D": "muse-ember-max r3"
+ },
+ "fh-04": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "muse-ember-max r2",
+  "C": "muse-ember-max r3",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-05": {
+  "A": "muse-ember-max r2",
+  "B": "muse-ember-max r3",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-06": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "muse-ember-max r3",
+  "C": "muse-ember-max r2",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-07": {
+  "A": "muse-ember-max r3",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "muse-ember-max r2"
+ },
+ "fh-08": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "muse-ember-max r2",
+  "C": "muse-ember-max r3",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-09": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "muse-ember-max r2",
+  "D": "muse-ember-max r3"
+ },
+ "fh-10": {
+  "A": "muse-ember-max r2",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "muse-ember-max r3",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-11": {
+  "A": "muse-ember-max r3",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "muse-ember-max r2"
+ },
+ "fh-12": {
+  "A": "muse-ember-max r2",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "muse-ember-max r3",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-13": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "muse-ember-max r2",
+  "C": "muse-ember-max r3",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-14": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "muse-ember-max r3",
+  "C": "muse-ember-max r2",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-15": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "muse-ember-max r3",
+  "C": "muse-ember-max r2",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-16": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "muse-ember-max r2",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "muse-ember-max r3"
+ },
+ "fh-17": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "muse-ember-max r3",
+  "D": "muse-ember-max r2"
+ },
+ "fh-18": {
+  "A": "muse-ember-max r2",
+  "B": "muse-ember-max r3",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-19": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "muse-ember-max r2",
+  "C": "muse-ember-max r3",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-20": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "muse-ember-max r3",
+  "D": "muse-ember-max r2"
+ },
+ "fh-21": {
+  "A": "muse-ember-max r2",
+  "B": "muse-ember-max r3",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-22": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "muse-ember-max r3",
+  "C": "muse-ember-max r2",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-23": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "muse-ember-max r2",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "muse-ember-max r3"
+ },
+ "fh-24": {
+  "A": "muse-ember-max r2",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "muse-ember-max r3",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-25": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "muse-ember-max r2",
+  "D": "muse-ember-max r3"
+ },
+ "fh-26": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "muse-ember-max r2",
+  "C": "muse-ember-max r3",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-27": {
+  "A": "muse-ember-max r3",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "muse-ember-max r2"
+ },
+ "fh-28": {
+  "A": "muse-ember-max r3",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "muse-ember-max r2",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-29": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "muse-ember-max r2",
+  "D": "muse-ember-max r3"
+ },
+ "fh-30": {
+  "A": "muse-ember-max r2",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "muse-ember-max r3",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-31": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "muse-ember-max r3",
+  "C": "muse-ember-max r2",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-32": {
+  "A": "muse-ember-max r3",
+  "B": "muse-ember-max r2",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-33": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "muse-ember-max r2",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "muse-ember-max r3"
+ },
+ "fh-34": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "muse-ember-max r3",
+  "D": "muse-ember-max r2"
+ },
+ "fh-35": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "muse-ember-max r3",
+  "D": "muse-ember-max r2"
+ },
+ "fh-36": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "muse-ember-max r3",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "muse-ember-max r2"
+ },
+ "fh-37": {
+  "A": "muse-ember-max r3",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "muse-ember-max r2",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-38": {
+  "A": "muse-ember-max r3",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "muse-ember-max r2"
+ },
+ "fh-39": {
+  "A": "muse-ember-max r2",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "muse-ember-max r3"
+ },
+ "fh-40": {
+  "A": "muse-ember-max r3",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "muse-ember-max r2"
+ },
+ "fh-41": {
+  "A": "muse-ember-max r2",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "muse-ember-max r3"
+ },
+ "fh-42": {
+  "A": "muse-ember-max r3",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "muse-ember-max r2",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-43": {
+  "A": "muse-ember-max r2",
+  "B": "muse-ember-max r3",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-44": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "muse-ember-max r3",
+  "D": "muse-ember-max r2"
+ },
+ "fh-45": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "muse-ember-max r3",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "muse-ember-max r2"
+ },
+ "fh-46": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "muse-ember-max r3",
+  "C": "muse-ember-max r2",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-47": {
+  "A": "muse-ember-max r3",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "muse-ember-max r2"
+ },
+ "fh-48": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "muse-ember-max r3",
+  "D": "muse-ember-max r2"
+ },
+ "fh-49": {
+  "A": "muse-ember-max r3",
+  "B": "muse-ember-max r2",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-50": {
+  "A": "muse-ember-max r3",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "muse-ember-max r2"
+ },
+ "fh-51": {
+  "A": "muse-ember-max r2",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "muse-ember-max r3",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-52": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "muse-ember-max r3",
+  "C": "muse-ember-max r2",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-53": {
+  "A": "muse-ember-max r2",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "muse-ember-max r3",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-54": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "muse-ember-max r3",
+  "D": "muse-ember-max r2"
+ },
+ "fh-55": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "muse-ember-max r3",
+  "C": "muse-ember-max r2",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-56": {
+  "A": "muse-ember-max r3",
+  "B": "muse-ember-max r2",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-57": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "muse-ember-max r2",
+  "C": "muse-ember-max r3",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-58": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "muse-ember-max r2",
+  "D": "muse-ember-max r3"
+ },
+ "fh-59": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "muse-ember-max r3",
+  "C": "muse-ember-max r2",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-60": {
+  "A": "muse-ember-max r2",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "muse-ember-max r3",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-61": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "muse-ember-max r2",
+  "D": "muse-ember-max r3"
+ },
+ "fh-62": {
+  "A": "muse-ember-max r3",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "muse-ember-max r2",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-63": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "muse-ember-max r2",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "muse-ember-max r3"
+ },
+ "fh-64": {
+  "A": "muse-ember-max r3",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "muse-ember-max r2",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-65": {
+  "A": "muse-ember-max r2",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "muse-ember-max r3"
+ },
+ "fh-66": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "muse-ember-max r3",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "muse-ember-max r2"
+ },
+ "fh-67": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "muse-ember-max r3",
+  "D": "muse-ember-max r2"
+ },
+ "fh-68": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "muse-ember-max r3",
+  "D": "muse-ember-max r2"
+ },
+ "fh-69": {
+  "A": "muse-ember-max r2",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "muse-ember-max r3",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-70": {
+  "A": "muse-ember-max r2",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "muse-ember-max r3"
+ },
+ "fh-71": {
+  "A": "muse-ember-max r3",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "muse-ember-max r2",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-72": {
+  "A": "muse-ember-max r3",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "muse-ember-max r2",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-73": {
+  "A": "muse-ember-max r2",
+  "B": "muse-ember-max r3",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-74": {
+  "A": "muse-ember-max r2",
+  "B": "muse-ember-max r3",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-75": {
+  "A": "muse-ember-max r3",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "muse-ember-max r2"
+ },
+ "fh-76": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "muse-ember-max r2",
+  "D": "muse-ember-max r3"
+ },
+ "fh-77": {
+  "A": "muse-ember-max r3",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "muse-ember-max r2"
+ },
+ "fh-78": {
+  "A": "muse-ember-max r3",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "muse-ember-max r2"
+ },
+ "fh-79": {
+  "A": "muse-ember-max r2",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "muse-ember-max r3",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-80": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "muse-ember-max r3",
+  "C": "muse-ember-max r2",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-81": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "muse-ember-max r2",
+  "C": "muse-ember-max r3",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-82": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "muse-ember-max r2",
+  "D": "muse-ember-max r3"
+ },
+ "fh-83": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "muse-ember-max r3",
+  "C": "muse-ember-max r2",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-84": {
+  "A": "muse-ember-max r3",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "muse-ember-max r2"
+ },
+ "fh-85": {
+  "A": "muse-ember-max r2",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "muse-ember-max r3"
+ },
+ "fh-86": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "muse-ember-max r2",
+  "D": "muse-ember-max r3"
+ },
+ "fh-87": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "muse-ember-max r3",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "muse-ember-max r2"
+ },
+ "fh-88": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "muse-ember-max r3",
+  "D": "muse-ember-max r2"
+ },
+ "fh-89": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "muse-ember-max r2",
+  "C": "muse-ember-max r3",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-90": {
+  "A": "muse-ember-max r3",
+  "B": "muse-ember-max r2",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-91": {
+  "A": "muse-ember-max r2",
+  "B": "muse-ember-max r3",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-92": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "muse-ember-max r2",
+  "D": "muse-ember-max r3"
+ },
+ "fh-93": {
+  "A": "muse-ember-max r2",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "muse-ember-max r3"
+ },
+ "fh-94": {
+  "A": "muse-ember-max r2",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "muse-ember-max r3",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-95": {
+  "A": "muse-ember-max r3",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "muse-ember-max r2",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-96": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "muse-ember-max r2",
+  "D": "muse-ember-max r3"
+ },
+ "fh-97": {
+  "A": "muse-ember-max r3",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "muse-ember-max r2"
+ },
+ "fh-98": {
+  "A": "muse-ember-max r3",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "muse-ember-max r2"
+ },
+ "fh-99": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "muse-ember-max r3",
+  "D": "muse-ember-max r2"
+ },
+ "fh-100": {
+  "A": "muse-ember-max r2",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "muse-ember-max r3",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ }
+}

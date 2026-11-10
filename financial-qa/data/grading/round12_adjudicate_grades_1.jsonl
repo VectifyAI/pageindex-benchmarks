@@ -1,0 +1,3 @@
+{"id": "fh-06", "grades": [{"label": "A", "covered": [true, true, true, true], "contradiction": false}]}
+{"id": "fh-20", "grades": [{"label": "A", "covered": [true, true, true, true, true, false], "contradiction": false}]}
+{"id": "fh-80", "grades": [{"label": "A", "covered": [true, false, false], "contradiction": false}]}

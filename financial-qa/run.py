@@ -89,8 +89,9 @@ def extra_body(key):
     body = {"provider": {"order": [provider], "allow_fallbacks": False}, "usage": {"include": True}}
     if effort:
         body["reasoning"] = {"effort": effort}
-    if provider == "Anthropic":
-        # the SDK marks Claude prompts for caching only on direct Anthropic routes; ask OpenRouter for it
+    if provider == "Anthropic" or CONFIGS[key][2] == "meta/muse-ember":
+        # the SDK marks Claude prompts for caching only on direct Anthropic routes; ask OpenRouter for it. OpenRouter's
+        # Meta route caches Muse Ember's prompts only when asked
         body["cache_control"] = {"type": "ephemeral"}
     return body
 

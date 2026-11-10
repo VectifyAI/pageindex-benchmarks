@@ -1,0 +1,278 @@
+{
+ "model": "muse-ember-max",
+ "route": "meta/muse-ember",
+ "provider": "Meta",
+ "reasoning_setting": "max",
+ "checked": "2026-11-10 11:09:16 +0800",
+ "openrouter_reasoning": {
+  "mandatory": true,
+  "supported_efforts": [
+   "max",
+   "xhigh",
+   "high",
+   "medium",
+   "low",
+   "minimal"
+  ],
+  "default_effort": "max"
+ },
+ "declared_default": "max",
+ "pricing": {
+  "prompt": "0.0000001",
+  "completion": "0.0000005",
+  "web_search": "0.0025",
+  "input_cache_read": "0.000000004",
+  "input_cache_write": "0.000000125"
+ },
+ "endpoint_tag": "meta",
+ "endpoint_pricing": {
+  "prompt": "0.0000001",
+  "completion": "0.0000005",
+  "web_search": "0.0025",
+  "input_cache_read": "0.000000004",
+  "input_cache_write": "0.000000125",
+  "discount": 0
+ },
+ "billed_over_standard": [
+  1.0,
+  1.0
+ ],
+ "reasoning_tokens_median": {
+  "None": 1406,
+  "max": 1180,
+  "xhigh": 1562,
+  "high": 1084,
+  "medium": 948,
+  "low": 1296,
+  "minimal": 629
+ },
+ "calls": [
+  {
+   "setting": null,
+   "gen_id": "gen-1794280145-245g5SvMjxY0z09OM8YM",
+   "provider": "Meta",
+   "cost": 0.0007274,
+   "standard_price_cost": 0.0007274,
+   "reasoning_tokens": 1406
+  },
+  {
+   "setting": null,
+   "gen_id": "gen-1794280145-AZdBgLYesMr3Ap8WUZlz",
+   "provider": "Meta",
+   "cost": 0.0004034,
+   "standard_price_cost": 0.0004034,
+   "reasoning_tokens": 767
+  },
+  {
+   "setting": null,
+   "gen_id": "gen-1794280145-86wU96g4UCN4kc3JdSUB",
+   "provider": "Meta",
+   "cost": 0.0005389,
+   "standard_price_cost": 0.0005389,
+   "reasoning_tokens": 1042
+  },
+  {
+   "setting": null,
+   "gen_id": "gen-1794280145-B1kFhSgOsc0S2mH7AAPV",
+   "provider": "Meta",
+   "cost": 0.0007449,
+   "standard_price_cost": 0.0007449,
+   "reasoning_tokens": 1440
+  },
+  {
+   "setting": "max",
+   "gen_id": "gen-1794280145-dWw51BeFm55Np3eHGh8o",
+   "provider": "Meta",
+   "cost": 0.0004849,
+   "standard_price_cost": 0.0004849,
+   "reasoning_tokens": 934
+  },
+  {
+   "setting": "max",
+   "gen_id": "gen-1794280145-7M7b7twwZPrfgaQ8LstA",
+   "provider": "Meta",
+   "cost": 0.0004564,
+   "standard_price_cost": 0.0004564,
+   "reasoning_tokens": 892
+  },
+  {
+   "setting": "max",
+   "gen_id": "gen-1794280145-L58GMm2y68TdOwXWx8pj",
+   "provider": "Meta",
+   "cost": 0.0006074,
+   "standard_price_cost": 0.0006074,
+   "reasoning_tokens": 1180
+  },
+  {
+   "setting": "max",
+   "gen_id": "gen-1794280145-7LWqMkTsaJAou7EwHODG",
+   "provider": "Meta",
+   "cost": 0.0007289,
+   "standard_price_cost": 0.0007289,
+   "reasoning_tokens": 1422
+  },
+  {
+   "setting": "xhigh",
+   "gen_id": "gen-1794280147-ftJfEZSpnlrXmWn226DJ",
+   "provider": "Meta",
+   "cost": 0.0008954,
+   "standard_price_cost": 0.0008954,
+   "reasoning_tokens": 1740
+  },
+  {
+   "setting": "xhigh",
+   "gen_id": "gen-1794280147-sQdN65LqsAEV4YrbHT1G",
+   "provider": "Meta",
+   "cost": 0.0004869,
+   "standard_price_cost": 0.0004869,
+   "reasoning_tokens": 937
+  },
+  {
+   "setting": "xhigh",
+   "gen_id": "gen-1794280148-Qm88IA8JkC6ERup2jKyw",
+   "provider": "Meta",
+   "cost": 0.0004159,
+   "standard_price_cost": 0.0004159,
+   "reasoning_tokens": 795
+  },
+  {
+   "setting": "xhigh",
+   "gen_id": "gen-1794280148-hKdj4bf9HpWxyuQlN9Mo",
+   "provider": "Meta",
+   "cost": 0.0008079,
+   "standard_price_cost": 0.0008079,
+   "reasoning_tokens": 1562
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1794280148-8X563KI74xdJF2zysCO4",
+   "provider": "Meta",
+   "cost": 0.0005624,
+   "standard_price_cost": 0.0005624,
+   "reasoning_tokens": 1084
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1794280148-RAx2Dznve72Pe7yheDxH",
+   "provider": "Meta",
+   "cost": 0.0012324,
+   "standard_price_cost": 0.0012324,
+   "reasoning_tokens": 2414
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1794280148-34afpF9feGg1pQXM6HDH",
+   "provider": "Meta",
+   "cost": 0.0004469,
+   "standard_price_cost": 0.0004469,
+   "reasoning_tokens": 860
+  },
+  {
+   "setting": "high",
+   "gen_id": "gen-1794280149-c4z3Q0QoCADZcTM4McnT",
+   "provider": "Meta",
+   "cost": 0.0005004,
+   "standard_price_cost": 0.0005004,
+   "reasoning_tokens": 967
+  },
+  {
+   "setting": "medium",
+   "gen_id": "gen-1794280150-Aw0OSIHDt7NGXP7G4yPl",
+   "provider": "Meta",
+   "cost": 0.0004929,
+   "standard_price_cost": 0.0004929,
+   "reasoning_tokens": 948
+  },
+  {
+   "setting": "medium",
+   "gen_id": "gen-1794280150-kNm5I8FgsE8I6961M4KR",
+   "provider": "Meta",
+   "cost": 0.0004024,
+   "standard_price_cost": 0.0004024,
+   "reasoning_tokens": 764
+  },
+  {
+   "setting": "medium",
+   "gen_id": "gen-1794280150-BMO8KsGRDpuYsohGUf87",
+   "provider": "Meta",
+   "cost": 0.0003834,
+   "standard_price_cost": 0.0003834,
+   "reasoning_tokens": 732
+  },
+  {
+   "setting": "medium",
+   "gen_id": "gen-1794280151-bOfLRjp84hj67l9hHVml",
+   "provider": "Meta",
+   "cost": 0.0006119,
+   "standard_price_cost": 0.0006119,
+   "reasoning_tokens": 1190
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1794280151-7vIjDOCu0qZhX2Zkq94d",
+   "provider": "Meta",
+   "cost": 0.0003909,
+   "standard_price_cost": 0.0003909,
+   "reasoning_tokens": 761
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1794280152-LleZD3AnvFWRcJtl9twJ",
+   "provider": "Meta",
+   "cost": 0.0006644,
+   "standard_price_cost": 0.0006644,
+   "reasoning_tokens": 1296
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1794280152-AiLE7zvftwZTDaKMJl9b",
+   "provider": "Meta",
+   "cost": 0.0008429,
+   "standard_price_cost": 0.0008428999999999999,
+   "reasoning_tokens": 1637
+  },
+  {
+   "setting": "low",
+   "gen_id": "gen-1794280152-VCpvxF3ZFR2STC3JuyFd",
+   "provider": "Meta",
+   "cost": 0.0003784,
+   "standard_price_cost": 0.0003784,
+   "reasoning_tokens": 736
+  },
+  {
+   "setting": "minimal",
+   "gen_id": "gen-1794280152-NUlWnbGLWfra0hP6ihnS",
+   "provider": "Meta",
+   "cost": 0.0003324,
+   "standard_price_cost": 0.0003324,
+   "reasoning_tokens": 644
+  },
+  {
+   "setting": "minimal",
+   "gen_id": "gen-1794280152-KaJqIxno2EnVwF1aB6fj",
+   "provider": "Meta",
+   "cost": 0.0003249,
+   "standard_price_cost": 0.0003249,
+   "reasoning_tokens": 629
+  },
+  {
+   "setting": "minimal",
+   "gen_id": "gen-1794280153-nu0oGH0Pny0Ci8GByv78",
+   "provider": "Meta",
+   "cost": 0.0002974,
+   "standard_price_cost": 0.0002974,
+   "reasoning_tokens": 574
+  },
+  {
+   "setting": "minimal",
+   "gen_id": "gen-1794280154-cP3SqThZu8sSJLsqoQLA",
+   "provider": "Meta",
+   "cost": 0.0003199,
+   "standard_price_cost": 0.0003199,
+   "reasoning_tokens": 619
+  }
+ ],
+ "cost": 0.015482,
+ "passed": true,
+ "failures": []
+}

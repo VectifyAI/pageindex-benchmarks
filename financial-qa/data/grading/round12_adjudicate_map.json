@@ -1,0 +1,11 @@
+{
+ "fh-06": {
+  "A": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-20": {
+  "A": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-80": {
+  "A": "anchor claude-haiku-5.5-medium r1"
+ }
+}
