@@ -9,7 +9,7 @@ the generated tables and charts in `results/`.
 
 ## Financial QA
 
-Accuracy vs. cost of 39 configurations of 23 LLMs answering 100 questions over 40 Form 10-K filings
+Accuracy vs. cost of 40 configurations of 24 LLMs answering 100 questions over 40 Form 10-K filings
 from 8 companies, with PageIndex doing the retrieval.
 
 **Accuracy**

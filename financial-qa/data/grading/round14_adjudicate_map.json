@@ -1,0 +1,8 @@
+{
+ "fh-12": {
+  "A": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-32": {
+  "A": "gemini-4-carbon-high r1"
+ }
+}

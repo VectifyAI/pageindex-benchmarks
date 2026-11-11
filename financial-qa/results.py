@@ -8,7 +8,7 @@ and comparisons.
 The PNG is the SVG rendered by a headless browser, e.g.:
     google-chrome --headless --hide-scrollbars --window-size=1280,860 --force-device-scale-factor=2 \
         --screenshot=results/accuracy_vs_cost.png results/accuracy_vs_cost.svg
-and the leaderboard the same way at --window-size=1280,1272.
+and the leaderboard the same way at --window-size=1280,1298.
 """
 import base64
 import csv
@@ -116,7 +116,7 @@ PLACE = {"deepseek-v4.1-flash-high": (0, -12, "middle"), "kimi-k3.1-pro-max": (1
          "muse-spark-open-xhigh": (0, -14, "middle"), "gpt-6.1-sol-medium": (-10, -10, "end"),
          "muse-wonder-adaptive": (-11, 4, "end"), "claude-opus-5.5-medium": (0, 22, "middle"),
          "qwen3.8-max-xhigh": (0, -12, "middle"), "gemini-4-argon-medium": (-10, -10, "end"),
-         "gemini-4-argon-high": (0, -12, "middle"), "claude-sonnet-5.5-max": (11, 16, "start"),
+         "gemini-4-argon-high": (0, -12, "middle"), "gemini-4-carbon-high": (7, -12, "start"), "claude-sonnet-5.5-max": (11, 16, "start"),
          "claude-haiku-5.5-max": (0, -12, "middle"), "claude-opus-5.5-max": (0, -12, "middle")}
 # in the table, not on the chart, to declutter: three models shown at a higher level; MiniMax at high and low, within
 # noise of a point shown (high) or below another model (low)

@@ -1,0 +1,28 @@
+{
+ "fh-06": {
+  "A": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-20": {
+  "A": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-60": {
+  "A": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-62": {
+  "A": "gemini-4-carbon-high r2",
+  "B": "gemini-4-carbon-high r3"
+ },
+ "fh-64": {
+  "A": "gemini-4-carbon-high r2"
+ },
+ "fh-69": {
+  "A": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-80": {
+  "A": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-32": {
+  "C": "gemini-4-carbon-high r2",
+  "D": "gemini-4-carbon-high r3"
+ }
+}

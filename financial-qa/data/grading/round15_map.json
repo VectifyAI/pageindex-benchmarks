@@ -1,0 +1,602 @@
+{
+ "fh-01": {
+  "A": "gemini-4-carbon-high r2",
+  "B": "gemini-4-carbon-high r3",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-02": {
+  "A": "gemini-4-carbon-high r3",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "gemini-4-carbon-high r2"
+ },
+ "fh-03": {
+  "A": "gemini-4-carbon-high r2",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "gemini-4-carbon-high r3"
+ },
+ "fh-04": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gemini-4-carbon-high r2",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "gemini-4-carbon-high r3"
+ },
+ "fh-05": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gemini-4-carbon-high r2",
+  "C": "gemini-4-carbon-high r3",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-06": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "gemini-4-carbon-high r3",
+  "C": "gemini-4-carbon-high r2",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-07": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "gemini-4-carbon-high r2",
+  "D": "gemini-4-carbon-high r3"
+ },
+ "fh-08": {
+  "A": "gemini-4-carbon-high r3",
+  "B": "gemini-4-carbon-high r2",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-09": {
+  "A": "gemini-4-carbon-high r2",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "gemini-4-carbon-high r3"
+ },
+ "fh-10": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "gemini-4-carbon-high r3",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "gemini-4-carbon-high r2"
+ },
+ "fh-11": {
+  "A": "gemini-4-carbon-high r3",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "gemini-4-carbon-high r2"
+ },
+ "fh-12": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "gemini-4-carbon-high r2",
+  "C": "gemini-4-carbon-high r3",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-13": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gemini-4-carbon-high r3",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "gemini-4-carbon-high r2"
+ },
+ "fh-14": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gemini-4-carbon-high r3",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "gemini-4-carbon-high r2"
+ },
+ "fh-15": {
+  "A": "gemini-4-carbon-high r2",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "gemini-4-carbon-high r3"
+ },
+ "fh-16": {
+  "A": "gemini-4-carbon-high r2",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "gemini-4-carbon-high r3",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-17": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "gemini-4-carbon-high r2",
+  "D": "gemini-4-carbon-high r3"
+ },
+ "fh-18": {
+  "A": "gemini-4-carbon-high r2",
+  "B": "gemini-4-carbon-high r3",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-19": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "gemini-4-carbon-high r2",
+  "D": "gemini-4-carbon-high r3"
+ },
+ "fh-20": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "gemini-4-carbon-high r3",
+  "D": "gemini-4-carbon-high r2"
+ },
+ "fh-21": {
+  "A": "gemini-4-carbon-high r3",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "gemini-4-carbon-high r2"
+ },
+ "fh-22": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gemini-4-carbon-high r2",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "gemini-4-carbon-high r3"
+ },
+ "fh-23": {
+  "A": "gemini-4-carbon-high r2",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "gemini-4-carbon-high r3",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-24": {
+  "A": "gemini-4-carbon-high r2",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "gemini-4-carbon-high r3",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-25": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gemini-4-carbon-high r3",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "gemini-4-carbon-high r2"
+ },
+ "fh-26": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gemini-4-carbon-high r2",
+  "C": "gemini-4-carbon-high r3",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-27": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "gemini-4-carbon-high r2",
+  "D": "gemini-4-carbon-high r3"
+ },
+ "fh-28": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "gemini-4-carbon-high r3",
+  "C": "gemini-4-carbon-high r2",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-29": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gemini-4-carbon-high r3",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "gemini-4-carbon-high r2"
+ },
+ "fh-30": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "gemini-4-carbon-high r2",
+  "C": "gemini-4-carbon-high r3",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-31": {
+  "A": "gemini-4-carbon-high r3",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "gemini-4-carbon-high r2"
+ },
+ "fh-32": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gemini-4-carbon-high r2",
+  "C": "gemini-4-carbon-high r3",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-33": {
+  "A": "gemini-4-carbon-high r3",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "gemini-4-carbon-high r2"
+ },
+ "fh-34": {
+  "A": "gemini-4-carbon-high r3",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "gemini-4-carbon-high r2",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-35": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "gemini-4-carbon-high r3",
+  "D": "gemini-4-carbon-high r2"
+ },
+ "fh-36": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "gemini-4-carbon-high r2",
+  "C": "gemini-4-carbon-high r3",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-37": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "gemini-4-carbon-high r3",
+  "D": "gemini-4-carbon-high r2"
+ },
+ "fh-38": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "gemini-4-carbon-high r3",
+  "C": "gemini-4-carbon-high r2",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-39": {
+  "A": "gemini-4-carbon-high r2",
+  "B": "gemini-4-carbon-high r3",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-40": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gemini-4-carbon-high r2",
+  "C": "gemini-4-carbon-high r3",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-41": {
+  "A": "gemini-4-carbon-high r2",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "gemini-4-carbon-high r3"
+ },
+ "fh-42": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gemini-4-carbon-high r2",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "gemini-4-carbon-high r3"
+ },
+ "fh-43": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "gemini-4-carbon-high r2",
+  "D": "gemini-4-carbon-high r3"
+ },
+ "fh-44": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gemini-4-carbon-high r3",
+  "C": "gemini-4-carbon-high r2",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-45": {
+  "A": "gemini-4-carbon-high r3",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "gemini-4-carbon-high r2",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-46": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "gemini-4-carbon-high r3",
+  "D": "gemini-4-carbon-high r2"
+ },
+ "fh-47": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gemini-4-carbon-high r2",
+  "C": "gemini-4-carbon-high r3",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-48": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gemini-4-carbon-high r3",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "gemini-4-carbon-high r2"
+ },
+ "fh-49": {
+  "A": "gemini-4-carbon-high r2",
+  "B": "gemini-4-carbon-high r3",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-50": {
+  "A": "gemini-4-carbon-high r2",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "gemini-4-carbon-high r3"
+ },
+ "fh-51": {
+  "A": "gemini-4-carbon-high r3",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "gemini-4-carbon-high r2",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-52": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "gemini-4-carbon-high r3",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "gemini-4-carbon-high r2"
+ },
+ "fh-53": {
+  "A": "gemini-4-carbon-high r3",
+  "B": "gemini-4-carbon-high r2",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-54": {
+  "A": "gemini-4-carbon-high r3",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "gemini-4-carbon-high r2"
+ },
+ "fh-55": {
+  "A": "gemini-4-carbon-high r3",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "gemini-4-carbon-high r2"
+ },
+ "fh-56": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gemini-4-carbon-high r2",
+  "C": "gemini-4-carbon-high r3",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-57": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gemini-4-carbon-high r2",
+  "C": "gemini-4-carbon-high r3",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-58": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "gemini-4-carbon-high r2",
+  "D": "gemini-4-carbon-high r3"
+ },
+ "fh-59": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gemini-4-carbon-high r2",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "gemini-4-carbon-high r3"
+ },
+ "fh-60": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "gemini-4-carbon-high r2",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "gemini-4-carbon-high r3"
+ },
+ "fh-61": {
+  "A": "gemini-4-carbon-high r2",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "gemini-4-carbon-high r3",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-62": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "gemini-4-carbon-high r2",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "gemini-4-carbon-high r3"
+ },
+ "fh-63": {
+  "A": "gemini-4-carbon-high r2",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "gemini-4-carbon-high r3"
+ },
+ "fh-64": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "gemini-4-carbon-high r2",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "gemini-4-carbon-high r3"
+ },
+ "fh-65": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "gemini-4-carbon-high r2",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "gemini-4-carbon-high r3"
+ },
+ "fh-66": {
+  "A": "gemini-4-carbon-high r2",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "gemini-4-carbon-high r3",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-67": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "gemini-4-carbon-high r3",
+  "C": "gemini-4-carbon-high r2",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-68": {
+  "A": "gemini-4-carbon-high r2",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "gemini-4-carbon-high r3",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-69": {
+  "A": "gemini-4-carbon-high r3",
+  "B": "gemini-4-carbon-high r2",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-70": {
+  "A": "gemini-4-carbon-high r3",
+  "B": "gemini-4-carbon-high r2",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-71": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "gemini-4-carbon-high r3",
+  "D": "gemini-4-carbon-high r2"
+ },
+ "fh-72": {
+  "A": "gemini-4-carbon-high r2",
+  "B": "gemini-4-carbon-high r3",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-73": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gemini-4-carbon-high r3",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "gemini-4-carbon-high r2"
+ },
+ "fh-74": {
+  "A": "gemini-4-carbon-high r3",
+  "B": "gemini-4-carbon-high r2",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-75": {
+  "A": "gemini-4-carbon-high r2",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "gemini-4-carbon-high r3",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-76": {
+  "A": "gemini-4-carbon-high r2",
+  "B": "gemini-4-carbon-high r3",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-77": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gemini-4-carbon-high r3",
+  "C": "gemini-4-carbon-high r2",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-78": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gemini-4-carbon-high r2",
+  "C": "gemini-4-carbon-high r3",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-79": {
+  "A": "gemini-4-carbon-high r2",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "gemini-4-carbon-high r3",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-80": {
+  "A": "gemini-4-carbon-high r2",
+  "B": "gemini-4-carbon-high r3",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-81": {
+  "A": "gemini-4-carbon-high r3",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "gemini-4-carbon-high r2"
+ },
+ "fh-82": {
+  "A": "gemini-4-carbon-high r3",
+  "B": "gemini-4-carbon-high r2",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-83": {
+  "A": "gemini-4-carbon-high r3",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "gemini-4-carbon-high r2",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-84": {
+  "A": "gemini-4-carbon-high r3",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "gemini-4-carbon-high r2",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-85": {
+  "A": "gemini-4-carbon-high r3",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "gemini-4-carbon-high r2",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-86": {
+  "A": "gemini-4-carbon-high r3",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "gemini-4-carbon-high r2"
+ },
+ "fh-87": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gemini-4-carbon-high r3",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "gemini-4-carbon-high r2"
+ },
+ "fh-88": {
+  "A": "gemini-4-carbon-high r2",
+  "B": "gemini-4-carbon-high r3",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-89": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "gemini-4-carbon-high r3",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "gemini-4-carbon-high r2"
+ },
+ "fh-90": {
+  "A": "gemini-4-carbon-high r3",
+  "B": "gemini-4-carbon-high r2",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-91": {
+  "A": "gemini-4-carbon-high r3",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "gemini-4-carbon-high r2",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-92": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "gemini-4-carbon-high r3",
+  "D": "gemini-4-carbon-high r2"
+ },
+ "fh-93": {
+  "A": "gemini-4-carbon-high r2",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "gemini-4-carbon-high r3",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-94": {
+  "A": "anchor claude-haiku-5.5-medium r1",
+  "B": "gemini-4-carbon-high r2",
+  "C": "anchor deepseek-v4.1-flash-high r1",
+  "D": "gemini-4-carbon-high r3"
+ },
+ "fh-95": {
+  "A": "gemini-4-carbon-high r2",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "gemini-4-carbon-high r3"
+ },
+ "fh-96": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "gemini-4-carbon-high r3",
+  "C": "gemini-4-carbon-high r2",
+  "D": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-97": {
+  "A": "gemini-4-carbon-high r3",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "gemini-4-carbon-high r2",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ },
+ "fh-98": {
+  "A": "gemini-4-carbon-high r3",
+  "B": "anchor deepseek-v4.1-flash-high r1",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "gemini-4-carbon-high r2"
+ },
+ "fh-99": {
+  "A": "anchor deepseek-v4.1-flash-high r1",
+  "B": "gemini-4-carbon-high r3",
+  "C": "anchor claude-haiku-5.5-medium r1",
+  "D": "gemini-4-carbon-high r2"
+ },
+ "fh-100": {
+  "A": "gemini-4-carbon-high r3",
+  "B": "anchor claude-haiku-5.5-medium r1",
+  "C": "gemini-4-carbon-high r2",
+  "D": "anchor deepseek-v4.1-flash-high r1"
+ }
+}
