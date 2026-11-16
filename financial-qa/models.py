@@ -1,4 +1,4 @@
-"""The 40 configurations benchmarked: a model on OpenRouter, the provider it is pinned to, and a reasoning level."""
+"""The 41 configurations benchmarked: a model on OpenRouter, the provider it is pinned to, and a reasoning level."""
 
 # key: (name, vendor, OpenRouter model, provider, level, effort). `effort` is the reasoning.effort sent; None sends
 # no reasoning setting, so the model runs at its default level, which is `level` (METHOD.md, "Reasoning levels").
@@ -33,6 +33,7 @@ CONFIGS = {
     "deepseek-v4.1-flash-max": ("DeepSeek V4.1 Flash", "DeepSeek", "deepseek/deepseek-v4.1-flash-1017", "Together", "max", "max"),
     "deepseek-v4.1-flash-high": ("DeepSeek V4.1 Flash", "DeepSeek", "deepseek/deepseek-v4.1-flash-1017", "Together", "high", None),
     "qwen3.8-max-xhigh": ("Qwen3.8 Max", "Alibaba", "qwen/qwen3.8-max-0902", "Alibaba", "xhigh", None),
+    "qwen4-max-xhigh": ("Qwen4 Max", "Alibaba", "qwen/qwen4-max", "Alibaba", "xhigh", "xhigh"),
     "qwen3.8-27b-xhigh": ("Qwen3.8 27B", "Alibaba", "qwen/qwen3.8-27b", "Alibaba", "xhigh", None),
     "glm-5.3-max": ("GLM-5.3", "Z AI", "z-ai/glm-5.3", "Z.AI", "max", None),
     "glm-5.3-flash-max": ("GLM-5.3-Flash", "Z AI", "z-ai/glm-5.3-flash", "Z.AI", "max", None),

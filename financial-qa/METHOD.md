@@ -41,7 +41,7 @@ verified candidates.
 
 ## Configurations
 
-A configuration is a model at one reasoning level (`models.py`): 40 configurations of 24 models, 12 of them at two
+A configuration is a model at one reasoning level (`models.py`): 41 configurations of 25 models, 12 of them at two
 or more levels.
 
 - **Route**: OpenRouter, each model pinned to one provider with fallbacks off, at its standard tier (no flex, fast or
@@ -61,7 +61,8 @@ or more levels.
 - Each run's own reference line (`Request reference: r1-…`) is part of every request's system prompt, so runs do
   not share cached conversations.
 - Up to 20 agent turns per question. An answer that runs out of turns is asked again from the start with up to 100,
-  and that answer stands: the limit belongs to the harness, not the model.
+  and that answer stands: the limit belongs to the harness, not the model. Qwen4 Max, added last, has up to 100
+  turns from the start.
 - A transient provider or account error (rate limit, 5xx, dropped connection, OpenRouter's in-flight credit check)
   repeats the call; a question whose attempt still fails is asked again, as is an empty response the provider cut
   off or never processed.
@@ -108,6 +109,8 @@ anchors that show it grades on the same scale.
 | round13 | the same, runs 2–3 | 399 / 400 | 1 | 198 / 200 |
 | round14 | Gemini 4 Carbon (high), run 1 | 297 / 300 | 2 | 197 / 200 |
 | round15 | the same, runs 2–3 | 389 / 400 | 10 | 195 / 200 |
+| round16 | Qwen4 Max (xhigh), run 1 | 298 / 300 | 3 | 195 / 200 |
+| round17 | the same, runs 2–3 | 394 / 400 | 6 | 197 / 200 |
 | fh32 | every answer to fh-32 in round1–11's results, graded again | 8 / 120 | 112 | – |
 | fh62 | every answer to fh-62 in the results, graded again | 118 / 126 | 126 | – |
 
@@ -116,7 +119,8 @@ Management) differently, some as contradictions and some not, so every answer to
 graded again in one round, fh32 (`grade.py regrade`), with a check grader on every answer and a third grader on each
 disagreement; these grades replace the earlier ones. The first two graders read the extras in opposite ways, alike
 on 8 of the 120 answers; the third found no contradiction in any of the 112 they disagreed on. Answers to it from
-later rounds keep their own round's grades, with a third grader where the first two differ. fh-62 was graded again
+later rounds keep their own round's grades, with a third grader where the first two differ and on Qwen4 Max's
+run 1, which both judged a contradiction (upheld). fh-62 was graded again
 the same way, in round fh62, after graders of different rounds judged one form of answer differently: the U.S.
 listed as "more than 10%" of revenue, marked as a threshold rather than a stated share. The agreement columns count
 each round's own grades of both questions.
@@ -134,7 +138,7 @@ turns 17 answers, graded in round1 to round3, from wrong to right.
 - A run's cost is the sum over its questions of the attempt whose answer stands; attempts retried after an error or
   replaced by an answer asked again are not counted (`results/runs.csv` also gives each run's full bill,
   `billed_usd`). The cost per run in the results is the mean over runs.
-- Prices are those of the pinned providers from 2026-10-22 to 2026-11-11, when the runs were made. Gemini 4 Argon,
+- Prices are those of the pinned providers from 2026-10-22 to 2026-11-16, when the runs were made. Gemini 4 Argon,
   Gemini 4 Carbon, Gemini 3.8 Flash and Hy4 ran at their makers' launch prices, half the later ones, until
   2026-11-30, 2026-11-30, 2026-12-31 and 2026-12-31; their costs are as billed. Meta bills Muse Ember's requests
   over 200K input tokens at three times its base rate; OpenRouter billed them at the base rate.

@@ -37,6 +37,8 @@ MAX_TURNS = 20
 # a question that runs out of MAX_TURNS is asked once more, from the start, with this many: the limit is the
 # harness's, not the model's. At it, or at the context window, the answer stays wrong (METHOD.md)
 REASK_TURNS = 100
+# configurations added from Qwen4 Max on answer with REASK_TURNS from the start, not asked again (METHOD.md)
+FIRST_TURNS = {"qwen4-max-xhigh"}
 REFERENCE = "Request reference: {}"
 
 litellm.suppress_debug_info = True
@@ -347,8 +349,8 @@ RETRY_PAUSES = (60, 180, 420)  # seconds before each re-try of the questions tha
 
 def answer(key, run):
     """One run of the questions with MAX_TURNS each, then the questions that ran out of turns asked again, from the
-    start, with REASK_TURNS; those rows stand in place of the earlier ones (grade.py answer_rows). Each pass
-    writes a line to data/runs.jsonl."""
+    start, with REASK_TURNS; those rows stand in place of the earlier ones (grade.py answer_rows). A configuration in
+    FIRST_TURNS answers once, with REASK_TURNS. Each pass writes a line to data/runs.jsonl."""
     from pageindex import PageIndexClient
 
     if not preflight_passed(key):
@@ -362,11 +364,11 @@ def answer(key, run):
     log = CallLog(calls_path, ref, questions)
     litellm.callbacks = [log]
 
-    def one_pass(items, turns):
+    def one_pass(items, turns, reask=False):
         def work(q):
             started = time.time()
             row = {"id": q["id"], "model": key, "run": run, "route": model, "ref": ref, "started": round(started, 3)}
-            if turns == REASK_TURNS:
+            if reask:
                 row["max_turns_limit"] = turns
             try:
                 r = client.chat(q["question"], doc_id=None, protocol="chat_completions", max_turns=turns,
@@ -388,7 +390,7 @@ def answer(key, run):
 
         # each pass counts only its own rows, so its errors are retried as usual and a resumed first pass leaves the
         # questions asked again to the second
-        counts = (lambda row: row.get("max_turns_limit") == REASK_TURNS) if turns == REASK_TURNS \
+        counts = (lambda row: row.get("max_turns_limit") == REASK_TURNS) if reask \
             else (lambda row: row.get("max_turns_limit") != REASK_TURNS)
         log.reset()
         started = time.time()
@@ -406,14 +408,17 @@ def answer(key, run):
                                 "output_tokens": log.tokens[2], "errors_left": errors, "route": model,
                                 "provider": provider, "reasoning": effort, "workers": WORKERS,
                                 "started": round(started, 3), "ended": round(time.time(), 3), "env": environment(turns),
-                                **({"reask": sorted(q["id"] for q in items)} if turns == REASK_TURNS else {}),
+                                **({"reask": sorted(q["id"] for q in items)} if reask else {}),
                                 "source": "OpenRouter usage.cost per call, summed by run.py"}) + "\n")
         print(f"billed ${log.usd:.4f} over {log.calls} calls" + (f"; {errors} questions still failing" if errors else ""))
 
-    one_pass(questions, MAX_TURNS)
-    if again := capped(path):
-        print(f"{len(again)} questions ran out of {MAX_TURNS} turns; asking them again with up to {REASK_TURNS}")
-        one_pass([q for q in questions if q["id"] in again], REASK_TURNS)
+    if key in FIRST_TURNS:
+        one_pass(questions, REASK_TURNS)
+    else:
+        one_pass(questions, MAX_TURNS)
+        if again := capped(path):
+            print(f"{len(again)} questions ran out of {MAX_TURNS} turns; asking them again with up to {REASK_TURNS}")
+            one_pass([q for q in questions if q["id"] in again], REASK_TURNS, reask=True)
     generations(key, run)
 
 

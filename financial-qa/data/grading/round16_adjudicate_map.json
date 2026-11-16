@@ -1,0 +1,11 @@
+{
+ "fh-06": {
+  "A": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-80": {
+  "A": "anchor claude-haiku-5.5-medium r1"
+ },
+ "fh-32": {
+  "A": "qwen4-max-xhigh r1"
+ }
+}

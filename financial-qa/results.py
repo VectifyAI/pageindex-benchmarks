@@ -8,7 +8,7 @@ and comparisons.
 The PNG is the SVG rendered by a headless browser, e.g.:
     google-chrome --headless --hide-scrollbars --window-size=1280,860 --force-device-scale-factor=2 \
         --screenshot=results/accuracy_vs_cost.png results/accuracy_vs_cost.svg
-and the leaderboard the same way at --window-size=1280,1298.
+and the leaderboard the same way at --window-size=1280,1324.
 """
 import base64
 import csv
@@ -110,12 +110,12 @@ COLOR = {"OpenAI": "#1f1f1f", "Anthropic": "#c8795a", "Google": "#36a854", "Alib
 VENDORS = ("OpenAI", "Anthropic", "Google", "Alibaba", "Z AI", "Xiaomi", "Kimi", "DeepSeek", "MiniMax", "Meta", "SpaceXAI",
            "Tencent")
 # label position per configuration: (dx, dy, text-anchor) from the marker, set by eye against the rendered chart
-PLACE = {"deepseek-v4.1-flash-high": (0, -12, "middle"), "kimi-k3.1-pro-max": (11, 18, "start"), "gpt-6.1-terra-max": (-10, -10, "end"), "minimax-m3.1-flash-max": (11, 4, "start"), "gpt-6.1-sol-low": (-11, 4, "end"), "minimax-m3.1-flash-xhigh": (-11, 4, "end"),
+PLACE = {"deepseek-v4.1-flash-high": (11, 4, "start"), "gpt-6-luna-max": (-11, 4, "end"), "kimi-k3.1-pro-max": (11, 18, "start"), "gpt-6.1-terra-max": (-10, -10, "end"), "minimax-m3.1-flash-max": (11, 4, "start"), "gpt-6.1-sol-low": (-11, 4, "end"), "minimax-m3.1-flash-xhigh": (-11, 4, "end"),
          "minimax-m3.1-flash-medium": (8, 24, "start"), "mimo-v2.6-flash": (11, 9, "start"),
          "glm-5.3-flash-max": (-9, -9, "end"), "glm-5.3-max": (0, 22, "middle"),
          "muse-spark-open-xhigh": (0, -14, "middle"), "gpt-6.1-sol-medium": (-10, -10, "end"),
          "muse-wonder-adaptive": (-11, 4, "end"), "claude-opus-5.5-medium": (0, 22, "middle"),
-         "qwen3.8-max-xhigh": (0, -12, "middle"), "gemini-4-argon-medium": (-10, -10, "end"),
+         "qwen3.8-max-xhigh": (0, 22, "middle"), "gemini-4-argon-medium": (-10, -10, "end"),
          "gemini-4-argon-high": (0, -12, "middle"), "gemini-4-carbon-high": (7, -12, "start"), "claude-sonnet-5.5-max": (11, 16, "start"),
          "claude-haiku-5.5-max": (0, -12, "middle"), "claude-opus-5.5-max": (0, -12, "middle")}
 # in the table, not on the chart, to declutter: three models shown at a higher level; MiniMax at high and low, within

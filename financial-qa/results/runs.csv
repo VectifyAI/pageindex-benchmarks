@@ -80,6 +80,9 @@ deepseek-v4.1-flash-high,DeepSeek V4.1 Flash,high,3,81,42,21,18,0,2.537508,2.537
 qwen3.8-max-xhigh,Qwen3.8 Max,xhigh,1,88,44,24,20,0,30.779254,31.817380
 qwen3.8-max-xhigh,Qwen3.8 Max,xhigh,2,90,46,24,20,3,31.255206,36.247742
 qwen3.8-max-xhigh,Qwen3.8 Max,xhigh,3,89,46,24,19,2,31.078578,33.653314
+qwen4-max-xhigh,Qwen4 Max,xhigh,1,89,47,23,19,0,19.012352,19.012352
+qwen4-max-xhigh,Qwen4 Max,xhigh,2,90,47,23,20,0,17.506878,17.506878
+qwen4-max-xhigh,Qwen4 Max,xhigh,3,92,48,24,20,0,18.602367,18.602367
 qwen3.8-27b-xhigh,Qwen3.8 27B,xhigh,1,76,42,16,18,0,7.650513,7.887356
 qwen3.8-27b-xhigh,Qwen3.8 27B,xhigh,2,76,40,17,19,0,7.835013,7.929364
 qwen3.8-27b-xhigh,Qwen3.8 27B,xhigh,3,69,35,15,19,0,7.557904,7.642818
