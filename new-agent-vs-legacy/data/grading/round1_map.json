@@ -1,0 +1,502 @@
+{
+ "fh-01": {
+  "B": "gpt-6.1-terra-max r2",
+  "C": "gpt-6.1-terra-max r3",
+  "D": "gpt-6.1-terra-max r1"
+ },
+ "fh-02": {
+  "A": "gpt-6.1-terra-max r3",
+  "B": "gpt-6.1-terra-max r2",
+  "C": "gpt-6.1-terra-max r1"
+ },
+ "fh-03": {
+  "A": "gpt-6.1-terra-max r2",
+  "C": "gpt-6.1-terra-max r1",
+  "D": "gpt-6.1-terra-max r3"
+ },
+ "fh-04": {
+  "B": "gpt-6.1-terra-max r2",
+  "C": "gpt-6.1-terra-max r3",
+  "F": "gpt-6.1-terra-max r1"
+ },
+ "fh-05": {
+  "A": "gpt-6.1-terra-max r2",
+  "B": "gpt-6.1-terra-max r1",
+  "E": "gpt-6.1-terra-max r3"
+ },
+ "fh-06": {
+  "B": "gpt-6.1-terra-max r1",
+  "D": "gpt-6.1-terra-max r3",
+  "F": "gpt-6.1-terra-max r2"
+ },
+ "fh-07": {
+  "A": "gpt-6.1-terra-max r3",
+  "B": "gpt-6.1-terra-max r2",
+  "E": "gpt-6.1-terra-max r1"
+ },
+ "fh-08": {
+  "A": "gpt-6.1-terra-max r3",
+  "E": "gpt-6.1-terra-max r1",
+  "F": "gpt-6.1-terra-max r2"
+ },
+ "fh-09": {
+  "A": "gpt-6.1-terra-max r1",
+  "B": "gpt-6.1-terra-max r2",
+  "F": "gpt-6.1-terra-max r3"
+ },
+ "fh-10": {
+  "B": "gpt-6.1-terra-max r3",
+  "E": "gpt-6.1-terra-max r1",
+  "F": "gpt-6.1-terra-max r2"
+ },
+ "fh-11": {
+  "B": "gpt-6.1-terra-max r1",
+  "C": "gpt-6.1-terra-max r3",
+  "F": "gpt-6.1-terra-max r2"
+ },
+ "fh-12": {
+  "B": "gpt-6.1-terra-max r3",
+  "E": "gpt-6.1-terra-max r1",
+  "F": "gpt-6.1-terra-max r2"
+ },
+ "fh-13": {
+  "C": "gpt-6.1-terra-max r1",
+  "D": "gpt-6.1-terra-max r3",
+  "F": "gpt-6.1-terra-max r2"
+ },
+ "fh-14": {
+  "A": "gpt-6.1-terra-max r2",
+  "C": "gpt-6.1-terra-max r3",
+  "E": "gpt-6.1-terra-max r1"
+ },
+ "fh-15": {
+  "B": "gpt-6.1-terra-max r2",
+  "C": "gpt-6.1-terra-max r1",
+  "D": "gpt-6.1-terra-max r3"
+ },
+ "fh-16": {
+  "A": "gpt-6.1-terra-max r3",
+  "E": "gpt-6.1-terra-max r1",
+  "F": "gpt-6.1-terra-max r2"
+ },
+ "fh-17": {
+  "C": "gpt-6.1-terra-max r1",
+  "E": "gpt-6.1-terra-max r2",
+  "F": "gpt-6.1-terra-max r3"
+ },
+ "fh-18": {
+  "A": "gpt-6.1-terra-max r3",
+  "D": "gpt-6.1-terra-max r1",
+  "E": "gpt-6.1-terra-max r2"
+ },
+ "fh-19": {
+  "A": "gpt-6.1-terra-max r2",
+  "C": "gpt-6.1-terra-max r3",
+  "F": "gpt-6.1-terra-max r1"
+ },
+ "fh-20": {
+  "B": "gpt-6.1-terra-max r2",
+  "C": "gpt-6.1-terra-max r1",
+  "E": "gpt-6.1-terra-max r3"
+ },
+ "fh-21": {
+  "B": "gpt-6.1-terra-max r1",
+  "D": "gpt-6.1-terra-max r3",
+  "F": "gpt-6.1-terra-max r2"
+ },
+ "fh-22": {
+  "A": "gpt-6.1-terra-max r1",
+  "C": "gpt-6.1-terra-max r2",
+  "E": "gpt-6.1-terra-max r3"
+ },
+ "fh-23": {
+  "C": "gpt-6.1-terra-max r3",
+  "D": "gpt-6.1-terra-max r1",
+  "F": "gpt-6.1-terra-max r2"
+ },
+ "fh-24": {
+  "B": "gpt-6.1-terra-max r2",
+  "C": "gpt-6.1-terra-max r1",
+  "D": "gpt-6.1-terra-max r3"
+ },
+ "fh-25": {
+  "D": "gpt-6.1-terra-max r2",
+  "E": "gpt-6.1-terra-max r3",
+  "F": "gpt-6.1-terra-max r1"
+ },
+ "fh-26": {
+  "B": "gpt-6.1-terra-max r3",
+  "C": "gpt-6.1-terra-max r1",
+  "E": "gpt-6.1-terra-max r2"
+ },
+ "fh-27": {
+  "C": "gpt-6.1-terra-max r2",
+  "D": "gpt-6.1-terra-max r1",
+  "E": "gpt-6.1-terra-max r3"
+ },
+ "fh-28": {
+  "A": "gpt-6.1-terra-max r3",
+  "C": "gpt-6.1-terra-max r1",
+  "D": "gpt-6.1-terra-max r2"
+ },
+ "fh-29": {
+  "C": "gpt-6.1-terra-max r2",
+  "E": "gpt-6.1-terra-max r3",
+  "F": "gpt-6.1-terra-max r1"
+ },
+ "fh-30": {
+  "C": "gpt-6.1-terra-max r2",
+  "E": "gpt-6.1-terra-max r3",
+  "F": "gpt-6.1-terra-max r1"
+ },
+ "fh-31": {
+  "A": "gpt-6.1-terra-max r2",
+  "C": "gpt-6.1-terra-max r3",
+  "D": "gpt-6.1-terra-max r1"
+ },
+ "fh-32": {
+  "B": "gpt-6.1-terra-max r2",
+  "C": "gpt-6.1-terra-max r3",
+  "F": "gpt-6.1-terra-max r1"
+ },
+ "fh-33": {
+  "A": "gpt-6.1-terra-max r2",
+  "D": "gpt-6.1-terra-max r1",
+  "F": "gpt-6.1-terra-max r3"
+ },
+ "fh-34": {
+  "A": "gpt-6.1-terra-max r2",
+  "C": "gpt-6.1-terra-max r3",
+  "F": "gpt-6.1-terra-max r1"
+ },
+ "fh-35": {
+  "B": "gpt-6.1-terra-max r1",
+  "C": "gpt-6.1-terra-max r2",
+  "D": "gpt-6.1-terra-max r3"
+ },
+ "fh-36": {
+  "B": "gpt-6.1-terra-max r1",
+  "D": "gpt-6.1-terra-max r3",
+  "F": "gpt-6.1-terra-max r2"
+ },
+ "fh-37": {
+  "B": "gpt-6.1-terra-max r1",
+  "C": "gpt-6.1-terra-max r3",
+  "F": "gpt-6.1-terra-max r2"
+ },
+ "fh-38": {
+  "A": "gpt-6.1-terra-max r2",
+  "C": "gpt-6.1-terra-max r1",
+  "D": "gpt-6.1-terra-max r3"
+ },
+ "fh-39": {
+  "A": "gpt-6.1-terra-max r1",
+  "D": "gpt-6.1-terra-max r3",
+  "E": "gpt-6.1-terra-max r2"
+ },
+ "fh-40": {
+  "C": "gpt-6.1-terra-max r2",
+  "D": "gpt-6.1-terra-max r1",
+  "F": "gpt-6.1-terra-max r3"
+ },
+ "fh-41": {
+  "A": "gpt-6.1-terra-max r1",
+  "E": "gpt-6.1-terra-max r3",
+  "F": "gpt-6.1-terra-max r2"
+ },
+ "fh-42": {
+  "B": "gpt-6.1-terra-max r2",
+  "C": "gpt-6.1-terra-max r1",
+  "E": "gpt-6.1-terra-max r3"
+ },
+ "fh-43": {
+  "A": "gpt-6.1-terra-max r1",
+  "C": "gpt-6.1-terra-max r2",
+  "F": "gpt-6.1-terra-max r3"
+ },
+ "fh-44": {
+  "B": "gpt-6.1-terra-max r2",
+  "C": "gpt-6.1-terra-max r3",
+  "D": "gpt-6.1-terra-max r1"
+ },
+ "fh-45": {
+  "C": "gpt-6.1-terra-max r3",
+  "D": "gpt-6.1-terra-max r1",
+  "E": "gpt-6.1-terra-max r2"
+ },
+ "fh-46": {
+  "A": "gpt-6.1-terra-max r2",
+  "D": "gpt-6.1-terra-max r1",
+  "E": "gpt-6.1-terra-max r3"
+ },
+ "fh-47": {
+  "C": "gpt-6.1-terra-max r2",
+  "E": "gpt-6.1-terra-max r3",
+  "F": "gpt-6.1-terra-max r1"
+ },
+ "fh-48": {
+  "B": "gpt-6.1-terra-max r2",
+  "C": "gpt-6.1-terra-max r3",
+  "F": "gpt-6.1-terra-max r1"
+ },
+ "fh-49": {
+  "B": "gpt-6.1-terra-max r3",
+  "C": "gpt-6.1-terra-max r2",
+  "D": "gpt-6.1-terra-max r1"
+ },
+ "fh-50": {
+  "B": "gpt-6.1-terra-max r2",
+  "C": "gpt-6.1-terra-max r3",
+  "D": "gpt-6.1-terra-max r1"
+ },
+ "fh-51": {
+  "C": "gpt-6.1-terra-max r3",
+  "E": "gpt-6.1-terra-max r2",
+  "F": "gpt-6.1-terra-max r1"
+ },
+ "fh-52": {
+  "A": "gpt-6.1-terra-max r1",
+  "B": "gpt-6.1-terra-max r3",
+  "C": "gpt-6.1-terra-max r2"
+ },
+ "fh-53": {
+  "B": "gpt-6.1-terra-max r3",
+  "D": "gpt-6.1-terra-max r1",
+  "F": "gpt-6.1-terra-max r2"
+ },
+ "fh-54": {
+  "A": "gpt-6.1-terra-max r3",
+  "B": "gpt-6.1-terra-max r2",
+  "C": "gpt-6.1-terra-max r1"
+ },
+ "fh-55": {
+  "B": "gpt-6.1-terra-max r2",
+  "D": "gpt-6.1-terra-max r1",
+  "E": "gpt-6.1-terra-max r3"
+ },
+ "fh-56": {
+  "A": "gpt-6.1-terra-max r1",
+  "D": "gpt-6.1-terra-max r2",
+  "E": "gpt-6.1-terra-max r3"
+ },
+ "fh-57": {
+  "A": "gpt-6.1-terra-max r2",
+  "C": "gpt-6.1-terra-max r1",
+  "E": "gpt-6.1-terra-max r3"
+ },
+ "fh-58": {
+  "A": "gpt-6.1-terra-max r3",
+  "D": "gpt-6.1-terra-max r2",
+  "F": "gpt-6.1-terra-max r1"
+ },
+ "fh-59": {
+  "C": "gpt-6.1-terra-max r3",
+  "D": "gpt-6.1-terra-max r2",
+  "F": "gpt-6.1-terra-max r1"
+ },
+ "fh-60": {
+  "B": "gpt-6.1-terra-max r3",
+  "C": "gpt-6.1-terra-max r1",
+  "D": "gpt-6.1-terra-max r2"
+ },
+ "fh-61": {
+  "A": "gpt-6.1-terra-max r3",
+  "C": "gpt-6.1-terra-max r1",
+  "E": "gpt-6.1-terra-max r2"
+ },
+ "fh-62": {
+  "A": "gpt-6.1-terra-max r3",
+  "B": "gpt-6.1-terra-max r1",
+  "E": "gpt-6.1-terra-max r2"
+ },
+ "fh-63": {
+  "A": "gpt-6.1-terra-max r2",
+  "D": "gpt-6.1-terra-max r3",
+  "F": "gpt-6.1-terra-max r1"
+ },
+ "fh-64": {
+  "B": "gpt-6.1-terra-max r1",
+  "C": "gpt-6.1-terra-max r2",
+  "F": "gpt-6.1-terra-max r3"
+ },
+ "fh-65": {
+  "A": "gpt-6.1-terra-max r1",
+  "C": "gpt-6.1-terra-max r3",
+  "E": "gpt-6.1-terra-max r2"
+ },
+ "fh-66": {
+  "B": "gpt-6.1-terra-max r1",
+  "D": "gpt-6.1-terra-max r2",
+  "E": "gpt-6.1-terra-max r3"
+ },
+ "fh-67": {
+  "C": "gpt-6.1-terra-max r3",
+  "D": "gpt-6.1-terra-max r1",
+  "E": "gpt-6.1-terra-max r2"
+ },
+ "fh-68": {
+  "A": "gpt-6.1-terra-max r2",
+  "B": "gpt-6.1-terra-max r1",
+  "C": "gpt-6.1-terra-max r3"
+ },
+ "fh-69": {
+  "C": "gpt-6.1-terra-max r3",
+  "D": "gpt-6.1-terra-max r1",
+  "E": "gpt-6.1-terra-max r2"
+ },
+ "fh-70": {
+  "B": "gpt-6.1-terra-max r3",
+  "D": "gpt-6.1-terra-max r2",
+  "F": "gpt-6.1-terra-max r1"
+ },
+ "fh-71": {
+  "A": "gpt-6.1-terra-max r2",
+  "B": "gpt-6.1-terra-max r1",
+  "C": "gpt-6.1-terra-max r3"
+ },
+ "fh-72": {
+  "C": "gpt-6.1-terra-max r2",
+  "D": "gpt-6.1-terra-max r3",
+  "F": "gpt-6.1-terra-max r1"
+ },
+ "fh-73": {
+  "A": "gpt-6.1-terra-max r2",
+  "B": "gpt-6.1-terra-max r1",
+  "F": "gpt-6.1-terra-max r3"
+ },
+ "fh-74": {
+  "A": "gpt-6.1-terra-max r2",
+  "B": "gpt-6.1-terra-max r1",
+  "E": "gpt-6.1-terra-max r3"
+ },
+ "fh-75": {
+  "C": "gpt-6.1-terra-max r1",
+  "D": "gpt-6.1-terra-max r2",
+  "F": "gpt-6.1-terra-max r3"
+ },
+ "fh-76": {
+  "B": "gpt-6.1-terra-max r2",
+  "C": "gpt-6.1-terra-max r3",
+  "F": "gpt-6.1-terra-max r1"
+ },
+ "fh-77": {
+  "B": "gpt-6.1-terra-max r3",
+  "C": "gpt-6.1-terra-max r1",
+  "D": "gpt-6.1-terra-max r2"
+ },
+ "fh-78": {
+  "A": "gpt-6.1-terra-max r1",
+  "B": "gpt-6.1-terra-max r2",
+  "D": "gpt-6.1-terra-max r3"
+ },
+ "fh-79": {
+  "A": "gpt-6.1-terra-max r1",
+  "C": "gpt-6.1-terra-max r2",
+  "F": "gpt-6.1-terra-max r3"
+ },
+ "fh-80": {
+  "B": "gpt-6.1-terra-max r2",
+  "E": "gpt-6.1-terra-max r1",
+  "F": "gpt-6.1-terra-max r3"
+ },
+ "fh-81": {
+  "A": "gpt-6.1-terra-max r2",
+  "B": "gpt-6.1-terra-max r1",
+  "E": "gpt-6.1-terra-max r3"
+ },
+ "fh-82": {
+  "B": "gpt-6.1-terra-max r2",
+  "D": "gpt-6.1-terra-max r3",
+  "E": "gpt-6.1-terra-max r1"
+ },
+ "fh-83": {
+  "D": "gpt-6.1-terra-max r2",
+  "E": "gpt-6.1-terra-max r3",
+  "F": "gpt-6.1-terra-max r1"
+ },
+ "fh-84": {
+  "C": "gpt-6.1-terra-max r3",
+  "D": "gpt-6.1-terra-max r2",
+  "F": "gpt-6.1-terra-max r1"
+ },
+ "fh-85": {
+  "B": "gpt-6.1-terra-max r1",
+  "C": "gpt-6.1-terra-max r2",
+  "E": "gpt-6.1-terra-max r3"
+ },
+ "fh-86": {
+  "B": "gpt-6.1-terra-max r1",
+  "E": "gpt-6.1-terra-max r2",
+  "F": "gpt-6.1-terra-max r3"
+ },
+ "fh-87": {
+  "A": "gpt-6.1-terra-max r1",
+  "C": "gpt-6.1-terra-max r2",
+  "E": "gpt-6.1-terra-max r3"
+ },
+ "fh-88": {
+  "A": "gpt-6.1-terra-max r3",
+  "B": "gpt-6.1-terra-max r1",
+  "E": "gpt-6.1-terra-max r2"
+ },
+ "fh-89": {
+  "A": "gpt-6.1-terra-max r1",
+  "C": "gpt-6.1-terra-max r3",
+  "F": "gpt-6.1-terra-max r2"
+ },
+ "fh-90": {
+  "A": "gpt-6.1-terra-max r1",
+  "E": "gpt-6.1-terra-max r2",
+  "F": "gpt-6.1-terra-max r3"
+ },
+ "fh-91": {
+  "B": "gpt-6.1-terra-max r1",
+  "C": "gpt-6.1-terra-max r3",
+  "D": "gpt-6.1-terra-max r2"
+ },
+ "fh-92": {
+  "A": "gpt-6.1-terra-max r3",
+  "B": "gpt-6.1-terra-max r1",
+  "C": "gpt-6.1-terra-max r2"
+ },
+ "fh-93": {
+  "A": "gpt-6.1-terra-max r3",
+  "D": "gpt-6.1-terra-max r1",
+  "F": "gpt-6.1-terra-max r2"
+ },
+ "fh-94": {
+  "A": "gpt-6.1-terra-max r1",
+  "B": "gpt-6.1-terra-max r2",
+  "D": "gpt-6.1-terra-max r3"
+ },
+ "fh-95": {
+  "D": "gpt-6.1-terra-max r3",
+  "E": "gpt-6.1-terra-max r1",
+  "F": "gpt-6.1-terra-max r2"
+ },
+ "fh-96": {
+  "A": "gpt-6.1-terra-max r1",
+  "B": "gpt-6.1-terra-max r2",
+  "E": "gpt-6.1-terra-max r3"
+ },
+ "fh-97": {
+  "A": "gpt-6.1-terra-max r2",
+  "D": "gpt-6.1-terra-max r1",
+  "E": "gpt-6.1-terra-max r3"
+ },
+ "fh-98": {
+  "B": "gpt-6.1-terra-max r3",
+  "C": "gpt-6.1-terra-max r1",
+  "D": "gpt-6.1-terra-max r2"
+ },
+ "fh-99": {
+  "D": "gpt-6.1-terra-max r3",
+  "E": "gpt-6.1-terra-max r1",
+  "F": "gpt-6.1-terra-max r2"
+ },
+ "fh-100": {
+  "B": "gpt-6.1-terra-max r3",
+  "D": "gpt-6.1-terra-max r2",
+  "F": "gpt-6.1-terra-max r1"
+ }
+}

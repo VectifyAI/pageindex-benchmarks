@@ -1,0 +1,367 @@
+{
+ "collection": "hard100-10k",
+ "collection_id": "cmwk7c80x000s0ap8jhykmvkp",
+ "checked": "2026-11-17T04:49:03Z",
+ "documents": [
+  {
+   "file": "NVDA_2026_10K.pdf",
+   "sha256": "a056b59e4170c0123217a8e861a39af4a4a48d2df0d27b641017a618a280a396",
+   "pages": 93,
+   "id": "pi-cmwk7mjme001e0bnz755duu0j",
+   "name": "NVDA_2026_10K.pdf",
+   "pageNum": 93,
+   "status": "completed"
+  },
+  {
+   "file": "NVDA_2025_10K.pdf",
+   "sha256": "b67bd67a64488a54886de001c788bc5059a965fc6ef5b4d8b71624951e13df8e",
+   "pages": 130,
+   "id": "pi-cmwk7mkhc000t0ap8cwhhxl3h",
+   "name": "NVDA_2025_10K.pdf",
+   "pageNum": 130,
+   "status": "completed"
+  },
+  {
+   "file": "NVDA_2024_10K.pdf",
+   "sha256": "536f66d7f1c3413abbf643e0a02bd0aab65639116fe630225f3f93529244658b",
+   "pages": 96,
+   "id": "pi-cmwk7mldc000u0ap8ew49cdir",
+   "name": "NVDA_2024_10K.pdf",
+   "pageNum": 96,
+   "status": "completed"
+  },
+  {
+   "file": "NVDA_2023_10K.pdf",
+   "sha256": "89981bbfcd91e20498c1060d7efb39022ac8f85e639f2841091695885aa9f8a8",
+   "pages": 169,
+   "id": "pi-cmwk7mm82001f0bnzu1zu8s7g",
+   "name": "NVDA_2023_10K.pdf",
+   "pageNum": 169,
+   "status": "completed"
+  },
+  {
+   "file": "NVDA_2022_10K.pdf",
+   "sha256": "61ce01bbcd3886fa512dce61613a242a95c081d60b2f8bc0583b2f89ccad40eb",
+   "pages": 143,
+   "id": "pi-cmwk7mmzg001g0bnzgxorxeu0",
+   "name": "NVDA_2022_10K.pdf",
+   "pageNum": 143,
+   "status": "completed"
+  },
+  {
+   "file": "AAPL_2025_10K.pdf",
+   "sha256": "108590052c3ba5400c63660d787fe7ed4e43868292946d7a7facebe9ab7d1aab",
+   "pages": 80,
+   "id": "pi-cmwk7mnms001h0bnzy9bdp416",
+   "name": "AAPL_2025_10K.pdf",
+   "pageNum": 80,
+   "status": "completed"
+  },
+  {
+   "file": "AAPL_2024_10K.pdf",
+   "sha256": "ec74758cd767465362c641cf2fd5d8fedd477aed2bf7f62117e67610435dcb88",
+   "pages": 121,
+   "id": "pi-cmwk7moek000v0ap8civ8wyvd",
+   "name": "AAPL_2024_10K.pdf",
+   "pageNum": 121,
+   "status": "completed"
+  },
+  {
+   "file": "AAPL_2023_10K.pdf",
+   "sha256": "068176ab665682096a79859d73b805c7b2fda05331e503f26d893b582353464e",
+   "pages": 80,
+   "id": "pi-cmwk7mp00001i0bnz98ljdf4f",
+   "name": "AAPL_2023_10K.pdf",
+   "pageNum": 80,
+   "status": "completed"
+  },
+  {
+   "file": "AAPL_2022_10K.pdf",
+   "sha256": "47477f5db988ceb43837158418df0475373bd824e575fa195dbfb68508f7347d",
+   "pages": 80,
+   "id": "pi-cmwk7mpqa000w0ap8aspd1ii0",
+   "name": "AAPL_2022_10K.pdf",
+   "pageNum": 80,
+   "status": "completed"
+  },
+  {
+   "file": "AAPL_2021_10K.pdf",
+   "sha256": "175d0b7a907fd7d41836d44410ee06f3843eb9cb3aed1644bb877cb05f66f94c",
+   "pages": 82,
+   "id": "pi-cmwk7mr9a001j0bnzfwh1lt4h",
+   "name": "AAPL_2021_10K.pdf",
+   "pageNum": 82,
+   "status": "completed"
+  },
+  {
+   "file": "JPM_2025_10K.pdf",
+   "sha256": "1688ba4e8aa54c7215afa9d9c24f9ed5762f07a10de402872794513b3f32ffd3",
+   "pages": 410,
+   "id": "pi-cmwk7mt48001k0bnzxttxuzri",
+   "name": "JPM_2025_10K.pdf",
+   "pageNum": 410,
+   "status": "completed"
+  },
+  {
+   "file": "JPM_2024_10K.pdf",
+   "sha256": "ebfdae99e13c6199f33a60d1e3f4bbdc1fbb46bf804541bc6c7d8af38844c9fd",
+   "pages": 436,
+   "id": "pi-cmwk7mw8z001l0bnz706t0n1n",
+   "name": "JPM_2024_10K.pdf",
+   "pageNum": 436,
+   "status": "completed"
+  },
+  {
+   "file": "JPM_2023_10K.pdf",
+   "sha256": "95ca23db9e9e64045860a3f8c0f0a5de85a28146690955868bd3d304625f2d86",
+   "pages": 422,
+   "id": "pi-cmwk7n02k001m0bnzhm6n8oo6",
+   "name": "JPM_2023_10K.pdf",
+   "pageNum": 422,
+   "status": "completed"
+  },
+  {
+   "file": "JPM_2022_10K.pdf",
+   "sha256": "082e95672fa88f9b83a6adb13f4f86c3eea40f880edfd6520ada4dd548223c22",
+   "pages": 382,
+   "id": "pi-cmwk7n6zf000y0cp8hbwlbnor",
+   "name": "JPM_2022_10K.pdf",
+   "pageNum": 382,
+   "status": "completed"
+  },
+  {
+   "file": "JPM_2021_10K.pdf",
+   "sha256": "4256ecbd1f0c2747232850b15cb4a2fc17286d08788811a1de5a0b00d59f7c19",
+   "pages": 393,
+   "id": "pi-cmwk7nd15000z0cp8ptmzfibr",
+   "name": "JPM_2021_10K.pdf",
+   "pageNum": 393,
+   "status": "completed"
+  },
+  {
+   "file": "BRK_2025_10K.pdf",
+   "sha256": "d467c97f612ff9f701fd8259c48be480497c049a76d3a929808ba09cf4032755",
+   "pages": 147,
+   "id": "pi-cmwk7nfox000b0anz5mvz3xo6",
+   "name": "BRK_2025_10K.pdf",
+   "pageNum": 147,
+   "status": "completed"
+  },
+  {
+   "file": "BRK_2024_10K.pdf",
+   "sha256": "a23ec32b25f08fa87b393b3e68f24b10f9077801b566178a2421213f029a0a84",
+   "pages": 143,
+   "id": "pi-cmwk7nhha00100cp80lv7p26v",
+   "name": "BRK_2024_10K.pdf",
+   "pageNum": 143,
+   "status": "completed"
+  },
+  {
+   "file": "BRK_2023_10K.pdf",
+   "sha256": "a652cc7b1a41a14aa0cca80abde268cd81d0ada7310b09348498cf9078afe36f",
+   "pages": 139,
+   "id": "pi-cmwk7nito00110cp8gavdbkbl",
+   "name": "BRK_2023_10K.pdf",
+   "pageNum": 139,
+   "status": "completed"
+  },
+  {
+   "file": "BRK_2022_10K.pdf",
+   "sha256": "334f5541f1fd7fa4328c8af34c112286768f9ed6fccddaa099c2c2106e88ebb0",
+   "pages": 134,
+   "id": "pi-cmwk7nk1x00120dnztjm4s1yc",
+   "name": "BRK_2022_10K.pdf",
+   "pageNum": 134,
+   "status": "completed"
+  },
+  {
+   "file": "BRK_2021_10K.pdf",
+   "sha256": "7eee63ca6e5d40f82c08b91088afb4a6403ba87cb43b40a38822f8445591c301",
+   "pages": 133,
+   "id": "pi-cmwk7nkwp00120cp8xijzt23k",
+   "name": "BRK_2021_10K.pdf",
+   "pageNum": 133,
+   "status": "completed"
+  },
+  {
+   "file": "PFE_2025_10K.pdf",
+   "sha256": "b9f13aa1eb374c6619250fcf5d5231faa32418d89318747d50c855e9e3774035",
+   "pages": 180,
+   "id": "pi-cmwk7nnmi00130dnzmepbf0s3",
+   "name": "PFE_2025_10K.pdf",
+   "pageNum": 180,
+   "status": "completed"
+  },
+  {
+   "file": "PFE_2024_10K.pdf",
+   "sha256": "8ee0b08f2f2c9326a3fab44642507c7907b53e75cc5a12839e8cde2228ed0229",
+   "pages": 165,
+   "id": "pi-cmwk7npbd00130cp8h7na6ad2",
+   "name": "PFE_2024_10K.pdf",
+   "pageNum": 165,
+   "status": "completed"
+  },
+  {
+   "file": "PFE_2023_10K.pdf",
+   "sha256": "c8036016dbfc514bdab8368b666c944404da160416c5936197cafbecaaf0e313",
+   "pages": 168,
+   "id": "pi-cmwk7nr0r00140dnzrofjt0g1",
+   "name": "PFE_2023_10K.pdf",
+   "pageNum": 168,
+   "status": "completed"
+  },
+  {
+   "file": "PFE_2022_10K.pdf",
+   "sha256": "0cb303feeff5290bff4f6a31c57b13c2e220dc24e57191820a47fa1d23058f8a",
+   "pages": 159,
+   "id": "pi-cmwk7nsra00140cp85t9dlw2b",
+   "name": "PFE_2022_10K.pdf",
+   "pageNum": 159,
+   "status": "completed"
+  },
+  {
+   "file": "PFE_2021_10K.pdf",
+   "sha256": "ff3307d5f633c5dbe59a976f5ff5e086af04ba5a5135f2b6411c89538a22a665",
+   "pages": 143,
+   "id": "pi-cmwk7ntmq00150cp8dvazbn1j",
+   "name": "PFE_2021_10K.pdf",
+   "pageNum": 143,
+   "status": "completed"
+  },
+  {
+   "file": "XOM_2025_10K.pdf",
+   "sha256": "2dde67635a39370b66c4a6e6f4d6ee0e940d4a9f161b2089f1812353083d078b",
+   "pages": 153,
+   "id": "pi-cmwk7o1l600150dnz3l3ylcgw",
+   "name": "XOM_2025_10K.pdf",
+   "pageNum": 153,
+   "status": "completed"
+  },
+  {
+   "file": "XOM_2024_10K.pdf",
+   "sha256": "81c87dce4f606bd5d953c010b2a08fb36f64b5fb4a5463ffd517260c2e89ab72",
+   "pages": 159,
+   "id": "pi-cmwk7od3x000p0bp8mo60qy05",
+   "name": "XOM_2024_10K.pdf",
+   "pageNum": 159,
+   "status": "completed"
+  },
+  {
+   "file": "XOM_2023_10K.pdf",
+   "sha256": "a85bb947599154a2dd99daeb707a15281c0ec90c3314b84aeadacd5456b1a8b5",
+   "pages": 171,
+   "id": "pi-cmwk7ohom000q0bp8vofsfdfl",
+   "name": "XOM_2023_10K.pdf",
+   "pageNum": 171,
+   "status": "completed"
+  },
+  {
+   "file": "XOM_2022_10K.pdf",
+   "sha256": "cbfa132bad6d883560127eecc36559e65da9ba345cb9e2fa3bb6ba1bc4cc47e1",
+   "pages": 169,
+   "id": "pi-cmwk7oisd000r0bp8xosuy4v8",
+   "name": "XOM_2022_10K.pdf",
+   "pageNum": 169,
+   "status": "completed"
+  },
+  {
+   "file": "XOM_2021_10K.pdf",
+   "sha256": "a4ed9f41fc96c6100b689d68b566be972ec101c48a5bb832558ebf3433e0da73",
+   "pages": 144,
+   "id": "pi-cmwk7ojjq000x0cnza7cm4hml",
+   "name": "XOM_2021_10K.pdf",
+   "pageNum": 144,
+   "status": "completed"
+  },
+  {
+   "file": "WMT_2026_10K.pdf",
+   "sha256": "594b35478872dc12423bcbbb88afbaebd4be2471ad0fc273bb213edec3e83f5f",
+   "pages": 209,
+   "id": "pi-cmwk7om94000s0bp8cqm0ivrw",
+   "name": "WMT_2026_10K.pdf",
+   "pageNum": 209,
+   "status": "completed"
+  },
+  {
+   "file": "WMT_2025_10K.pdf",
+   "sha256": "28ef7ff523a1406f149bbf15cb0267825aa3670904f8f9ebec8e412b0944a4a3",
+   "pages": 102,
+   "id": "pi-cmwk7oo6h000y0cnzk6dh3xeo",
+   "name": "WMT_2025_10K.pdf",
+   "pageNum": 102,
+   "status": "completed"
+  },
+  {
+   "file": "WMT_2024_10K.pdf",
+   "sha256": "1da7d04d2a7367713990810aa4b33dd6bf5e6093e28b6e1f564d145985a43bcd",
+   "pages": 180,
+   "id": "pi-cmwk7oq59000z0cnz8copcqhu",
+   "name": "WMT_2024_10K.pdf",
+   "pageNum": 180,
+   "status": "completed"
+  },
+  {
+   "file": "WMT_2023_10K.pdf",
+   "sha256": "581d8bedc5d2ee34e1a75924b53709fcbaa2501f98f9e5aea119c01557d915bc",
+   "pages": 213,
+   "id": "pi-cmwk7os84000t0bp8obg78s42",
+   "name": "WMT_2023_10K.pdf",
+   "pageNum": 213,
+   "status": "completed"
+  },
+  {
+   "file": "WMT_2022_10K.pdf",
+   "sha256": "8332b81d54763733e9b7de1679e353eb1f22e645a0677a5f87614f9f641b8ee1",
+   "pages": 173,
+   "id": "pi-cmwk7oz3c00100cnzq85wow2c",
+   "name": "WMT_2022_10K.pdf",
+   "pageNum": 173,
+   "status": "completed"
+  },
+  {
+   "file": "BA_2025_10K.pdf",
+   "sha256": "2428115470788760481e68e8c280dfe2ac29fb62b573b4376e4c8fd4e25f7186",
+   "pages": 167,
+   "id": "pi-cmwk7p0s0000x0ap8dg4qbyqb",
+   "name": "BA_2025_10K.pdf",
+   "pageNum": 167,
+   "status": "completed"
+  },
+  {
+   "file": "BA_2024_10K.pdf",
+   "sha256": "00b04a96234b4f0a515f43b18b0fdcbc025958ded6226d5c9d8f9b4bc088f967",
+   "pages": 283,
+   "id": "pi-cmwk7p2wo000y0ap8wyola85z",
+   "name": "BA_2024_10K.pdf",
+   "pageNum": 283,
+   "status": "completed"
+  },
+  {
+   "file": "BA_2023_10K.pdf",
+   "sha256": "191d5bd7d56320dcb7a86394d307ec5a52c743810ca5e530111c9cf70167f7a2",
+   "pages": 162,
+   "id": "pi-cmwk7p4av00110cnzfza7svd0",
+   "name": "BA_2023_10K.pdf",
+   "pageNum": 162,
+   "status": "completed"
+  },
+  {
+   "file": "BA_2022_10K.pdf",
+   "sha256": "09285ff7ee737d3302977104aa05cc53c9dfb0161f3461a89b583dc38b9f2ab6",
+   "pages": 190,
+   "id": "pi-cmwk7p5uc00120cnzmxwzasm1",
+   "name": "BA_2022_10K.pdf",
+   "pageNum": 190,
+   "status": "completed"
+  },
+  {
+   "file": "BA_2021_10K.pdf",
+   "sha256": "947c298acb17e663db8faca2028a26ca53520864a660676abdc313afd23d46a9",
+   "pages": 215,
+   "id": "pi-cmwk7p7fb000z0ap8qwugd0h9",
+   "name": "BA_2021_10K.pdf",
+   "pageNum": 215,
+   "status": "completed"
+  }
+ ]
+}
