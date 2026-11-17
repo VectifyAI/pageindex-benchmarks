@@ -1,0 +1,5 @@
+# run.py and upload.py; compare.py needs only the standard library
+pageindex==0.7.0
+litellm==1.105.7
+openai-agents==0.20.0
+openai==2.54.0
